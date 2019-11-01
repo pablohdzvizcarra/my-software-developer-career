@@ -10,6 +10,6 @@ I share what I learn day by day on my journey in the world of web development
      Day38 Practicing functions, Learning DOM.
                
 
-##HTML CSS
+## HTML CSS
 
      Day39 Finish my first responsive web page.
