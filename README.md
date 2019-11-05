@@ -20,4 +20,5 @@ I share what I learn day by day on my journey in the world of web development
 
      Day40 Practice for each, for in.
      Day41 learn function, matrices.
+     Day42 Practice Function, Operators, Conditions. 
      
