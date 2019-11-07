@@ -22,4 +22,5 @@ I share what I learn day by day on my journey in the world of web development
      Day41 learn function, matrices.
      Day42 Practice Function, Operators, Conditions.
      Day43 Learning more Javascript, (Functions, Arrays, Objects, Matrices)
+     Day44 Learning Objects, JSON, Loop For; More Arrays.
      
