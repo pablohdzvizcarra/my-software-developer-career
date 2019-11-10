@@ -25,3 +25,4 @@ I share what I learn day by day on my journey in the world of web development
      Day44 Learning Objects, JSON, Loop For; More Arrays.
      Day45 Learning function, loops (for, while, do while) more practice
      Day46 Study Functions, Conditionals, Loops, Function Math., Logic.
+     Day47 Practice Recursion.
