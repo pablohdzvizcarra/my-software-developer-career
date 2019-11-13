@@ -28,3 +28,4 @@ I share what I learn day by day on my journey in the world of web development
      Day47 Practice Recursion.
      Day48 Practice functions with recursion.
      Day49 Learning Functions Arrow, Let, Var, Const, Object.freeze.
+     Day50 Practice Functions, Recursion, Loops, Conditionals, Rest Parameter
