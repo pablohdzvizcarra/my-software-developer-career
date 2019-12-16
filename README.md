@@ -30,3 +30,4 @@ I share what I learn day by day on my journey in the world of web development
      Day49 Learning Functions Arrow, Let, Var, Const, Object.freeze.
      Day50 Practice Functions, Recursion, Loops, Conditionals, Rest Parameter
      Day51 Practice Functions Arrow, Rest parameters and Spread, Destructure assingment
+     Day83 JavaScript- Excersise Algorithm medium.
