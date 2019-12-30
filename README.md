@@ -32,3 +32,4 @@ Day38 Practicing functions, Learning DOM.
      Day51 Practice Functions Arrow, Rest parameters and Spread, Destructure assingment
      Day83 JavaScript- Excersise Algorithm medium.
      Day95 JavaScript- Programming Object and Programming Functional.
+     Day96 JavaScript- Programming Functional.
