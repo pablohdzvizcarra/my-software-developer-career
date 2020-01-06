@@ -33,3 +33,4 @@ Day38 Practicing functions, Learning DOM.
      Day83 JavaScript- Excersise Algorithm medium.
      Day95 JavaScript- Programming Object and Programming Functional.
      Day96 JavaScript- Programming Functional.
+     Day103 JavaScript- Learn JavaScript, We begin the challenges of medium algorithms.
