@@ -34,3 +34,4 @@ Day38 Practicing functions, Learning DOM.
      Day95 JavaScript- Programming Object and Programming Functional.
      Day96 JavaScript- Programming Functional.
      Day103 JavaScript- Learn JavaScript, We begin the challenges of medium algorithms.
+     Day110 JavaScript- Continue learning javascript with the eloquent javascript book
