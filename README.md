@@ -39,3 +39,4 @@ Day38 Practicing functions, Learning DOM.
      Day110 JavaScript- Continue learning javascript with the eloquent javascript book
      Day128 Javascript - Learning Functional Programming.
      Day138 JavaScript - Learn witch JavaScript.info is good web page.
+     Day160 JavaScript - continue learn javascript.
