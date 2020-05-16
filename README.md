@@ -45,3 +45,4 @@ Day38 Practicing functions, Learning DOM.
      Day190 JavaScript - Promise, Async/Await
      Day203 JavaScript - Learn DOM
      Day224 Javascript - Continue learn DOM
+     Day233 npm, npm-scripts, webpack - You start learning about npm and webpack
