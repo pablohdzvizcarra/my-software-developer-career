@@ -56,3 +56,7 @@ Day38 Practicing functions, Learning DOM.
      Day290 Continue Learn React js
      Day292 Continue more React JS
      Day327 Learning more about React JS
+     
+## JavaScript Vainilla
+     Day332 we started reading the book mastering functional programming javascript
+     Day340 continue reading the book
