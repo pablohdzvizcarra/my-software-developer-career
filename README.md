@@ -72,3 +72,4 @@ Day38 Practicing functions, Learning DOM.
 ## TypeScript and Go
      Day 424 continue learn TypeScript and Go with backend
      Day 431 leanr more about RESTFull API and more
+     Day 446 Somewhat confused as to my learning path, I`ll try a bit to see what to continue with, I`m liking the backend more than the frontend
