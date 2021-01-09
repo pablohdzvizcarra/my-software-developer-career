@@ -69,7 +69,8 @@ Day38 Practicing functions, Learning DOM.
      Day407 Continue learn Stack MERN, Docker and learn try TDD
      Day414 MERN STACK and TDD
  
-## TypeScript and Go
-     Day 424 continue learn TypeScript and Go with backend
-     Day 431 leanr more about RESTFull API and more
+## TypeScript
+     Day 424 continue learn TypeScript
+     Day 431 learn more about RESTFull API and more
      Day 446 Somewhat confused as to my learning path, I`ll try a bit to see what to continue with, I`m liking the backend more than the frontend
+     Dat 462 I keep learning, TypeScript and Node JS, I will start learning OOP since my knowledge is very basic, we eill also start with design patterns
