@@ -75,3 +75,6 @@ Day38 Practicing functions, Learning DOM.
      Day 446 Somewhat confused as to my learning path, I`ll try a bit to see what to continue with, I`m liking the backend more than the frontend
      Day 462 I keep learning, TypeScript and Node JS, I will start learning OOP since my knowledge is very basic, we eill also start with design patterns
      Day 482 continue learning about typescript and OOP creating a chat application with MERN stack
+     
+## Object Oriented Programming
+     Day 508 Start learning OOP
