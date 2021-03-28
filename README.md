@@ -80,5 +80,6 @@ Day38 Practicing functions, Learning DOM.
      Day 508 Start learning OOP
      Day 512 Start read Book Head Frist OOA&D
      
-## FullStack Development
-     Day 518 I am starting to develop web projects
+## Backend Developer
+     Day 518 I am starting to backend development projects
+     Day 531 Learn RabbitMQ to Microservices
