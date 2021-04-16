@@ -83,4 +83,4 @@ Day38 Practicing functions, Learning DOM.
 ## Backend Developer
      Day 518 I am starting to backend development projects
      Day 531 Learn RabbitMQ to Microservices
-     Day 550 Learn about Data Structures and Algorithms
+     Day 550 Learn about Data Structures and Algorithms.
