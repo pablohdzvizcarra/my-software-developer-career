@@ -86,5 +86,7 @@ Day38 Practicing functions, Learning DOM.
      Day 550 Learn about Data Structures and Algorithms.
      
 ## Java
-     Day 603 Learn Java
-     Day 604  **Java:** Learning about Exeptions
+
+
+Day 603 Learn Java <br>
+Day 604  **Java:** Learning about Exeptions
