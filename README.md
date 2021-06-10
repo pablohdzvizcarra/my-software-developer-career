@@ -87,3 +87,4 @@ Day38 Practicing functions, Learning DOM.
      
 ## Java
      Day 603 Learn Java
+     Day 604  **Java:** Learning about Exeptions
