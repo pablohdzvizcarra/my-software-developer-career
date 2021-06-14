@@ -90,6 +90,6 @@ Day38 Practicing functions, Learning DOM.
 
 Day 603 Learn Java <br>
 Day 604 **Java:** Learning about Exeptions <br>
-Day 605 **Java:** More about Exeptions
-Day 605 **Java:** HttpClient
+Day 605 **Java:** More about Exeptions <br>
+Day 605 **Java:** HttpClient <br>
 Day 606-607 **Java:** Learn practices to handle Nulls in java. 
