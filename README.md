@@ -94,4 +94,4 @@ Day 605 **Java:** More about Exeptions <br>
 Day 605 **Java:** HttpClient <br>
 Day 606-607 **Java:** Learn practices to handle Nulls in java. <br>
 Day 608 **Java** Learning who work with nulls. <br>
-Day 609-610 **Java** Learning about Collections in Java and create a basic CRUD project.
+Day 616 **Java** Learn about generics and lambda functions. <br>
