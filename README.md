@@ -95,3 +95,4 @@ Day 605 **Java:** HttpClient <br>
 Day 606-607 **Java:** Learn practices to handle Nulls in java. <br>
 Day 608 **Java** Learning who work with nulls. <br>
 Day 616 **Java** Learn about generics and lambda functions. <br>
+Day 624 **Java** Learn about Reflection API. <br>
