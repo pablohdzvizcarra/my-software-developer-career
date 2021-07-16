@@ -2,7 +2,7 @@
 I share what I learn day by day on my journey in the world of web development
 
 ## HTML And CSS
-Day1-35 Learging in freeCodeCamp HTML and CSS.
+Day1-35 Learning in freeCodeCamp HTML and CSS.
 
 ## Javascript
 
@@ -17,7 +17,7 @@ Day38 Practicing functions, Learning DOM.
      Day39 Finish my first responsive web page.
      
    
-## Javacript
+## Javascript
 
 
      Day40 Practice for each, for in.
@@ -76,7 +76,7 @@ Day38 Practicing functions, Learning DOM.
      Day 462 I keep learning, TypeScript and Node JS, I will start learning OOP since my knowledge is very basic, we eill also start with design patterns
      Day 482 continue learning about typescript and OOP creating a chat application with MERN stack
      
-## Object Oriented Programming
+## Object-Oriented Programming
      Day 508 Start learning OOP
      Day 512 Start read Book Head Frist OOA&D
      
@@ -89,11 +89,16 @@ Day38 Practicing functions, Learning DOM.
 
 
 Day 603 Learn Java <br>
-Day 604 **Java:** Learning about Exeptions <br>
-Day 605 **Java:** More about Exeptions <br>
+Day 604 **Java:** Learning about Exceptions <br>
+Day 605 **Java:** More about Exceptions <br>
 Day 605 **Java:** HttpClient <br>
-Day 606-607 **Java:** Learn practices to handle Nulls in java. <br>
+Day 606-607 **Java:** Learn practices handling Nulls in java. <br>
 Day 608 **Java** Learning who work with nulls. <br>
 Day 616 **Java** Learn about generics and lambda functions. <br>
 Day 624 **Java** Learn about Reflection API. <br>
 Day 632 **Java** Learn JDBC and MySQL. <br>
+### Day 637: Java
+
+I finished the course on concurrency that I was working on with Java, little understand on this topic
+to be honest, I will have to reinforce this topic.<br>
+I did a crash course on log system in Java, I will start to apply this knowledge in the next project
