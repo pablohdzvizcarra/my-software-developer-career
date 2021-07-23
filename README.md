@@ -102,3 +102,6 @@ Day 632 **Java** Learn JDBC and MySQL. <br>
 I finished the course on concurrency that I was working on with Java, little understand on this topic
 to be honest, I will have to reinforce this topic.<br>
 I did a crash course on log system in Java, I will start to apply this knowledge in the next project
+
+### Day 643: Java - Decorator pattern design
+I was learning all day the decorator pattern, something I used to use and didn't know it had a name, I will continue learning tomorrow.
