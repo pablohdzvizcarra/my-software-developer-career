@@ -105,3 +105,6 @@ I did a crash course on log system in Java, I will start to apply this knowledge
 
 ### Day 643: Java - Decorator pattern design
 I was learning all day the decorator pattern, something I used to use and didn't know it had a name, I will continue learning tomorrow.
+
+### Day 644: Java State Design Pattern
+Design patterns are difficult and so is the oop.
