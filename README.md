@@ -108,3 +108,8 @@ I was learning all day the decorator pattern, something I used to use and didn't
 
 ### Day 644: Java State Design Pattern
 Design patterns are difficult and so is the oop.
+
+### Day 656: Java start project
+Creating a user auth system
+
+
