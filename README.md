@@ -110,6 +110,7 @@ I was learning all day the decorator pattern, something I used to use and didn't
 Design patterns are difficult and so is the oop.
 
 ### Day 656: Java start project
-Creating a user auth system
+Creating a user auth system.
 
-
+### Day 657: Java
+Learning about service and controller layers.
