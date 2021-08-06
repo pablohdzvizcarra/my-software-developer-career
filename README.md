@@ -114,3 +114,6 @@ Creating a user auth system.
 
 ### Day 657: Java
 Learning about service and controller layers.
+
+### Day 658: Java and Clean Arhcitecture
+Learn more about clean architecture, especially the separation of layers
