@@ -117,3 +117,7 @@ Learning about service and controller layers.
 
 ### Day 658: Java and Clean Arhcitecture
 Learn more about clean architecture, especially the separation of layers
+
+### Day 659: Java
+Learning about the different layers, service, repository, dao, etc.
+
