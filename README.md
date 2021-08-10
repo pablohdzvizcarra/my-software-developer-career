@@ -121,3 +121,5 @@ Learn more about clean architecture, especially the separation of layers
 ### Day 659: Java
 Learning about the different layers, service, repository, dao, etc.
 
+### Day 662: Java - Design Patterns
+I have a code that i want to refactor, the pattern that solves my problem is Chain of Responsability
