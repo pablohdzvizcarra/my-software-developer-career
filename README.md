@@ -123,3 +123,6 @@ Learning about the different layers, service, repository, dao, etc.
 
 ### Day 662: Java - Design Patterns
 I have a code that i want to refactor, the pattern that solves my problem is Chain of Responsability
+
+### Day 666: Java - Hibernate and JPA
+I want to start learning Spring Boot, but first I need to check out these technologies
