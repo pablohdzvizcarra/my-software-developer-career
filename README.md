@@ -126,3 +126,6 @@ I have a code that i want to refactor, the pattern that solves my problem is Cha
 
 ### Day 666: Java - Hibernate and JPA
 I want to start learning Spring Boot, but first I need to check out these technologies
+
+#### Day 672: Java - Spring Boot
+I continue to learn about spring boot, the beauty of this framework continues to captivate me.
