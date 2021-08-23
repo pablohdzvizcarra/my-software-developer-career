@@ -129,3 +129,6 @@ I want to start learning Spring Boot, but first I need to check out these techno
 
 #### Day 672: Java - Spring Boot
 I continue to learn about spring boot, the beauty of this framework continues to captivate me.
+
+#### Day 674: Java - Spring Boot Security
+Start learning about spring security
