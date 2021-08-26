@@ -137,3 +137,5 @@ Start learning about spring security
 #### Day 677: Java - Spring Boot Security
 I learned how spring manages user authorization and authentication in the application.
 
+#### Day 678: Java - Spring Security
+Learn about authentication and authorization in spring
