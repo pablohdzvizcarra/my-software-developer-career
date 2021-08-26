@@ -1,7 +1,8 @@
-# my-journey-learning-web-development
-I share what I learn day by day on my journey in the world of web development
+# My Journey to Become a Software Engineer
+I share what I learn day by day on my journey in the world of software engineer
 
 ## HTML And CSS
+
 Day1-35 Learning in freeCodeCamp HTML and CSS.
 
 ## Javascript
@@ -132,3 +133,7 @@ I continue to learn about spring boot, the beauty of this framework continues to
 
 #### Day 674: Java - Spring Boot Security
 Start learning about spring security
+
+#### Day 677: Java - Spring Boot Security
+I learned how spring manages user authorization and authentication in the application.
+
