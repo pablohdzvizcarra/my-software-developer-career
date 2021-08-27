@@ -139,3 +139,6 @@ I learned how spring manages user authorization and authentication in the applic
 
 #### Day 678: Java - Spring Security
 Learn about authentication and authorization in spring
+
+#### Day 679: Java - Spring Boot
+Hibernate, Rules to JPA, start project with spring boot
