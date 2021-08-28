@@ -142,3 +142,6 @@ Learn about authentication and authorization in spring
 
 #### Day 679: Java - Spring Boot
 Hibernate, Rules to JPA, start project with spring boot
+
+#### Day 680: Java - Spring Boot
+Test Service Layer and Persistence layer spring boot app
