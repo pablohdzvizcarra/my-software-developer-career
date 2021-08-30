@@ -145,3 +145,7 @@ Hibernate, Rules to JPA, start project with spring boot
 
 #### Day 680: Java - Spring Boot
 Test Service Layer and Persistence layer spring boot app
+
+#### Day 682: Java - Many to many JPA
+
+I have a problem with this type of relationship, I read that the DTO pattern can help me to solve this problem and I am learning it.
