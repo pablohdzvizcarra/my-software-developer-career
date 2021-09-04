@@ -149,3 +149,6 @@ Test Service Layer and Persistence layer spring boot app
 #### Day 682: Java - Many to many JPA
 
 I have a problem with this type of relationship, I read that the DTO pattern can help me to solve this problem and I am learning it.
+
+#### Day 686: Java
+I spent most of the day reading the clean code book.
