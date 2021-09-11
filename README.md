@@ -156,5 +156,8 @@ I spent most of the day reading the clean code book.
 #### Day 687: Java Spring Boot
 Start learning Spring Actuator
 
-#### Day 688: Java and Clen Code Book
+#### Day 688: Java and Clean Code Book
 Finding my way 
+
+#### Day 694: Java and Clean Code Book
+I continue to read the Clean Code book and make examples same time,this book is very interesting, I need to read this book more times.
