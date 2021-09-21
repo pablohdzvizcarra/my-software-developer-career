@@ -164,3 +164,6 @@ I continue to read the Clean Code book and make examples same time,this book is 
 
 #### Day 700: Java and Spring Boot
 Today I have learned how to use the mapstruct library, I have some complications to make it work with Spring, I will have to continue investigating.
+
+#### Day 704: Java and Clean Code Book
+I continue reading clean code I am in the chapter about asynchronous, I really want to start learning about cloud computing to start creating services.
