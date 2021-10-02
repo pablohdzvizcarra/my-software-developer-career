@@ -167,3 +167,6 @@ Today I have learned how to use the mapstruct library, I have some complications
 
 #### Day 704: Java and Clean Code Book
 I continue reading clean code I am in the chapter about asynchronous, I really want to start learning about cloud computing to start creating services.
+
+#### Day 714: Java and Oracle Cloud
+Today I advanced in Oracle Cloud certification, I continue to work on my project on the DAO pattern and repository. must document my progress every day .... 
