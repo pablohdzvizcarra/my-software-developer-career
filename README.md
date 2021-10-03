@@ -170,3 +170,6 @@ I continue reading clean code I am in the chapter about asynchronous, I really w
 
 #### Day 714: Java and Oracle Cloud
 Today I advanced in Oracle Cloud certification, I continue to work on my project on the DAO pattern and repository. must document my progress every day .... 
+
+#### Day 715: Java and Oracle Cloud
+Complete one module to OCI Certification, finish basic java project and read one article from FreeCodeCamp for tips to developers, i have back pain.
