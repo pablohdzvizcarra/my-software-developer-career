@@ -176,3 +176,6 @@ Complete one module to OCI Certification, finish basic java project and read one
 
 #### Day 716: More Java
 Complete one module to OCI Certification, create new project for practice concepts about Clean Architecture and best practices to write a clean code and how uncople projects for my local system. 
+
+#### Day 717: Java
+Continue in my personal project, start looking for a job as a programmer, I think I will never feel ready or fully prepared.
