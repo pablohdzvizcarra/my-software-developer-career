@@ -179,3 +179,6 @@ Complete one module to OCI Certification, create new project for practice concep
 
 #### Day 717: Java
 Continue in my personal project, start looking for a job as a programmer, I think I will never feel ready or fully prepared.
+
+#### Day 720: Oracle Cloud Certification
+Study for the oracle exam Oracle Cloud Infrastructure Foundations
