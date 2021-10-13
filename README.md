@@ -182,3 +182,6 @@ Continue in my personal project, start looking for a job as a programmer, I thin
 
 #### Day 720: Oracle Cloud Certification
 Study for the oracle exam Oracle Cloud Infrastructure Foundations
+
+#### Day 725: Java
+Start a project Web Crawler for a java discord server contest, I saw an example with golang on how to build it and got an idea of the basic structure.
