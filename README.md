@@ -185,3 +185,6 @@ Study for the oracle exam Oracle Cloud Infrastructure Foundations
 
 #### Day 725: Java
 Start a project Web Crawler for a java discord server contest, I saw an example with golang on how to build it and got an idea of the basic structure.
+
+#### Day 727: Java and Clean Code
+Finish book clean code. Continue work in my personal project web-crawler
