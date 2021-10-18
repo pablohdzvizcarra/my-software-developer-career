@@ -188,3 +188,6 @@ Start a project Web Crawler for a java discord server contest, I saw an example 
 
 #### Day 727: Java and Clean Code
 Finish book clean code. Continue work in my personal project web-crawler
+
+#### Day 731: Java
+Finish book Deep Work wow, this book helped me a lot on issues related to better learning and how to program in a better way, I feel like i was reborn. Continue work in my personal project Web Crawler now called url analyzer, a more appropiate name for the project.
