@@ -191,3 +191,6 @@ Finish book clean code. Continue work in my personal project web-crawler
 
 #### Day 731: Java
 Finish book Deep Work wow, this book helped me a lot on issues related to better learning and how to program in a better way, I feel like i was reborn. Continue work in my personal project Web Crawler now called url analyzer, a more appropiate name for the project.
+
+#### Day 739: Java - SpringBoot
+I've been learning about spring security all day, I'm creating a project about a simple employee equipment manager, spring boot is a difficult beast to master.
