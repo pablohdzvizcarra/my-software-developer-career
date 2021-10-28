@@ -194,3 +194,6 @@ Finish book Deep Work wow, this book helped me a lot on issues related to better
 
 #### Day 739: Java - SpringBoot
 I've been learning about spring security all day, I'm creating a project about a simple employee equipment manager, spring boot is a difficult beast to master.
+
+#### day 740: Java
+Continue my team-manager project, today learn about data validation and where place is the best to put it, this is really crazy but i love OOP.
