@@ -200,3 +200,6 @@ Continue my team-manager project, today learn about data validation and where pl
 
 #### Day 741: Java - Spring
 More study about Spring Security and finish auth system for my team-manager project
+
+#### Day 742: Java and algorithms
+Continue read the book so good they can't ignore you, and practice algorithms in hacker rank. 
