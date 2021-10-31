@@ -203,3 +203,6 @@ More study about Spring Security and finish auth system for my team-manager proj
 
 #### Day 742: Java and algorithms
 Continue read the book so good they can't ignore you, and practice algorithms in hacker rank. 
+
+#### Day 743: Java and Hacker Rank
+Finish book so good they can't ignore you simply a book like no other, continue upgrade my java skills in hacker rank.
