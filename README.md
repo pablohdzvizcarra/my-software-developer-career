@@ -206,3 +206,6 @@ Continue read the book so good they can't ignore you, and practice algorithms in
 
 #### Day 743: Java and Hacker Rank
 Finish book so good they can't ignore you simply a book like no other, continue upgrade my java skills in hacker rank.
+
+#### Day 744: Java and Design Patterns
+Today learning about Abstract Factory and start create one project with this pattern.
