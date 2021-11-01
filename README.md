@@ -1,9 +1,10 @@
 # My Journey to Become a Software Engineer
 I share what I learn day by day on my journey in the world of software engineer
 
-## Day 0 - 50
+**Day 0 - 50**  [html-css-javascript](./day0-50.md)
 
-[html-css-javascript](./day0-50.md)
+
+
      Day51 Practice Functions Arrow, Rest parameters and Spread, Destructure assingment
      Day83 JavaScript- Exercise Algorithm medium.
      Day95 JavaScript- Programming Object and Programming Functional.
