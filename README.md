@@ -1,51 +1,23 @@
 # My Journey to Become a Software Engineer
 I share what I learn day by day on my journey in the world of software engineer
 
-## HTML And CSS
+## Day 0 - 50
 
-Day1-35 Learning in freeCodeCamp HTML and CSS.
-
-## Javascript
-
-
-Day37 Learn functions, while, do while, break
-     and continue.<br>
-Day38 Practicing functions, Learning DOM.
-               
-
-## HTML CSS
-
-     Day39 Finish my first responsive web page.
-     
-   
-## Javascript
-
-
-     Day40 Practice for each, for in.
-     Day41 learn function, matrices.
-     Day42 Practice Function, Operators, Conditions.
-     Day43 Learning more Javascript, (Functions, Arrays, Objects, Matrices)
-     Day44 Learning Objects, JSON, Loop For; More Arrays.
-     Day45 Learning function, loops (for, while, do while) more practice
-     Day46 Study Functions, Conditionals, Loops, Function Math., Logic.
-     Day47 Practice Recursion.
-     Day48 Practice functions with recursion.
-     Day49 Learning Functions Arrow, Let, Var, Const, Object.freeze.
-     Day50 Practice Functions, Recursion, Loops, Conditionals, Rest Parameter
+[html-css-javascript](./day0-50.md)
      Day51 Practice Functions Arrow, Rest parameters and Spread, Destructure assingment
-     Day83 JavaScript- Excersise Algorithm medium.
+     Day83 JavaScript- Exercise Algorithm medium.
      Day95 JavaScript- Programming Object and Programming Functional.
      Day96 JavaScript- Programming Functional.
      Day103 JavaScript- Learn JavaScript, We begin the challenges of medium algorithms.
      Day110 JavaScript- Continue more learning javascript
      Day128 Javascript - Learning Functional Programming.
      Day138 JavaScript - Learn witch JavaScript.info is good web page.
-     Day160 JavaScript - continue learn javascript.
-     Day168 JavaScript- continue learn JavaScript 
+     Day160 JavaScript - continue to learn javascript.
+     Day168 JavaScript- continue to learn JavaScript 
      Day181 JavaScript - continue in javascript.info
      Day190 JavaScript - Promise, Async/Await
      Day203 JavaScript - Learn DOM
-     Day224 Javascript - Continue learn DOM
+     Day224 Javascript - Continue to learn DOM
      Day233 npm, npm-scripts, webpack - You start learning about npm and webpack
      
 ## React JS
