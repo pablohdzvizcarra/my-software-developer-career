@@ -91,6 +91,9 @@ mmm I don't like mobile development...
 #### Day 746: Java - SpringBoot
 Start new project, this project will be ambitious, I will build an api so that anyone can use it and implement it to create their own projects.
 
+#### Day 747: Java - SpringBoot
+Today I got stuck in my project. i still don't understand wll how the relationships between tables work in SQL and Hibernate, I will have to do deep dive on this topic.
+
 **Day 1 - 50 HTML - CSS - Javascript**  [here](./day0-50.md)</br>
 **Day 51 - 100 Javascript** [here](./day51-100.md)</br>
 **Day 101 - 150 Javascript** [here](./day101-150.md)</br>
