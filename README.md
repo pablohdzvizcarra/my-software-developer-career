@@ -94,6 +94,10 @@ Start new project, this project will be ambitious, I will build an api so that a
 #### Day 747: Java - SpringBoot
 Today I got stuck in my project. i still don't understand wll how the relationships between tables work in SQL and Hibernate, I will have to do deep dive on this topic.
 
+#### Day 748: Java - SpringBoot
+I continue to understand how sql and hibernate relationships work, continued reading the book.
+
+
 **Day 1 - 50 HTML - CSS - Javascript**  [here](./day0-50.md)</br>
 **Day 51 - 100 Javascript** [here](./day51-100.md)</br>
 **Day 101 - 150 Javascript** [here](./day101-150.md)</br>
