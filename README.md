@@ -97,6 +97,9 @@ Today I got stuck in my project. i still don't understand wll how the relationsh
 #### Day 748: Java - SpringBoot
 I continue to understand how sql and hibernate relationships work, continued reading the book.
 
+#### Day 749: Java - Spring Security
+I was fixed my bugs in my application, now learn about security concepts for handle authorization to my application
+
 
 **Day 1 - 50 HTML - CSS - Javascript**  [here](./day0-50.md)</br>
 **Day 51 - 100 Javascript** [here](./day51-100.md)</br>
