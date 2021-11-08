@@ -5,6 +5,11 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 752
+
+Today continue learning docosaurus to document my API, I haven't used React JS for 
+some time, Try document my API with Swagger, but I have some bugs with SpringBoot.
+
 #### Day 751
 
 Today finish authentication for my personal project, authentication based of username and
