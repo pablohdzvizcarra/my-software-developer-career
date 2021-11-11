@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 754 Java | SpringBooot | Hibernate
+
+Hibernate and spring boot has me tired, finished endpoint to save data and start endpoint to fetch data, but I have some bugs with this purpose, well my first job how a software engineer is coming soon.
+
 #### Day 753 Java | Hibernate | Swagger
 
 Today have multiple problems, some problems with hibernate and SQL relationships, learning differences between saving data identified for Long or UUID in MySQL, can't fix swagger for my API, I wrote a few tests for my code, this is a not good day, I am tired of now.
