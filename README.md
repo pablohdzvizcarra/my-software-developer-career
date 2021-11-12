@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 755 Java | React JS
+
+Starting with the front end to API, this project is built with React JS, Typescript, and Docosaurus, I like that anyone people can use this API to build their projects.
+
 #### Day 754 Java | SpringBooot | Hibernate
 
 Hibernate and spring boot has me tired, finished endpoint to save data and start endpoint to fetch data, but I have some bugs with this purpose, well my first job how a software engineer is coming soon.
