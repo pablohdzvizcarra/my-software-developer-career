@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 756 Java | Read
+
+All today I was read an object thinking book and learned more about concepts of object-oriented programming, I continue to develop the front end to my API but I think that finished using swagger for this purpose
+
 #### Day 755 Java | React JS
 
 Starting with the front end to API, this project is built with React JS, Typescript, and Docosaurus, I like that anyone people can use this API to build their projects.
