@@ -5,6 +5,9 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 757 Java | SpringBoot
+Finish another endpoint to my API, tomorrow I continue to document this API.
+
 #### Day 756 Java | Read
 
 All today I was read an object thinking book and learned more about concepts of object-oriented programming, I continue to develop the front end to my API but I think that finished using swagger for this purpose
