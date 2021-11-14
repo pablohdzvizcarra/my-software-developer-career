@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 758 Java | Hibernate | SpringBoot | MySQL
+
+I learn some things, javax.validation annotations with hibernate validator are beautiful, spring has an implementation for javax.validation is easy to validate fields with spring, I understand Bean validation and rules to validation in MySQL 
+
 #### Day 757 Java | SpringBoot
 Finish another endpoint to my API, tomorrow I continue to document this API.
 
