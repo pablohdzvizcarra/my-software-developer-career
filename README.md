@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 760 Java | REST | HTTP
+
+I was today studying about spring security, HTTP query, and HTTP params, how to build a good URI for API, more about REST, and I was finished two endpoints for my project,  today was a good day.
+
 #### Day 759 Java | SpringBoot | Postman
 
 I continued with the development of mi API and today learned some features about a postman, Well who knew that postman has many features that make it easier to develop your APIs?
