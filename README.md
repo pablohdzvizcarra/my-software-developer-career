@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 761 Java | Swagger | Spring
+
+I can fix the documentation for my API, tomorrow I need to start markdown documentation the project is ready to deploy.
+
 #### Day 760 Java | REST | HTTP
 
 I was today studying about spring security, HTTP query, and HTTP params, how to build a good URI for API, more about REST, and I was finished two endpoints for my project,  today was a good day.
