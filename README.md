@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 762 Java | API Security | Tokens
+
+Today I learned different concepts in the backend, I still don't fully understand that why to use access_token and refresh_tokens, a topic I will study tomorrow, API security I need to make deep dive into this topic.
+
 #### Day 761 Java | Swagger | Spring
 
 I can fix the documentation for my API, tomorrow I need to start markdown documentation the project is ready to deploy.
