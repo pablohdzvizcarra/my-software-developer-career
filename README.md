@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 764 Java | Angular
+
+I choice Angular to develop the front end of my API, I have little knowledge of Angular, but I feel be better development with types, Well, I think I will finish my project by the end of November.
+
 #### Day 763 Java | Spring
 
 I don't very like the front end development, but I need to build the front end to mi APIS, think that I will use Angular or React, my knowledge about Angular is little, but I want to be better with typescript,  React and Typescript sometimes are a pain head.
