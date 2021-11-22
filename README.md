@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 765 Java | Angular
+
+I continue with the front end of my project, I continue to learn more concepts about Angular, and Typescript it's very cool, I love the static types.
+
 #### Day 764 Java | Angular
 
 I choice Angular to develop the front end of my API, I have little knowledge of Angular, but I feel be better development with types, Well, I think I will finish my project by the end of November.
