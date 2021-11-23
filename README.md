@@ -5,6 +5,9 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 766 Java
+I Study more about spring boot and java, today I learn how to validate with Bean validations of spring-boot and how to document with Swagger.
+
 #### Day 765 Java | Angular
 
 I continue with the front end of my project, I continue to learn more concepts about Angular, and Typescript it's very cool, I love the static types.
