@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 778 Java | Ubuntu Server
+
+A day where I updated the documentation of my project, fixed some bugs in my pc, install a ubuntu server, and configured with docker, i am tired need a rest.
+
 #### Day 777 Java | SpringBoot
 Each day I am a better developer, I can create CRUD with java and spring boot some fast, I can understand a lot of concepts about the build of API, tomorrow I need to study more things about API creation.
 
