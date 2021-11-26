@@ -5,6 +5,9 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 779 Java | Spring Security
+Today I was Deep Dive in Spring Security
+
 #### Day 778 Java | Ubuntu Server
 
 A day where I updated the documentation of my project, fixed some bugs in my pc, install a ubuntu server, and configured with docker, i am tired need a rest.
