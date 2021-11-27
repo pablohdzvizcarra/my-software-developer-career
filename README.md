@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 780 Java | Spring
+
+I studied some concepts about backend and API security how jswtoken, types of authentication, and more about spring framework.
+
 #### Day 779 Java | Spring Security
 Today I was Deep Dive in Spring Security
 
