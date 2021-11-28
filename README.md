@@ -5,6 +5,9 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 782 Java | OAuth
+Today and yesterday I do deep dive in OAuth, I learn a lot things, how many form to implement OAuth authentication and learn how create authentication with facebook and github login. 
+
 #### Day 780 Java | Spring
 
 I studied some concepts about backend and API security how jswtoken, types of authentication, and more about spring framework.
