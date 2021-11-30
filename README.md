@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 784 Java | Spring
+
+Today I had some problems with the mapstruct library,  I can to understand how mapstruct works with Spring and Hibernate, it's an amazing library very helpful, I am comfortable developing APIs with Spring, I Ready to develop a big API.
+
 #### Day 783 Java | Spring
 I continue with the development of my API,  today I have finished the authentication endpoints.
 
