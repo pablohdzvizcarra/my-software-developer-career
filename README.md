@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 786 API Design
+
+Today I learn many concepts of API, how to write an API Specification document, The importance of selecting the best paradigm for the design for your API, the security of an API it's very important, differences between Paradigms request-response and event-driven APIs.  Anyway I start with the development of my next project, basically my next API.
+
 #### Day 785 Java | REST
 
 I learned that I have important gaps to fill, and I need to improve my English, so I started reading a book about API design to create a project with Spring this time following good REST practices.
