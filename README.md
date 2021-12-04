@@ -5,6 +5,9 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 788 OAuth | Spring Security
+I Continue learning more about the Spring security and OAuth more specific Auth0.
+
 #### Day 787 OAuth
 
 All day I am studying OAuth and how to integrate OAuth with Spring Security, I think that OAuth is hard to understand,  really I'm tired and I need to do deep dive in OAuth.
