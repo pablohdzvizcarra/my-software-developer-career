@@ -5,6 +5,9 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 789 Oauth | Spring
+I continue learning Auth0 I think I'm understanding how it works also learn how to create an authentication with Facebook and Google, tomorrow I start with my API Specification for my next API, I need to build an API with all learned this week.
+
 #### Day 788 OAuth | Spring Security
 I Continue learning more about the Spring security and OAuth more specific Auth0.
 
