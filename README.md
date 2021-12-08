@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 791 OAuth | Spring
+
+I learned how to create logins with Facebook and Google using OAuth and Spring, I think that making a simple CRUD API using these services is a good idea,  I need more practice with OAuth, I think I'm beginning to understand how this protocol works.
+
 #### Day 790 Oauth | Spring | Auth0
 I am tired, I was studying about OAuth all day, I read many pages from my current reading book API Design and I made some basic applications by implementing OAuth. this is hard, I will tomorrow be a better day.
 
