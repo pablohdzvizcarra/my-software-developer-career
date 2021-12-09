@@ -5,6 +5,9 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 792 System Design | API Design | Database Design
+Today I study system design, API design, and database design these topics its hard, with the same way I created a notion template to improve my study.
+
 #### Day 791 OAuth | Spring
 
 I learned how to create logins with Facebook and Google using OAuth and Spring, I think that making a simple CRUD API using these services is a good idea,  I need more practice with OAuth, I think I'm beginning to understand how this protocol works.
