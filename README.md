@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 794 Java | AWS
+
+I will continue with the development of my API project, today almost finish the authentication of the users, but I had to learn about AWS SES for sending messages by email to validate the user's sign-up.
+
 #### Day 793 CAP Theorem | Java | javax.validation
 
 I learned today about CAP theorem about system design,  also learn like works validation objects with javax.validation API with implemented by Hibernate and starting a new project, this project will be a great API.
