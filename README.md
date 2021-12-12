@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 795 Java | AWS
+
+I finish another endpoint to my API, I cannot set AWS SES service to send emails when a new user is registered in the application, I used Mailtrap service, tomorrow I do deep dive in AWS to understand some services that think to use in my project
+
 #### Day 794 Java | AWS
 
 I will continue with the development of my API project, today almost finish the authentication of the users, but I had to learn about AWS SES for sending messages by email to validate the user's sign-up.
