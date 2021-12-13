@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 797 Java | AWS
+
+I learned today how to upload and list files saved in the AWS S3 bucket, now my application can save files in AWS, also I am better at writing tests with Junit and Mockito, TDD methodology I almost understand you.
+
 #### Day 796 Java | AWS
 
 I am today learning how to use the AWS S3 service to upload CSV files for my project, maybe I need a break for Java and Spring Boot, possibly tomorrow I create a simple API with Kotlin or Go.
