@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 798 Java | AWS
+
+I continue with the development of my API with the read files from the AWS S3 bucket, today I refactored some lines of code, write specifications from my codes errors, and investigated the ISO 8601 specification for handling the timestamp.
+
 #### Day 797 Java | AWS
 
 I learned today how to upload and list files saved in the AWS S3 bucket, now my application can save files in AWS, also I am better at writing tests with Junit and Mockito, TDD methodology I almost understand you.
