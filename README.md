@@ -5,7 +5,11 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
-#### Da7 800 Java | HTTP | Spring
+#### Day 801 Java | SQL | AWS
+
+I learned about the data model in the SQL database, and how to make a model of the S3 Buckets in AWS, write some pages in English about HTTP too.
+
+#### Day 800 Java | HTTP | Spring
 
 Today I read some pages from the RFC 2616 about HTTP to understand more some things also continue with my API project need to learn more about Object-Oriented Design.
 
