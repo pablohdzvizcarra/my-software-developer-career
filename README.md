@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 804 Java | Unit Test | Refactor
+
+Today I was apply refactor in some parts and components of my application. 
+
 #### Day 803 Java | Observer Pattern | WebHook
 
 I studied the observer pattern today, also study what is a webhook, and create an implementation to use in my project, I continue with my project.
