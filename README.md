@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 805 Java
+
+I start with the final documentation of my code, today was refactor the project and write documentation for errors and endpoints.
+
 #### Day 804 Java | Unit Test | Refactor
 
 Today I was apply refactor in some parts and components of my application. 
