@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 808 Hacker Rank
+
+I continue study Data Structures and Algotrithms, need find a book with this topic, DSA it's hard and maths i don't like much.
+
 #### Day 807 Data Structures and Algorithms
 
 Today I was studying data structures and algorithms, At the beginning of the year, I start to apply to backend developers jobs, have an interview pending that wait to be successful.
