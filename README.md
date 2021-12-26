@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 810 Data Structures and Algorithms | String | Stack
+
+Today I solved three problems about String manipulation and Arrays, I'm starting to feel more comfortable solving problems.
+
 #### Day 809 Data Structures and Algorithms | String
 
 I solved one problem of DSA, try to solve the problems applying Object-Oriented programming, for a long time that not practiced DSA.
