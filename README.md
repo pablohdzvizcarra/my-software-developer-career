@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 812 DSA | Arrays | Kotlin
+
+I continue with data structures and algorithms, I start to learn Kotlin, for use with DSA, think that is easier to solve problems with Kotlin than java and I needed to take a break from Java.
+
 #### Day 811 DSA | Arrays | Easy Level
 
 Data Structures and Algorithms it's hard,  think that need more study about the fundamentals of algorithms design have many problems with the solution of easy algorithms, I need to search for a book on this topic, more study, and a lot of practice.
