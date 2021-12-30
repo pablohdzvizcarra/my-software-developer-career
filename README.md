@@ -5,6 +5,9 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 813-814 DSA | Kotlin
+Today and yesterday i was solving problems in leetcode,  I learned a lot of things how in-place algotihms, time complexity, kadane's algorithm, etc. I need more practice really. 
+
 #### Day 812 DSA | Arrays | Kotlin
 
 I continue with data structures and algorithms, I start to learn Kotlin, for use with DSA, think that is easier to solve problems with Kotlin than java and I needed to take a break from Java.
