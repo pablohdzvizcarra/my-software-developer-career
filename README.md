@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 815 DSA | The Will to Keep Winning
+
+Today I solved only one problem in leetcode, I start to read the book The Will to Keep Winning, it's interesting reading, I feel happy tomorrow is the new year and my first new year purpose is to get a job in programming.
+
 #### Day 813-814 DSA | Kotlin
 Today and yesterday i was solving problems in leetcode,  I learned a lot of things how in-place algotihms, time complexity, kadane's algorithm, etc. I need more practice really. 
 
