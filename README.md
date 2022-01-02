@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 816 DSA
+
+I continue to say data structures and algorithms it's hard, I don't know, I know I need more practice, need more exercises, need do deep dive in data structures, well I hope that in some months I laugh that this.
+
 #### Day 815 DSA | The Will to Keep Winning
 
 Today I solved only one problem in leetcode, I start to read the book The Will to Keep Winning, it's interesting reading, I feel happy tomorrow is the new year and my first new year purpose is to get a job in programming.
