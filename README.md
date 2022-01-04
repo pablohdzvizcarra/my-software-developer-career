@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 818 DSA | Linked List
+
+Today I build my implementation of a Linked List, I solved two problems in LeetCode,  learn a lot of things about Linked List, each day is less painful than before the day.
+
 #### Day 817 DSA | Linked List
 
 I finished with the array part in LeetCode basic algorithms, today I solved five problems and start with the Linked List part, my purpose is to finish all data structures in LeetCode and do a habit of solving one problem every day.
