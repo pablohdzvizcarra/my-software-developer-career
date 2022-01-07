@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 821 Linked List Application
+
+I start one project to create a basic program where I implemented all learning about Linked List, browser history the name of the project and today apply to some jobs offer.
+
 #### Day 820 DSA | Linked List
 
 I'm Continuing to learn Linked List in LeetCode, today I solved some problems with Linked List and did other problems with String and Arrays, tomorrow start with the design of my next API.
