@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 822 DSA | Linked List
+
+I continued with the development of my application, today I have some problems with the way to store the data of the application, now I am safer that need good knowledge about data structures and I start speaking English in a discord channel too.
+
 #### Day 821 Linked List Application
 
 I start one project to create a basic program where I implemented all learning about Linked List, browser history the name of the project and today apply to some jobs offer.
