@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 824 DSA | Linked List
+
+I was can solve one problem that I had been worked for four days. this sensation that I feel is called happiness, oh it's beautiful, well I need more practice let's do it better tomorrow.
+
 #### Day 823 DSA | Oracle Cloud
 
 Today only solved one problem on LeetCode about Linked List, all my other free time was taken up fixed my Oracle Cloud account and I can finish getting my instances, now I can deploy my API and other apps, thank you Oracle love you.
