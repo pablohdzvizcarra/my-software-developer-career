@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 825 DSA | Spring | Book
+
+Weel, after being undecided for a few days about what will be my next step, I decided to start reading a book about Spring Boot I like make deep dive in Spring, I will continue learning DSA and solving exercises in Leetcode, while I learn more about Java/Spring and take my job search.
+
 #### Day 824 DSA | Linked List
 
 I was can solve one problem that I had been worked for four days. this sensation that I feel is called happiness, oh it's beautiful, well I need more practice let's do it better tomorrow.
