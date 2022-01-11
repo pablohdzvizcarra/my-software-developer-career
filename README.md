@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 826 SpringBoot
+
+I Advanced in the lecture of my book, today I learned several SpringBoot things that I thought I already knew, Well tomorrow need more practice in the English language.
+
 #### Day 825 DSA | Spring | Book
 
 Weel, after being undecided for a few days about what will be my next step, I decided to start reading a book about Spring Boot I like make deep dive in Spring, I will continue learning DSA and solving exercises in Leetcode, while I learn more about Java/Spring and take my job search.
