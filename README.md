@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 827 SpringBoot | test
+
+Today I spent all day answering a technical test for a company.
+
 #### Day 826 SpringBoot
 
 I Advanced in the lecture of my book, today I learned several SpringBoot things that I thought I already knew, Well tomorrow need more practice in the English language.
