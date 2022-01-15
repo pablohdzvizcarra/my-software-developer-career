@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 830 Spring | SQL
+
+Today it's a cold day, this day was bad for programming my fingers are sleeping, well today learned about SQL and Spring/Java, I had some problems with copying one file of my computer to a docker container, I hate windows, docker and windows does not have a good relationship.
+
 #### Day 829 Spring | SQL
 
 I discovered that I have a lake in SQL, well I need to continue learning about Spring and SQL.
