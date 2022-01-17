@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 831 SQL | Docker | Ubuntu Server
+
+I created a virtual machine in Oracle Cloud and configured it with docker, this virtual machine is thinking of Docker containers,  have here some databases, will continue with my learning to SQL and Java/SpringBoot for the moment.
+
 #### Day 830 Spring | SQL
 
 Today it's a cold day, this day was bad for programming my fingers are sleeping, well today learned about SQL and Spring/Java, I had some problems with copying one file of my computer to a docker container, I hate windows, docker and windows does not have a good relationship.
