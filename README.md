@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 836 Take it easy
+
+I need to take my time, need how to know to organize my life and my developer career.
+
 #### Day 835 Programmer
 
 Today was learned that will work with projects monsters and I like that I have the feeling that need to study and practice more.
