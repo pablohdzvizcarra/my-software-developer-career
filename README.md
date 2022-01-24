@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 838 Java | Typescript | Focused
+
+I need a way to keep myself more focused, the best way how to organize my life and my career and I need learn a read and understand more code.
+
 #### Day 836 Take it easy
 
 I need to take my time, need how to know to organize my life and my developer career.
