@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 840 Java
+
+Today I learned to deploy an application into the payara server and my habilities with the CLI(command line) are better each time, though I have followed problems with understanding large applications, the scale is amazing and the complex is challenging, whatever I love make code, love programming, this not stop me.
+
 #### Day 839 Java
 
 Today was a hard day, I need learn to much things, well need sleep better.
