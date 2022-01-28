@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 842 Spring/Java | Typescript/Express
+
+Today I can fix my first bug, feel happy, write code is an art, a rare art, but I like, I like the sensation of fighthing with unknown problems, you never know how this will end.
+
 #### Day 841 Spring | Java
 
 Today I saw too much code with Java and Spring, the importance of the unitaries test is needed to debug a problem and documentation is a great tool, please learn yourselves about these mistakes.
