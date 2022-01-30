@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 844 Typescript| NestJS
+
+Today I was learn Typescript with NestJS framework, it's amazing how compare with spring the both frameworks, I finishes my first week how developer, I was can finished all my tasks in the work.
+
 #### Day 843 Spring/Java | Typescript/Express
 
 Testing in Typescript it's hard, typescript does not make it easy, I don't want say hate typescript but it's difficult, well it's only a tool and I need know how work with this tool.
