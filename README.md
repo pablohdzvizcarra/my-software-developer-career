@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 845 Typescript | NestJS | Swagger
+
+Although I start to feel more comfortable using typescript it has some strange things that I don't like very much, this weekend I went deeper in OpenAPI and Swagger I understand that the documentation of my APIs is very important and I need to develop good habits to that end.
+
 #### Day 844 Typescript| NestJS
 
 Today I was learn Typescript with NestJS framework, it's amazing how compare with spring the both frameworks, I finishes my first week how developer, I was can finished all my tasks in the work.
