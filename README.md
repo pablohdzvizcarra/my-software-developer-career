@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 848 | 849
+
+Yesterday was a bit overwhelming, I had my first deployments to production of two modifications that I made in the code, one came out without problemsm but the second one had problems a rookie error was the cause, today all day I have spent checking what went wrong, it is becoming very complicated to work without test each modification that I make I am afraid that can cause problems I need to find how to deal with this.
+
 #### Day 847 Java | Graph API
 
 Graph API is a monster, but if I can understand how its works I am be better developer, need take it easy and remember that I can do it.
