@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 851 Endign The Legacy Code
+
+In my current job all day I work with legacy code, this days try to evade this code, but think that is impossible, so started reading the Working With Legacy Code book, even if go for this first chapters the book is very helpeful really all people that work with legacy code must be read, need be better in my job, need be a productive programmer.
+
 #### Day 850 Git merge and code without tests
 
 Git merge with code that has no test is a chanllenge, your code can be destroyed anywhere, today I was trying to fix code with problems because of this, time marches on and I don't can achieve.
