@@ -5,7 +5,11 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
-#### Day 851 Endign The Legacy Code
+#### Day 852 Testing is Beautiful
+
+The security that is gained by working with TDD or test is unmatched, maybe you feel slower because you create the test at the same time as the development of the code, but you get great benefits, I had days that I did not feel calm working, I want to write lines and lines of code.
+
+#### Day 851 Ending The Legacy Code
 
 In my current job all day I work with legacy code, this days try to evade this code, but think that is impossible, so started reading the Working With Legacy Code book, even if go for this first chapters the book is very helpeful really all people that work with legacy code must be read, need be better in my job, need be a productive programmer.
 
