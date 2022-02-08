@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 853 Coding With Testing
+
+I had forgotten the feeling that is coding with test, having that layer of security that test or you that everything is right or wrong, today I learned a great lesson no matter how short the deadliness are do not forget the unit test friends will save your life. 
+
 #### Day 852 Testing is Beautiful
 
 The security that is gained by working with TDD or test is unmatched, maybe you feel slower because you create the test at the same time as the development of the code, but you get great benefits, I had days that I did not feel calm working, I want to write lines and lines of code.
