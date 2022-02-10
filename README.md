@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 854|855 Ready to Production
+
+Today I make a war file with a fix for bug to deploy in production, well all is ok too I learned about concurrency in execution time, I have to find the way to have a count and can stop and resume this tasks.  
+
 #### Day 853 Coding With Testing
 
 I had forgotten the feeling that is coding with test, having that layer of security that test or you that everything is right or wrong, today I learned a great lesson no matter how short the deadliness are do not forget the unit test friends will save your life. 
