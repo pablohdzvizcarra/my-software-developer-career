@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 856
+
+Programming is difficult, to understand code that has many lines is very difficult, not to get lost in a method with more than three hundred lines is complicated, today we had problems with concurrency and TPS in the code, I have to reinforce these issues.
+
 #### Day 854|855 Ready to Production
 
 Today I make a war file with a fix for bug to deploy in production, well all is ok too I learned about concurrency in execution time, I have to find the way to have a count and can stop and resume this tasks.  
