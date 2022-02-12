@@ -5,7 +5,11 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
-#### Day 856
+#### Day 857 I Have It
+
+I think that one of the most difficult things that I have encountered until today is to learn to read code, I mean to understand the code that I am reading, to understand a long method, what it does, how it does it, I just hope that as the days go by this skill will improve a lot in me.
+
+#### Day 856 Some Problems
 
 Programming is difficult, to understand code that has many lines is very difficult, not to get lost in a method with more than three hundred lines is complicated, today we had problems with concurrency and TPS in the code, I have to reinforce these issues.
 
