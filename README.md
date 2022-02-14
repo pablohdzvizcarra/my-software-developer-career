@@ -5,6 +5,10 @@ it is very important that we all have some record of our progress, when I starte
 programming I wanted to have a record to go in the future and see what decisions I have
 taken and this repository is the result of that record.
 
+#### Day 858 | 859 Learning About Reactive Programming
+
+In the job we have a problem, we need process three TPS(Transaction Per Second) in a service but currently only we supports less that two TPS,  if I managed to fulfill this purpose I think I can call myself a software enginner well only I think.
+
 #### Day 857 I Have It
 
 I think that one of the most difficult things that I have encountered until today is to learn to read code, I mean to understand the code that I am reading, to understand a long method, what it does, how it does it, I just hope that as the days go by this skill will improve a lot in me.
