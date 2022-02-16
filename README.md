@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 861 The Power of For Loop
+
+Today I was handled with a loop with more than 50k of data, the algorithm finished in BigO(n) I 
+think that I can get more speed the time of execution I don't like more than 10 seconds, it's a 
+lot of time.
+
 #### Day 860 Being Productive
 
 Today I was solved three bugs in my job, well I start be productive, it's amazing how the study
