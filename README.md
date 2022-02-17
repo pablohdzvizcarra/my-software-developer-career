@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 862 Reactive and Kafka It's Good
+
+Today I learned more concepts about Reactive programming and Java with the all knowledge that I 
+am learned think that can improve a lot of things in my current job, really it's another world.  
+
 ##### Day 861 The Power of For Loop
 
 Today I was handled with a loop with more than 50k of data, the algorithm finished in BigO(n) I 
