@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 863 Simple Bugs
+
+Today was a somewhat exhausting day, we had two deployments to production of which one good and one bad, I am a bit sad to see that the errors were only environment settings for the productive environment, I will pay more attention to those details next time, tip guys pay attention to the smallest details.
+
 ##### Day 862 Reactive and Kafka It's Good
 
 Today I learned more concepts about Reactive programming and Java with the all knowledge that I 
