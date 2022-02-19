@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 864 Environment Problems
+
+Today I have witnessed the problems with the development environment works in this one but not in that ine, it is a difficult situation, but I really like the feelinf of havind to solve a problem and not having any idea how to do it.
+
 ##### Day 863 Simple Bugs
 
 Today was a somewhat exhausting day, we had two deployments to production of which one good and one bad, I am a bit sad to see that the errors were only environment settings for the productive environment, I will pay more attention to those details next time, tip guys pay attention to the smallest details.
