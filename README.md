@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 865 Devops Culture
+
+I was thinking that only I make the code and another person has the responsibility to deploy my code, that is great but this is not the case I need to learn some concepts about deploying applications in multiple environments, I love docker for this porpuses.
+
 ##### Day 864 Environment Problems
 
 Today I have witnessed the problems with the development environment works in this one but not in that ine, it is a difficult situation, but I really like the feelinf of havind to solve a problem and not having any idea how to do it.
