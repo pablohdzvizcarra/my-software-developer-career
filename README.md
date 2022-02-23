@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 868 I Am Tired
+
+Yesterday I was tired from my job, this is the reason that I don't write anything, Today I have a good day at my job yet I don't cant solve the issues in the code but I was working more comfortably, don't work extra hours my advice.
+
 ##### Day 866 Reactive Life
 
 The reactive programming is amazing, I need learn this concepts because in my job use architecture
