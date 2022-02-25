@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 870 Developing Estimates
+
+Estimates a confusing word, today I had to elaborate several estimates for some new functionalities, due to my little experience in the working world and my little knowledge this part was very difficult for me but well to elaborate things as fast as possible without forgetting the requirements and the quality of the code.
+
 ##### Day 869 Docker and Kubernetes
 
 In the job we start to work with kubernetes this is amazing, I like docker and kubernetes.
