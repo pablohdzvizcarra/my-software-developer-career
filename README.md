@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+
+##### Day 871 Dreaming With Code
+
+Please take notes about your pending tasks in any place for example paper or a todo list, I didn't believe this, but I need a place where I take out all tasks from my brain.
+
 ##### Day 870 Developing Estimates
 
 Estimates a confusing word, today I had to elaborate several estimates for some new functionalities, due to my little experience in the working world and my little knowledge this part was very difficult for me but well to elaborate things as fast as possible without forgetting the requirements and the quality of the code.
