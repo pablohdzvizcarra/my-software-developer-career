@@ -7,6 +7,9 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 872 The Clean Coder
+
+I started reading this book, I hope to learn how to improve as a developer with this reading.
 
 ##### Day 871 Dreaming With Code
 
