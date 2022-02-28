@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 873 Reading a Lot
+
+I could say that today I read all day, read a lot of pages of a book and some post blogs in Medium the Sundays I like read a lot, clean my workspace and apply maintenance for my pc.
+
 ##### Day 872 The Clean Coder
 
 I started reading this book, I hope to learn how to improve as a developer with this reading.
