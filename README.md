@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 874 Remember KISS
+
+Today I spent a lot of time trying to build code with best practices but in the end, I remember to keep simple the code, well-learned lessons for the next time.
+
+
 ##### Day 873 Reading a Lot
 
 I could say that today I read all day, read a lot of pages of a book and some post blogs in Medium the Sundays I like read a lot, clean my workspace and apply maintenance for my pc.
@@ -133,4 +138,3 @@ better in my job, need be a productive programmer.
 **Day 701 - 750 Java | Spring Boot | MySQL** [here](day701-750.md)</br>
 **Day 751 - 800 Java | Spring Boot | MySQL** [here](day751-800.markdown)</br>
 **Day 801 - 850 Java | Spring Boot | OCI** [here](day801-850.md)</br>
-
