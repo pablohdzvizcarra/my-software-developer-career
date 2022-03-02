@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 875 The Power of Comma
+
+I have an error in Jenkins file because i don't remember add a comma at the end of the variable and the IDE don't help me with the warnings, it is funny how a deploy can be cancelled with this little error.
+
 ##### Day 874 Remember KISS
 
 Today I spent a lot of time trying to build code with best practices but in the end, I remember to keep simple the code, well-learned lessons for the next time.
