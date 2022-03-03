@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 876 Make Magic
+
+literal I need to make magic, I have a task very hard, I don't idea about how to make it, I think that sleep refresh my mind tomorrow need start with this problem.
+
 ##### Day 875 The Power of Comma
 
 I have an error in Jenkins file because i don't remember add a comma at the end of the variable and the IDE don't help me with the warnings, it is funny how a deploy can be cancelled with this little error.
