@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 877 Handle Time
+
+My mission, change the timezone in a Kubernetes Pod yes the Pod don't handle the same timezone that the application, the events handled by time doesn't work, I don't like the idea about set the timezone in Mexico City the UTC is the universal standard, well I just follow orders.
+
 ##### Day 876 Make Magic
 
 literal I need to make magic, I have a task very hard, I don't idea about how to make it, I think that sleep refresh my mind tomorrow need start with this problem.
@@ -18,7 +22,6 @@ I have an error in Jenkins file because i don't remember add a comma at the end 
 ##### Day 874 Remember KISS
 
 Today I spent a lot of time trying to build code with best practices but in the end, I remember to keep simple the code, well-learned lessons for the next time.
-
 
 ##### Day 873 Reading a Lot
 
