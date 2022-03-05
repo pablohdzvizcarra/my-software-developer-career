@@ -5,7 +5,11 @@ important that we all have some record of our progress, when I started programmi
 a record to go in the future and see what decisions I have taken and this repository is the result
 of that record.
 
-### Programming Change My Life
+### Programming Change My Life 
+
+##### Day 878 Complicating My Life
+
+I start to see how the live can be complicated if your try split your time and learn many things at the sime time, I thought that this is productive but this is not the way to get better results, I think that have threee primary things will learn , Data Structures and Algorithms, Object-Oriented Programming and English.
 
 ##### Day 877 Handle Time
 
