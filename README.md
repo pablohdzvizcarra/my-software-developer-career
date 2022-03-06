@@ -5,31 +5,47 @@ important that we all have some record of our progress, when I started programmi
 a record to go in the future and see what decisions I have taken and this repository is the result
 of that record.
 
-### Programming Change My Life 
+### Programming Change My Life
+
+##### Day 879 The Right Way
+
+I think that the right way to make code doesn't exist, I like development code with technique 
+TDD (Test Drive Development), like the Object-Oriented Programming, like read a lot but the most 
+important thing is this career I think is never stop learning.
 
 ##### Day 878 Complicating My Life
 
-I start to see how the live can be complicated if your try split your time and learn many things at the sime time, I thought that this is productive but this is not the way to get better results, I think that have threee primary things will learn , Data Structures and Algorithms, Object-Oriented Programming and English.
+I start to see how the live can be complicated if your try split your time and learn many things at
+the same time, I thought that this is productive but this is not the way to get better results, I
+think that have three primary things will learn , Data Structures and Algorithms, Object-Oriented
+Programming and English.
 
 ##### Day 877 Handle Time
 
-My mission, change the timezone in a Kubernetes Pod yes the Pod don't handle the same timezone that the application, the events handled by time doesn't work, I don't like the idea about set the timezone in Mexico City the UTC is the universal standard, well I just follow orders.
+My mission, change the timezone in a Kubernetes Pod yes the Pod don't handle the same timezone that
+the application, the events handled by time doesn't work, I don't like the idea about set the
+timezone in Mexico City the UTC is the universal standard, well I just follow orders.
 
 ##### Day 876 Make Magic
 
-literal I need to make magic, I have a task very hard, I don't idea about how to make it, I think that sleep refresh my mind tomorrow need start with this problem.
+literal I need to make magic, I have a task very hard, I don't idea about how to make it, I think
+that sleep refresh my mind tomorrow need start with this problem.
 
 ##### Day 875 The Power of Comma
 
-I have an error in Jenkins file because i don't remember add a comma at the end of the variable and the IDE don't help me with the warnings, it is funny how a deploy can be cancelled with this little error.
+I have an error in Jenkins file because I don't remember add a comma at the end of the variable and
+the IDE don't help me with the warnings, it is funny how a deployment can be cancelled with this
+little error.
 
 ##### Day 874 Remember KISS
 
-Today I spent a lot of time trying to build code with best practices but in the end, I remember to keep simple the code, well-learned lessons for the next time.
+Today I spent a lot of time trying to build code with best practices but in the end, I remember to
+keep simple the code, well-learned lessons for the next time.
 
 ##### Day 873 Reading a Lot
 
-I could say that today I read all day, read a lot of pages of a book and some post blogs in Medium the Sundays I like read a lot, clean my workspace and apply maintenance for my pc.
+I could say that today I read all day, read a lot of pages of a book and some post blogs in Medium
+the Sundays I like read a lot, clean my workspace and apply maintenance for my pc.
 
 ##### Day 872 The Clean Coder
 
@@ -37,11 +53,15 @@ I started reading this book, I hope to learn how to improve as a developer with 
 
 ##### Day 871 Dreaming With Code
 
-Please take notes about your pending tasks in any place for example paper or a todo list, I didn't believe this, but I need a place where I take out all tasks from my brain.
+Please take notes about your pending tasks in any place for example paper or a todo list, I didn't
+believe this, but I need a place where I take out all tasks from my brain.
 
 ##### Day 870 Developing Estimates
 
-Estimates a confusing word, today I had to elaborate several estimates for some new functionalities, due to my little experience in the working world and my little knowledge this part was very difficult for me but well to elaborate things as fast as possible without forgetting the requirements and the quality of the code.
+Estimates a confusing word, today I had to elaborate several estimates for some new functionalities,
+due to my little experience in the working world and my little knowledge this part was very
+difficult for me but well to elaborate things as fast as possible without forgetting the
+requirements and the quality of the code.
 
 ##### Day 869 Docker and Kubernetes
 
@@ -49,7 +69,9 @@ In the job we start to work with kubernetes this is amazing, I like docker and k
 
 ##### Day 868 I Am Tired
 
-Yesterday I was tired from my job, this is the reason that I don't write anything, Today I have a good day at my job yet I don't cant solve the issues in the code but I was working more comfortably, don't work extra hours my advice.
+Yesterday I was tired from my job, this is the reason that I don't write anything, Today I have a
+good day at my job, yet I don't solve the issues in the code, but I was working more comfortably,
+don't work extra hours my advice.
 
 ##### Day 866 Reactive Life
 
