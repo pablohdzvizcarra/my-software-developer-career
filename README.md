@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 880 Port 8080
+
+Today finish read another book, The Clean Coder the book is amazing I was thinking that some 
+problems can resolve reading this book, one of the most interesting part is Estimation, yeah I 
+have some problems with the estimations times, and now I will think two times before I say I 
+can do this for tomorrow.
+
 ##### Day 879 The Right Way
 
 I think that the right way to make code doesn't exist, I like development code with technique 
