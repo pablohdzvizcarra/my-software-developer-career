@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 881 Alter PostgreSQL Database
+
+Today I had to alter a table in postgresql, it is something that I had never done before and although I only altered it in the dev environment I know that my script will be executed in the production database that causes me some fear, and if I break the whole system? well I guess these things happen to all developers.
+
 ##### Day 880 Port 8080
 
 Today finish read another book, The Clean Coder the book is amazing I was thinking that some 
