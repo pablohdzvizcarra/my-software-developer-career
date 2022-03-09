@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 882 Magic Times
+
+I think that in my work the time to finish one task is very short, I have some issues to fix, but I can't because they preferred that I release new developments. 
+
 ##### Day 881 Alter PostgreSQL Database
 
 Today I had to alter a table in postgresql, it is something that I had never done before and although I only altered it in the dev environment I know that my script will be executed in the production database that causes me some fear, and if I break the whole system? well I guess these things happen to all developers.
