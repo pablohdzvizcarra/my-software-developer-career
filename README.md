@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 884 Don't Work
+
+I have a big problem with the development of one application, I have two days fixing a bug but I can't be fixed, the programming sometimes it's bad.
+
 ##### Day 883 Think Async
 
 In this days all things are Async, the company number one in microservices called Netflix contribute a lot to the community,  in my work we use microservices architecture each day I leanr more things about this topic
