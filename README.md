@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 885|886 Design Patterns
+
+I start to read the design patterns book, I think that this book it's hard to read, object-oriented programming is hard, but it's amazing.
+
 ##### Day 884 Don't Work
 
 I have a big problem with the development of one application, I have two days fixing a bug but I can't be fixed, the programming sometimes it's bad.
