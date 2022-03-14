@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 887 State Pattern
+
+Today I was studying design patterns, this day studied the State Design Pattern, the design patterns, and very interesting, my object-oriented code it's poorly about design, I want to be better with object-oriented programming and Java and Kotlin languages for the moment. 
+
 ##### Day 885|886 Design Patterns
 
 I start to read the design patterns book, I think that this book it's hard to read, object-oriented programming is hard, but it's amazing.
