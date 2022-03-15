@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 888 Fix Bugs
+
+Today I solved some bugs in my work these bugs see easy but in the practice was more complicated that start, tomorrow I start with new development I am exciting.
+
 ##### Day 887 State Pattern
 
 Today I was studying design patterns, this day studied the State Design Pattern, the design patterns, and very interesting, my object-oriented code it's poorly about design, I want to be better with object-oriented programming and Java and Kotlin languages for the moment. 
