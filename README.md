@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 890 Database Index
+
+Today I learned about the indexes in the database, I had no idea what a composite index is, until today that I started to investigate also went to a vaccine for COVID-19 a disease that became epidemic well I think that coding and being unhealthy is not a good idea ....
+
 ##### Day 889 Apple Forms
 
 Today I have started a new development where I will have to integrate an Apple API, I feel a little bit afraid because it is a development with a deadline and I don't want to look bad.
