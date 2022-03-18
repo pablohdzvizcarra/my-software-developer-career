@@ -7,6 +7,9 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 891 Multithread
+The concurrency in applications it's an important part, in microservices I think that this is crucial and hard to understand to start with, currently we have problems with transactions this weekend need to study this topic.
+
 ##### Day 890 Database Index
 
 Today I learned about the indexes in the database, I had no idea what a composite index is, until today that I started to investigate also went to a vaccine for COVID-19 a disease that became epidemic well I think that coding and being unhealthy is not a good idea ....
