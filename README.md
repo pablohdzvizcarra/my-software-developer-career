@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 892 Containers
+
+Things like docker and kubernetes I quite like, they are a bit difficult to learn at first but once you get the hang of them you don't want to stop using them.
+
 ##### Day 891 Multithread
 The concurrency in applications it's an important part, in microservices I think that this is crucial and hard to understand to start with, currently we have problems with transactions this weekend need to study this topic.
 
