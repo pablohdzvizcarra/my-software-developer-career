@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 893 More About Design Patterns
+
+Today I study about the strategy pattern I build a basic API  to buy books in a ecommerce app, well it's not finished yet, but tomorrow finish with this app.
+
 ##### Day 892 Containers
 
 Things like docker and kubernetes I quite like, they are a bit difficult to learn at first but once you get the hang of them you don't want to stop using them.
