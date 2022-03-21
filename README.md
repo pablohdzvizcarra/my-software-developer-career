@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 894 Object-Design
+
+The object-oriented programming i like much, I think that is an one of this things that any developer should been a good understand, any thing in this world is an object, only think this
+
 ##### Day 893 More About Design Patterns
 
 Today I study about the strategy pattern I build a basic API  to buy books in a ecommerce app, well it's not finished yet, but tomorrow finish with this app.
