@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 897 Working a lot
+
+This days I am working a lot, more than 12 hours daylies I am tired, but I learn a lot of things.
+
 ##### Day 894 Object-Design
 
 The object-oriented programming i like much, I think that is an one of this things that any developer should been a good understand, any thing in this world is an object, only think this
