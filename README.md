@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 899 Problems With Cron Tasks
+
+The actual problem is you have a cron tasks that executes each minute, but you hvae ten instances of this program yes now you have ten cron tasks thats executes each minutos, solution a unique instance of this program or use a queue, Kubernetes  I love it but with your autoscaling I have problems.
+
 ##### Day 897 Working a lot
 
 This days I am working a lot, more than 12 hours daylies I am tired, but I learn a lot of things.
