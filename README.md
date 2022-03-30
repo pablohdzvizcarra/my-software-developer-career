@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 904 Having A Hard Time
+
+I have had a couple of bad days at work, I seem to take a long time to solve the problems, I don't like at all to fix one thing but another one has an error, I need to take it easy and see all possible options.
+
 ##### Day 903 The Phrase If It Works Don't Touch It
 
 lately we have had many problems at work with functionalities that work and after some changes they no longer work correctly.
