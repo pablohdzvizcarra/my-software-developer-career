@@ -7,23 +7,33 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 911 Factory Pattern
+
+Today was very confusing in my work to understand difficult things is difficult, but also the
+pressure to finish things fast in these moments I wonder if programming is for me, well I hope this
+will improve with the years.
+
 ##### Day 910 Builder Pattern
 
-Today I was studying the builder pattern, in my work I achieve to advance in my tasks and can be 
+Today I was studying the builder pattern, in my work I achieve to advance in my tasks and can be
 relaxing today.
 
 ##### Day 909 Free Day
 
-After having some difficult days and a lot fo work I have relaxed a little this day I have coded a little, but the desire to code has continued with me all day, guys after spending twenty hours coding take a break.
+After having some difficult days and a lot fo work I have relaxed a little this day I have coded a
+little, but the desire to code has continued with me all day, guys after spending twenty hours
+coding take a break.
 
 ##### Day 904 Having A Hard Time
 
-I have had a couple of bad days at work, I seem to take a long time to solve the problems, I don't like at all to fix one thing but another one has an error, I need to take it easy and see all possible options.
+I have had a couple of bad days at work, I seem to take a long time to solve the problems, I don't
+like at all to fix one thing but another one has an error, I need to take it easy and see all
+possible options.
 
 ##### Day 903 The Phrase If It Works Don't Touch It
 
-lately we have had many problems at work with functionalities that work and after some changes they no longer work correctly.
-
+lately we have had many problems at work with functionalities that work and after some changes they
+no longer work correctly.
 
 **Day 1 - 50 HTML - CSS - Javascript**  [here](./day0-50.md)</br>
 **Day 51 - 100 Javascript** [here](./day51-100.md)</br>
