@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 912 Working Seriously
+
+I have a lot of task to do in the work, well I think that the time that me spend learning design 
+patterns it's time to apply in my current work, I need write better code.
+
 ##### Day 911 Factory Pattern
 
 Today was very confusing in my work to understand difficult things is difficult, but also the
