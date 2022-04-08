@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 913 A Little Confused
+
+At this moment I am was confused, I don't know how growth my knowledge and my personal career in 
+software engineering, I am currently reading a book of Design Patterns, but I don't know maybe need 
+learn another thing.
+
 ##### Day 912 Working Seriously
 
 I have a lot of task to do in the work, well I think that the time that me spend learning design 
