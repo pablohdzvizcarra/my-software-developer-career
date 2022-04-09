@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 914 Kafka and Events
+
+Today I was studied about Kafka and notification messages system, in the microservices' 
+architecture these notifications systems are very important, I love these architectures understand 
+is a challenge and work with them is beautiful.
+
 ##### Day 913 A Little Confused
 
 At this moment I am was confused, I don't know how growth my knowledge and my personal career in 
