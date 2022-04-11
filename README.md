@@ -7,21 +7,27 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 916 Design Patterns
+
+I think I'm finally understanding the basics of design patterns, before I could not imagine how to
+implement them, but in this last month I have been studying every day on this subject and little by
+little I'm understanding I hope to finish knowing them all in this month of April.
+
 ##### Day 914 Kafka and Events
 
-Today I was studied about Kafka and notification messages system, in the microservices' 
-architecture these notifications systems are very important, I love these architectures understand 
-is a challenge and work with them is beautiful.
+Today I was studied about Kafka and notification messages system, in the microservices' architecture
+these notifications systems are very important, I love these architectures understand is a challenge
+and work with them is beautiful.
 
 ##### Day 913 A Little Confused
 
-At this moment I am was confused, I don't know how growth my knowledge and my personal career in 
-software engineering, I am currently reading a book of Design Patterns, but I don't know maybe need 
+At this moment I am was confused, I don't know how growth my knowledge and my personal career in
+software engineering, I am currently reading a book of Design Patterns, but I don't know maybe need
 learn another thing.
 
 ##### Day 912 Working Seriously
 
-I have a lot of task to do in the work, well I think that the time that me spend learning design 
+I have a lot of task to do in the work, well I think that the time that me spend learning design
 patterns it's time to apply in my current work, I need write better code.
 
 ##### Day 911 Factory Pattern
