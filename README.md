@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 917 Working With External API
+
+it is difficult, really difficult, and you need some time to learn due to the learning curve that
+each external API has, well I think that only by researching and practicing more I will be able to
+solve this.
+
 ##### Day 916 Design Patterns
 
 I think I'm finally understanding the basics of design patterns, before I could not imagine how to
