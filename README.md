@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 918 Exploring The JVM Machine
+
+Today I build a basic API with Scala, I was have curious about this language, my first 
+impresions are good Scala is a good programming language and the Fuctional Paradigm is interesting.
+
 ##### Day 917 Working With External API
 
 it is difficult, really difficult, and you need some time to learn due to the learning curve that
