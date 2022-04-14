@@ -7,10 +7,17 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 919 A Little Sad
+
+In this day I was feel strange, I get up at 8:00 am this is late for me, always I get up at 6-7 am
+and start the day make some code, study, watch code videos, etc. but in this day I was felt without
+best wishes.
+
 ##### Day 918 Exploring The JVM Machine
 
-Today I build a basic API with Scala, I was have curious about this language, my first 
-impresions are good Scala is a good programming language and the Fuctional Paradigm is interesting.
+Today I build a basic API with Scala, I was had curious about this language, my first
+impressions are good Scala is a good programming language and the Functional Paradigm is
+interesting.
 
 ##### Day 917 Working With External API
 
