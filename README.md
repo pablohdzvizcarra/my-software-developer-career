@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 921 Regaining Courage
+
+Today I have recovered my desire to code, maybe I just needed a little rest, when things go
+wrong too often one loses the mood easily, well tomorrow I hope to code all day long.
+
 ##### Day 919 A Little Sad
 
 In this day I was feel strange, I get up at 8:00 am this is late for me, always I get up at 6-7 am
