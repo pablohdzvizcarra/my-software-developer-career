@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 922 Performance Issues
+
+This weekend I will spend it reading a book about Java performance at work we are having problems
+with this part, I will also continue studying design patterns and if I get bored I will practice
+some Kotlin.
+
 ##### Day 921 Regaining Courage
 
 Today I have recovered my desire to code, maybe I just needed a little rest, when things go
