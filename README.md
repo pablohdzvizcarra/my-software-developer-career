@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 923 Organizing my life
+
+Well this day was good, I was able to organize my life and make it more efficient, I put my
+Notion in order, I started a list of habits, organize the reading of my books, a list for the
+web articles that I read, and I put order in my priorities.
+
 ##### Day 922 Performance Issues
 
 This weekend I will spend it reading a book about Java performance at work we are having problems
