@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 924 Be Productive
+
+I found it very helpful to take a break from coding and get my priorities in order today and I was very productive at work.
+
 ##### Day 923 Organizing my life
 
 Well this day was good, I was able to organize my life and make it more efficient, I put my
