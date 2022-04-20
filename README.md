@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 925 Working With Bad Climate Conditions
+
+Well today I was hot a very hot in my city, make code with bad weather is not good, I can solve 
+some issues in my work and make some things about my TODO list.
+
 ##### Day 924 Be Productive
 
 I found it very helpful to take a break from coding and get my priorities in order today and I was very productive at work.
