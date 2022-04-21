@@ -7,14 +7,21 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 926 Large Data Transactions
+
+In the work, we need to handle a larges data's transactions and in the same way we need to notify the
+Front-End these transactions the websockets use is a bad idea because the browser finished crashes
+always, I need to read about these problems.
+
 ##### Day 925 Working With Bad Climate Conditions
 
-Well today I was hot a very hot in my city, make code with bad weather is not good, I can solve 
+Well today I was hot a very hot in my city, make code with bad weather is not good, I can solve
 some issues in my work and make some things about my TODO list.
 
 ##### Day 924 Be Productive
 
-I found it very helpful to take a break from coding and get my priorities in order today and I was very productive at work.
+I found it very helpful to take a break from coding and get my priorities in order today, and I was
+very productive at work.
 
 ##### Day 923 Organizing my life
 
