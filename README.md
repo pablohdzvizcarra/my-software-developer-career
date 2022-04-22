@@ -7,9 +7,15 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 927 When Things Go Wrong
+
+We've had a difficult days at work, we have a big task that cannot complete, and this problem
+stresses me out.
+
 ##### Day 926 Large Data Transactions
 
-In the work, we need to handle a larges data's transactions and in the same way we need to notify the
+In the work, we need to handle a larges data's transactions and in the same way we need to notify
+the
 Front-End these transactions the websockets use is a bad idea because the browser finished crashes
 always, I need to read about these problems.
 
