@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 928 When things Go good
+
+Well yesterday I was feel bad because all things went wrong me, but today is a new day, we can
+finish the part on the application that handle a big lot of data, and I feel good with the result.
+
 ##### Day 927 When Things Go Wrong
 
 We've had a difficult days at work, we have a big task that cannot complete, and this problem
