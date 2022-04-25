@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 930 Working With Batch Operations
+
+Batch operations are difficult, handle large amounts of data is amazing, well all in programming 
+is Data Structures and Algorithms this is real true.
+
 ##### Day 929 Template Method Design Pattern
 
 Today I studied
