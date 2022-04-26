@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 931 Working With Bytes
+
+I have been learning how to manage data and files with spring and java these days.
+
 ##### Day 930 Working With Batch Operations
 
 Batch operations are difficult, handle large amounts of data is amazing, well all in programming 
