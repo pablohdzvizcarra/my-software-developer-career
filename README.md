@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 932 Confusion on your way
+
+Today something strange happened to me, I had some confusion about my career as a developer, I 
+didn't feel like writing code, but I worked my normal schedule, and I feel that I was productive, 
+well I took the afternoon to rest, and I think I'm a little better now.
+
 ##### Day 931 Working With Bytes
 
 I have been learning how to manage data and files with spring and java these days.
