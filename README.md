@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 933 Catching Errors
+
+I think that have a great error component that send notifications when errors occur is a 
+necessary part of any program, in my work we do not have this component, I think that is my work 
+create it. 
+
 ##### Day 932 Confusion on your way
 
 Today something strange happened to me, I had some confusion about my career as a developer, I 
