@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 934 Difficult Task
+
+Today I have a difficult task to do, fix the integration of an external API, external APIs 
+are hard to understand but when finish the day I did this task.
+
 ##### Day 933 Catching Errors
 
 I think that have a great error component that send notifications when errors occur is a 
