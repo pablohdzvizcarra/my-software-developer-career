@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 935 A Quiet Day
+
+Not much to say a quiet day of coding, and I learned about deep copy and shallow copy in code.
+
 ##### Day 934 Difficult Task
 
 Today I have a difficult task to do, fix the integration of an external API, external APIs 
