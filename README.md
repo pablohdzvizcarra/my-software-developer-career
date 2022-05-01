@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 936 Productivity Errors
+
+Today there was a great moment of tension we had a productive downtime of about 3 hours, a 
+moment where nobody knew what was going on, in the end the problem was solved, although I think 
+that the implementation and handling of the error was not good. 
+
 ##### Day 935 A Quiet Day
 
 Not much to say a quiet day of coding, and I learned about deep copy and shallow copy in code.
