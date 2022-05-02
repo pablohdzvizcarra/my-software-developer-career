@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 937 Finish a Good Book
+
+Today I finish read the Java Design Patterns book, this book was amazing I learn a lot of things 
+about design patterns and how write good code, well I am excited why I start a read another book.
+
 ##### Day 936 Productivity Errors
 
 Today there was a great moment of tension we had a productive downtime of about 3 hours, a 
