@@ -7,16 +7,22 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 938 Thinking With Databases
+
+Today I learn about how works index in databases, this functionality is good but have your issues,
+think in how model databases and create the best way to store data is a challenge, well I love
+microservice and distributed systems.
+
 ##### Day 937 Finish a Good Book
 
-Today I finish read the Java Design Patterns book, this book was amazing I learn a lot of things 
+Today I finish read the Java Design Patterns book, this book was amazing I learn a lot of things
 about design patterns and how write good code, well I am excited why I start a read another book.
 
 ##### Day 936 Productivity Errors
 
-Today there was a great moment of tension we had a productive downtime of about 3 hours, a 
-moment where nobody knew what was going on, in the end the problem was solved, although I think 
-that the implementation and handling of the error was not good. 
+Today there was a great moment of tension we had a productive downtime of about 3 hours, a
+moment where nobody knew what was going on, in the end the problem was solved, although I think
+that the implementation and handling of the error was not good.
 
 ##### Day 935 A Quiet Day
 
@@ -24,19 +30,19 @@ Not much to say a quiet day of coding, and I learned about deep copy and shallow
 
 ##### Day 934 Difficult Task
 
-Today I have a difficult task to do, fix the integration of an external API, external APIs 
+Today I have a difficult task to do, fix the integration of an external API, external APIs
 are hard to understand but when finish the day I did this task.
 
 ##### Day 933 Catching Errors
 
-I think that have a great error component that send notifications when errors occur is a 
-necessary part of any program, in my work we do not have this component, I think that is my work 
-create it. 
+I think that have a great error component that send notifications when errors occur is a
+necessary part of any program, in my work we do not have this component, I think that is my work
+create it.
 
 ##### Day 932 Confusion on your way
 
-Today something strange happened to me, I had some confusion about my career as a developer, I 
-didn't feel like writing code, but I worked my normal schedule, and I feel that I was productive, 
+Today something strange happened to me, I had some confusion about my career as a developer, I
+didn't feel like writing code, but I worked my normal schedule, and I feel that I was productive,
 well I took the afternoon to rest, and I think I'm a little better now.
 
 ##### Day 931 Working With Bytes
@@ -45,7 +51,7 @@ I have been learning how to manage data and files with spring and java these day
 
 ##### Day 930 Working With Batch Operations
 
-Batch operations are difficult, handle large amounts of data is amazing, well all in programming 
+Batch operations are difficult, handle large amounts of data is amazing, well all in programming
 is Data Structures and Algorithms this is real true.
 
 ##### Day 929 Template Method Design Pattern
