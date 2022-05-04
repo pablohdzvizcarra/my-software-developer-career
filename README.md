@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### dAY 939 Git Revert
+
+Today I had to apply a git revert to a bad git merge, I have to learn better how to work with 
+Spring and dependency injection with static classes.
+
+
 ##### Day 938 Thinking With Databases
 
 Today I learn about how works index in databases, this functionality is good but have your issues,
