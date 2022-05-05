@@ -7,7 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
-##### dAY 939 Git Revert
+##### Day 940 Unknown Errors
+
+Well, today we have some errors in production application, but as these problems came, so they 
+went, Magic? I don't think this
+
+##### Day 939 Git Revert
 
 Today I had to apply a git revert to a bad git merge, I have to learn better how to work with 
 Spring and dependency injection with static classes.
