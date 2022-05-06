@@ -7,16 +7,19 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 941 Sick
+
+Coding when you are sick is not pleasant just that I can tell you to take a break when that happens.
+
 ##### Day 940 Unknown Errors
 
-Well, today we have some errors in production application, but as these problems came, so they 
+Well, today we have some errors in production application, but as these problems came, so they
 went, Magic? I don't think this
 
 ##### Day 939 Git Revert
 
-Today I had to apply a git revert to a bad git merge, I have to learn better how to work with 
+Today I had to apply a git revert to a bad git merge, I have to learn better how to work with
 Spring and dependency injection with static classes.
-
 
 ##### Day 938 Thinking With Databases
 
