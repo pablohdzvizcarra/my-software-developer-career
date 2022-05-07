@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 942 High Performance
+
+These have been days of performance evaluations and how we can be getter performance in our
+services, we have latency problems and bad performance.
+
 ##### Day 941 Sick
 
 Coding when you are sick is not pleasant just that I can tell you to take a break when that happens.
