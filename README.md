@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 943 - 944 Weekend
+
+I am studying different techniques to apply TDD in legacy code, in my work no project has test, 
+but in the same way it is very difficult to develop new features for fear of breaking code.
+
 ##### Day 942 High Performance
 
 These have been days of performance evaluations and how we can be getter performance in our
