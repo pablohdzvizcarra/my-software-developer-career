@@ -7,9 +7,14 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 945 Love Docker
+
+I am a Backend Developer, I like Java, Spring Boot, Kotlin, JavaScript, NodeJs, Scala, well
+anything derived from the JVM, but things how Docker and Kubernetes I very like too.
+
 ##### Day 943 - 944 Weekend
 
-I am studying different techniques to apply TDD in legacy code, in my work no project has test, 
+I am studying different techniques to apply TDD in legacy code, in my work no project has test,
 but in the same way it is very difficult to develop new features for fear of breaking code.
 
 ##### Day 942 High Performance
