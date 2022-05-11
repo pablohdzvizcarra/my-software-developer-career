@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 946 Garbage Collector Deep Dive
+
+This day and tomorrow I'm will learn about the garbage collector and how it works in the JVM
+machine, I think that if I can be understood this concepts good, maybe can be written a better ,
+and most efficient code.
+
 ##### Day 945 Love Docker
 
 I am a Backend Developer, I like Java, Spring Boot, Kotlin, JavaScript, NodeJs, Scala, well
