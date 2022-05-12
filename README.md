@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 947 Handling Files and Directories
+
+I am creating a file system, the idea is to create a folder system where each month a folder is
+created and the files are stored in that folder.
+
 ##### Day 946 Garbage Collector Deep Dive
 
 This day and tomorrow I'm will learn about the garbage collector and how it works in the JVM
