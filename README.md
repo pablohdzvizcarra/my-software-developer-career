@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 948 More Deep Dive In The Java Virtual Machine (JVM)
+
+This day's I was study hard about Java and JVM, I think that concepts are universal how, how works a
+garbage collector, how works parallelisms and concurrency.
+
 ##### Day 947 Handling Files and Directories
 
 I am creating a file system, the idea is to create a folder system where each month a folder is
