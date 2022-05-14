@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 949 WebHooks
+
+These days I was working a lot with web-hooks, I learn how to create code independent of these 
+webhooks and how do webhooks mock to simulate your functionality.
+
 ##### Day 948 More Deep Dive In The Java Virtual Machine (JVM)
 
 This day's I was study hard about Java and JVM, I think that concepts are universal how, how works a
