@@ -7,9 +7,15 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 950-951 Object-Oriented
+
+This weekend I was study Object-Oriented Design, I don't know the object-oriented programming I
+love, can be hours and hours writing code with this paradigm, try to apply design patterns, best
+practices, writing test, practice TDD, and I am never boring.
+
 ##### Day 949 WebHooks
 
-These days I was working a lot with web-hooks, I learn how to create code independent of these 
+These days I was working a lot with web-hooks, I learn how to create code independent of these
 webhooks and how do webhooks mock to simulate your functionality.
 
 ##### Day 948 More Deep Dive In The Java Virtual Machine (JVM)
