@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 952 New Book
+
+Today I start read the Object-Oriented Analysis and Design book, the first chapters of this book are
+amazing.
+
 ##### Day 950-951 Object-Oriented
 
 This weekend I was study Object-Oriented Design, I don't know the object-oriented programming I
