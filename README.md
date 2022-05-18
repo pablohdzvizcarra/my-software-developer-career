@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 953 Abstraction and Encapsulation
+
+Today I learned that I can use abstraction and encapsulation to make my code more readable and
+easier to understand.
+
 ##### Day 952 New Book
 
 Today I start read the Object-Oriented Analysis and Design book, the first chapters of this book are
