@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 954 Understanding OOD
+
+The object-oriented design it's hard, think how the classes must be relationships don't easy task.
+
 ##### Day 953 Abstraction and Encapsulation
 
 Today I learned that I can use abstraction and encapsulation to make my code more readable and
