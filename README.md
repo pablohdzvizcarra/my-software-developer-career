@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 955 Continue Learning About Object-Oriented
+
+These days I learn a lot of things about object-oriented, continue reading my book and practicing.
+
 ##### Day 954 Understanding OOD
 
 The object-oriented design it's hard, think how the classes must be relationships don't easy task.
