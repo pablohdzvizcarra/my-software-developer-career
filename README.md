@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 956 Unique Messages Problem
+
+I have the next problem, I need to be sure that one message is not available until is delivered, but
+the problem is the messages is async and when the operations start , I don't know if the message is
+delivered ok or failed, need study better this problem.
+
 ##### Day 955 Continue Learning About Object-Oriented
 
 These days I learn a lot of things about object-oriented, continue reading my book and practicing.
