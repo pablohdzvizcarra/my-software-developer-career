@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 959 Good Time
+
+The world of mobile development is amazing, I write my first layouts, textViews and buttons,
+tomorrow I need focused on my work this day's will complicated with a lot of work.
+
 ##### Day 957-958 Start Learn a Little of Mobile Development
 
 ##### Day 956 Unique Messages Problem
