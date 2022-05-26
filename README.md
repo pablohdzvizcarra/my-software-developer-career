@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 960-961 Learning About Software Architecture
+
+Yesterday was a hard day, we have deployed to production that failed, I am tired for the moment.
+
 ##### Day 959 Good Time
 
 The world of mobile development is amazing, I write my first layouts, textViews and buttons,
