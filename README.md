@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 962 200 Days Practicing English
+
+I learn a little of English every day, all days I read in English, write in English, and play 
+with the Duolingo App, I also practiced today Android Development.
+
 ##### Day 960-961 Learning About Software Architecture
 
 Yesterday was a hard day, we have deployed to production that failed, I am tired for the moment.
