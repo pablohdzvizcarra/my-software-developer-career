@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 963 Be Better Person
+
+This day I feel productive, I read three chapters of my android book, practice android code
+ making and app, and finish my tasks in the work, will a weekend easy.
+
+
 ##### Day 962 200 Days Practicing English
 
 I learn a little of English every day, all days I read in English, write in English, and play 
