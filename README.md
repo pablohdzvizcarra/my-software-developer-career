@@ -7,10 +7,15 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 964 Battling With Kafka
+
+Kafka it's hard, well I think that  you need time to learn all concepts to mastering it, 
+and this concepts need time to can be learned.
+
 ##### Day 963 Be Better Person
 
 This day I feel productive, I read three chapters of my android book, practice android code
- making and app, and finish my tasks in the work, will a weekend easy.
+making and app, and finish my tasks in the work, will a weekend easy.
 
 
 ##### Day 962 200 Days Practicing English
