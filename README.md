@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 965 My First Mobile App
+
+Hurray, this day I did my first mobile app, well this app is very basic but I feel excite.
+
 ##### Day 964 Battling With Kafka
 
 Kafka it's hard, well I think that  you need time to learn all concepts to mastering it, 
