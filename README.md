@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 966 Don't Work Extra Hours
+
+Well the title says it all, don't work overtime if you don't get paid or get some time off afterwards.
+
 ##### Day 965 My First Mobile App
 
 Hurray, this day I did my first mobile app, well this app is very basic but I feel excite.
