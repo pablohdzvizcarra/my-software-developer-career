@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 967 Stress Moments
+
+Today we have a stressful moment the production application started to fail, we can fix it 
+but need more changes.
+
 ##### Day 966 Don't Work Extra Hours
 
 Well the title says it all, don't work overtime if you don't get paid or get some time off afterwards.
