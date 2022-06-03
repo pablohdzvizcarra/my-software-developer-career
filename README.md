@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 968-969 Take IT easy
+
+The best way to create good code is have a good sleep.
+
 ##### Day 967 Stress Moments
 
 Today we have a stressful moment the production application started to fail, we can fix it 
