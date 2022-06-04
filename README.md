@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 970 Android Java and Kotlin
+
+In the mobile development, I was feel happy, making UI is good, applying design patterns
+to make the best code and Object-Oriented programming is beautiful well I think that
+continue with this path.
+
 ##### Day 968-969 Take IT easy
 
 The best way to create good code is have a good sleep.
