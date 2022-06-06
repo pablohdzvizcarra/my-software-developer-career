@@ -7,6 +7,8 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 971-972 My First Android Application
+
 ##### Day 970 Android Java and Kotlin
 
 In the mobile development, I was feel happy, making UI is good, applying design patterns
