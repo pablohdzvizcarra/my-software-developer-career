@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Change My Life
 
+
+##### Day 973 Android Design Patterns
+
+The Android Development is good, I think that I can take some concepts that use and
+applied in my Backend projects, the use of design patterns is amazing and the part 
+on how to separate concerns is beautiful.
+
 ##### Day 971-972 My First Android Application
 
 ##### Day 970 Android Java and Kotlin
