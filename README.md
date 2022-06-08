@@ -8,6 +8,11 @@ of that record.
 ### Programming Change My Life
 
 
+##### Day 974 Architecture Changes
+
+In the work, we need to implement important architectural changes in some 
+micro-services, this things be a challenge.
+
 ##### Day 973 Android Design Patterns
 
 The Android Development is good, I think that I can take some concepts that use and
