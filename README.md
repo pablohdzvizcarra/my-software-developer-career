@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 975 Data Binding
+
+In android development the process of how the views and objects work together is 
+exciting, I believe it that mobile development is easy to learn but this is wrong,
+Its a new world. 
+
 
 ##### Day 974 Architecture Changes
 
