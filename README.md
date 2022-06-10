@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 976 Work Without Quality
+
+I am a Developer and try to write quality code the most of the time, but on some
+occasions, any bug can be sent with the code have a quality team that test your 
+code is a great tool but if the company don't agree this , really the bugs are free.
+
 ##### Day 975 Data Binding
 
 In android development the process of how the views and objects work together is 
