@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 977 A Lot of Work
+
+This day was hard, I have a lot of tasks to do, tomorrow I will be able to finish
+some of them.
+
 ##### Day 976 Work Without Quality
 
 I am a Developer and try to write quality code the most of the time, but on some
