@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 978 Coding With Pleasure
+
+This day I was make code applying Test Driven Development, A long of time that 
+don't make code with tests
+
 ##### Day 977 A Lot of Work
 
 This day was hard, I have a lot of tasks to do, tomorrow I will be able to finish
