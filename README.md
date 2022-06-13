@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 979 Mobile, Mobile
+
+This weekend I was study Mobile Development all day.
+
 ##### Day 978 Coding With Pleasure
 
 This day I was make code applying Test Driven Development, A long of time that 
