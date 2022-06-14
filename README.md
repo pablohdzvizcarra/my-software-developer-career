@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 980 Kafka Power
+
+It's amazing how kafka works, kafka can help us to create a distributed system 
+easy and fast, this day I had to use it to create events that stop process on
+multiple Kubernetes pods.
+
 ##### Day 979 Mobile, Mobile
 
 This weekend I was study Mobile Development all day.
