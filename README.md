@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 981 Socket Problems
+
+Today we have a error in the websocket that it's used with mobile application, 
+I am tired we were working late.
+
 ##### Day 980 Kafka Power
 
 It's amazing how kafka works, kafka can help us to create a distributed system 
