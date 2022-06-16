@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 982 Kubernetes Unique IDs
+
+Well I have a problem with Kubernetes I need to create a three pods but each 
+Pod need to have a unique id and this id cannot be changed each ti the pods 
+are created, this is a good problem to solve.
+
 ##### Day 981 Socket Problems
 
 Today we have a error in the websocket that it's used with mobile application, 
