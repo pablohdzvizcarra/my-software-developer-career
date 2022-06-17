@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 983 Taking Kafka to the Limit
+
+I need learn more about how to create event driven architectures and how to 
+use Kafka to create this events, ours applications need to be scale.
+
 ##### Day 982 Kubernetes Unique IDs
 
 Well I have a problem with Kubernetes I need to create a three pods but each 
