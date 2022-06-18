@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 984 A little Boring
+
+I don't know, today was a this days that I not want to do nothing.
+
 ##### Day 983 Taking Kafka to the Limit
 
 I need learn more about how to create event driven architectures and how to 
