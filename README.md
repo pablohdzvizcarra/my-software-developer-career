@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 985 Bad Tutorials
+
+Today I was learn that the large tutorials are bored or maybe only me I don't
+like now, but read books and write code is very interesting.
+
 ##### Day 984 A little Boring
 
 I don't know, today was a this days that I not want to do nothing.
