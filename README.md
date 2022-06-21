@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 986 Thinking Asynchronously
+
+We have a lot of changes in our architecture, our services need to be more
+flexible and asynchronous, a lot of things to learn I am exciting.
+
 ##### Day 985 Bad Tutorials
 
 Today I was learn that the large tutorials are bored or maybe only me I don't
