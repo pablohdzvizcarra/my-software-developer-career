@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 987 A little sick
+
+Today was a bad day, I am sick and only can make a little code.
+
 ##### Day 986 Thinking Asynchronously
 
 We have a lot of changes in our architecture, our services need to be more
