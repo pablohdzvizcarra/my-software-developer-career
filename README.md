@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 988 Grit
+
+I have been reading this book the last few days, with several of the ideas
+in this book I identify, I think it is time to form my path as a developer
+and set some goals. 
+
 ##### Day 987 A little sick
 
 Today was a bad day, I am sick and only can make a little code.
