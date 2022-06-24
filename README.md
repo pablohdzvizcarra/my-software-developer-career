@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 989 I am tired
+
+This day I only sleep 3 hours, productive deployments are hard, I need a 
+big break.
+
 ##### Day 988 Grit
 
 I have been reading this book the last few days, with several of the ideas
