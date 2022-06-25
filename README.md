@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 990 Pain
+
+The pain in my body for so many hours in front of the pc is giving me
+ problems, I need to solve these pains.
+
 ##### Day 989 I am tired
 
 This day I only sleep 3 hours, productive deployments are hard, I need a 
