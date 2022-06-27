@@ -7,21 +7,24 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 991-992
+
+This weekend I do a little code, I was needed relax me and that;s was I did, but finally I do
+code in Sunday at nine o'clock at the night.
+
 ##### Day 990 Pain
 
-The pain in my body for so many hours in front of the pc is giving me
- problems, I need to solve these pains.
+The pain in my body for so many hours in front of the pc is giving me problems, I need to solve
+these pains.
 
 ##### Day 989 I am tired
 
-This day I only sleep 3 hours, productive deployments are hard, I need a 
-big break.
+This day I only sleep 3 hours, productive deployments are hard, I need a big break.
 
 ##### Day 988 Grit
 
-I have been reading this book the last few days, with several of the ideas
-in this book I identify, I think it is time to form my path as a developer
-and set some goals. 
+I have been reading this book the last few days, with several of the ideas in this book I identify,
+I think it is time to form my path as a developer and set some goals.
 
 ##### Day 987 A little sick
 
@@ -29,37 +32,37 @@ Today was a bad day, I am sick and only can make a little code.
 
 ##### Day 986 Thinking Asynchronously
 
-We have a lot of changes in our architecture, our services need to be more
-flexible and asynchronous, a lot of things to learn I am exciting.
+We have a lot of changes in our architecture, our services need to be more flexible and
+asynchronous, a lot of things to learn I am exciting.
 
 ##### Day 985 Bad Tutorials
 
-Today I was learn that the large tutorials are bored or maybe only me I don't
-like now, but read books and write code is very interesting.
+Today I was learned that the large tutorials are bored or maybe only me I don't like now, but read
+books and write code is very interesting.
 
 ##### Day 984 A little Boring
 
-I don't know, today was a this days that I not want to do nothing.
+I don't know, today was a day's that I not want to do nothing.
 
 ##### Day 983 Taking Kafka to the Limit
 
-I need learn more about how to create event driven architectures and how to 
-use Kafka to create this events, ours applications need to be scale.
+I need learn more about how to create event driven architectures and how to use Kafka to create
+these events, ours applications need to be scale.
 
 ##### Day 982 Kubernetes Unique IDs
 
-Well I have a problem with Kubernetes I need to create a three pods but each 
-Pod need to have a unique id and this id cannot be changed each ti the pods 
+Well I have a problem with Kubernetes I need to create three pods but each
+Pod need to have a unique id and this id cannot be changed each ti the pods
 are created, this is a good problem to solve.
 
 ##### Day 981 Socket Problems
 
-Today we have a error in the websocket that it's used with mobile application, 
+Today we have an error in the websocket that it's used with mobile application,
 I am tired we were working late.
 
 ##### Day 980 Kafka Power
 
-It's amazing how kafka works, kafka can help us to create a distributed system 
+It's amazing how kafka works, kafka can help us to create a distributed system
 easy and fast, this day I had to use it to create events that stop process on
 multiple Kubernetes pods.
 
@@ -69,7 +72,7 @@ This weekend I was study Mobile Development all day.
 
 ##### Day 978 Coding With Pleasure
 
-This day I was make code applying Test Driven Development, A long of time that 
+This day I was make code applying Test Driven Development, A long of time that
 don't make code with tests
 
 ##### Day 977 A Lot of Work
@@ -80,25 +83,24 @@ some of them.
 ##### Day 976 Work Without Quality
 
 I am a Developer and try to write quality code the most of the time, but on some
-occasions, any bug can be sent with the code have a quality team that test your 
+occasions, any bug can be sent with the code have a quality team that test your
 code is a great tool but if the company don't agree this , really the bugs are free.
 
 ##### Day 975 Data Binding
 
-In android development the process of how the views and objects work together is 
+In android development the process of how the views and objects work together is
 exciting, I believe it that mobile development is easy to learn but this is wrong,
-Its a new world. 
-
+It's a new world.
 
 ##### Day 974 Architecture Changes
 
-In the work, we need to implement important architectural changes in some 
-micro-services, this things be a challenge.
+In the work, we need to implement important architectural changes in some
+microservices, these things be a challenge.
 
 ##### Day 973 Android Design Patterns
 
 The Android Development is good, I think that I can take some concepts that use and
-applied in my Backend projects, the use of design patterns is amazing and the part 
+applied in my Backend projects, the use of design patterns is amazing and the part
 on how to separate concerns is beautiful.
 
 ##### Day 971-972 My First Android Application
@@ -115,20 +117,21 @@ The best way to create good code is have a good sleep.
 
 ##### Day 967 Stress Moments
 
-Today we have a stressful moment the production application started to fail, we can fix it 
+Today we have a stressful moment the production application started to fail, we can fix it
 but need more changes.
 
 ##### Day 966 Don't Work Extra Hours
 
-Well the title says it all, don't work overtime if you don't get paid or get some time off afterwards.
+Well the title says it all, don't work overtime if you don't get paid or get some time off
+afterwards.
 
 ##### Day 965 My First Mobile App
 
-Hurray, this day I did my first mobile app, well this app is very basic but I feel excite.
+Hurray, this day I did my first mobile app, well this app is very basic, but I feel excite.
 
 ##### Day 964 Battling With Kafka
 
-Kafka it's hard, well I think that  you need time to learn all concepts to mastering it, 
+Kafka it's hard, well I think that you need time to learn all concepts to mastering it,
 and this concepts need time to can be learned.
 
 ##### Day 963 Be Better Person
@@ -136,10 +139,9 @@ and this concepts need time to can be learned.
 This day I feel productive, I read three chapters of my android book, practice android code
 making and app, and finish my tasks in the work, will a weekend easy.
 
-
 ##### Day 962 200 Days Practicing English
 
-I learn a little of English every day, all days I read in English, write in English, and play 
+I learn a little of English every day, all days I read in English, write in English, and play
 with the Duolingo App, I also practiced today Android Development.
 
 ##### Day 960-961 Learning About Software Architecture
