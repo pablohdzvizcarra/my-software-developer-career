@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 993 A Good Day
+
+This day I learn a lot about messages driven architectures, concurrency, parallelism and another
+things about microservices and Object-Oriented programming.
+
 ##### Day 991-992
 
 This weekend I do a little code, I was needed relax me and that;s was I did, but finally I do
