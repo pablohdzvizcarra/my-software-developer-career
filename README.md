@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 994 Thinking in Design
+
+I think that each day I go understand better the Design Patterns, today I was studied Singleton,
+Facade, and Factory Method.
+
 ##### Day 993 A Good Day
 
 This day I learn a lot about messages driven architectures, concurrency, parallelism and another
