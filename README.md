@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 995 A Large Method
+
+I am thinking how refactor a large method this method has a lot of responsibilities, and I need 
+take off these responsibilities and pass to another classes.
+
 ##### Day 994 Thinking in Design
 
 I think that each day I go understand better the Design Patterns, today I was studied Singleton,
