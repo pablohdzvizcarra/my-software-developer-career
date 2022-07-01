@@ -7,9 +7,14 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 996 Asynchronous or Synchronous
+
+Async is not always the best solutions this day I verify, and I learn a great lesson, I still
+have a lot to study about microservices.
+
 ##### Day 995 A Large Method
 
-I am thinking how refactor a large method this method has a lot of responsibilities, and I need 
+I am thinking how refactor a large method this method has a lot of responsibilities, and I need
 take off these responsibilities and pass to another classes.
 
 ##### Day 994 Thinking in Design
