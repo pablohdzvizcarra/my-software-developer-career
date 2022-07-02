@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 997 Facade, Factory Method and Singleton
+
+This day I was studied these design patterns.
+
 ##### Day 996 Asynchronous or Synchronous
 
 Async is not always the best solutions this day I verify, and I learn a great lesson, I still
