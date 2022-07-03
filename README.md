@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 998-999 Weekend Reading Books
+
+Today I was finished the Grit book it's an amazing book, I learn a lot about the reasons
+for the people starts anything and never complete this things, and advance in my another 
+book about Microservice.
+
 ##### Day 997 Facade, Factory Method and Singleton
 
 This day I was studied these design patterns.
@@ -14,7 +20,7 @@ This day I was studied these design patterns.
 ##### Day 996 Asynchronous or Synchronous
 
 Async is not always the best solutions this day I verify, and I learn a great lesson, I still
-have a lot to study about microservices.
+have a lot to study about microservice.
 
 ##### Day 995 A Large Method
 
