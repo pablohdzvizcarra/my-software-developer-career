@@ -7,10 +7,16 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1000 Days of Code
+
+What can I say, my road has been long since I started on this journey, the truth is I didn't 
+know I would achieve all this, I still remember my first hello world line I had more than two 
+years ago, well let's keep writing code, let's go for two thousand days.
+
 ##### Day 998-999 Weekend Reading Books
 
 Today I was finished the Grit book it's an amazing book, I learn a lot about the reasons
-for the people starts anything and never complete this things, and advance in my another 
+for the people starts anything and never complete these things, and advance in my another 
 book about Microservice.
 
 ##### Day 997 Facade, Factory Method and Singleton
