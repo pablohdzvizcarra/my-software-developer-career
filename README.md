@@ -7,9 +7,14 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1002 Asynchronous Thinking
+
+I think that little by little I am understanding asynchronous, I think I just need more practice
+and knowledge.
+
 ##### Day 1001 Kafka and Kubernetes
 
-This of Kafka and kUbernetes is a big problem, how you make that all events are handle and
+This of Kafka and Kubernetes is a big problem, how you make that all events are handle and
 controlled this is a challenge, I have few days for finish this feature.
 
 **Day 1 - 50 HTML - CSS - Javascript**  [here](./day0-50.md)</br>
