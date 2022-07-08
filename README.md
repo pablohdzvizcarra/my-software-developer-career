@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1003 When Things Work Out
+
+Sometimes some things work a good, but another work bad, maybe you think that your solution it's
+good, but in the testing its bad in this point you think that you are a bad programmer, wait a
+moment and relax, your travel is begun start just now, only enjoy the travel.
+
 ##### Day 1002 Asynchronous Thinking
 
 I think that little by little I am understanding asynchronous, I think I just need more practice
