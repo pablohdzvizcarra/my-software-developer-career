@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1004 Wake Up Early
+
+In the calm when it's morning all city is in state of peace, and I can do code with a great pleasure,
+I enjoy these moments.
+
 ##### Day 1003 When Things Work Out
 
 Sometimes some things work a good, but another work bad, maybe you think that your solution it's
