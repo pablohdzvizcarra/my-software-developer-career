@@ -7,9 +7,15 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1005 A Lot of Events
+
+I do an infinite for loop in Kafka today, this is not my intention, but I learn some interesting
+things about how Kafka handle the messages in topics and group ids.
+
 ##### Day 1004 Wake Up Early
 
-In the calm when it's morning all city is in state of peace, and I can do code with a great pleasure,
+In the calm when it's morning all city is in state of peace, and I can do code with a great
+pleasure,
 I enjoy these moments.
 
 ##### Day 1003 When Things Work Out
