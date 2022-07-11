@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1006 Scala and JVM
+
+This weekend I was study Scala programming language, how Scala is a language part of the JVM I am
+interesting learn for funny reasons, well functional programming is strange with Scala.
+
 ##### Day 1005 A Lot of Events
 
 I do an infinite for loop in Kafka today, this is not my intention, but I learn some interesting
