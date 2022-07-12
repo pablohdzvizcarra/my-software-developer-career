@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1007 WebHooks and Microservices
+
+Today I learned some interesting things about microservices, how to separate responsibilities for
+them and how to think better when creating microservices.
+
 ##### Day 1006 Scala and JVM
 
 This weekend I was study Scala programming language, how Scala is a language part of the JVM I am
