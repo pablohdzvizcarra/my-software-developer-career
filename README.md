@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1008 Estimations
+
+Today I make another estimation for a new feature in the platform, I think that my estimations times its be better with
+the time, and I hope finish this feature in the time estimated.
+
 ##### Day 1007 WebHooks and Microservices
 
 Today I learned some interesting things about microservices, how to separate responsibilities for
