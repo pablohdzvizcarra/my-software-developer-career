@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1010 Microservice Communication
+
+The communication in microservices is one of the most important things that you decide when you build a microservice,
+async or sync the most common types of communication, well At this moment I have a problem with an async messages
+flow, I feel that my head its crazy, I think that this is one of the most difficult parts in programming,
+asynchronous I go for you.
+
 ##### Day 1009 Oh My Back and Happy Birthday
 
 I remember this scene of the movie Spider-Man, and it's funny At this moment, only to say that I have a big pain in my
