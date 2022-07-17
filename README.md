@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1012 Read and read
+
+Today I was read a lot of the book Building Microservices, this book is a great tool to understand you how to can
+create a good microservices.
+
 ##### Day 1011 You need an organization task tool
 
 Yes I think that all programmers need an organization task tool for your personal learning, sometimes when I read a
