@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1013 Modern Technologies and Old Tools
+
+This day I have problems with Kotlin and Maven, Kotlin is a great programming language but sometimes I be crazy with basic configurations for make that the project is run, with Gradle sometimes is the same way, for this reason I like frameworks how Spring that have all things ready to work.
+
 ##### Day 1012 Read and read
 
 Today I was read a lot of the book Building Microservices, this book is a great tool to understand you how to can
