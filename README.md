@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1014 Rate API Limits
+
+I have problems with an external API, I need to call this API very fast but your limits don't permit this, I think in two posible solutions apply delay or make the HTTP request more slow.
+
 ##### Day 1013 Modern Technologies and Old Tools
 
 This day I have problems with Kotlin and Maven, Kotlin is a great programming language but sometimes I be crazy with basic configurations for make that the project is run, with Gradle sometimes is the same way, for this reason I like frameworks how Spring that have all things ready to work.
