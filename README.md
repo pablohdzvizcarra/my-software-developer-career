@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1015 Quorum
+
+Today I was learning about the Quorum, this is the minum number of votes that a dsitribute transaction can be 
+considered true, I do a basic implementation with Java, and I was reading the PDF document that wrote Dale Skee
+about this topic in 1982, tomorrow I leanr more about this.
+
 ##### Day 1014 Rate API Limits
 
 I have problems with an external API, I need to call this API very fast but your limits don't permit this, I think in two posible solutions apply delay or make the HTTP request more slow.
