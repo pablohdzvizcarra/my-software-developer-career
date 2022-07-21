@@ -7,19 +7,27 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1016 Quorum and Microservices
+
+Well today I finished to read the document with a quorum implementation, and I learn some concepts about
+microservices how API Gateways and Service Mesh.
+
 ##### Day 1015 Quorum
 
-Today I was learning about the Quorum, this is the minum number of votes that a dsitribute transaction can be 
+Today I was learning about the Quorum, this is the minimum number of votes that a distributed transaction can be
 considered true, I do a basic implementation with Java, and I was reading the PDF document that wrote Dale Skee
-about this topic in 1982, tomorrow I leanr more about this.
+about this topic in 1982, tomorrow I learn more about this.
 
 ##### Day 1014 Rate API Limits
 
-I have problems with an external API, I need to call this API very fast but your limits don't permit this, I think in two posible solutions apply delay or make the HTTP request more slow.
+I have problems with an external API, I need to call this API very fast but your limits don't permit this, I think in
+two possible solutions apply delay or make the HTTP request more slow.
 
 ##### Day 1013 Modern Technologies and Old Tools
 
-This day I have problems with Kotlin and Maven, Kotlin is a great programming language but sometimes I be crazy with basic configurations for make that the project is run, with Gradle sometimes is the same way, for this reason I like frameworks how Spring that have all things ready to work.
+This day I have problems with Kotlin and Maven, Kotlin is a great programming language, but sometimes I be crazy with
+basic configurations for make that the project is run, with Gradle sometimes is the same way, for this reason I like
+frameworks how Spring that have all things ready to work.
 
 ##### Day 1012 Read and read
 
@@ -106,4 +114,4 @@ controlled this is a challenge, I have few days for finish this feature.
 **Day 801 - 850 Java | Spring Boot | OCI** [here](day801-850.md)</br>
 **Day 851 - 900 Java | Design Patterns** [here](day851-900.md)</br>
 **Day 901 - 950 Java | Design Patterns** [here](day901-950.md)</br>
-**Day 851 - 900 Java | Design Patterns** [here](day951-1000.md)</br>
+**Day 951 - 1000 Java | Design Patterns** [here](day951-1000.md)</br>
