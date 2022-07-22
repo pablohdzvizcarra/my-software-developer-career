@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1017 Sagas Algorithm
+
+I didn't know that this problem has a name, many times at work we have this problem, a transaction goes wrong from a
+sub-transactions flow, and we get this problem, and we don't apply an undo to everything else. Wll I have a suggestion
+to make in my work, the use of Sagas.
+
 ##### Day 1016 Quorum and Microservices
 
 Well today I finished to read the document with a quorum implementation, and I learn some concepts about
