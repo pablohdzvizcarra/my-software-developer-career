@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1020 Grit Test
+
+Today I took my Grit test again, this test is designed to know how much Grit you have and how hard you are willing
+to work for your goals, my score was lower than last month, but because this time I was more honest.
+
 ##### Day 1019 Kotlin and JavaFX
 
 It's been a long time since I had fun like today, today I was playing with Kotlin and JavaFX at work we don't have
