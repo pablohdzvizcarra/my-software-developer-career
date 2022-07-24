@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1019 Kotlin and JavaFX
+
+It's been a long time since I had fun like today, today I was playing with Kotlin and JavaFX at work we don't have
+internal tools to test some technologies, and I started to create two simple tools for this purpose.
+
 ##### Day 1018 Sagas and Transaction
 
 Well in this day I continue learning about Sagas and Transactions in microservices.
