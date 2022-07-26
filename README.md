@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1021 Headache and Code
+
+Well the tittle says all, try to make code with a big headache it's not good, but the job is the job, and the code
+it's all.
+
 ##### Day 1020 Grit Test
 
 Today I took my Grit test again, this test is designed to know how much Grit you have and how hard you are willing
