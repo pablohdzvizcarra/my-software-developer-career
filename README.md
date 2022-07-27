@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1022 Infrastructure as a Code
+
+This concept is still not very clear to me in my morning reading of my book on microservices I studied it a little, 
+but I didi not manage to clarify it I think I will have to investigate a little more on my own.
+
 ##### Day 1021 Headache and Code
 
 Well the tittle says all, try to make code with a big headache it's not good, but the job is the job, and the code
