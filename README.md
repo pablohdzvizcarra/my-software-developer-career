@@ -7,9 +7,14 @@ of that record.
 
 ### Programming Change My Life
 
+##### Da7 1023 Kubernetes Issues
+
+Today I had a problem with Kubernetes of those problems that when you have the logs do not help at all, well in the end
+I could solve it, but I left an important lesson document things well for next time.
+
 ##### Day 1022 Infrastructure as a Code
 
-This concept is still not very clear to me in my morning reading of my book on microservices I studied it a little, 
+This concept is still not very clear to me in my morning reading of my book on microservices I studied it a little,
 but I didi not manage to clarify it I think I will have to investigate a little more on my own.
 
 ##### Day 1021 Headache and Code
