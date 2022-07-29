@@ -7,7 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
-##### Da7 1023 Kubernetes Issues
+##### Day 1024 External APIs
+
+Today I was working with some external APIs, when they don't have a good documentation with examples this is a 
+problem, well also I don't understand how someone who is going to commercialize some API does not create a good doc. 
+
+##### Day 1023 Kubernetes Issues
 
 Today I had a problem with Kubernetes of those problems that when you have the logs do not help at all, well in the end
 I could solve it, but I left an important lesson document things well for next time.
