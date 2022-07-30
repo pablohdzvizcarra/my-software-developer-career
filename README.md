@@ -7,10 +7,16 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1025 Good Day
+
+Today I was a bad experience in my work well maybe I should say in my old work, today I quit my work the Monday I
+start work in another company, I am excited guys never back down, each book, each YouTube tutorial, each paper, each
+course that you read brings them one step closer to their goal.
+
 ##### Day 1024 External APIs
 
-Today I was working with some external APIs, when they don't have a good documentation with examples this is a 
-problem, well also I don't understand how someone who is going to commercialize some API does not create a good doc. 
+Today I was working with some external APIs, when they don't have a good documentation with examples this is a
+problem, well also I don't understand how someone who is going to commercialize some API does not create a good doc.
 
 ##### Day 1023 Kubernetes Issues
 
