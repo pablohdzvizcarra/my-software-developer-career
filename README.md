@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1026 Learning Design
+
+When I continue read my book about microservices, but I start learning event driven architecture in this part of the 
+book I take a break in this part to make deep dive in this point I think that this is very important topic in 
+programming and system design in general.
+
 ##### Day 1025 Good Day
 
 Today I was a bad experience in my work well maybe I should say in my old work, today I quit my work the Monday I
