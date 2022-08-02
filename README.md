@@ -7,10 +7,15 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1027-1028 New Job
+
+Today is the day, today I started my new job as a software developer, I will do my best to do a great job and although
+at the beginning it will be difficult I know I can do it, I will do it again, programming has changed my life.
+
 ##### Day 1026 Learning Design
 
-When I continue read my book about microservices, but I start learning event driven architecture in this part of the 
-book I take a break in this part to make deep dive in this point I think that this is very important topic in 
+When I continue read my book about microservices, but I start learning event driven architecture in this part of the
+book I take a break in this part to make deep dive in this point I think that this is very important topic in
 programming and system design in general.
 
 ##### Day 1025 Good Day
