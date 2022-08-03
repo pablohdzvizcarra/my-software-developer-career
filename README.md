@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1029 Coding With Laptop?
+
+Currently, I have only a laptop for coding, my extra monitor don't work with the laptop bad news, but I am happy with the
+laptop for my work. It's great, and it has more hardware for my personal computer.
+
 ##### Day 1027-1028 New Job
 
 Today is the day, today I started my new job as a software developer, I will do my best to do a great job and although
