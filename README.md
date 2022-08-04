@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1030 Tutorials, tutorials and more tutorials
+
+Well all the people I know who work en software companies of great importance have told me about the onboard-ing 
+tutorials they receive, I think it is also important to learn about the culture of the company and it is always good 
+to refresh some knowledge that you thought you had learned very well. 
+
 ##### Day 1029 Coding With Laptop?
 
 Currently, I have only a laptop for coding, my extra monitor don't work with the laptop bad news, but I am happy with the
