@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1032 Without Electric Energy
+
+After five o'clock, the electric energy in my city is off, without internet the time pass more slowly, but I can use
+the time to think about me and what things I do fine, and the things that can do wrong, the next week I start to do code
+in my new work I am excited.
+
 ##### Day 1031 One:One
 
 Today I had my first one by one with my manager, well I am new in my work the expectation for me still little for the
@@ -15,7 +21,7 @@ moment I think.
 ##### Day 1030 Tutorials, tutorials and more tutorials
 
 Well all the people I know who work en software companies of great importance have told me about the onboard-ing
-tutorials they receive, I think it is also important to learn about the culture of the company and it is always good
+tutorials they receive, I think it is also important to learn about the culture of the company, and it is always good
 to refresh some knowledge that you thought you had learned very well.
 
 ##### Day 1029 Coding With Laptop?
