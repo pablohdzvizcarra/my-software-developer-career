@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1033 Python
+
+Today I was practice python, in the work some services are write in python, and I don't know this language, I am ready
+now for my first problems with python.
+
 ##### Day 1032 Without Electric Energy
 
 After five o'clock, the electric energy in my city is off, without internet the time pass more slowly, but I can use
