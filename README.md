@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1034 SFTP and C4 Architecture
+
+Today I have reviewed these two concepts, it seems that I still need to review the software architectures part, I know
+what will be my next book when I finish reading about microservices.
+
 ##### Day 1033 Python
 
 Today I was practice python, in the work some services are write in python, and I don't know this language, I am ready
