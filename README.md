@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1035 Python Book
+
+Well I decide to I need to learn python with a good way, I start to read the book Head First Python, and my firsts
+impressions of this book are great. 
+
 ##### Day 1034 SFTP and C4 Architecture
 
 Today I have reviewed these two concepts, it seems that I still need to review the software architectures part, I know
