@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1036 Python, SFTP, and read work docs
+
+This day I was playing with python and the SFTP protocol, I created two SFTP server with Docker, and pass files
+between this servers, in my work we use a lot SFTP protocol, and I need to do deep dive in this topic.
+
 ##### Day 1035 Python Book
 
 Well I decide to I need to learn python with a good way, I start to read the book Head First Python, and my firsts
