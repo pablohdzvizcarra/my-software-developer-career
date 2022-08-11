@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1037 Events
+
+Well today I learn about RabbitMQ, this message broker have some similar characteristics with Kafka but in some ways
+is different, I practice with RabbitMQ, Python and Kotlin. Tomorrow I need to finish my learn project.
+
 ##### Day 1036 Python, SFTP, and read work docs
 
 This day I was playing with python and the SFTP protocol, I created two SFTP server with Docker, and pass files
