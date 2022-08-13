@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1038, 1039 Deep Learning Day
+
+In my work today was a Deep Learning Day this day was great I learn a lot of things IA, Cloud Computing, Quantum 
+Computers, Agile, etc. This thinks of my work I love it.
+
 ##### Day 1037 Events
 
 Well today I learn about RabbitMQ, this message broker have some similar characteristics with Kafka but in some ways
