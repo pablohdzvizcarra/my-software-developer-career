@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1041 Reading About Python
+
+Well this weekend I continue with my book about python, I want to finish this book and start to learn more
+about how automatize process with python and Docker, and start to learn IBM cloud too.
+
 ##### Day 1040 Python Scripting
 
 I want to do a deep dive in python scripting, in my work we make a lot of manual process than I think with a 
