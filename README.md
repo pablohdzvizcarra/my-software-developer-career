@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1040 Python Scripting
+
+I want to do a deep dive in python scripting, in my work we make a lot of manual process than I think with a 
+little of knowledge of scripting, we can save a lot of time and make a less more that this manual process.  
+
 ##### Day 1038, 1039 Deep Learning Day
 
 In my work today was a Deep Learning Day this day was great I learn a lot of things IA, Cloud Computing, Quantum 
