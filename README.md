@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1042 RedHat Servers
+
+Well I have my first task in my new work it's some interesting I need to learn about some new topics.
+
 ##### Day 1041 Reading About Python
 
 Well this weekend I continue with my book about python, I want to finish this book and start to learn more
