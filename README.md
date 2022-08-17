@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1043 A Lot of Info
+
+Today I burn my brain with a lot info about RabbitMQ, I had time that this did not happen to me.
+
 ##### Day 1042 RedHat Servers
 
 Well I have my first task in my new work it's some interesting I need to learn about some new topics.
