@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1045 Divide and Conquer
+
+I think I was forgetting this technique, it is curious to see how one can lose one's head in the 
+face of difficult problems.
+
 ##### Day 1044 Hard Things
 
 how often do we not have a task that seemed easy, but in the end ends up being difficult I love the 
