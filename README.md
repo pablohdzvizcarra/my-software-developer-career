@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1046 Read Carefully
+
+Well of the problems I had during the week I was able to solve 2 of them, it's funny how if you
+pay more attention to what you read maybe you will save a lot of time, I will be able to dedicate 
+my weekend to continue with my learning.
+
 ##### Day 1045 Divide and Conquer
 
 I think I was forgetting this technique, it is curious to see how one can lose one's head in the 
