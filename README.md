@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1047 - 1048 Event Messages
+
+Today I finish that read the RabbitMQ Essentials book, this books its a high level review of this 
+tool, I know Apache Kafka but RabbitMQ is some different to Apache Kafka but some concepts are 
+similar any way at all I love Microservices.
+
 ##### Day 1046 Read Carefully
 
 Well of the problems I had during the week I was able to solve 2 of them, it's funny how if you
