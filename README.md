@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1048 Security
+
+Security in the applications in my last work it's not apply in any part of the system, but I need 
+to learn about this topics because I need to start to think in how we design and maintenance 
+secure applications.
+
 ##### Day 1047 - 1048 Event Messages
 
 Today I finish that read the RabbitMQ Essentials book, this books its a high level review of this 
