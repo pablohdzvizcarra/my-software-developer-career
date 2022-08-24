@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1049 English
+
+Well, we have been informed that we will start working with people who speak English as a
+language, so it is time to start practicing more English.
+
 ##### Day 1048 Security
 
 Security in the applications in my last work it's not apply in any part of the system, but I need 
