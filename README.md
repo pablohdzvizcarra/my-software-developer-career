@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1050 Bad Moments
+
+Today I has a bad moment, my English is not good and I had a meet with some people that only 
+speak English, a bad situation for my part, I was only can understand some words and phrases 
+that they was speak, well I need to start speak and study more English now, this is my new goal.  
+
 ##### Day 1049 English
 
 Well, we have been informed that we will start working with people who speak English as a
