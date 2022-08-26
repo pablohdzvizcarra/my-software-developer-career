@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1051 Learning and Reading
+
+Well this day I read a lot about some topics for the work and a personal book about minimalism.
+
 ##### Day 1050 Bad Moments
 
 Today I has a bad moment, my English is not good and I had a meet with some people that only 
