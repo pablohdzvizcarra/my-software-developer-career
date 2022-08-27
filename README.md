@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1052 Threat and Security
+
+Today for the afternoon after my job, I learn a lot about threat security and cybersecurity 
+themes, well I was practice English too with others persons.
+
 ##### Day 1051 Learning and Reading
 
 Well this day I read a lot about some topics for the work and a personal book about minimalism.
