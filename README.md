@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1053 Python And Test
+
+This day I was practice python with TDD methodology, I know a little about testing in python
+well only I don't know a good way the libraries that you would use with python in testing.
+
 ##### Day 1052 Threat and Security
 
 Today for the afternoon after my job, I learn a lot about threat security and cybersecurity 
