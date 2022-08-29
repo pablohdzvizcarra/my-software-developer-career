@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1054 Relax Day
+
+Today I finish a course about threat modeling an interesting topic that I was not know a 
+little, well It's time to choice another book/course. 
+
 ##### Day 1053 Python And Test
 
 This day I was practice python with TDD methodology, I know a little about testing in python
