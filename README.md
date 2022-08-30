@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1055 OOP In Python
+
+The Object-Oriented programming in python is strange, I like python because you can write
+a lot scripts in an easy way, and you can write some microservice very fast an a lightweight form.
+
 ##### Day 1054 Relax Day
 
 Today I finish a course about threat modeling an interesting topic that I was not know a 
