@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1056 Python Scripting and RabbitMQ
+
+Today I document some configurations and put this configurations in a Python Script, I am
+programmer I don't like the manual configurations xD.
+
 ##### Day 1055 OOP In Python
 
 The Object-Oriented programming in python is strange, I like python because you can write
