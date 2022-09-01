@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1057 Linux Servers
+
+In my first month in my new job, I never think that I will focused in RabbitMQ but I like 
+it, I make a deep dive in RabbitMQ use and installation always the event driven architectures 
+I like.
+
 ##### Day 1056 Python Scripting and RabbitMQ
 
 Today I document some configurations and put this configurations in a Python Script, I am
