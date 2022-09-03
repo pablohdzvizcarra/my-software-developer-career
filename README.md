@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1058-1059 Events and Microservices
+
+Sometimes I think that the Microservices architectures oriented to Event-Driven are a 
+challenge, though this is the funny part, if you are decide  to study Microservices Architectures 
+all time you will have fun.
+
 ##### Day 1057 Linux Servers
 
 In my first month in my new job, I never think that I will focused in RabbitMQ but I like 
