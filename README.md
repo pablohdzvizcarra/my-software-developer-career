@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1060 A Grit Moment
+
+well today after three weeks I have finish my Python book, really sometimes I back down but I 
+remember that the Grit == Success.
+
 ##### Day 1058-1059 Events and Microservices
 
 Sometimes I think that the Microservices architectures oriented to Event-Driven are a 
