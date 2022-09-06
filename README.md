@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1062 Without Power
+
+Today in my house the power failed for a couple of hours and the bad thing is that I was on 
+working hours sometimes I think I'm a little silly with these things I thought I was not going 
+to be able to work during the day and I just had to go to a place where there was electricity 
+sometimes I forget that I already have a laptop.
+
 ##### Day 1061 New Book About Soft Skills
 
 Today I start read a new book about Soft Skills, this book start with a great advice, 
