@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1063 Meaningless Things
+
+Today I have see some code without form, I don't know how says this code make some strange things, 
+I think that if you don't expand your knowledge  you can finish cutting wood with a soccer ball.
+
 ##### Day 1062 Without Power
 
 Today in my house the power failed for a couple of hours and the bad thing is that I was on 
