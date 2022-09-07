@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1064 I Need to Talk With More Security
+
+I need to learn how talk with more professionalism, with more security, I think that sometimes 
+I know more than can says, but always I have nervous, I need to let.
+
 ##### Day 1063 Meaningless Things
 
 Today I have see some code without form, I don't know how says this code make some strange things, 
