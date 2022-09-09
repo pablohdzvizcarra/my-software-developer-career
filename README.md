@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1065 Mentories
+
+Today I have my first mentory, well this situation solve some concerns that I can have about my
+career, for the moment I have calm in my mind, and today I can sleep well.
+
 ##### Day 1064 I Need to Talk With More Security
 
 I need to learn how talk with more professionalism, with more security, I think that sometimes 
