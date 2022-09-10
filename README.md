@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1066 I Have a Road Map
+
+Well, this weekend I will be making my professional personal Road Map, my manager and my mentor talk me that I need to think that what branch of the programming world I like to specialize in, a hard decision, but if I think with an Agile methodology I can change my decision with some springs.
+
 ##### Day 1065 Mentories
 
 Today I have my first mentory, well this situation solve some concerns that I can have about my
