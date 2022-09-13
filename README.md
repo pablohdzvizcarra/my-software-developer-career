@@ -7,6 +7,16 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1069 Take a Decision
+
+Take a decision in your career it's a hard thing, more if this decision is what will be your specialized area, your
+lifetime is limited, and you need to start to study your specialized, imagine that you need learn only one thing in your
+career I don't know could be Java , Docker, Python, MYSQL, Mongo, Linux, and another technologies your time its valuable,
+and you cannot learn all things in your life , for this reason you need to learn a little for all required technologies
+for your work and make deep dive in one thing , and in this one thing you convert in a professional, this is the problem
+how you can choose one thing?, well in the So Good They Can't Ignore you book the author says the same advice, well I
+need a meditation time this week only work for four days, good time to think this.
+
 ##### Day 1067-1068 Study Important Things
 
 Today I have been thinking that if you study something, you need to have a good reason for study this, Today and
