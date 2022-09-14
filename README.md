@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1070 Programmer Day
+
+Elaborate a repeat task when you a programmer it's a lost of time, in the daily work we need to do some task that can be manual and this task take sometimes little or long time, sometimes the ethernet is slowly and maybe you need to open a lot of browser tabs or login in some places  and you need to do all this steps for start to do the task, then if you want to automate this process and you can save time for you and your company and money obviously you need to image how you can automate this little or bigger tasks, sometimes the only thing that you need to do it's start, and the next steps will be come alone, well the next time that you start a manual process think, I can automate this?  
+
 #### Day 1069 Take a Decision
 
 Take a decision in your career it's a hard thing, more if this decision is what will be your specialized area, your
