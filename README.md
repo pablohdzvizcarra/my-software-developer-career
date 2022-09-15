@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1071 Certificates
+
+The topic of the Certificates it's very big, when you start work with a big companies that have a concern for the security, the sessions starts with certificates authentication, and all services have a great security well I think that this topics are important not only for little applications or enterprises.
+
 #### Day 1070 Programmer Day
 
 Elaborate a repeat task when you a programmer it's a lost of time, in the daily work we need to do some task that can be manual and this task take sometimes little or long time, sometimes the ethernet is slowly and maybe you need to open a lot of browser tabs or login in some places  and you need to do all this steps for start to do the task, then if you want to automate this process and you can save time for you and your company and money obviously you need to image how you can automate this little or bigger tasks, sometimes the only thing that you need to do it's start, and the next steps will be come alone, well the next time that you start a manual process think, I can automate this?  
