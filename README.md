@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1072 Sick
+
+Today I was worked with a little cold, but all day I have had a sleep, I think that these days we need to relax and rest, well only do a little coding.
+
 #### Day 1071 Certificates
 
 The topic of the Certificates it's very big, when you start work with a big companies that have a concern for the security, the sessions starts with certificates authentication, and all services have a great security well I think that this topics are important not only for little applications or enterprises.
