@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1073-1074 Free Days
+
+In my country the Friday was free day of work. These days I am practice scripting with bash and python, tomorrow I like continue scripting but now with Groovy and Kotlin scripting that is a beta feature in the Kotlin language.
+
 #### Day 1072 Sick
 
 Today I was worked with a little cold, but all day I have had a sleep, I think that these days we need to relax and rest, well only do a little coding.
