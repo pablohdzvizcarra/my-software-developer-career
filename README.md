@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1075 Python
+
+Today I made code with Python, I need to learn a lot of things about Python name conventions, projects structure, testing, classes or functions. Python is interesting I think that with the JVM (Java, Kotlin, Scala), Python, Cloud Computing and Microservices, I have a lot of fun for a very long time.
+
 #### Day 1073-1074 Free Days
 
 In my country the Friday was free day of work. These days I am practice scripting with bash and python, tomorrow I like continue scripting but now with Groovy and Kotlin scripting that is a beta feature in the Kotlin language.
