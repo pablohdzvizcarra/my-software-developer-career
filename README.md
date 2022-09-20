@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1076 Complex Problems
+
+We have a complex problem at this moment, In big organizations the solutions of problems can be very difficult, because you need to scale the problem, and the most of the time others teams need to approve your actions, and this can be taken a lot of time, my advice it doesn't hurry up the things, and calm your mind in this situations.
+
 #### Day 1075 Python
 
 Today I made code with Python, I need to learn a lot of things about Python name conventions, projects structure, testing, classes or functions. Python is interesting I think that with the JVM (Java, Kotlin, Scala), Python, Cloud Computing and Microservices, I have a lot of fun for a very long time.
