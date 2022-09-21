@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1077 Deep Study
+
+Today I have learned an important lesson, when you have a hard topic to understand and learn, take it easy, and only you need to study more, try to divide this study in an algorithm of steps.
+
 #### Day 1076 Complex Problems
 
 We have a complex problem at this moment, In big organizations the solutions of problems can be very difficult, because you need to scale the problem, and the most of the time others teams need to approve your actions, and this can be taken a lot of time, my advice it doesn't hurry up the things, and calm your mind in this situations.
