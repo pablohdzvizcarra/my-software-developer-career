@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1078 Innovation
+
+Today I start to open my mind to the innovation, this is an interesting topic, I was thought that with share my ideas it's ok, but what it's the purpose of only share ideas if these ideas don't apply, well I need to start with the second phase execute or make a good planing for these ideas.
+
 #### Day 1077 Deep Study
 
 Today I have learned an important lesson, when you have a hard topic to understand and learn, take it easy, and only you need to study more, try to divide this study in an algorithm of steps.
