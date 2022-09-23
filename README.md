@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1079 Zero Trust
+
+Today when I was reading Building Microservices book, I know a term that I apply for a long time when I build applications Zero Trust this term or best say mentality make reference to build your applications thinking that your Microservice don't know if the request provide by another microservice it's secure, and you need to validate each request when you know that the only Microservice that can make request it's another microservice in your cloud zone, well the idea it's something like this.
+
 #### Day 1078 Innovation
 
 Today I start to open my mind to the innovation, this is an interesting topic, I was thought that with share my ideas it's ok, but what it's the purpose of only share ideas if these ideas don't apply, well I need to start with the second phase execute or make a good planing for these ideas.
