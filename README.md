@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1080 Possible Burnout
+
+Today I had an interesting conversation with a great person, this person talk about the burnout, and how I will structure my life, my work and my learning, I need to think these things because some specials days I don't like to make any code, but another days I make code, or study for more than 12 hours and I feel great.
+
 #### Day 1079 Zero Trust
 
 Today when I was reading Building Microservices book, I know a term that I apply for a long time when I build applications Zero Trust this term or best say mentality make reference to build your applications thinking that your Microservice don't know if the request provide by another microservice it's secure, and you need to validate each request when you know that the only Microservice that can make request it's another microservice in your cloud zone, well the idea it's something like this.
