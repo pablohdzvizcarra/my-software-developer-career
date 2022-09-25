@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1081 Microservices
+
+Today all day I was learning about Microservice, and topics related to enterprise, I need to learn more about how to work with a big company and Agile practices.
+
 #### Day 1080 Possible Burnout
 
 Today I had an interesting conversation with a great person, this person talk about the burnout, and how I will structure my life, my work and my learning, I need to think these things because some specials days I don't like to make any code, but another days I make code, or study for more than 12 hours and I feel great.
