@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1082 Focus Sunday
+
+I am surprised about me, today I can read a lot of pages of my book, to do some code with Groovy, play with my children, to do some home tasks, pass time with my wife, and watch TV, I think that all books that I read about how to be more productivity, how to focus me, read and study about these topics start to give me more time for to do more tasks in less time, well tomorrow will be exiting.
+
 #### Day 1081 Microservices
 
 Today all day I was learning about Microservice, and topics related to enterprise, I need to learn more about how to work with a big company and Agile practices.
