@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1083 Start Working in English
+
+Officially, I start to work in English today in my team, I think that I feel good I know that I have much work to feel comfortable with speak and hear English, great things are coming to me.
+
 #### Day 1082 Focus Sunday
 
 I am surprised about me, today I can read a lot of pages of my book, to do some code with Groovy, play with my children, to do some home tasks, pass time with my wife, and watch TV, I think that all books that I read about how to be more productivity, how to focus me, read and study about these topics start to give me more time for to do more tasks in less time, well tomorrow will be exiting.
