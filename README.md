@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1085 Organize Your Learning
+
+Today I was search some tutorials about how I can organize my study, sometimes I waste time with the decision that what study, I think that I can be more agile in this process, but firstly I need a methodology or a method for this task.
+
 #### Day 1084 Pipelines and Docker
 
 When you need to deliver a Docker image with some personalize configurations, maybe you have some problems with your deployment platforms, sometimes we need to apply some configurations before we create the Docker images maybe tag the image with a special name, build the image from another machine, signing the Docker image, I don't know exists a lot of configurations. Well in these cases you need to start a build your own pipelines in these pipelines you can put all modifications, configurations to the images, these pipelines I think not have limited.
