@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1086 Ligh in The Darkness
+
+Well this day I can solve a hard problem, I was thinking that I will cannot solve but with a lot of effort I can do it, but I have some work with this task.
+
 #### Day 1085 Organize Your Learning
 
 Today I was search some tutorials about how I can organize my study, sometimes I waste time with the decision that what study, I think that I can be more agile in this process, but firstly I need a methodology or a method for this task.
