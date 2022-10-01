@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1087 More English
+
+Well I finish my first week in my work with the communication in English, the first day I was nervous a lot, but with the support of my team, only I can say, I achieve this goal, and I continue to study more about English.
+
 #### Day 1086 Ligh in The Darkness
 
 Well this day I can solve a hard problem, I was thinking that I will cannot solve but with a lot of effort I can do it, but I have some work with this task.
