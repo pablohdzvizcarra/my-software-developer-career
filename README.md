@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1088 Chaos Engineer
+
+Today I start to read the Chaos Engineer book, well this book begin good, I have an ahh moment when they explain the reason that in Netflix the engineers are need to be senior and think different very different, too I start to study a course about Cloud Computing these two concepts have a lot of relationships.
+
 #### Day 1087 More English
 
 Well I finish my first week in my work with the communication in English, the first day I was nervous a lot, but with the support of my team, only I can say, I achieve this goal, and I continue to study more about English.
