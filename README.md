@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1089 Thinking in Chaos
+
+This of thing in Chaos Engineer, it's a headache to try to build your software always thinking in availability, if you achieve build software with this discipline well are you a good programmer.
+
 #### Day 1088 Chaos Engineer
 
 Today I start to read the Chaos Engineer book, well this book begin good, I have an ahh moment when they explain the reason that in Netflix the engineers are need to be senior and think different very different, too I start to study a course about Cloud Computing these two concepts have a lot of relationships.
