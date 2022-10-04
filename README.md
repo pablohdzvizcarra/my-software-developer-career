@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+## Day 1090 Three Years of Code
+
+Today is my three anniversary writing code, time to celebrate, I remember when I start in this journey, I had a bad job, not money, not dreams, not direction in my life, but now I have all of these things and more. I have a good life, it's all for the code, thank you. 
+
 #### Day 1089 Thinking in Chaos
 
 This of thing in Chaos Engineer, it's a headache to try to build your software always thinking in availability, if you achieve build software with this discipline well are you a good programmer.
