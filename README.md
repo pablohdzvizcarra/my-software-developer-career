@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1091 Please Understand One Thing Before To Do It
+
+Today I do one task more focus in the DevOps field, but there are a lot of Linux command that I don't understand yet. This is not the problem, the problem is that I throw a lot of commands in the terminal hastily and this is not good I lose about three hours with this type of actions, another great lesson learned today.
+
 ## Day 1090 Three Years of Code
 
 Today is my three anniversary writing code, time to celebrate, I remember when I start in this journey, I had a bad job, not money, not dreams, not direction in my life, but now I have all of these things and more. I have a good life, it's all for the code, thank you. 
