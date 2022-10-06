@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1093 Do Your Work Good
+
+When you have a long time to do some task, you need to put all time in this task. Sometimes we have a long time to do some task, but for this reason maybe we can have confidence and do the task later or with a very simple way. Thinking in this form, we can lose important time or waste the time bad. Possibly we need some external help. For this previous reasons, possibly we cannot complete the task or complete the task hastily. In our work or our team, we apport little value to this task. Well, the next time when I have a task. I only will focus on this task.
+
 #### Day 1092 Reflections About my Career
 
 Today I asked me some questions about my career because I need to find the balance between my work career and my personal career how developer, really I need to start with do one thing at the same time, and do this only thing well, very well.
