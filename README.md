@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1092 Reflections About my Career
+
+Today I asked me some questions about my career because I need to find the balance between my work career and my personal career how developer, really I need to start with do one thing at the same time, and do this only thing well, very well.
+
 #### Day 1091 Please Understand One Thing Before To Do It
 
 Today I do one task more focus in the DevOps field, but there are a lot of Linux command that I don't understand yet. This is not the problem, the problem is that I throw a lot of commands in the terminal hastily and this is not good I lose about three hours with this type of actions, another great lesson learned today.
