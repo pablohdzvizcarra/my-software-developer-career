@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1094 Be Agile
+
+I think that I need to learn more about how to work with Agile methodologies. Sometimes I am working in anything, but I don't share with my team that I am working in X thing now, or I have this blocker. Well, I need to share with my team my status in a better way. With the remote work, I think that this is a good skill that learn. 
+
 #### Day 1093 Do Your Work Good
 
 When you have a long time to do some task, you need to put all time in this task. Sometimes we have a long time to do some task, but for this reason maybe we can have confidence and do the task later or with a very simple way. Thinking in this form, we can lose important time or waste the time bad. Possibly we need some external help. For this previous reasons, possibly we cannot complete the task or complete the task hastily. In our work or our team, we apport little value to this task. Well, the next time when I have a task. I only will focus on this task.
