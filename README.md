@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1095-1096 Good Weekend
+
+This weekend I can clear my mind, I do a little code, but I can study another important topics. I can progress in my cloud computing course, I can read two chapters of my month book, and I take some advices from a many greats programmers listening talks, and podcasts.
+
 #### Day 1094 Be Agile
 
 I think that I need to learn more about how to work with Agile methodologies. Sometimes I am working in anything, but I don't share with my team that I am working in X thing now, or I have this blocker. Well, I need to share with my team my status in a better way. With the remote work, I think that this is a good skill that learn. 
