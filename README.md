@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1097 Learning more About Cloud Computing
+
+Today I start learning about OpenShift, my first review it's wow OpenShift it's great, the way in how to add a layer about Kubernetes, and this layer have easy functionalities to handle the cluster. Well when finish my Cloud Computing course I evaluate if study the OpenShift platform.  
+
 #### Day 1095-1096 Good Weekend
 
 This weekend I can clear my mind, I do a little code, but I can study another important topics. I can progress in my cloud computing course, I can read two chapters of my month book, and I take some advices from a many greats programmers listening talks, and podcasts.
