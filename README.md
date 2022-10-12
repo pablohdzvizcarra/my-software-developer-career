@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1099 All Hard Work
+
+Today I can finish a very hard problem, well yet is not finished, but I can pass the most hard part of the problem the next steps are easier to finish. Well, I think that I go to have a very great weekend.
+
 #### Day 1098 Only One Book
 
 Today I remember that I set the goal to read twenty books in this year. When I check my goal, I see that I am currently reading my nineteen books. Well, my goal was to read two books in the month. Goals can do when you compromise with you.
