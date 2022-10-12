@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1098 Only One Book
+
+Today I remember that I set the goal to read twenty books in this year. When I check my goal, I see that I am currently reading my nineteen books. Well, my goal was to read two books in the month. Goals can do when you compromise with you.
+
 #### Day 1097 Learning more About Cloud Computing
 
 Today I start learning about OpenShift, my first review it's wow OpenShift it's great, the way in how to add a layer about Kubernetes, and this layer have easy functionalities to handle the cluster. Well when finish my Cloud Computing course I evaluate if study the OpenShift platform.  
