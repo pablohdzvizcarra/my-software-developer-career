@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1100 Excited to Code
+
+Well my current project it's more about to configure a server and config a message broker, I want to finish this project because, I would like to do other project making code.
+
 #### Day 1099 All Hard Work
 
 Today I can finish a very hard problem, well yet is not finished, but I can pass the most hard part of the problem the next steps are easier to finish. Well, I think that I go to have a very great weekend.
