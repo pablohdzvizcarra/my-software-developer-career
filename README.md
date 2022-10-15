@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1101 Broken the Grit
+
+Today I have a lot of wish to abandoned my book and my course that I am currently doing for a new course/project/book. I have a lot of wish that start with a project or do some code, because I have a lot of time that I not do code in my work or for curious. Well, I need more confidence in my decisions and finish all things that I started. 
+
 #### Day 1100 Excited to Code
 
 Well my current project it's more about to configure a server and config a message broker, I want to finish this project because, I would like to do other project making code.
