@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1102 Free Saturday
+
+Today I have a free day to code, my brain need a relax moment. Well, I only read a little about coding in the morning and in the night I do some code. The next week will hard in my work, and I am preparing to this.
+
 #### Day 1101 Broken the Grit
 
 Today I have a lot of wish to abandoned my book and my course that I am currently doing for a new course/project/book. I have a lot of wish that start with a project or do some code, because I have a lot of time that I not do code in my work or for curious. Well, I need more confidence in my decisions and finish all things that I started. 
