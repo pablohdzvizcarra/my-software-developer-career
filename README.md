@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1103 Reading The 7 Habits of People High Efective Resume
+
+Today I continue with read and learning about Chaos Engineering. I think that to propose to start to apply this in my work for my site will not be easy, but I need that the all people in my team, also to start to think in how apply, and also I read a book resume.
+
 #### Day 1102 Free Saturday
 
 Today I have a free day to code, my brain need a relax moment. Well, I only read a little about coding in the morning and in the night I do some code. The next week will hard in my work, and I am preparing to this.
