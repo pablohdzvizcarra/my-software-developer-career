@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1106 Great Rest
+
+Monday I travel to my work. Was travel with duration of 10 hours, I can know all of my team, and I have a great day, my workplace it's amazing I am excited about the next time that I need to go. Tomorrow I return to my normal activities, hard work, it's waiting for me.
+
 #### Day 1103 Reading The 7 Habits of People High Efective Resume
 
 Today I continue with read and learning about Chaos Engineering. I think that to propose to start to apply this in my work for my site will not be easy, but I need that the all people in my team, also to start to think in how apply, and also I read a book resume.
