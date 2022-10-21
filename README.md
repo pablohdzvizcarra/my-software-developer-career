@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1107 Double Hit
+
+Today I can finish my cloud computer course, and obtain my certification about this course, and also I can finish the book that currently I am reading Chaos Engineering, this book it's amazing. My next step is create a presentation to give to know my team of this concept, I think that great things can be success if us applying Chaos Engineering in our projects. 
+
 #### Day 1106 Great Rest
 
 Monday I travel to my work. Was travel with duration of 10 hours, I can know all of my team, and I have a great day, my workplace it's amazing I am excited about the next time that I need to go. Tomorrow I return to my normal activities, hard work, it's waiting for me.
