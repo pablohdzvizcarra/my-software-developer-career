@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1108 My Next Step to Study
+
+Tomorrow I need to decide what is my next topic to study, what is my next step in my career I have some ideas about, what is the thing that more benefit contribute to my career how software engineer.
+
 #### Day 1107 Double Hit
 
 Today I can finish my cloud computer course, and obtain my certification about this course, and also I can finish the book that currently I am reading Chaos Engineering, this book it's amazing. My next step is create a presentation to give to know my team of this concept, I think that great things can be success if us applying Chaos Engineering in our projects. 
