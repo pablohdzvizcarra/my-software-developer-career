@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1111 Be More Agile
+
+Today I discover that I have some lacks in Jira and Agile methodology, I need to be more organized, and create good Jira elements, unorganized programmer is not good programmer.
+
 #### Day 1109-1110 Atomic Habits
 
 I found the webpage from James Clear, the author of the atomic habits book. I say wow when I start to read some concepts, a special part calls me my attention that says about not focus on the result, focus in change your person when you're to do your goals. Well, I have a different focus about be a better programmer. I convert in the person that read the Java documentation also read about Microservices and make code every day.
