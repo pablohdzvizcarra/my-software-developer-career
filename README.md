@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1112 Objects Equals
+
+Today I study a lot about objects and how to compare them appropriately, it's interesting that how simple invocation of method .equals can have a lot of bad consequences. Tomorrow I continue with this topic.
+
 #### Day 1111 Be More Agile
 
 Today I discover that I have some lacks in Jira and Agile methodology, I need to be more organized, and create good Jira elements, unorganized programmer is not good programmer.
