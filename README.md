@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1113-1114 Some Stress
+
+These days I had some situations in my work with some stress, I continue reading every day this is the great achievement really, and I continue to study about the best practices in Java and the Object-Oriented programming.
+
 #### Day 1112 Objects Equals
 
 Today I study a lot about objects and how to compare them appropriately, it's interesting that how simple invocation of method .equals can have a lot of bad consequences. Tomorrow I continue with this topic.
