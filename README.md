@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1115 Reading Atomic Habits
+
+Today I start with a new book Atomic Habits, this book have a great rating on Amazon and TheGoodReaders, and I see that a lot of people recommended. Also, I take the decision that I need to start learning about OpenShift. I not want to be the DevOps in my team, I am not wanted to be the person that don't understand the important things, how the platform in that I deploy the applications. These things cause confusion for my.
+
 #### Day 1113-1114 Some Stress
 
 These days I had some situations in my work with some stress, I continue reading every day this is the great achievement really, and I continue to study about the best practices in Java and the Object-Oriented programming.
