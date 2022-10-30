@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1116 OpenShift
+
+Today I learn a little bit about OpenShift platform because, I think that to manage OpenShift using the CLI would be more difficult, but OpenShift is easy to use, and Red Hat offers free training for the platform.
+
 #### Day 1115 Reading Atomic Habits
 
 Today I start with a new book Atomic Habits, this book have a great rating on Amazon and TheGoodReaders, and I see that a lot of people recommended. Also, I take the decision that I need to start learning about OpenShift. I not want to be the DevOps in my team, I am not wanted to be the person that don't understand the important things, how the platform in that I deploy the applications. These things cause confusion for my.
