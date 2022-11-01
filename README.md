@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1117-1118 Coding in Java
+
+For my personal learning, I practice Test Driven Development while continue to read the effective Java book, and continue to read a lot of code. I like to be how the chess experimented player that he saw a lot of chess tables in your life, and he knows a lot of movements in the game.
+
 #### Day 1116 OpenShift
 
 Today I learn a little bit about OpenShift platform because, I think that to manage OpenShift using the CLI would be more difficult, but OpenShift is easy to use, and Red Hat offers free training for the platform.
