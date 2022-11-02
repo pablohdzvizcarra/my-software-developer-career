@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1119 Java Keystore
+
+Today, I learn how to use the Java Keystore to storage certificates, It's strange how Java store the certificates and private keys in a Keystore and then use this data to create TLS connections with some services.
+
 #### Day 1117-1118 Coding in Java
 
 For my personal learning, I practice Test Driven Development while continue to read the effective Java book, and continue to read a lot of code. I like to be how the chess experimented player that he saw a lot of chess tables in your life, and he knows a lot of movements in the game.
