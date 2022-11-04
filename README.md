@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1121 Security
+
+Today I have realized that I still have a lot to learn about how to protect information, how to make my code more secure and many other topics in software security. Well when I finish my Java book, my next book will be on these topics.
+
 #### Day 1120 Java Frameworks
 
 Today I start to learn Quarkus Java framework for a recommendation of my mentor, my first impressions are good, Quarkus have something that in spring loss.
