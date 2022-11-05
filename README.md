@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1122 Nulls in Constructors
+
+Today I learn the reasons because sometimes programming inheritance in Java it's difficult, it's not only have a good hierarchy of classes or a good classes with relationships “is a”. You need to follow some rules in inheritance, I am not sure if this type of rules apply in the same way in another language's example python. Well this weekend I dedicate some time to study Object-Oriented programming in python and testing,  maybe I do some script to automatize some manual task.
+
 #### Day 1121 Security
 
 Today I have realized that I still have a lot to learn about how to protect information, how to make my code more secure and many other topics in software security. Well when I finish my Java book, my next book will be on these topics.
