@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1123 Write Code 1% Better Every Day
+
+Each day you need to write code 1% better than the last day, well if today I write 20 classes, also I need to write 10 test to follow TDD obvious. There are a lot of things  to learn in Software Engineer about how to write code, how to create good classes, how to apply Design Patterns in the code. Quarkus framework is amazing.
+
 #### Day 1122 Nulls in Constructors
 
 Today I learn the reasons because sometimes programming inheritance in Java it's difficult, it's not only have a good hierarchy of classes or a good classes with relationships “is a”. You need to follow some rules in inheritance, I am not sure if this type of rules apply in the same way in another language's example python. Well this weekend I dedicate some time to study Object-Oriented programming in python and testing,  maybe I do some script to automatize some manual task.
