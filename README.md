@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1124 Reading Programming Books with Pomodore
+
+This Sunday, I achieve some pomodores, reading the Effective Java book, when you study a topic for a long time you start to boring in some moment, and you need to maintain free your mind, and focus in your way. Pomodore helps me with this because, I want to do deep dive in technologies like Java, Microservices, Docker, Kotlin. The problem is not enjoying the technology, is support all boring to learn one thing for a long time, years I say.  Thanks Atomic Habits for change my mind.
+
 #### Day 1123 Write Code 1% Better Every Day
 
 Each day you need to write code 1% better than the last day, well if today I write 20 classes, also I need to write 10 test to follow TDD obvious. There are a lot of things  to learn in Software Engineer about how to write code, how to create good classes, how to apply Design Patterns in the code. Quarkus framework is amazing.
