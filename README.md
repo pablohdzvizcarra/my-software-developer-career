@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1125 Retake the Action
+
+I think that I am a person that need to be motivated to continue learning programming every day, it's complicated to explain but after read the Atomic Habits book, refresh my mind and turn back to the way. Maybe to start with meditation, did help me with this. Well, the road is big, very big, and this profession is beautiful, you need to take the things with calm and enjoy the travel.
+
 #### Day 1124 Reading Programming Books with Pomodore
 
 This Sunday, I achieve some pomodores, reading the Effective Java book, when you study a topic for a long time you start to boring in some moment, and you need to maintain free your mind, and focus in your way. Pomodore helps me with this because, I want to do deep dive in technologies like Java, Microservices, Docker, Kotlin. The problem is not enjoying the technology, is support all boring to learn one thing for a long time, years I say.  Thanks Atomic Habits for change my mind.
