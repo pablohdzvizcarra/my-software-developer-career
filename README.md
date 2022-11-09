@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1126 Shut up and Think Again
+
+Well, reading the Think Again book, I think that this is a great book for software engineers because, this books attacks your assumptions that maybe you can have about Computer Science. When you acquire some experience in some topic, always you can start to think that you always can have the reason in your solutions to apply in the problems. Always remember the in this profession you need to be a learner forever.
+
 #### Day 1125 Retake the Action
 
 I think that I am a person that need to be motivated to continue learning programming every day, it's complicated to explain but after read the Atomic Habits book, refresh my mind and turn back to the way. Maybe to start with meditation, did help me with this. Well, the road is big, very big, and this profession is beautiful, you need to take the things with calm and enjoy the travel.
