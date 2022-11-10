@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1127 External Dependencies
+
+A lot of times in your software engineer career or in your job, you have external dependencies. An external dependency is a type of task that you need to do to advance in your project, but you don't have control of this task. You need help for other people to achieve this task, and in these situations you need to approach your free time in advance in another steps in your project. It's frustrating in this situation, but is inevitable, calm your mind and enjoy the wait.
+
 #### Day 1126 Shut up and Think Again
 
 Well, reading the Think Again book, I think that this is a great book for software engineers because, this books attacks your assumptions that maybe you can have about Computer Science. When you acquire some experience in some topic, always you can start to think that you always can have the reason in your solutions to apply in the problems. Always remember the in this profession you need to be a learner forever.
