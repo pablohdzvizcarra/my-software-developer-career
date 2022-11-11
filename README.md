@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+#### Day 1128 Relax Day
+
+Today I finally had a quiet day at work again, I have also continued reading the effective java book that although it sometimes bores me, I committed myself to read it, and I am learning a lot of things about Java that I didn't know or I thought I had already mastered.
+
 #### Day 1127 External Dependencies
 
 A lot of times in your software engineer career or in your job, you have external dependencies. An external dependency is a type of task that you need to do to advance in your project, but you don't have control of this task. You need help for other people to achieve this task, and in these situations you need to approach your free time in advance in another steps in your project. It's frustrating in this situation, but is inevitable, calm your mind and enjoy the wait.
