@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1129 Learning & Practice Java
+
+Today I am reading and practicing a lot of Java in the Effective Java book. Well the Enum part is amazing,
+the Enums in Java have a lot of uses, and the way that you can use to write code is interesting.
+
 #### Day 1128 Relax Day
 
 Today I finally had a quiet day at work again, I have also continued reading the effective java book that although it sometimes bores me, I committed myself to read it, and I am learning a lot of things about Java that I didn't know or I thought I had already mastered.
