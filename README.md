@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1130 & 1131 My First Answer
+
+Today I finally write my first tutorial, in this tutorial I explain what Stack and Heap in Java is, and how these works in the JVM, well for my this is a great achieve. Always I want to write some type of tutorial, but never choose a topic or I feel the imposter syndrome. Only you need to lose the fear.
+
 ##### Day 1129 Learning & Practice Java
 
 Today I am reading and practicing a lot of Java in the Effective Java book. Well the Enum part is amazing,
