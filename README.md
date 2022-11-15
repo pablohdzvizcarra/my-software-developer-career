@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1132 A Stress Moment
+
+Today I have a big stress moment in my life, it is amazing how this stress moments can affect your work, and see the little things how bigger problems. Well definitely in my next weekend I need to have an absolute rest about coding.
+
 ##### Day 1130 & 1131 My First Answer
 
 Today I finally write my first tutorial, in this tutorial I explain what Stack and Heap in Java is, and how these works in the JVM, well for my this is a great achieve. Always I want to write some type of tutorial, but never choose a topic or I feel the imposter syndrome. Only you need to lose the fear.
