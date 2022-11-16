@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1133 Achievements
+
+Today I have my first achieve in my work, I can finish the first step in my three months project. I learn a lot of things in this journey, and yet I need to do more work to finish this, but today I have my first achieve.
+
 ##### Day 1132 A Stress Moment
 
 Today I have a big stress moment in my life, it is amazing how this stress moments can affect your work, and see the little things how bigger problems. Well definitely in my next weekend I need to have an absolute rest about coding.
