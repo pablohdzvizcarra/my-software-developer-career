@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1134 Practice English
+
+Today I need to work with a team member that speak only in English, well my first thought is I have fear my English is not good, and I need more practice, later I think that this is good. I think that always I will think that my English is bad, I require only need to lose the fear to speak in English, and more practice a lot of practice.
+
 ##### Day 1133 Achievements
 
 Today I have my first achieve in my work, I can finish the first step in my three months project. I learn a lot of things in this journey, and yet I need to do more work to finish this, but today I have my first achieve.
