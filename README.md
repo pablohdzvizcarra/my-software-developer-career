@@ -7,9 +7,14 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1137 Continue Reading
+
+Well, today I continue reading my current programming book and finish to read the Think Again book. This last book is awesome, I think that is a lot of useful in your software engineer career. Programmers need to rethink a lot of concepts, techniques, and design decisions in the code and in the ways that we solve the problems.
+
 ##### Day 1136 Learning Day
 
 I advance a lot in the Effective Java book, sometimes the tips that this book provides are amazing. I remember the phrase that says you need always have a mind ready to learn, in any place in this career you can learn new things. Furthermore, I try to change my mind when I need some help to solve a problem only read the part of the resolution but not take time to learn the root cause of the problem.
+
 ##### Day 1135 Production Issue
 
 Today in the work we have a production issue, this moment was a great moment, because I can work with all of my team members to solve the issue, and I learn that my current team is a great team.
