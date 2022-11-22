@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1138-1139 Mexican Holiday
+
+Today was holiday in Mexico, well this weekend I can say that I have free time of coding, only read code and write a little code. I advance in my current book and I can start some activities in my house. Tomorrow, I am ready to start my short work week with new ideas and a lot of energy.
+
 ##### Day 1137 Continue Reading
 
 Well, today I continue reading my current programming book and finish to read the Think Again book. This last book is awesome, I think that is a lot of useful in your software engineer career. Programmers need to rethink a lot of concepts, techniques, and design decisions in the code and in the ways that we solve the problems.
