@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1140 Fighting with Docker
+
+Today I fight with Docker for some time, I am not sure how dockerize python applications and I need to do run a python application in docker container. In the end of the day, I can do the application run in Docker container, tomorrow this application needs some changes in source code to work in Docker. The next time, I need to start to create the application thinking to run inside a docker container.
+
 ##### Day 1138-1139 Mexican Holiday
 
 Today was holiday in Mexico, well this weekend I can say that I have free time of coding, only read code and write a little code. I advance in my current book and I can start some activities in my house. Tomorrow, I am ready to start my short work week with new ideas and a lot of energy.
