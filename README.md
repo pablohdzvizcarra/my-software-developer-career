@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1141 Be More Clear
+
+Today I have a problem with a request that I do, the other person understands bad my request because I share little information about your resources. I suppose that the other person know your resources in a good way, and I skip some information for this reason. The next time that I need to share information for a request or something else, I share all the information that I have and try to express in a simple way.
+
 ##### Day 1140 Fighting with Docker
 
 Today I fight with Docker for some time, I am not sure how dockerize python applications and I need to do run a python application in docker container. In the end of the day, I can do the application run in Docker container, tomorrow this application needs some changes in source code to work in Docker. The next time, I need to start to create the application thinking to run inside a docker container.
