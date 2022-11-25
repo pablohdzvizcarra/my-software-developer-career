@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1142 Java Serialization
+
+I finish reading the Effective Java book, this is a great achieve for me because sometimes I will feel boring reading this book, I think that was result for my knowledge for Java is little. I was to feel sometimes lost reading the book, but well I finish this book. Furthermore, I study about Java serialization because this topic is new for me.
+
 ##### Day 1141 Be More Clear
 
 Today I have a problem with a request that I do, the other person understands bad my request because I share little information about your resources. I suppose that the other person know your resources in a good way, and I skip some information for this reason. The next time that I need to share information for a request or something else, I share all the information that I have and try to express in a simple way.
