@@ -8,6 +8,10 @@ of that record.
 ### Programming Change My Life
 
 
+##### Day 1144 OpenShift Architecture
+
+Today I study how OpenShift is built, what are the main components and what are your main functionalities. I learn a new concept in the Kubernetes world, Operators is a great effort  to create Kubernetes resources in a more easy way.
+
 ##### Day 1143 OpenShift
 
 Today I start to learn about Cloud Native Development and OpenShift, in my work we are using OpenShift, I know Kubernetes but OpenShift is new for me and the concept of Cloud Native Development is a little strange for me, but I see that the industry is moving for this way. Well I love Microservices and I think that all of this topics live around Microservices.
