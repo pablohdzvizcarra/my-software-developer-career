@@ -7,6 +7,9 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1145 Free OpenShift Cluster
+
+In my Red Hat training, they create a free OpenShift cluster for practice activities, my first impressions when I admin a cluster is great is very easy to use. You can deploy an application from GitHub repository and in some minutes you have an application deployed in the Web. Create resources is easier than Kubernetes, when I complete this path, I can be named Red Hat Application Developer.
 
 ##### Day 1144 OpenShift Architecture
 
