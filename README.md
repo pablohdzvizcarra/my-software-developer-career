@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1146 Review Again CI/CD
+
+In my current course, I refresh my knowledge about CI/CD, for the moment I'm looking for my next book to read, I want to read some book about Java Code or Microservices. Tomorrow I start with a new service, I am exciting about this.
+
 ##### Day 1145 Free OpenShift Cluster
 
 In my Red Hat training, they create a free OpenShift cluster for practice activities, my first impressions when I admin a cluster is great is very easy to use. You can deploy an application from GitHub repository and in some minutes you have an application deployed in the Web. Create resources is easier than Kubernetes, when I complete this path, I can be named Red Hat Application Developer.
