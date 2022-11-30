@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1147 Containers
+
+Today I study about containers and images, I have some gaps in these topics, also I know the OCI (Open Container Initiative), is amazing the effort by the community to have a standard for the creation of containers. Well, after today, I see the Containers differently.  
+
 ##### Day 1146 Review Again CI/CD
 
 In my current course, I refresh my knowledge about CI/CD, for the moment I'm looking for my next book to read, I want to read some book about Java Code or Microservices. Tomorrow I start with a new service, I am exciting about this.
