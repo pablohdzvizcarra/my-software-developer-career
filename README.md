@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1148 JDK Versions
+
+Today I have some problems with JDK version in my local machine, I cannot run a microservice that works with OpenJDK 11, but I can run this microservice in a Docker Container with the same JDK version this is strange. I change the version of my local Java to Temurin11, I can run the microservice, well I think that need to investigate more about the differences between some JVMs only for curious.
+
 ##### Day 1147 Containers
 
 Today I study about containers and images, I have some gaps in these topics, also I know the OCI (Open Container Initiative), is amazing the effort by the community to have a standard for the creation of containers. Well, after today, I see the Containers differently.  
