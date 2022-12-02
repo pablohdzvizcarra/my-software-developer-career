@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1149 Coding with TDD
+
+Today I was coding using TDD (Test Driven Development), a lot ago that I not write code using TDD methodology. When you work with legacy code, it is hard to use this technique, but is a great tool to work with legacy code.
+
 ##### Day 1148 JDK Versions
 
 Today I have some problems with JDK version in my local machine, I cannot run a microservice that works with OpenJDK 11, but I can run this microservice in a Docker Container with the same JDK version this is strange. I change the version of my local Java to Temurin11, I can run the microservice, well I think that need to investigate more about the differences between some JVMs only for curious.
