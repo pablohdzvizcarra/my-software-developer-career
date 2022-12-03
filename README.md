@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1150 Review Math
+
+Today I need to review a very basic formula in Math, how to obtain the difference between two values, yes I need to review this formula. My first thinking is I am a bad programmer, but I remember that in this career you need to always search things in Google, none programmer know all in this world. 
+
 ##### Day 1149 Coding with TDD
 
 Today I was coding using TDD (Test Driven Development), a lot ago that I not write code using TDD methodology. When you work with legacy code, it is hard to use this technique, but is a great tool to work with legacy code.
