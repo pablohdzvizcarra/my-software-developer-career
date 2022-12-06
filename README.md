@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1153 Study
+
+Today I advance in my Red Hat certification about containers and OpenShift, I review some topics and learn new. I need to start to read a new book, I am bored without read.
+
 ##### Day 1151-1152 How Do You Explain a Computer Science Topic?
 
 Today I need to write a tutorial in which I need to explain a Java characteristic. I like to write tutorials because in this part I discover my gaps and lacks. Is complicated, try to teach any topic in which you do not have the necessary acknowledge, and this is a good signal that you need to be better in this topic.
