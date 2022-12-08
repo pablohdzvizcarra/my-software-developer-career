@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1155 Mockito Library
+
+Today I study Mockito library, I try to understand in a good way how to mock dependencies, I try to apply TDD in my day work. Tomorrow I continue to study Java.
+
 ##### Day 1154 I Learned New Things About Containers
 
 Today I study about how to build your own Containers, you need to take a basic image and apply the necessary changes to this image with a file called Dockerfile or Container file. I always thought that Docker is the unique way to build containers, but this is not true, you can build containers with many shapes, it is interesting how the community advance in these topics fast. Well, the change is the unique thing that never changes.
