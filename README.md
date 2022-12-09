@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1156 Software Craftsmanship
+
+Today I continue with the reading of my book, and some YouTube videos about TDD, I want to compromise to do this technique of coding in my daily work. Definitely, I think that practice TDD is a good choice.
+
 ##### Day 1155 Mockito Library
 
 Today I study Mockito library, I try to understand in a good way how to mock dependencies, I try to apply TDD in my day work. Tomorrow I continue to study Java.
