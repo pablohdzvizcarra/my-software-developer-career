@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1157 Goals
+
+Today I continue reading my book, practice TDD, and I establish some goals related to my Software Engineer career, these goals are related to Java and Microservices.
+
 ##### Day 1156 Software Craftsmanship
 
 Today I continue with the reading of my book, and some YouTube videos about TDD, I want to compromise to do this technique of coding in my daily work. Definitely, I think that practice TDD is a good choice.
