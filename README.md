@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1158 Reading and Red Hat Certification
+
+Today I continue reading my current book, and advance in my Red Hat certification. Also I need to refresh my mind about Polymorphism tomorrow I need to write a tutorial in which I need to explain what is Polymorphism.
+
 ##### Day 1157 Goals
 
 Today I continue reading my book, practice TDD, and I establish some goals related to my Software Engineer career, these goals are related to Java and Microservices.
