@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1161 Java Logging System
+
+In one application, I need to create a log system using the own Java library, this library is good, but have some lacks. I start to think and design a good solution for this problem. I imagine a simple but powerful solution. Well, I am excited about this.
+
 ##### Day 1159-1160 Kubernetes Services
 
 Today I learn how works the Kubernetes services, it is amazing how the Kubernetes architecture is structured to not create coupled between applications. I am learning a lot about this, and obviously I can apply all of this knowledge in my next coding.
