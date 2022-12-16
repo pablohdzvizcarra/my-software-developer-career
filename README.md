@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1163 Nervous
+
+Tomorrow I have my first skill share session, this is the first time that I do this. The first time that try to share my knowledge with another persons in a meeting, and is in English more difficult for me, but I think that is the moment to start growth my career.
+
 ##### Day 1162 Continue with my RedHat Course
 
 Today I continue advance in my RedHat course about Container Platform Application Deployment, this course is hard to do, but the labs are amazing.
