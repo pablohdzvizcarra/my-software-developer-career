@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1164 Start in Action
+
+I think that today I start to growth my career in another level. Well the first time that I try to share my knowledge is not the better but is the start. The most difficult part to try new things is only to start to do it. Yeah, definitively the next year I start my own tech blog. My next goal is this writes tech articles and tutorials, and learn more English.
+
 ##### Day 1163 Nervous
 
 Tomorrow I have my first skill share session, this is the first time that I do this. The first time that try to share my knowledge with another persons in a meeting, and is in English more difficult for me, but I think that is the moment to start growth my career.
