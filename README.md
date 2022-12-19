@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1165-1166 New certificate and Other Java Tutorial.
+
+Saturday I complete my course about Containers and Kubernetes, I do the test and approve it. Sunday I make a new Java tutorial about the static imports my second tutorial in the year I progress little, but I start to try to help others developers.
+
 ##### Day 1164 Start in Action
 
 I think that today I start to growth my career in another level. Well the first time that I try to share my knowledge is not the better but is the start. The most difficult part to try new things is only to start to do it. Yeah, definitively the next year I start my own tech blog. My next goal is this writes tech articles and tutorials, and learn more English.
