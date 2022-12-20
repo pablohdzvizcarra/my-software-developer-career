@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1167 Study More English
+
+I decide that in the end of the year I need a relax about study computer science things, and for this reason I will focus to improve my English. In my work in these moments, I have some meetings with native English speakers, and it is frustrating don't understand them very well. Also, I start to write Java tutorials one each week, I hope that in the next year I feel more comfortable with the English language. 
+
 ##### Day 1165-1166 New certificate and Other Java Tutorial.
 
 Saturday I complete my course about Containers and Kubernetes, I do the test and approve it. Sunday I make a new Java tutorial about the static imports my second tutorial in the year I progress little, but I start to try to help others developers.
