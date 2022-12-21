@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1168 Python and CSV
+
+Today, I learn more about pandas library, In the work we use a lot of information storage in CSV files. I want to be more Agile for example, I need to check all the elements in this CSV that have this ID. Tomorrow I want to explore another library for this purpose in Java called Tableu.
+
 ##### Day 1167 Study More English
 
 I decide that in the end of the year I need a relax about study computer science things, and for this reason I will focus to improve my English. In my work in these moments, I have some meetings with native English speakers, and it is frustrating don't understand them very well. Also, I start to write Java tutorials one each week, I hope that in the next year I feel more comfortable with the English language. 
