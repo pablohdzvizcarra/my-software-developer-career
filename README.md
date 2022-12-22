@@ -7,9 +7,9 @@ of that record.
 
 ### Programming Change My Life
 
-##### Day 1169 Managing Stress Situations
+##### Day 1169 Managing Stress Situations and Finish my Book
 
-Today I have a very stress situation in my work, and this is because about my lack in English. I think that I have improved my English a lot but at this moment is not very good to have a conversation with USA people. Definitely English is my main goal the next year, though Java Developer certification is important too.
+Today I have a very stress situation in my work, and this is because about my lack in English. I think that I have improved my English a lot but at this moment is not very good to have a conversation with USA people. Definitely English is my main goal the next year, though Java Developer certification is important too. Also I finish the Software Craftsmanship book really I enjoy reading this book.
 
 ##### Day 1168 Python and CSV
 
