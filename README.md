@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1169 Managing Stress Situations
+
+Today I have a very stress situation in my work, and this is because about my lack in English. I think that I have improved my English a lot but at this moment is not very good to have a conversation with USA people. Definitely English is my main goal the next year, though Java Developer certification is important too.
+
 ##### Day 1168 Python and CSV
 
 Today, I learn more about pandas library, In the work we use a lot of information storage in CSV files. I want to be more Agile for example, I need to check all the elements in this CSV that have this ID. Tomorrow I want to explore another library for this purpose in Java called Tableu.
