@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1170 CSV files and Pandas
+
+Well today I learn more about Pandas and CSV files, pandas can parse your CSV files into JSON format, but you need to be sure about the JSON format is the correct. I learn this important lesson today. I have a lot of desire to work with CSV with Java/Kotlin/Scala and Apache Spark. So, I think that in the weekend I practice this.
+
 ##### Day 1169 Managing Stress Situations and Finish my Book
 
 Today I have a very stress situation in my work, and this is because about my lack in English. I think that I have improved my English a lot but at this moment is not very good to have a conversation with USA people. Definitely English is my main goal the next year, though Java Developer certification is important too. Also I finish the Software Craftsmanship book really I enjoy reading this book.
