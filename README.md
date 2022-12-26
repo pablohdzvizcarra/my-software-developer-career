@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1171-1172-1173 Christmastime
+
+I take a free time about the coding, with the arrival of the Christmas and new year I need to think about all my achieves in this year and start to think about my next achieves for the 2023 year. Merry Christmas programmers.
+
 ##### Day 1170 CSV files and Pandas
 
 Well today I learn more about Pandas and CSV files, pandas can parse your CSV files into JSON format, but you need to be sure about the JSON format is the correct. I learn this important lesson today. I have a lot of desire to work with CSV with Java/Kotlin/Scala and Apache Spark. So, I think that in the weekend I practice this.
