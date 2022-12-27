@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1174 The importance of the correct refactor
+
+Today, when I am writing some lines of code with Java, I start to refactor my Strings to Enums. My objective is added more type-safe to my code, but when I to do this, little refactors I think. So I refactor this, maybe I can apply X design pattern, or maybe we can skip this if statement, if I apply this type of technique. Finally, I only refactor with the type-safety, but I spend about 20 minutes thinking in unnecessary refactors at this moment. I am not said that refactor is unnecessary, only I said that premature refactor is bad, if you apply for example TDD your code is awesome from the first time. Refactor is only necessary when the code starts to growth, well always think in small pieces of code.
+
 ##### Day 1171-1172-1173 Christmastime
 
 I take a free time about the coding, with the arrival of the Christmas and new year I need to think about all my achieves in this year and start to think about my next achieves for the 2023 year. Merry Christmas programmers.
