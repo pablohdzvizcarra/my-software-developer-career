@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1177 Create a Facade
+
+I remember in the microservice world for example if service A needs new functionality for example work with microservice C but microservice C do not have the same communication protocol. You need to modify the microservice A to work with this protocol. Maybe you do not want to add this new protocol to microservice A at this moment, a Facade microservice can save your life. One new microservice only designed to permit the communication between A ↔ B. I don't remember in which book I read about this. But today I use this for doing some work.
+
 ##### Day 1175-1176 Sick
 
 Yesterday I was sick, I don't work and don't do any code. Today I was learning about Java 17 and Tablesaw I am playing with some CSV files to read the data and create Java objects with them. I want to continue playing with these things this week and well in 2023 I will start to read some book. Java Concurrency maybe.
