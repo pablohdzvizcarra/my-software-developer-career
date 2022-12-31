@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1178 Concurrency 
+
+Today I start to learn about concurrency in Java, I notice that I have a lot of lacks in this topic in the programming world. The next year I want to be a Java Developer Certificate by Oracle, I think that this topic is necessary.
+
 ##### Day 1177 Create a Facade
 
 I remember in the microservice world for example if service A needs new functionality for example work with microservice C but microservice C do not have the same communication protocol. You need to modify the microservice A to work with this protocol. Maybe you do not want to add this new protocol to microservice A at this moment, a Facade microservice can save your life. One new microservice only designed to permit the communication between A ↔ B. I don't remember in which book I read about this. But today I use this for doing some work.
