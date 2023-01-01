@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1179-1180 Happy New Year Programers
+
+Today I write my years goals about my career how Software Craftsmanship yeah I want to be a Software Craftsmanship. Some examples are Java Developer Certification, Red Hat certification, improve my English, learn new programming language and some more. This is a good exercise thank Own Your Teach Career book.
+
 ##### Day 1178 Concurrency 
 
 Today I start to learn about concurrency in Java, I notice that I have a lot of lacks in this topic in the programming world. The next year I want to be a Java Developer Certificate by Oracle, I think that this topic is necessary.
