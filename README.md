@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1181 Start with Go
+
+Today I continue to improve my English and start to learn go. When I start to write code in Go, my first reaction is, why I don't do this with Kotlin?. Kotlin and Java are different programming languages, but have a lot of similarities. I need to learn a language that go out my comfort zone. Go or Rust is my decision.
+
 ##### Day 1179-1180 Happy New Year Programers
 
 Today I write my years goals about my career how Software Craftsmanship yeah I want to be a Software Craftsmanship. Some examples are Java Developer Certification, Red Hat certification, improve my English, learn new programming language and some more. This is a good exercise thank Own Your Teach Career book.
