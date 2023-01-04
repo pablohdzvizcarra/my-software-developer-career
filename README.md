@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1182 Started to Write Articles with Medium
+
+Today I write my first programming tutorial in Medium blog, I have a lot of nervous but well I hope that help programming community. Write tutorials, I think that is a great way to learn some topic in a more deep and practice my English. For January, I have the goal to write two tutorials and finish the Java Concurrency book reading. In my work, the things go fine.
+
 ##### Day 1181 Start with Go
 
 Today I continue to improve my English and start to learn go. When I start to write code in Go, my first reaction is, why I don't do this with Kotlin?. Kotlin and Java are different programming languages, but have a lot of similarities. I need to learn a language that go out my comfort zone. Go or Rust is my decision.
