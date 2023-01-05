@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1183 Learning about Concurrency
+
+Today I continue reading the book Java Concurrency in Practice. I am learning about how to build good objects for concurrency programs and multiple threads. The book is a little old and some examples in the book not have the same behavior in my Java 17 version. The knowledge acquired at this moment is great. Definitely, I will to buy this book in physic form. 
+
 ##### Day 1182 Started to Write Articles with Medium
 
 Today I write my first programming tutorial in Medium blog, I have a lot of nervous but well I hope that help programming community. Write tutorials, I think that is a great way to learn some topic in a more deep and practice my English. For January, I have the goal to write two tutorials and finish the Java Concurrency book reading. In my work, the things go fine.
