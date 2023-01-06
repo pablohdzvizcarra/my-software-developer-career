@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1184 My First Certification
+
+Today I complete my first course and achieve my first certification in the year. The course is about Zero Trust Security Framework, the zero trust framework is a great tool to do our systems more secure. I believe that any developer needs to know these principles because all developers work with data, and know how to handle this data is an important thing in the work.
+
 ##### Day 1183 Learning about Concurrency
 
 Today I continue reading the book Java Concurrency in Practice. I am learning about how to build good objects for concurrency programs and multiple threads. The book is a little old and some examples in the book not have the same behavior in my Java 17 version. The knowledge acquired at this moment is great. Definitely, I will to buy this book in physic form. 
