@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1188 Taking the Way Again
+
+I lost in the weekend in some familiar situations how programmers we like to write code all day I believe, but in some times you can't do it. Currently, I continue to study Concurrency in Java and in general. The Java Concurrency Book is my guide, and Baeldung blog and Stack Overflow are my best friends in this trip. Concurrency is hard, I think that is a next level in my career how Software Developer.
+
 ##### Day 1184 My First Certification
 
 Today I complete my first course and achieve my first certification in the year. The course is about Zero Trust Security Framework, the zero trust framework is a great tool to do our systems more secure. I believe that any developer needs to know these principles because all developers work with data, and know how to handle this data is an important thing in the work.
