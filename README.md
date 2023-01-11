@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1189 Latches and FutureTask in Java
+
+Today I was learned about latches and FutureTask in Java. The Java Concurrency book it's hard to understand, remember when I started to learn about concurrency I can't understand why reason my code that execute in a separate thread don't executed. I understand a little today what is the reason for this behavior imagine that you have three process A, B and C. Process A execute in 1 second, process B in 5 seconds and process C in 2 seconds. If you do your process B asynchronous, you need a way to say it to the application, hey you need to wait 5 seconds before you finish. In this scenario, a latch save your life because your program wait to the latch finish your work. I think that I will write a tutorial with an example about this topic.
+
 ##### Day 1188 Taking the Way Again
 
 I lost in the weekend in some familiar situations how programmers we like to write code all day I believe, but in some times you can't do it. Currently, I continue to study Concurrency in Java and in general. The Java Concurrency Book is my guide, and Baeldung blog and Stack Overflow are my best friends in this trip. Concurrency is hard, I think that is a next level in my career how Software Developer.
