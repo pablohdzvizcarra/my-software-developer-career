@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1190 Executors and Firewall Problems
+
+Today I have a Firewall problem in the work is frustrated when you have a problem, and you cannot fix because it is out of your scope, this task not depend on you.
+Also, I learn the about the Executor interface in Java and learn what utilities have the Java Language to work with concurrency. I write a basic WebServer with the tutorials in the book, and I understand a little more how works a WebServer, and how the asynchronous is a vital part of this technology. I continue to learning concurrency more slowly, they have a lot of concepts to learn.
+
 ##### Day 1189 Latches and FutureTask in Java
 
 Today I was learned about latches and FutureTask in Java. The Java Concurrency book it's hard to understand, remember when I started to learn about concurrency I can't understand why reason my code that execute in a separate thread don't executed. I understand a little today what is the reason for this behavior imagine that you have three process A, B and C. Process A execute in 1 second, process B in 5 seconds and process C in 2 seconds. If you do your process B asynchronous, you need a way to say it to the application, hey you need to wait 5 seconds before you finish. In this scenario, a latch save your life because your program wait to the latch finish your work. I think that I will write a tutorial with an example about this topic.
