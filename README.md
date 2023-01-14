@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1192 Threads, Threads, and more threads
+
+Really I dream with threads in the night, I think that it is normal because currently I continue to studying concurrency in Java. Now I can understand the reason that the concurrency is a topic for senior developers is hard, really is hard. So I hope that in January I can finish reading the Java Concurrency book and do some toy projects with this feature, I am thinking in a Microservices project.
+
 ##### Day 1191 Thread Interruption
 
 Today I studied about how to interrupt a task running in another thread and how the client code needs to handle the interruption, I remember a time when I do this implementation with Java code. I had an asynchronous data flow and this code execute in a method. My mission is easy, for example a client will, can cancel this method execution in any moment, but the client cannot cancel directly. I used an implementation using Kafka to send an event and when this event arrives the flow is cancelled. I remember this because the Microservice always have three replicas and my Kafka event send it only a one replica. So, I had a big headache with this problem, but I learn a lot. 
