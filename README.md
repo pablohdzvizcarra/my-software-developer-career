@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1993-1994 Awaitility Library
+
+This weekend, I continue learning about concurrency in Java. I learned to use the Awaitility library and I start to do TDD with concurrency, this is a great challenge, apply concurrency in the code is hard, but test concurrency is hardest yet. I am happy because I continue with my Java mastery and Object-Oriented programming, I have a lot of plans for this current year. 
+
 ##### Day 1192 Threads, Threads, and more threads
 
 Really I dream with threads in the night, I think that it is normal because currently I continue to studying concurrency in Java. Now I can understand the reason that the concurrency is a topic for senior developers is hard, really is hard. So I hope that in January I can finish reading the Java Concurrency book and do some toy projects with this feature, I am thinking in a Microservices project.
