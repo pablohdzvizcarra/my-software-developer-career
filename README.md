@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1995 Continuous study of concurrence
+
+Today I continue reading the Java Concurrency book, we have come to the part of the GUI frameworks like swing and JavaFX. Likewise, I continue to learn English and I am still looking for a way to better organize my activities and studies.
+
 ##### Day 1993-1994 Awaitility Library
 
 This weekend, I continue learning about concurrency in Java. I learned to use the Awaitility library and I start to do TDD with concurrency, this is a great challenge, apply concurrency in the code is hard, but test concurrency is hardest yet. I am happy because I continue with my Java mastery and Object-Oriented programming, I have a lot of plans for this current year. 
