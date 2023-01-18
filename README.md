@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1996 ETL and Java Swing
+
+Today I need to do some code with Java swing the Java Concurrency book have some examples with swing library is amazing how the GUI applications manage your lifecycle. I remember one time that I have a problem with Kotlin in Android development, the app needs to connect to a one Websocket built with Node.js. The concern is that the mobile app disconnect to the Websocket a lot of times, and we have don't idea about what is the issue. Well today I think that the problem it's about of threads, I think, but I am not sure. I need to check this in another time.
+
 ##### Day 1995 Continuous study of concurrence
 
 Today I continue reading the Java Concurrency book, we have come to the part of the GUI frameworks like swing and JavaFX. Likewise, I continue to learn English and I am still looking for a way to better organize my activities and studies.
