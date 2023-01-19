@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1997 Livelock
+
+Today I learn some techniques to avoid Liveness Hazards in the concurrently programming. I learn about what is a deadlock and the different types that can exist. I remember a moment when I provoke a Livelock with Kafka in one application because I enqueue all messages with some error again and again in the origin queue, well you can imagine the eternal cycle that I create. 
+
 ##### Day 1996 ETL and Java Swing
 
 Today I need to do some code with Java swing the Java Concurrency book have some examples with swing library is amazing how the GUI applications manage your lifecycle. I remember one time that I have a problem with Kotlin in Android development, the app needs to connect to a one Websocket built with Node.js. The concern is that the mobile app disconnect to the Websocket a lot of times, and we have don't idea about what is the issue. Well today I think that the problem it's about of threads, I think, but I am not sure. I need to check this in another time.
