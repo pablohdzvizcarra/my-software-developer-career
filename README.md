@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1998 Reading CSV with Concurrency
+
+I try to read a CSV file with Java library tablesaw I need to do some data analysis with the CSV and well, this library like Pandas is good. I have a problem, my CSV have the first row with one parameter, and I cannot analyze the document. The idea is to start to extract the document information concurrently, and create a JSON file with the data filtered. It is a good exercise to do. 
+
 ##### Day 1997 Livelock
 
 Today I learn some techniques to avoid Liveness Hazards in the concurrently programming. I learn about what is a deadlock and the different types that can exist. I remember a moment when I provoke a Livelock with Kafka in one application because I enqueue all messages with some error again and again in the origin queue, well you can imagine the eternal cycle that I create. 
