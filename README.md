@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1999 Problems Reading CSV Files
+
+Today I have a lot of problems trying to read a CSV with Kotlin and tablesaw, then I have the same problems with Apache Spark I cannot find a easy way to skip the first line in a CSV file. With Kotlin, Tablesaw and Apache Spark I need to manually delete the line in the csv file before try to read it. I believe that this is bad, with python and pandas I can skip lines before read the CSV very easy. Maybe I need to check more Apache Spark, because Apache Spark I understand that is a great tool for this type of tasks. Well tomorrow is weekend I want to finish to read the Java Concurrency book this weekend.
+
 ##### Day 1998 Reading CSV with Concurrency
 
 I try to read a CSV file with Java library tablesaw I need to do some data analysis with the CSV and well, this library like Pandas is good. I have a problem, my CSV have the first row with one parameter, and I cannot analyze the document. The idea is to start to extract the document information concurrently, and create a JSON file with the data filtered. It is a good exercise to do. 
