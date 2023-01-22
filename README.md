@@ -7,27 +7,31 @@ of that record.
 
 ### Programming Change My Life
 
-##### Day 1999 Problems Reading CSV Files
+##### Day 1200 Concurrency and Pandas
+
+Well, in the morning I read one chapter about the Java concurrency book and I make some exercises with concurrency. I continue reading the pandas documentation, in the work we manage a lot of CSV files and python and pandas are great tools for this type of tasks. I have listened that Scala is great also for these types of works. When finish my book, I continue reading about Microservices and start to learn Scala or Clojure.
+
+##### Day 1199 Problems Reading CSV Files
 
 Today I have a lot of problems trying to read a CSV with Kotlin and tablesaw, then I have the same problems with Apache Spark I cannot find a easy way to skip the first line in a CSV file. With Kotlin, Tablesaw and Apache Spark I need to manually delete the line in the csv file before try to read it. I believe that this is bad, with python and pandas I can skip lines before read the CSV very easy. Maybe I need to check more Apache Spark, because Apache Spark I understand that is a great tool for this type of tasks. Well tomorrow is weekend I want to finish to read the Java Concurrency book this weekend.
 
-##### Day 1998 Reading CSV with Concurrency
+##### Day 1198 Reading CSV with Concurrency
 
 I try to read a CSV file with Java library tablesaw I need to do some data analysis with the CSV and well, this library like Pandas is good. I have a problem, my CSV have the first row with one parameter, and I cannot analyze the document. The idea is to start to extract the document information concurrently, and create a JSON file with the data filtered. It is a good exercise to do. 
 
-##### Day 1997 Livelock
+##### Day 1197 Livelock
 
 Today I learn some techniques to avoid Liveness Hazards in the concurrently programming. I learn about what is a deadlock and the different types that can exist. I remember a moment when I provoke a Livelock with Kafka in one application because I enqueue all messages with some error again and again in the origin queue, well you can imagine the eternal cycle that I create. 
 
-##### Day 1996 ETL and Java Swing
+##### Day 1196 ETL and Java Swing
 
 Today I need to do some code with Java swing the Java Concurrency book have some examples with swing library is amazing how the GUI applications manage your lifecycle. I remember one time that I have a problem with Kotlin in Android development, the app needs to connect to a one Websocket built with Node.js. The concern is that the mobile app disconnect to the Websocket a lot of times, and we have don't idea about what is the issue. Well today I think that the problem it's about of threads, I think, but I am not sure. I need to check this in another time.
 
-##### Day 1995 Continuous study of concurrence
+##### Day 1195 Continuous study of concurrence
 
 Today I continue reading the Java Concurrency book, we have come to the part of the GUI frameworks like swing and JavaFX. Likewise, I continue to learn English and I am still looking for a way to better organize my activities and studies.
 
-##### Day 1993-1994 Awaitility Library
+##### Day 1193-1194 Awaitility Library
 
 This weekend, I continue learning about concurrency in Java. I learned to use the Awaitility library and I start to do TDD with concurrency, this is a great challenge, apply concurrency in the code is hard, but test concurrency is hardest yet. I am happy because I continue with my Java mastery and Object-Oriented programming, I have a lot of plans for this current year. 
 
