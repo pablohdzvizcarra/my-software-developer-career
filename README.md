@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1203 Finish the Book
+
+Today I finish reading the Java Concurrency in Practice book, this book is the hardest book that I read really is a big headache. The concurrency is a hard topic but is a pleasure having big headaches because I am learning new things.
+
 ##### Day 1201-1202 Concurrency and Testing in Python
 
 Today I learn how to mock dependencies in Python testing, I have a class that use a database, for the unit testing I need to mock this database. The code to create the instance of the database is placed inside the class constructor, and I cannot mock the database. I need to add the database connection how dependency and learn how mock. I learn a great lesson today. I develop this code only thinking that is a little script and not required unit testing. Great error for my lucky, the code grows, and I have a lot of chaos with try to fix the issues that I discover. I need to learn that apply TDD always is the fastest way to create code.
