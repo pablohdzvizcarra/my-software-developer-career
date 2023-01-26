@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1204 DevSecOps
+
+Today I was learned about what is DevSecOps and how they can be applied into the development lifecycle. I was not know that this methodology is for example different from DevOps, we'll have some equals things but they have very different goals.
+
 ##### Day 1203 Finish the Book
 
 Today I finish reading the Java Concurrency in Practice book, this book is the hardest book that I read really is a big headache. The concurrency is a hard topic but is a pleasure having big headaches because I am learning new things.
