@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+### Day 1205 Recover Motivation 
+
+Yesterday I have a bad day in the work, but I am responsible for this situation, in these moments you need to stay quiet and review your ideas. I promise me that this type of situation don't happen again. I am looking for a book that can help me to works these concerns. Well, this will my next book to read.
+
 ##### Day 1204 DevSecOps
 
 Today I was learned about what is DevSecOps and how they can be applied into the development lifecycle. I was not know that this methodology is for example different from DevOps, we'll have some equals things but they have very different goals.
