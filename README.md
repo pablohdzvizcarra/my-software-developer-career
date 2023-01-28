@@ -7,7 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
-### Day 1205 Recover Motivation 
+##### Day 1206 Security Engineering
+I start to read the book Security Engineering due to I have some lacks about these security topics. The start of this book is amazing it have a great introduction and looks like that is a book that you can read without use a computer. I need a break about JVM, in this weekend I want to practice Python. Use pandas for some dummy project and unit testing with python. The simplicity of Python is grea.
+
+##### Day 1205 Recover Motivation 
 
 Yesterday I have a bad day in the work, but I am responsible for this situation, in these moments you need to stay quiet and review your ideas. I promise me that this type of situation don't happen again. I am looking for a book that can help me to works these concerns. Well, this will my next book to read.
 
