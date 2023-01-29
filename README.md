@@ -7,7 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1207 Encrypt Data
+
+Today I was learning about how encrypt JSON files, I try to do this with Java but I have a lot of problems trying to read the private keys. Finally I can achieve my task using Python and a cryptography library. I have this doubt because I am reading the Security Engineering book and we'll encrypt the plain text is a good practice.
 ##### Day 1206 Security Engineering
+
 I start to read the book Security Engineering due to I have some lacks about these security topics. The start of this book is amazing it have a great introduction and looks like that is a book that you can read without use a computer. I need a break about JVM, in this weekend I want to practice Python. Use pandas for some dummy project and unit testing with python. The simplicity of Python is grea.
 
 ##### Day 1205 Recover Motivation 
