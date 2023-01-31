@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day  1209 Building New Things
+
+Today I was learned how create a CSV file with data get from a database, I do the code with Python but I have some problems to try to add multiple behaviors in the code without duplicated it. Tomorrow I use Java or Kotlin to do the same exercise and check if the best option.
+
 ##### Day 1207 Encrypt Data
 
 Today I was learning about how encrypt JSON files, I try to do this with Java but I have a lot of problems trying to read the private keys. Finally I can achieve my task using Python and a cryptography library. I have this doubt because I am reading the Security Engineering book and we'll encrypt the plain text is a good practice.
