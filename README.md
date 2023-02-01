@@ -7,7 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
-##### Day  1209 Building New Things
+##### Day 1210 Complete Hard Task
+
+Today I achieve a great goal, I can finish a hard task maybe is not very hard but the things that I use is new for me.I feel like in a videogame when I kill the final boss.
+
+#### Day 1209 Building New Things
 
 Today I was learned how create a CSV file with data get from a database, I do the code with Python but I have some problems to try to add multiple behaviors in the code without duplicated it. Tomorrow I use Java or Kotlin to do the same exercise and check if the best option.
 
