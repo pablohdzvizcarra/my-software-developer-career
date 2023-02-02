@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1211 Security in the Authentication Protocols 
+
+
+Today I learned about authentication protocols, the weakness in this protocols and how the tech industry have a fighting to avoid that the hackers break this protocols.
+
 ##### Day 1210 Complete Hard Task
 
 Today I achieve a great goal, I can finish a hard task maybe is not very hard but the things that I use is new for me.I feel like in a videogame when I kill the final boss.
