@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1212 Multitasking 
+
+Today I was look for information about do multitasking. I notice that when I do X thing my brain is thinking in another thing, and I cannot retain right the information. I look for help in the web and I want to read a book about this problem.
+
 ##### Day 1211 Security in the Authentication Protocols 
 
 
