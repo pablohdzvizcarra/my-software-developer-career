@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1213 Big Effort's 
+
+Today I continue to practice coding with Python and pandas, I use pandas library to create CSV reports and JSON objects. This days I practice a lot with manipulate CSV files. I had problems with Java and Apache Spark , I need to explore more Apache Spark.
+
+
 ##### Day 1212 Multitasking 
 
 Today I was look for information about do multitasking. I notice that when I do X thing my brain is thinking in another thing, and I cannot retain right the information. I look for help in the web and I want to read a book about this problem.
