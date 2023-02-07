@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1215 Great Weekend
+
+In Mexico we had a large weekend because the Monday is Mexican holiday, I continue reading the Security Engineering book, but I start to read the Make it Stick book, I discovery this book in a Python YouTube channel. This book teach how you must study if you like to remember the important concepts in any book, course, topic, etc. When I was start to read this book some thoughts in my mind do a click. Well I need to start to apply this knowledge when finish to read it.
+
 ##### Day 1213 Big Effort's 
 
 Today I continue to practice coding with Python and pandas, I use pandas library to create CSV reports and JSON objects. This days I practice a lot with manipulate CSV files. I had problems with Java and Apache Spark , I need to explore more Apache Spark.
