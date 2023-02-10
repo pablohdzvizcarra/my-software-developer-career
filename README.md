@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1218 Hash Functions and Cypher Block
+
+Today I learn more about Security,mI learn what is a cypher block, different types of hash functions and I gain a little knowledge how works secure protocols like SSH and SSL. Cryptography really is a hard topic to study.
+
 ##### Day 1217 Changing the way in which I Study
 
 I finish reading the make it stick book, this book changes my habits of study and learning new technologies in coding in a great way. All of this time I'm learning some concepts in the wrong way, today I understand what is the reason that I can read a book or article and the next day I forget the content. Also, I continue learning about security Engineering.
