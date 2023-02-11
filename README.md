@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Dat 1219 Secure Communication Protocols
+
+Today I have learn about different types of secure communication protocols. Finally I can understand a little the TLS protocol, this book have a lot of math formulas, if you can understand these formulas you can understand the protocol.
+
 ##### Day 1218 Hash Functions and Cypher Block
 
 Today I learn more about Security,mI learn what is a cypher block, different types of hash functions and I gain a little knowledge how works secure protocols like SSH and SSL. Cryptography really is a hard topic to study.
