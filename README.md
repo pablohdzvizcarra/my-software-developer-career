@@ -7,7 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
-##### Dat 1219 Secure Communication Protocols
+##### Day 1220-1221 Reading and Study English 
+
+I keep reading the Security Engineering book, I start the access control part, it's interesting how access control is managed in Linux. I also practice TDD with Python building a CLI project
+
+
+##### Day 1219 Secure Communication Protocols
 
 Today I have learn about different types of secure communication protocols. Finally I can understand a little the TLS protocol, this book have a lot of math formulas, if you can understand these formulas you can understand the protocol.
 
