@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1223 Access Controls and Security Concerns 
+
+Today I was learning about how Android, IOs and windows manage your access controls, now understood why is the reason that the people says that MacOS is more secure than Windows and Android.
+
 ##### Day 1220-1221 Reading and Study English 
 
 I keep reading the Security Engineering book, I start the access control part, it's interesting how access control is managed in Linux. I also practice TDD with Python building a CLI project
