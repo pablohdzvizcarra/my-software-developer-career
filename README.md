@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1224 Happy Valentine's Day Programmer's 
+
+I continue reading my Security Engineering book and do some exercises with Python.
+
 ##### Day 1223 Access Controls and Security Concerns 
 
 Today I was learning about how Android, IOs and windows manage your access controls, now understood why is the reason that the people says that MacOS is more secure than Windows and Android.
