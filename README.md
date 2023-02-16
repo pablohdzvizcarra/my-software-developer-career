@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1225 Security in Distributed Systems
+
+Today I study how works the security in the distributed systems. I know the CAP theorem, but I never thoght this CAP problem apply to the security. For example the user have the correct permissions right now but a few moment his not have the permissions, but he can do the activity, yes this is a big problem. Well I continue studying this chapter of the book with a special attention because I love the Microservices.
+
 ##### Day 1224 Happy Valentine's Day Programmer's 
 
 I continue reading my Security Engineering book and do some exercises with Python.
