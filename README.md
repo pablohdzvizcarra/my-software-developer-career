@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1226 Fault Tolerance and Failure Recovery in Security
+
+Today I studied a high-level view of the fault tolerance and failure recovery for the security, thinking is these two topics but whit the Security in mind is different to have the focus only for the Microservice world. Is amazing for example you service recover from a failure but when the service is recovered all the data continue correct? You service have the correct state? I see that the banks need a special care with these type of issues that can be occur in any time.
+
 ##### Day 1225 Security in Distributed Systems
 
 Today I study how works the security in the distributed systems. I know the CAP theorem, but I never thoght this CAP problem apply to the security. For example the user have the correct permissions right now but a few moment his not have the permissions, but he can do the activity, yes this is a big problem. Well I continue studying this chapter of the book with a special attention because I love the Microservices.
