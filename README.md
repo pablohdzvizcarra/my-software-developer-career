@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1227 Learning Scala
+
+Today I have a free day in my work, the whole day I have learned Scala, I start to read the Scala for the impatient book. The book is great and Scala is a great language to learn to have a lot of similitude with Python. I want to learn Scala with Apache spark, this is the idea.
+
 ##### Day 1226 Fault Tolerance and Failure Recovery in Security
 
 Today I studied a high-level view of the fault tolerance and failure recovery for the security, thinking is these two topics but whit the Security in mind is different to have the focus only for the Microservice world. Is amazing for example you service recover from a failure but when the service is recovered all the data continue correct? You service have the correct state? I see that the banks need a special care with these type of issues that can be occur in any time.
