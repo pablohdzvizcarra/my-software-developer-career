@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1128-1229-1230 Learning Security
+
+On the weekend we continue reading the Security Engineering book I have a great progress in the book. Monday I improve my English and continue reading also today I start to use ChatGPT while write code, ChatGPT help to create testing and give me ideas about what I do, coding using ChatGPT is funny.
+
 ##### Day 1227 Learning Scala
 
 Today I have a free day in my work, the whole day I have learned Scala, I start to read the Scala for the impatient book. The book is great and Scala is a great language to learn to have a lot of similitude with Python. I want to learn Scala with Apache spark, this is the idea.
