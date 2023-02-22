@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1231 Local Environment
+
+Today I notice that do your code that depends on a database or a server thinking to replace these dependencies for example with docker containers that run in your local machine is great. The problem with developed in a development environment is that you attach your code to work only in the development environment. Mock for example a database in the development process is important. Test Driven Development is your best friend in these cases.
+
 ##### Day 1128-1229-1230 Learning Security
 
 On the weekend we continue reading the Security Engineering book I have a great progress in the book. Monday I improve my English and continue reading also today I start to use ChatGPT while write code, ChatGPT help to create testing and give me ideas about what I do, coding using ChatGPT is funny.
