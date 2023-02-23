@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1232 Secure Queries
+
+Today I have learned about how to design a private/secure for example with sensitive information, this information needs to be anonymized to work correctly. The problem is that you can set the three rule for the database that only permit queries that search registries in groups of three or more target registries, but techniques how aggregation attack and characteristic formula can do your database design useless. I never thought is this type of problems in my life how as a programmer.
+
 ##### Day 1231 Local Environment
 
 Today I notice that do your code that depends on a database or a server thinking to replace these dependencies for example with docker containers that run in your local machine is great. The problem with developed in a development environment is that you attach your code to work only in the development environment. Mock for example a database in the development process is important. Test Driven Development is your best friend in these cases.
