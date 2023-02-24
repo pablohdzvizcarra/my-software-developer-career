@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1233 Stress
+
+Today I have a stressful day in the work, we have some deadlines and we need to complete one very important activity in a short period of time. Well, I need to review the next books again software craftsmanship and clean coder, because some of this problem or stress is created with my capacity, how software developer some deadlines are impossible to complete without work extra hours and work extra hours is don't an option. I need to learn how say No and how to attack the problems in a intelligent way, how handle annoying situations with other to avoid it.
+
 ##### Day 1232 Secure Queries
 
 Today I have learned about how to design a private/secure for example with sensitive information, this information needs to be anonymized to work correctly. The problem is that you can set the three rule for the database that only permit queries that search registries in groups of three or more target registries, but techniques how aggregation attack and characteristic formula can do your database design useless. I never thought is this type of problems in my life how as a programmer.
