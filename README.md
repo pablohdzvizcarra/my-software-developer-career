@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1234 Working with Cache
+
+Today I need to work with data storage in Cache, this cache is built with a short period of time and when the program finishes the process needs to be destroyed. In the weekend I will try to build the same exercise, but this time I will use a Redis database rather than save the data in Java objects.
+
 ##### Day 1233 Stress
 
 Today I have a stressful day in the work, we have some deadlines and we need to complete one very important activity in a short period of time. Well, I need to review the next books again software craftsmanship and clean coder, because some of this problem or stress is created with my capacity, how software developer some deadlines are impossible to complete without work extra hours and work extra hours is don't an option. I need to learn how say No and how to attack the problems in a intelligent way, how handle annoying situations with other to avoid it.
