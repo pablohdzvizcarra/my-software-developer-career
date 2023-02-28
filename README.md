@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1235 Continue Reading
+
+Today and the weekend I advance in my reading of the Security Engineering book, I have good progress in the book, I was practice a lot of coding in Python with some exercises. Python is a very good language, but some developers write in bad way Python code. Please add type in python methods/functions always and create more DTOs to work with data. 
+
 ##### Day 1234 Working with Cache
 
 Today I need to work with data storage in Cache, this cache is built with a short period of time and when the program finishes the process needs to be destroyed. In the weekend I will try to build the same exercise, but this time I will use a Redis database rather than save the data in Java objects.
