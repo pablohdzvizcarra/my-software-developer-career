@@ -7,7 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
-##### Day 1235 Continue Reading
+##### Day 1238 PERT Methodology
+
+I read about this methodology when I read the Clean Coder book, today I need to review again because don't remember how to estimate software tasks good. I have some bad estimations in the work and I need to fix this. 
+
+##### Day 1235-1236-1237 Continue Reading
 
 Today and the weekend I advance in my reading of the Security Engineering book, I have good progress in the book, I was practice a lot of coding in Python with some exercises. Python is a very good language, but some developers write in bad way Python code. Please add type in python methods/functions always and create more DTOs to work with data. 
 
