@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1239 Jupyter Notebook
+
+Today I was practice Python using Jupyter netbook reading and filtering some CSV files, I want to learn how to apply data analysis to CSV files and how to use Python to read for example a database and update the data to do more flexible in the way in which we can analyze the database using queries.
+
 ##### Day 1238 PERT Methodology
 
 I read about this methodology when I read the Clean Coder book, today I need to review again because don't remember how to estimate software tasks good. I have some bad estimations in the work and I need to fix this. 
