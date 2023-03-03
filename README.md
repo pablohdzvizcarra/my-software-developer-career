@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1240 Continue Reading
+
+Today I continue reading the Security Engineering book, this books is large to read, but I am learning a lot of security concepts and I love the real world examples that has.
+
 ##### Day 1239 Jupyter Notebook
 
 Today I was practice Python using Jupyter netbook reading and filtering some CSV files, I want to learn how to apply data analysis to CSV files and how to use Python to read for example a database and update the data to do more flexible in the way in which we can analyze the database using queries.
