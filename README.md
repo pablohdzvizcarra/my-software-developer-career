@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1245 Strategy Design Pattern
+
+Today I practice how works the strategy design pattern in Python with TDD technique with a basic program, the goal is to save a text file in SFTP server or S3 AWS bucket. We have the two logics to save the file, the method is selected by an argument passed through the CLI example --save=sftp or --save=s3. I am learning a lot of things with the project, specially testing in Python.
+
 ##### Day 1241-1242-1243-1244 Continue My journey in the Security Engineering
 
 In the weekend I continue reading the security engineering book, also I start to read the 5 a.m. club book, the book is amazing, today I apply some concepts learned in the book in my daily work and I feel more focused on my work daily activities. I continue to practice Scala in the weekend continue reading the Scala for the impatient book, I do the exercises in the book using TDD techniques, I learn Scala and Testing at the same time.
