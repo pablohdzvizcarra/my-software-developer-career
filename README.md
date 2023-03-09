@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1426 Working with Containers
+
+Today I try to do a crazy thing, I try to connect two local RabbitMQ servers using a ubuntu server that runs inside a Docker container how the man-in-middle, but I cannot achieve this, I have some problems with certificates that I can fixed, but the idea is use openssl tool to build the bridge between this two servers. I cannot achieve my goal but I learn a lot about TLS, AMQP and Openssl.
+
 ##### Day 1245 Strategy Design Pattern
 
 Today I practice how works the strategy design pattern in Python with TDD technique with a basic program, the goal is to save a text file in SFTP server or S3 AWS bucket. We have the two logics to save the file, the method is selected by an argument passed through the CLI example --save=sftp or --save=s3. I am learning a lot of things with the project, specially testing in Python.
