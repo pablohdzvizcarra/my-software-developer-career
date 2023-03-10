@@ -7,7 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
-##### Day 1426 Working with Containers
+##### Day 1247 Improving Myself
+
+Today I dedicate a great part of my free time reading the 5 AM club book, The book have a some parts like the So Good They Can't Ignore You, great advices about focus in one thing (Programming especially in Java/JVM), the advice is truth, we have only a little free portion of our day to do the things that impact our lives/profession. Well, tomorrow I continue to coding in JVM programming languages. I love the JVM.
+
+##### Day 1246 Working with Containers
 
 Today I try to do a crazy thing, I try to connect two local RabbitMQ servers using a ubuntu server that runs inside a Docker container how the man-in-middle, but I cannot achieve this, I have some problems with certificates that I can fixed, but the idea is use openssl tool to build the bridge between this two servers. I cannot achieve my goal but I learn a lot about TLS, AMQP and Openssl.
 
