@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1248 Python Scripting
+
+Today I do some Python scripting only for fun, I create a script that delete some records from a database and update others documents, maybe in the weekend I rewrite this scripts but with Groovy or Scala, I love JVM programming languages and well Python is very good, but writing code without types is a little pain.
+
 ##### Day 1247 Improving Myself
 
 Today I dedicate a great part of my free time reading the 5 AM club book, The book have a some parts like the So Good They Can't Ignore You, great advices about focus in one thing (Programming especially in Java/JVM), the advice is truth, we have only a little free portion of our day to do the things that impact our lives/profession. Well, tomorrow I continue to coding in JVM programming languages. I love the JVM.
