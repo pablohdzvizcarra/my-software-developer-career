@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1249-1053 Traveling
+
+I need to travel to my work these days, my work is far away from my home, but the experience to work with my teammates face to face is amazing, I really want to go to the office one day each week. Well I can continue with book lecture, learning Scala and Apache Spark.
+
 ##### Day 1248 Python Scripting
 
 Today I do some Python scripting only for fun, I create a script that delete some records from a database and update others documents, maybe in the weekend I rewrite this scripts but with Groovy or Scala, I love JVM programming languages and well Python is very good, but writing code without types is a little pain.
