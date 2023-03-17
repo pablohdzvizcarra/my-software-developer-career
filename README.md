@@ -7,7 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
-##### Day 1249-1053 Traveling
+##### Day 1254 SSH
+
+Today I read the documentation about SHH and I need to remember how the certificates works, also I notice that I am putting less attention in my work, this is bad because I need to upgrade my skills rather than downgrade them. I need to focus on my details and remember why is the reason that I am a programmer.
+
+##### Day 1249-1253 Traveling
 
 I need to travel to my work these days, my work is far away from my home, but the experience to work with my teammates face to face is amazing, I really want to go to the office one day each week. Well I can continue with book lecture, learning Scala and Apache Spark.
 
