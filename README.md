@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1255 Grit
+
+I continue reading my security book, but I need to say this I hate this book now, is very large, very, very large, I don't want to continue to reading anymore, but I know that all this knowledge acquired with this book is a good thing for my software developer career in this point the Grit is coming. I have two options, to finish my book or leave it. Well, I decide this tomorrow.
+
 ##### Day 1254 SSH
 
 Today I read the documentation about SHH and I need to remember how the certificates works, also I notice that I am putting less attention in my work, this is bad because I need to upgrade my skills rather than downgrade them. I need to focus on my details and remember why is the reason that I am a programmer.
