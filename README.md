@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1256-1257 Mac
+
+Today I start with the macOS ecosystems, I buy a MacBook Air my first impressions are great, because I can start to install all my Java ecosystem with the terminal using SDK man I spend my time today customize my laptop, and write some basic Java code. The M1 apple chip looks like fine, IntelliJ run fast, I hope that this laptop have a great performance and use in my future learnings.
+
 ##### Day 1255 Grit
 
 I continue reading my security book, but I need to say this I hate this book now, is very large, very, very large, I don't want to continue to reading anymore, but I know that all this knowledge acquired with this book is a good thing for my software developer career in this point the Grit is coming. I have two options, to finish my book or leave it. Well, I decide this tomorrow.
