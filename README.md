@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1258-59-60 CQRS
+
+These days I have learned about the CQRS Microservice Pattern and build a basic application following a YouTube tutorial. I found my focus again I stop to learn Scala for the moment and continue to improve my Java skill, 2023 is the year in which I need to obtain my Java Developer Certification by Oracle, and I need to continue to practice Java.
+
 ##### Day 1256-1257 Mac
 
 Today I start with the macOS ecosystems, I buy a MacBook Air my first impressions are great, because I can start to install all my Java ecosystem with the terminal using SDK man I spend my time today customize my laptop, and write some basic Java code. The M1 apple chip looks like fine, IntelliJ run fast, I hope that this laptop have a great performance and use in my future learnings.
