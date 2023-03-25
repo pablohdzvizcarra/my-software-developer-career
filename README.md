@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1262 Java 20
+
+Today I review the new features in Java 20, I have a lot of problems with try to execute the code in IntelliJ, I need to
+do some configurations steps before compile and run the code. Also, I continue reading the Security Engineering book.
+
 ##### Day 1261 Scoped Values
 
 Today I watch the Java First, Java Always YouTube video, well Java is doing a great a job with involve the community
