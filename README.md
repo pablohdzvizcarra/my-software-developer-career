@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1263,64,65 Reading
+
+I continue reading the Security Engineering book, really I need to finish this book, I have a deadline to April 1 to
+finish this lecture, I don't have desire to continue reading this book, but I need to finish. When I finish this book my
+next goal is finish my RedHat Developer Certification.
+
 ##### Day 1262 Java 20
 
 Today I review the new features in Java 20, I have a lot of problems with try to execute the code in IntelliJ, I need to
