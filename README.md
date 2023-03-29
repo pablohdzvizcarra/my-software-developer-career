@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1266 Forgetting Logs
+
+When you write any code, method, class or process, please don't forget to add some logs. The importance of add logs in
+any application is great, because all the time you need know what do you the application, and well when you have debug
+production problems you will suffer a lot when trying to discover where is the issue. Trust me stop and add logs in the
+key parts of the application, important logs.
+
 ##### Day 1263,64,65 Reading
 
 I continue reading the Security Engineering book, really I need to finish this book, I have a deadline to April 1 to
