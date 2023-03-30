@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1267 Software Development Flow
+
+Today I continue to designing my best software development flow. When I start any type of project, I need to apply to
+TDD in all the software development process, also I recommend that you create the documentation at the same time and any
+type of diagram that you want to add to the project. Please improve the GitHub Readme, create good commits and create
+documentation about the process.
+
 ##### Day 1266 Forgetting Logs
 
 When you write any code, method, class or process, please don't forget to add some logs. The importance of add logs in
