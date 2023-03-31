@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1268 Stressed
+
+Today I have some stress in my day. I don't know how to execute python task in another thread like Java, I need to
+discover this step, also how to do TDD with Python in a good way. I was stressed a lot of learning unit testing with
+Python.
+
 ##### Day 1267 Software Development Flow
 
 Today I continue to designing my best software development flow. When I start any type of project, I need to apply to
