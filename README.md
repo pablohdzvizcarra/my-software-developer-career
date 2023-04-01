@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1269 DI In Python
+
+Today I refactor some python code to use DI (Dependency Injection), because I have a lot of problems with testing the
+code, python how an interpreted language can mock anything in the code with some trick. DI make the code easier to test.
+
 ##### Day 1268 Stressed
 
 Today I have some stress in my day. I don't know how to execute python task in another thread like Java, I need to
