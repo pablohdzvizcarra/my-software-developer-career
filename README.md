@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1270-71 Continue Reading
+
+In the weekend, I continue reading the security engineering book, I am in the last part of the book. It's amazing all
+the knowledge acquired, well I see a lot of things differently with this reading. Really write security is important how
+apply the correct design itself.
+
 ##### Day 1269 DI In Python
 
 Today I refactor some python code to use DI (Dependency Injection), because I have a lot of problems with testing the
