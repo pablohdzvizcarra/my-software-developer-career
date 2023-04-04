@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Change My Life
 
+##### Day 1272 Command Design Pattern
+
+Today I practice the Command design pattern in Python with unit testing, I do a basic application in which apply the
+command pattern. I need to practice a lot OOP with Python, Python is a great language but, for build big applications
+you need to apply OOP principles to do quality code I think, build a basic script is not the same that build a
+Microservice.
+
 ##### Day 1270-71 Continue Reading
 
 In the weekend, I continue reading the security engineering book, I am in the last part of the book. It's amazing all
