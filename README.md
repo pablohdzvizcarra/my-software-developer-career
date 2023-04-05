@@ -5,7 +5,14 @@ important that we all have some record of our progress, when I started programmi
 a record to go in the future and see what decisions I have taken and this repository is the result
 of that record.
 
-### Programming Change My Life
+### Programming Changes My Life
+
+##### Day 1273 Finish Security Engineering Book
+
+Finally, today I finish reading the Security Engineering book, the largest book that I read 1232 pages.
+I learn a lot from reading this book now I cover some lacks in my knowledge about security.
+The code that I write after this reading had more security mechanisms.
+This book improves my career a lot.
 
 ##### Day 1272 Command Design Pattern
 
