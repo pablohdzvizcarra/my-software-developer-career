@@ -7,6 +7,14 @@ of that record.
 
 ### Programming Changes My Life
 
+##### Day 1274 Creating Corrupt Files
+
+Today I tried how to create some corrupts files, I do this task because I am writing a code to validate if the file
+works fine, but I cannot achieve this I am writing the code with Python and I need to handle all these steps with bytes,
+I don't want to create the file in a tempdir to avoid I/O write operations, also I continue reviewing my next book to
+read, currently I am reading why we sleep book, but I need to read at the same time a programming book, maybe the
+fundamentals of data engineering or some book about Java.
+
 ##### Day 1273 Finish Security Engineering Book
 
 Finally, today I finish reading the Security Engineering book, the largest book that I read 1232 pages.
