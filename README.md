@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+##### Day 1275-76 Microservices
+
+I need to focus on learning two things at the moment: English and Microservices.
+Improving my English is crucial because it is the foundation of all my knowledge.
+Additionally, Java (JVM) and Microservices are my passions.
+
 ##### Day 1274 Creating Corrupt Files
 
 Today I tried how to create some corrupts files, I do this task because I am writing a code to validate if the file
