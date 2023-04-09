@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+##### Day 1277 Groovy or Python
+
+Today I need to start a process to ingest a database with some data.
+I am learning about IBM Cloud and Microservice I want to practice the Event-Sourcing Pattern with Java and SpringBoot,
+but I have some problems with creating the scripts to fill the database, the idea is to take the data from a CSV and next
+fill the database with this data, well tomorrow I continue this process but using Python.
+
 ##### Day 1275-76 Microservices
 
 I need to focus on learning two things at the moment: English and Microservices.
