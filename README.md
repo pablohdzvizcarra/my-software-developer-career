@@ -1,18 +1,24 @@
 # My Journey to Become a Software Engineer
 
-In this repository I will keep the progress fo my career as a software engineer, I think it is very
-important that we all have some record of our progress, when I started programming I wanted to have
+In this repository, I will keep the progress of my career as a software engineer. I think it is very
+important that we all have some record of our progress, when I started programming, I wanted to have
 a record to go in the future and see what decisions I have taken and this repository is the result
 of that record.
 
 ### Programming Changes My Life
 
+##### Day 1278 Event Sourcing
+
+I continue learning the even sourcing pattern, I start a Java application to apply this pattern in some basic service.
+I feel unsure about finishing the project because when I finish this project, the project will never see a production
+state.
+
 ##### Day 1277 Groovy or Python
 
 Today I need to start a process to ingest a database with some data.
 I am learning about IBM Cloud and Microservice I want to practice the Event-Sourcing Pattern with Java and SpringBoot,
-but I have some problems with creating the scripts to fill the database, the idea is to take the data from a CSV and next
-fill the database with this data, well tomorrow I continue this process but using Python.
+but I have some problems with creating the scripts to fill the database, the idea is to take the data from a CSV and
+next fill the database with this data, well tomorrow I continue this process but using Python.
 
 ##### Day 1275-76 Microservices
 
