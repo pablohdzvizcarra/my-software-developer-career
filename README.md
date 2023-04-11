@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Changes My Life
 
+##### Day 1279 IBM event Streams
+
+Today I need to do a discovery about the IBM Event Streams service, this service works with Kafka, and I need to use
+Kafka to continue with the event sourcing microservice project.
+
 ##### Day 1278 Event Sourcing
 
 I continue learning the even sourcing pattern, I start a Java application to apply this pattern in some basic service.
