@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+##### Day 1280 Load Balancer
+
+Today I need to investigate a little how it works the load balancer,
+I review Nginx and Traefik LB,
+we have a problem related to one load balancer, and we don't know much information about how it can be configured and
+how it works.
+
 ##### Day 1279 IBM event Streams
 
 Today I need to do a discovery about the IBM Event Streams service, this service works with Kafka, and I need to use
