@@ -7,11 +7,19 @@ of that record.
 
 ### Programming Changes My Life
 
+##### Day 1281 Celebration Day
+
+Today I complete my hard pending project in my work, I was working on this project for seven months, involves people
+from five different teams.
+I learn a lot of working on this project and improve my English skill.
+Also, I continue my course about communication, collaboration skills,
+I am agreed with my mentor that I need to improve these skills because it is the foundations of my career.
+
 ##### Day 1280 Load Balancer
 
 Today I need to investigate a little how it works the load balancer,
 I review Nginx and Traefik LB,
-we have a problem related to one load balancer, and we don't know much information about how it can be configured and
+we have a problem related to one load balancer, and we do not know much information about how it can be configured and
 how it works.
 
 ##### Day 1279 IBM event Streams
@@ -57,50 +65,60 @@ This book improves my career a lot.
 
 Today I practice the Command design pattern in Python with unit testing, I do a basic application in which apply the
 command pattern. I need to practice a lot OOP with Python, Python is a great language but, for build big applications
-you need to apply OOP principles to do quality code I think, build a basic script is not the same that build a
+you need to apply OOP principles to do quality code, I think, building a basic script is not the same that build a
 Microservice.
 
 ##### Day 1270-71 Continue Reading
 
-In the weekend, I continue reading the security engineering book, I am in the last part of the book. It's amazing all
-the knowledge acquired, well I see a lot of things differently with this reading. Really write security is important how
+On the weekend, I continue reading the security engineering book, I am in the last part of the book.
+It is amazing all the knowledge acquired; well, I see a lot of things differently with this reading.
+Really write security is important how to
 apply the correct design itself.
 
 ##### Day 1269 DI In Python
 
 Today I refactor some python code to use DI (Dependency Injection), because I have a lot of problems with testing the
-code, python how an interpreted language can mock anything in the code with some trick. DI make the code easier to test.
+code, python how an interpreted language can mock anything in the code with some trick. DI makes the code easier to test.
 
 ##### Day 1268 Stressed
 
-Today I have some stress in my day. I don't know how to execute python task in another thread like Java, I need to
-discover this step, also how to do TDD with Python in a good way. I was stressed a lot of learning unit testing with
+Today I have some stress in my day.
+I do not know how to execute a python task in another thread like Java, I need to
+discover this step, also how to do TDD with Python in a good way.
+I was stressed a lot of learning unit testing with
 Python.
 
 ##### Day 1267 Software Development Flow
 
-Today I continue to designing my best software development flow. When I start any type of project, I need to apply to
+Today I continue to design my best software development flow.
+When I start any type of project, I need to apply to
 TDD in all the software development process, also I recommend that you create the documentation at the same time and any
-type of diagram that you want to add to the project. Please improve the GitHub Readme, create good commits and create
+type of diagram that you want to add to the project.
+Please improve the GitHub Readme, create good commits, and create
 documentation about the process.
 
 ##### Day 1266 Forgetting Logs
 
-When you write any code, method, class or process, please don't forget to add some logs. The importance of add logs in
-any application is great, because all the time you need know what do you the application, and well when you have debug
-production problems you will suffer a lot when trying to discover where is the issue. Trust me stop and add logs in the
+When you write any code, method, class or process, please do not forget to add some logs.
+The importance of add logs in any application is great,
+because all the time you need to know what do you the application, and well, when you have debug
+production problems, you will suffer a lot when trying to discover where is the issue.
+Trust me to stop and add logs in the
 key parts of the application, important logs.
 
 ##### Day 1263,64,65 Reading
 
 I continue reading the Security Engineering book, really I need to finish this book, I have a deadline to April 1 to
-finish this lecture, I don't have desire to continue reading this book, but I need to finish. When I finish this book my
+finish this lecture, I do not have desire to continue reading this book, but I need to finish.
+When I finish this book, my
 next goal is finish my RedHat Developer Certification.
 
 ##### Day 1262 Java 20
 
-Today I review the new features in Java 20, I have a lot of problems with try to execute the code in IntelliJ, I need to
-do some configurations steps before compile and run the code. Also, I continue reading the Security Engineering book.
+Today I review the new features in Java 20,
+I have a lot of problems with trying to execute the code in IntelliJ, I need to
+do some configuration steps before compiling and run the code.
+Also, I continue reading the Security Engineering book.
 
 ##### Day 1261 Scoped Values
 
