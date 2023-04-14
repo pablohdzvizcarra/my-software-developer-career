@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+##### Day 1282 Ensures Things
+
+Today I have a bad moment, because I do a supposition about something.
+In computer science is a good idea to ensure that all the things work fine,
+really when you need to answer a question, please do not say I believe,
+first review and test the things next, when you ensure that the things work is a good moment to say yes.    
+
 ##### Day 1281 Celebration Day
 
 Today I complete my hard pending project in my work, I was working on this project for seven months, involves people
