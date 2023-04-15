@@ -7,12 +7,18 @@ of that record.
 
 ### Programming Changes My Life
 
+##### Day 1283 Java Date
+
+Today I am studying the ```java.time``` API.I learned how to create instances using these objects and how to parse objects
+from the old Date API. I did the exercises using the TDD style, and I have decided to apply TDD to all my future code.
+The only exception is for scripts that I write in Python/Groovy where I do not write tests.
+
 ##### Day 1282 Ensures Things
 
 Today I have a bad moment, because I do a supposition about something.
 In computer science is a good idea to ensure that all the things work fine,
 really when you need to answer a question, please do not say I believe,
-first review and test the things next, when you ensure that the things work is a good moment to say yes.    
+first review and test the things next, when you ensure that the things work is a good moment to say yes.
 
 ##### Day 1281 Celebration Day
 
@@ -85,7 +91,8 @@ apply the correct design itself.
 ##### Day 1269 DI In Python
 
 Today I refactor some python code to use DI (Dependency Injection), because I have a lot of problems with testing the
-code, python how an interpreted language can mock anything in the code with some trick. DI makes the code easier to test.
+code, python how an interpreted language can mock anything in the code with some trick. DI makes the code easier to
+test.
 
 ##### Day 1268 Stressed
 
