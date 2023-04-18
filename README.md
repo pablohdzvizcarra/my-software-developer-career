@@ -7,6 +7,14 @@ of that record.
 
 ### Programming Changes My Life
 
+##### Day 1284-85-86 English and New Book
+
+The weekend I continue to study English,
+I need to improve my English because I can have basic conversations,
+but to work with teams that their primary language is English is difficult for me.
+My next book needs to be written in English, and I need to learn without any translating tool.
+Maybe Microservice Patterns or some books about software Architecture.
+
 ##### Day 1283 Java Date
 
 Today I am studying the ```java.time``` API.I learned how to create instances using these objects and how to parse objects
@@ -136,36 +144,40 @@ Also, I continue reading the Security Engineering book.
 
 ##### Day 1261 Scoped Values
 
-Today I watch the Java First, Java Always YouTube video, well Java is doing a great a job with involve the community
-with this type of videos. I learn about the Scoped Values JEP is interesting how Java continue to evolving and I think
+Today I watch the Java First, Java Always YouTube video, well, Java is doing a great job with involve the community
+with this type of videos.
+I learn about the Scoped Values JEP is interesting how Java continues to evolve, and I think
 that Scoped Values is a great tool in concurrency problems I remember my errors with some threads executions and modify
-variables values with wrong data.
+variable values with wrong data.
 
 ##### Day 1258-59-60 CQRS
 
 These days I have learned about the CQRS Microservice Pattern and build a basic application following a YouTube
-tutorial. I found my focus again I stop to learn Scala for the moment and continue to improve my Java skill, 2023 is the
+tutorial.
+I found my focus again I stop learning Scala for the moment and continue to improve my Java skill, 2023 is the
 year in which I need to obtain my Java Developer Certification by Oracle, and I need to continue to practice Java.
 
 ##### Day 1256-1257 Mac
 
-Today I start with the macOS ecosystems, I buy a MacBook Air my first impressions are great, because I can start to
+Today I start with the macOS ecosystem, I buy a MacBook Air my first impressions are great, because I can start to
 install all my Java ecosystem with the terminal using SDK man I spend my time today customize my laptop, and write some
-basic Java code. The M1 apple chip looks like fine, IntelliJ run fast, I hope that this laptop have a great performance
-and use in my future learnings.
+basic Java code.
+The M1 apple chip looks like fine, IntelliJ run fast, I hope that this laptop has a great performance
+and uses in my future learning.
 
 ##### Day 1255 Grit
 
-I continue reading my security book, but I need to say this I hate this book now, is very large, very, very large, I
-don't want to continue to reading anymore, but I know that all this knowledge acquired with this book is a good thing
-for my software developer career in this point the Grit is coming. I have two options, to finish my book or leave it.
+I continue reading my security book, but I need to say that I hate this book now, it is very large, very, very large, I
+don't want to continue to read anymore, but I know that all this knowledge acquired with this book is a good thing
+for my software developer career at this point the Grit is coming.
+I have two options to finish my book or leave it.
 Well, I decide this tomorrow.
 
 ##### Day 1254 SSH
 
-Today I read the documentation about SHH and I need to remember how the certificates works, also I notice that I am
-putting less attention in my work, this is bad because I need to upgrade my skills rather than downgrade them. I need to
-focus on my details and remember why is the reason that I am a programmer.
+Today I read the documentation about SHH, and I need to remember how the certificates work, also I notice that I am
+putting less attention on my work, this is bad because I need to upgrade my skills rather than downgrade them.
+I need to focus on my details and remember why is the reason that I am a programmer.
 
 **Day 1 - 50 HTML - CSS - Javascript**  [here](./day0-50.md)</br>
 **Day 51 - 100 Javascript** [here](./day51-100.md)</br>
