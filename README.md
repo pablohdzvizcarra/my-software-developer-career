@@ -7,6 +7,16 @@ of that record.
 
 ### Programming Changes My Life
 
+
+##### Day 1287-88 CI/CD
+
+These two days I am working on a CI/CD implementation,
+I remember the time when I was learning about CI/CD with GitHub actions.
+In the OpenShift course which I did last year,
+I do a little implementation with Jenkins,
+looks like on the weekend I need to continuously practice CI/CD. Maybe I need
+to do a basic implementation with IBM Continuous Delivery service and GitHub.    
+
 ##### Day 1284-85-86 English and New Book
 
 The weekend I continue to study English,
