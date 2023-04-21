@@ -7,6 +7,14 @@ of that record.
 
 ### Programming Changes My Life
 
+##### Day 1289 Docker Images
+
+Today I need to analyse and create some Docker images.
+I am always creating the docker images with root user,
+I never question me if this is a good practice,
+but I review that this is not recommended,
+the best practice is to create a Docker container with rootless user 1001, the default docker user.
+Also, I continue reading the Microservice Patterns book, I want to do all the exercises presented in this book. 
 
 ##### Day 1287-88 CI/CD
 
