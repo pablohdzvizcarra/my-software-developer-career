@@ -7,6 +7,15 @@ of that record.
 
 ### Programming Changes My Life
 
+##### Day 1290 Kubernetes
+
+Today I was working in a Kubernetes cluster.
+A long of time that I do not work with Kubernetes cluster,
+but in the work we can start to use some functionalities of Kubernetes,
+I was creating and configuring a free Kubernetes cluster in IBM cloud for around two hours,
+I can deploy one basic application.
+On the weekend, I will be continuing reading my Microservice book and learning more about Microservice and JVM.   
+
 ##### Day 1289 Docker Images
 
 Today I need to analyse and create some Docker images.
