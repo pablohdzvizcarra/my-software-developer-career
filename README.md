@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+##### Day 1292 Reading
+
+Today I only read for about two hours about Microservice,
+I start the part of learning how to decompose a monolithic application in Microservice architecture also how to create
+small microservices.
+Techniques how Domain driven-design is a good tool to know the correct size or functionalities for each microservice.
+
 ##### Day 1291 Study Microservices
 
 Today I continue reading the Microservice Pattern book,
@@ -14,7 +21,7 @@ I never thought about what is a pattern in Microservice architecture or a patter
 I know the Design patterns used to write good code,
 but I do not have any idea about the same idea can be applied for Microservice.
 A pattern is a solution to solve one problem in a specific context.
-Tomorrow I will be studying Microservices.     
+Tomorrow I will be studying Microservices.
 
 ##### Day 1290 Kubernetes
 
@@ -23,7 +30,7 @@ A long of time that I do not work with Kubernetes cluster,
 but in the work we can start to use some functionalities of Kubernetes,
 I was creating and configuring a free Kubernetes cluster in IBM cloud for around two hours,
 I can deploy one basic application.
-On the weekend, I will be continuing reading my Microservice book and learning more about Microservice and JVM.   
+On the weekend, I will be continuing reading my Microservice book and learning more about Microservice and JVM.
 
 ##### Day 1289 Docker Images
 
@@ -32,7 +39,7 @@ I am always creating the docker images with root user,
 I never question me if this is a good practice,
 but I review that this is not recommended,
 the best practice is to create a Docker container with rootless user 1001, the default docker user.
-Also, I continue reading the Microservice Patterns book, I want to do all the exercises presented in this book. 
+Also, I continue reading the Microservice Patterns book, I want to do all the exercises presented in this book.
 
 ##### Day 1287-88 CI/CD
 
@@ -41,7 +48,7 @@ I remember the time when I was learning about CI/CD with GitHub actions.
 In the OpenShift course which I did last year,
 I do a little implementation with Jenkins,
 looks like on the weekend I need to continuously practice CI/CD. Maybe I need
-to do a basic implementation with IBM Continuous Delivery service and GitHub.    
+to do a basic implementation with IBM Continuous Delivery service and GitHub.
 
 ##### Day 1284-85-86 English and New Book
 
@@ -53,7 +60,8 @@ Maybe Microservice Patterns or some books about software Architecture.
 
 ##### Day 1283 Java Date
 
-Today I am studying the ```java.time``` API.I learned how to create instances using these objects and how to parse objects
+Today I am studying the ```java.time``` API.I learned how to create instances using these objects and how to parse
+objects
 from the old Date API. I did the exercises using the TDD style, and I have decided to apply TDD to all my future code.
 The only exception is for scripts that I write in Python/Groovy where I do not write tests.
 
