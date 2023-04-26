@@ -7,13 +7,20 @@ of that record.
 
 ### Programming Changes My Life
 
+##### Day 1294 NodePort
+
+Today read the documentation about NodePort in Kubernetes.
+I know how to create a NodePort service to expose my application, but I want to understand very well about what is a
+NodePort, other features to expose an application like NodePort in Kubernetes,
+also I studied how it works the Kubernetes network.
+
 ##### Day 1293 Hexagonal Architecture
 
 Today I will be studying the hexagonal architecture in the afternoon.
 I know this architecture style in the past,
 but I never did some projects with them,
 I designed a basic diagram for an application with this architectural style,
-I have planned to build the application using SpringBoot and Kotlin.  
+I have planned to build the application using SpringBoot and Kotlin.
 
 ##### Day 1292 Reading
 
