@@ -7,6 +7,14 @@ of that record.
 
 ### Programming Changes My Life
 
+##### Day 1296 Merging CSV Files
+
+Today I learned how to merge two CSV files with pandas,
+I need to do a filter between the CSV files next, save the new data frame generated in a new CSV.
+First, I need to try to do this with Spark,
+but I have some problems trying to read a .xlsx file with Spark,
+for this reason I use pandas that have support for this files.
+
 ##### Day 1295 Searching Simplicity
 
 Today I had a frustrating experience trying to use a technique that wasn't necessary for the task at hand. Sometimes, we
