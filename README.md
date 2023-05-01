@@ -7,6 +7,14 @@ of that record.
 
 ### Programming Changes My Life
 
+##### Day 1298-99 Continue Reading
+
+Over the weekend, I continued reading the book on Microservice Patterns.
+Recently, I have developed a keen interest in
+data engineering with Scala.
+Perhaps, I will devote a month to studying this new topic, read any book and work on some simple projects.
+Tomorrow I have a free day to focus on studying more about JVM and Microservices.
+
 ##### Day 1297 High-level Domain
 
 Today I was studying what is a high-level domain and how we can use this to start creating a good Microservice.
