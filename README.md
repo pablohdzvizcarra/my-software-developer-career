@@ -39,3 +39,6 @@ I do not know the answer to this question, but tomorrow I will review this.
 **Day 1051 - 1100 Java | Python | Cloud Computing** [here](day1051-1100.md)</br>
 **Day 1101 - 1150 Java | Containers | Cloud Native Development | OpenShift** [here](day1101-1150.md)</br>
 **Day 1151 - 1200 Java | Containers | Python | Security** [here](day1151-1200.md)</br>
+**Day 1201 - 1250 Java | Python | Security | English** [here](day1201-1250.md)</br>
+**Day 1251 - 1300 Java | Python | Security | English | Soft-Skills** [here](day1251-1300.md)</br>
+
