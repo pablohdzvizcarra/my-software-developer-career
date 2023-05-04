@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1302 Pandas and PySpark
+
+Well today I continue practicing with pandas and pyspark python libraries. I need to analyze some CSV files and 
+extract selected data. Filter data with pyspark is like SQL but with pandas I believe that is more efficient. I do 
+the same process with the two libraries, but with pyspark the process take more time rather than pandas. Also save a 
+dataframe in a new csv is easier with pandas.
+
 #### Day 1301 Pyspark
 
 Today I learned how to read a CSV file using Pyspark and how to filter the rows in the CSV file with a condition.
