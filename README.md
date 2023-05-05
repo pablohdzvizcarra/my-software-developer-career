@@ -7,12 +7,19 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1303 Learning Pandas
+
+Today I am continuing learning more about pandas, I need to do a basic diagram showing some data using the matplotlib 
+python library also I learn how to select some date from a pandas dataframe.
+I cannot advance in the Microservice Patterns book because I am continuing studying english.  
+
 #### Day 1302 Pandas and PySpark
 
-Well today I continue practicing with pandas and pyspark python libraries. I need to analyze some CSV files and 
-extract selected data. Filter data with pyspark is like SQL but with pandas I believe that is more efficient. I do 
-the same process with the two libraries, but with pyspark the process take more time rather than pandas. Also save a 
-dataframe in a new csv is easier with pandas.
+Well, today I continue practicing with pandas and pyspark python libraries.
+I need to analyze some CSV files and extract selected data.
+Filter data with pyspark is like SQL, but with pandas I believe that is more efficient.
+I do the same process with the two libraries, but with pyspark the process takes more time rather than pandas.
+Also, saving a dataframe in a new csv is easier with pandas.
 
 #### Day 1301 Pyspark
 
