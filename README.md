@@ -7,11 +7,18 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1304, 05, 06 ChatGPT and Python
+
+On the weekend, I completed a course on using the ChatGPT API with Python and Jupyter Notebook.
+The course was offered by deeplearning.ai, a reputable platform.
+I gained valuable insights on creating effective prompts and utilizing various features of ChatGPT.
+Additionally, I made progress in reading the "Microservice Patterns" book.
+
 #### Day 1303 Learning Pandas
 
-Today I am continuing learning more about pandas, I need to do a basic diagram showing some data using the matplotlib 
+Today I am continuing learning more about pandas, I need to do a basic diagram showing some data using the matplotlib
 python library also I learn how to select some date from a pandas dataframe.
-I cannot advance in the Microservice Patterns book because I am continuing studying english.  
+I cannot advance in the Microservice Patterns book because I am continuing studying english.
 
 #### Day 1302 Pandas and PySpark
 
