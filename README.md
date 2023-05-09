@@ -7,6 +7,15 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1307 Kubernetes
+
+Throughout the whole day, I have been practicing Kubernetes. I have created several applications and configured a local
+Kubernetes cluster to run them. My tasks have involved creating service resources to expose the applications and
+ConfigMaps to add environment variables. For most of these tasks, I have relied on ChatGPT, which has proven to be a
+valuable tool. However, one challenge I have encountered is understanding the underlying reasons behind the actions.
+While I know how to perform certain tasks, grasping the "why" behind them can be more difficult. I believe that studying
+books and reading official technology documentation would provide a better understanding of the underlying concepts.
+
 #### Day 1304, 05, 06 ChatGPT and Python
 
 On the weekend, I completed a course on using the ChatGPT API with Python and Jupyter Notebook.
