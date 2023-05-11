@@ -7,6 +7,14 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1308-09 Service Discovery
+
+These days, I have been learning about Service Discovery. I have learned about various patterns such as
+Self-Registration, Client-Side Discovery, 3rd-Party Registration, and Server-Side Discovery. Additionally, I have been
+practicing implementing these patterns using Java code and applying Test-Driven Development (TDD). However, I feel the
+need to dedicate more time to these patterns and engage in additional exercises, as I believe they are of great
+importance and can serve as valuable tools in my repertoire.
+
 #### Day 1307 Kubernetes
 
 Throughout the whole day, I have been practicing Kubernetes. I have created several applications and configured a local
