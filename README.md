@@ -7,6 +7,15 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1311 Work Management and Stack Overflow Survey
+
+Today I participated in the Stack Overflow survey for 2023. This is the third year in a row that I have taken part in
+this survey, and once it was completed, I eagerly read through the results. It's truly fascinating to see the responses
+and insights shared by others.
+In the afternoon, I dedicated my time to a course on work management available on the Harvard Manage Mentor platform.
+Over the weekend, my plan is to practice and apply the knowledge gained from the course by completing exercises that can
+be applied to my daily life.
+
 #### Day 1310 Implementing Service Discovery Patterns
 
 Today I dedicated my time to further enhance my understanding and proficiency in the 3rd party registration and
