@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1312-13-14 Self-improvement
+
+On the weekend, I took a course on self-improvement focused on career management. Additionally, I started reading a book
+on the same topic. I sometimes feel lost and need to recover from setbacks. Today, I am continuing to study English and
+practice Python and data manipulation.
+
 #### Day 1311 Work Management and Stack Overflow Survey
 
 Today I participated in the Stack Overflow survey for 2023. This is the third year in a row that I have taken part in
