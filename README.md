@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1315 Message Patterns
+
+Today I have been working on learning message patterns in Microservices. I am familiar with Kafka, RabbitMQ, and the
+concept of event architecture. It is interesting how simplifying things can help you grasp concepts more quickly. I
+completed a small implementation where I applied a message pattern using Java/Python code. Tomorrow I will continue
+studying this topic.
+
 #### Day 1312-13-14 Self-improvement
 
 On the weekend, I took a course on self-improvement focused on career management. Additionally, I started reading a book
