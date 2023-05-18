@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1316 One-way Notifications
+
+Today I have been learning the one-way notification message pattern, this message pattern it's easy to understand, 
+but I have some problems trying to implement in a basic program with Kotlin, I don't have good knowledge in Kotlin 
+and I don't know how it works the kotlin-test library for write unit testing, tomorrow I will continue implementing 
+this pattern and fix my issues with the kotlin-test library 
+
 #### Day 1315 Message Patterns
 
 Today I have been working on learning message patterns in Microservices. I am familiar with Kafka, RabbitMQ, and the
