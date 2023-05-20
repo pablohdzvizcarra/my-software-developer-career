@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1318 Continue Reading Messages Architectures
+
+Today I had studied about broker and brokerless architectures in Microservice context.  
+Also, I learn a good lesson, when you need to a high-process or a batch job, please think about the resources, the most 
+of the time developers never think in these things I maybe we can have problems when deploying the application in the 
+environment the classic works on my machine.
+
 #### Day 1317 Broker and Brokerless Architecture
 
 Today I finished my Kotlin project initialized yesterday.
