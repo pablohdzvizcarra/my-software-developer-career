@@ -7,11 +7,19 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1319-20-21 Continue Reading
+
+On the weekend, I was reading the book "Microservice Patterns." Today I need to work on an exercise with Kafka, where
+I'm trying to send a message with a shared ID. However, I'm facing some difficulties in configuring the Kafka cluster in
+a Docker container, and as a result, I'm unable to complete the test. Perhaps I need to have a better understanding of
+the basic abstractions and how Kafka works with Java code. I believe that taking this approach will help me gain a
+clearer understanding of how things are built.
+
 #### Day 1318 Continue Reading Messages Architectures
 
 Today I had studied about broker and brokerless architectures in Microservice context.  
-Also, I learn a good lesson, when you need to a high-process or a batch job, please think about the resources, the most 
-of the time developers never think in these things I maybe we can have problems when deploying the application in the 
+Also, I learn a good lesson, when you need to a high-process or a batch job, please think about the resources, the most
+of the time developers never think in these things I maybe we can have problems when deploying the application in the
 environment the classic works on my machine.
 
 #### Day 1317 Broker and Brokerless Architecture
