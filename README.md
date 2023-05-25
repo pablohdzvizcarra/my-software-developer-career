@@ -7,11 +7,17 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1323 Transactional Context
+
+I realize the importance of revisiting the basics to grasp the concept of a transactional context. Despite encountering
+the term frequently during my study of Microservices, I never truly understood its meaning. Therefore, I dedicated today
+to performing a simple exercise on Java code to gain a better understanding of the context.
+
 #### Day 1322 Discarding Duplicates Messages
 
-Today I have been studying how to prevent the processing of duplicate messages in a consumer. 
+Today I have been studying how to prevent the processing of duplicate messages in a consumer.
 Let's say you have an OrderPay event, and due to some reasons, the broker duplicates the message twice.
-It is essential to implement a mechanism to discard duplicate messages in the consumer before process it, ensuring that 
+It is essential to implement a mechanism to discard duplicate messages in the consumer before process it, ensuring that
 the same message is not processed multiple times.
 
 #### Day 1319-20-21 Continue Reading
