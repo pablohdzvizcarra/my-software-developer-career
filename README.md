@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1324 Saga
+
+Today I start to study the Saga pattern in Microservice architecture a Saga pattern has a lot of concepts that you 
+need to understand good to apply the Saga in a Microservice architecture, it looks like that I will continue 
+studying Saga for some days maybe a week, the book that I am reading dedicates a whole chapter to the Saga pattern.  
+
 #### Day 1323 Transactional Context
 
 I realize the importance of revisiting the basics to grasp the concept of a transactional context. Despite encountering
