@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1325 Threading in Python
+
+Today I need to study about threading in Python because I am building some scripts, and I need to improve the 
+performance; One script takes a long 3 minutes in execution, implementing parallelism and threading I want to reduce 
+a one minute.
+
 #### Day 1324 Saga
 
 Today I start to study the Saga pattern in Microservice architecture a Saga pattern has a lot of concepts that you 
