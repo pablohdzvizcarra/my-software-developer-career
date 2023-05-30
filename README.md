@@ -7,17 +7,28 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1326, 27, 28
+
+On the weekend, I took a break from learning about Microservices. I decided to start reading a new book about Spark,
+possibly covering Scala or Java. In the end, I began reading "Spark in Action." Spark is an amazing technology, and
+while I often use Python pandas for various tasks at work, I discovered that Scala is incredibly powerful. On Sunday, I
+dedicated my time to deploying a Scala cluster on a Kubernetes cluster, but unfortunately, I was unable to achieve that.
+However, I did manage to work with Scala using the Maven package.
+
+Today is Monday, and I started the day with a quick exercise. I ingested data from a CSV file, added some additional
+fields, and efficiently stored the entire dataframe in a PostgresSQL table. It was a straightforward and fast process.
+
 #### Day 1325 Threading in Python
 
-Today I need to study about threading in Python because I am building some scripts, and I need to improve the 
-performance; One script takes a long 3 minutes in execution, implementing parallelism and threading I want to reduce 
+Today I need to study about threading in Python because I am building some scripts, and I need to improve the
+performance; One script takes a long 3 minutes in execution, implementing parallelism and threading I want to reduce
 a one minute.
 
 #### Day 1324 Saga
 
-Today I start to study the Saga pattern in Microservice architecture a Saga pattern has a lot of concepts that you 
-need to understand good to apply the Saga in a Microservice architecture, it looks like that I will continue 
-studying Saga for some days maybe a week, the book that I am reading dedicates a whole chapter to the Saga pattern.  
+Today I start to study the Saga pattern in Microservice architecture a Saga pattern has a lot of concepts that you
+need to understand good to apply the Saga in a Microservice architecture, it looks like that I will continue
+studying Saga for some days maybe a week, the book that I am reading dedicates a whole chapter to the Saga pattern.
 
 #### Day 1323 Transactional Context
 
