@@ -7,9 +7,19 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1330 Study the Dataframe
+
+Today I have been studied about what is a dataframe and how it is built. I believe that this concept can be useful 
+in my daily work activities because in my work I use the Pandas Python library and pandas also manipulate the data in a 
+dataframe, tomorrow I continue studying and practicing with this concept with Spark and Pandas.
+I remember one time when I need to use both libraries in the creation of a CSV report with Java code.
+
 #### Day 1329 Spark Mental Model
 
-Today, I embarked on a new exercise: constructing a mental model of how Spark functions in tasks such as data ingestion, transformation, and loading. This concept holds immense power, especially when grappling with complex ideas. Building a mental model serves as a valuable tool for truly comprehending these concepts. I have always advocated for simplifying intricate concepts through visualization and abstraction, as it proves to be the most effective approach to learning.   
+Today I embarked on a new exercise: constructing a mental model of how Spark functions in tasks such as data ingestion,
+transformation, and loading. This concept holds immense power, especially when grappling with complex ideas. Building a
+mental model serves as a valuable tool for truly comprehending these concepts. I have always advocated for simplifying
+intricate concepts through visualization and abstraction, as it proves to be the most effective approach to learning.
 
 #### Day 1326, 27, 28
 
