@@ -7,19 +7,25 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1332 Continues with Dataframe
+
+Today I studied a brief about how the dataframe is built. I learned the difference between a Dataframe and a Dataset,
+it's curious about how Java called the dataframes, I feel a little sick, I hate when I have a cold, programming is 
+complicated with a cold. 
+
 #### Day 1331 Union Dataframes
 
-Today I did a union with two dataframes also I learned how to modify the name of the columns and how to add more 
+Today I did a union with two dataframes also I learned how to modify the name of the columns and how to add more
 columns in a dataframe, and fill the values in these columns.
-Manipulates Dataframes with Spark sometimes can be a little tedious because you need to ensure that the type of the 
-value in the column is the same for the column to apply the union, well, I am happy because I am learning a new 
-technology (Spark), learning a little about new field in Computer Science (Data Engineering) and the best I am 
+Manipulates Dataframes with Spark sometimes can be a little tedious because you need to ensure that the type of the
+value in the column is the same for the column to apply the union, well, I am happy because I am learning a new
+technology (Spark), learning a little about new field in Computer Science (Data Engineering) and the best I am
 learning all these things with Java, my main language.
 
 #### Day 1330 Study the Dataframe
 
-Today I have been studied about what is a dataframe and how it is built. I believe that this concept can be useful 
-in my daily work activities because in my work I use the Pandas Python library and pandas also manipulate the data in a 
+Today I have been studied about what is a dataframe and how it is built. I believe that this concept can be useful
+in my daily work activities because in my work I use the Pandas Python library and pandas also manipulate the data in a
 dataframe, tomorrow I continue studying and practicing with this concept with Spark and Pandas.
 I remember one time when I need to use both libraries in the creation of a CSV report with Java code.
 
