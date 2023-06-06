@@ -7,11 +7,18 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1333-34-35 Spark Lazy
+
+On the weekend, I continued studying Spark, particularly focusing on understanding why Spark is considered "lazy." It's
+truly fascinating how Spark can efficiently handle big data by creating jobs and tasks. Working with 7 million records
+is remarkably fast. I'm eager to delve deeper into this topic as I believe this concept will prove valuable in the
+future.
+
 #### Day 1332 Continues with Dataframe
 
 Today I studied a brief about how the dataframe is built. I learned the difference between a Dataframe and a Dataset,
-it's curious about how Java called the dataframes, I feel a little sick, I hate when I have a cold, programming is 
-complicated with a cold. 
+it's curious about how Java called the dataframes, I feel a little sick, I hate when I have a cold, programming is
+complicated with a cold.
 
 #### Day 1331 Union Dataframes
 
