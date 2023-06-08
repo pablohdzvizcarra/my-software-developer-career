@@ -7,6 +7,9 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1337 Spark and Java Lambda Functions
+
+Today, I have been studying how to write Spark functions using lambda expressions instead of creating separate classes for each operation. Additionally, I have been exploring the Serialization and Deserialization process in Java. I've often encountered Java classes that implement the Serialization interface, but I never took the time to ponder the reason behind it.
 
 #### Day 1336 Spark MapReduce Operations
 
