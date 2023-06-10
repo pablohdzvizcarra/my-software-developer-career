@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1339 Groovy Scripting
+
+Today, I did two basic Groovy script one for create passwords and the other to create a Spark session, also I learn how to configure a Scheduler in Java and Spring Boot, I have a pending learning about concurrency with Java, on the weekend I can advance in this topic.
+
 #### Day 1338 Working with Spark Interactively
 
 Today, I have been studying how to work with a Spark cluster interactively. I have a Jupyter notebook with Spark deployed on an Oracle server, which allows me to perform my testing activities in this cluster. Additionally, I learned about the potential issues that can arise with Jar files in Java, and I discovered a new concept called "uber Java jar," which refers to a jar file that contains all the necessary dependencies. Tomorrow, I will continue exploring Spark and Java.
