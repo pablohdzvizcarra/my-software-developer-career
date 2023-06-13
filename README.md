@@ -7,17 +7,34 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1340-41-42 Spark
+
+On the weekend I have been reading the "Spark in Action" book, working with files with Spark is easy because Spark
+offers a lot of configured tooling to do the ingestion of data using some files (CSV, JSON, XML, etc.).
+Well I continue focusing on Java and the JVM, today need to use the VisualVM tool to debug one application that consumes
+a lot of memory in a Kubernetes Pod;
+performance in applications is one of the things that you forget to learn in your daily work.
+
 #### Day 1339 Groovy Scripting
 
-Today, I did two basic Groovy script one for create passwords and the other to create a Spark session, also I learn how to configure a Scheduler in Java and Spring Boot, I have a pending learning about concurrency with Java, on the weekend I can advance in this topic.
+Today I did two basic Groovy script one for create passwords and the other to create a Spark session, also I learn how
+to configure a Scheduler in Java and Spring Boot, I have pending learning about concurrency with Java, on the weekend
+I can advance in this topic.
 
 #### Day 1338 Working with Spark Interactively
 
-Today, I have been studying how to work with a Spark cluster interactively. I have a Jupyter notebook with Spark deployed on an Oracle server, which allows me to perform my testing activities in this cluster. Additionally, I learned about the potential issues that can arise with Jar files in Java, and I discovered a new concept called "uber Java jar," which refers to a jar file that contains all the necessary dependencies. Tomorrow, I will continue exploring Spark and Java.
+Today I have been studying how to work with a Spark cluster interactively. I have a Jupyter notebook with Spark
+deployed on an Oracle server, which allows me to perform my testing activities in this cluster. Additionally, I learned
+about the potential issues that can arise with Jar files in Java, and I discovered a new concept called "uber Java jar,"
+which refers to a jar file that contains all the necessary dependencies. Tomorrow I will continue exploring Spark and
+Java.
 
 #### Day 1337 Spark and Java Lambda Functions
 
-Today, I have been studying how to write Spark functions using lambda expressions instead of creating separate classes for each operation. Additionally, I have been exploring the Serialization and Deserialization process in Java. I've often encountered Java classes that implement the Serialization interface, but I never took the time to ponder the reason behind it.
+Today I have been studying how to write Spark functions using lambda expressions instead of creating separate classes
+for each operation. Additionally, I have been exploring the Serialization and Deserialization process in Java. I've
+often encountered Java classes that implement the Serialization interface, but I never took the time to ponder the
+reason behind it.
 
 #### Day 1336 Spark MapReduce Operations
 
