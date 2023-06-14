@@ -7,6 +7,14 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1343 Big Data Formats
+
+Today I have been studying about Big Data formats to storage information like Avro, Parquet and OCR,
+also I do a little application parse CSV files to Parquet.
+This is only curious because in the work we manage a lot of CSV files, 
+and sometimes we have problems with the CSv file size maybe we can change the format to storage the information,
+formats more compressed that use less Megabytes of memory.
+
 #### Day 1340-41-42 Spark
 
 On the weekend I have been reading the "Spark in Action" book, working with files with Spark is easy because Spark
