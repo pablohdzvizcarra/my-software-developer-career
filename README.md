@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1344 Spark and RDBMS Databases
+
+Today I learned how to ingest data from a relational database to a Spark and create a dataframe with the data.
+Also, I need to create a MYSQL docker container,
+I had one problem because I need that the docker container has the Sakila database inside,
+so I need to look for a docker image with the Sakila database loaded.
+
 #### Day 1343 Big Data Formats
 
 Today I have been studying about Big Data formats to storage information like Avro, Parquet and OCR,
