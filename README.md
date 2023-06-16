@@ -7,6 +7,15 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1345 Java and Spark
+
+Today I learn a lot about Java and how it works with ZIP files.
+I learn how to compress and uncompress some ZIP files,
+also I learn about what is good practice to read the content of a ZIP file into buffers and how is manage the data in a
+low level (working with bytes).
+In the afternoon, I need to learn how to deploy an Elasticsearch instance in a Docker
+container and how to ingest some data using the REST API.
+
 #### Day 1344 Spark and RDBMS Databases
 
 Today I learned how to ingest data from a relational database to a Spark and create a dataframe with the data.
@@ -18,7 +27,7 @@ so I need to look for a docker image with the Sakila database loaded.
 
 Today I have been studying about Big Data formats to storage information like Avro, Parquet and OCR,
 also I do a little application parse CSV files to Parquet.
-This is only curious because in the work we manage a lot of CSV files, 
+This is only curious because in the work we manage a lot of CSV files,
 and sometimes we have problems with the CSv file size maybe we can change the format to storage the information,
 formats more compressed that use less Megabytes of memory.
 
