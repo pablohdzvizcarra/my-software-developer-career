@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1346 Spark Data Source
+
+Today I started to build my own data source to ingest data from Spark,
+this is a hard and complicated task for me at this moment because of my little knowledge of the Spark technology,
+but well, I am learning a lot of things about Java and study advance topics in the JVM world.
+
 #### Day 1345 Java and Spark
 
 Today I learn a lot about Java and how it works with ZIP files.
