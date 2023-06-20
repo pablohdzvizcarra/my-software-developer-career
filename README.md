@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1347-48-49 Spark and Java
+
+Well on the weekend I have been reading the Spark in action book,
+currently I am in the part of the book in which I am writing a complicated code,
+working at a low level with Spark interfaces and Java API.
+
 #### Day 1346 Spark Data Source
 
 Today I started to build my own data source to ingest data from Spark,
