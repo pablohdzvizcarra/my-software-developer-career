@@ -7,6 +7,16 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1350 Continues Spark Data Source
+
+Really building your own data source to ingest data to Spark is a hard task,
+but I am learning a lot about Java and technical concepts.
+Imagine that you have three SFTP servers that contains I don't know maybe video files, and you need to collect the data
+from these three servers about the name of the videos, duration,
+time creation and more things, maybe your first approach is to build a Script that collects and parse the data for you in
+a JSON/CSV file, but with Spark and Java you can build your own implementation.
+A very powerful tool to collect data.
+
 #### Day 1347-48-49 Spark and Java
 
 Well on the weekend I have been reading the Spark in action book,
