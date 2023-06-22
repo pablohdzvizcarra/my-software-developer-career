@@ -7,13 +7,21 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1351 Testing Spark Data Source
+
+Today I continue building the data source implementation following the tutorial,
+the tutorial does not have any unit testing, and I start to create some unit testing to understand the code in a better
+way, the code is a very complex due to the complexity of the implementation, and well, I do not have high knowledge with
+Spark.
+
 #### Day 1350 Continues Spark Data Source
 
 Really building your own data source to ingest data to Spark is a hard task,
 but I am learning a lot about Java and technical concepts.
 Imagine that you have three SFTP servers that contains I don't know maybe video files, and you need to collect the data
 from these three servers about the name of the videos, duration,
-time creation and more things, maybe your first approach is to build a Script that collects and parse the data for you in
+time creation and more things, maybe your first approach is to build a Script that collects and parse the data for you
+in
 a JSON/CSV file, but with Spark and Java you can build your own implementation.
 A very powerful tool to collect data.
 
