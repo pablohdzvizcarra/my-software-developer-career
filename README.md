@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1352 Record Generator Application
+
+Today I start to do a record generator app the idea is creating an application that creates some fake data,
+next to this data creates a files (CSV, JSON) with the records simulating stream generator data.
+
 #### Day 1351 Testing Spark Data Source
 
 Today I continue building the data source implementation following the tutorial,
