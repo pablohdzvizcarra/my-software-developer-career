@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1353 Ingesting Data to Spark by Stream
+
+Today I practice how to ingest data to Spark using a stream the idea was use the previous built application that
+generates text files in some directory with fake data,
+next I need to create a Spark that application that reads these files continuously as a dataframe.
+
 #### Day 1352 Record Generator Application
 
 Today I start to do a record generator app the idea is creating an application that creates some fake data,
