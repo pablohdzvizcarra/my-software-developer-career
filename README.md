@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1354-55 Processing Parallel Data
+
+On the weekend I have been studying about how to manipulate data in a parallel process;
+parallelism is an advance topic in software engineering,
+one of these things that you need to learn when you work in a distributed system and performance applications. 
+
 #### Day 1353 Ingesting Data to Spark by Stream
 
 Today I practice how to ingest data to Spark using a stream the idea was use the previous built application that
