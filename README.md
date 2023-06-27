@@ -7,6 +7,15 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1356 SQL queries in Spark
+
+Today I learned how to create SQL queries in Spark, how to create views to use for the target of the queries.
+It's amazing how Spark offers support for SQL,
+I do not be a fan or SQL,
+the most of the time I prefer NoSQL databases in my personal projects, especially MongoDB and IBM Cloudant.
+Really, I learned a lot of Spark and Java with this book.
+I love the JVM languages.
+
 #### Day 1354-55 Processing Parallel Data
 
 On the weekend I have been studying about how to manipulate data in a parallel process;
