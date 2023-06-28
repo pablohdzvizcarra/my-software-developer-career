@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1357 Continues with SQL in Spark
+
+Today I have been continuing doing more exercises about how to use SQL with Spark,
+also I remember a gold rule when I did my exercises _a dataframe in Spark is immutable_. 
+
 #### Day 1356 SQL queries in Spark
 
 Today I learned how to create SQL queries in Spark, how to create views to use for the target of the queries.
