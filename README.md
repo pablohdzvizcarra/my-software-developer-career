@@ -7,6 +7,14 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1358 Five Steps in Data Transformation
+
+Today I started to learn about the five steps in data transformation,
+data discovery, data mapping, application engineering, application execute and data review.
+I know that every data pipeline has your own steps or processes,
+but I do not know that the industry handles your own standards for the data transformation process.
+I don't know why working with data, massive data is a pleasure for me.
+
 #### Day 1357 Continues with SQL in Spark
 
 Today I have been continuing doing more exercises about how to use SQL with Spark,
