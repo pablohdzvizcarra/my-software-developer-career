@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1359 Concurrency and Parallelism
+
+Today I have been studying about concurrency and parallelism in Computer Science more focus on Java.
+I did some exercises applying these two types of techniques using the Java concurrency libraries.
+Really, these topics can be hard to understand, but it's the next level in my software career like design patterns.
+
 #### Day 1358 Five Steps in Data Transformation
 
 Today I started to learn about the five steps in data transformation,
