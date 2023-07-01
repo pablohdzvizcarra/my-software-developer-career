@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1360 Working with Spark Functions
+
+Today I was learning about the split function in spark,
+also I learned how to use the expr like SQL, with the expr you can compute mathematical operations with the data.
+On the weekend, if I have some free time, I need to focus on continue reading the Spark book. 
+
 #### Day 1359 Concurrency and Parallelism
 
 Today I have been studying about concurrency and parallelism in Computer Science more focus on Java.
