@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1361-62-63 SQL in Spark
+
+On the weekend I continue reading the Spark in Action book,
+I studied the different types of joins that Spark has like _inner_, _Left_, _Right_, etc. 
+Also, I did some exercises using more SQL in Spark filtering and grouping data.
+
 #### Day 1360 Working with Spark Functions
 
 Today I was learning about the split function in spark,
