@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1364 Energy Problems
+
+Today I had some problems with the electric energy in my house.
+Due to these problems, I feel stressed because I cannot advance in my work and well the stress attacks me.
+I continue reading the Spark book, today I have studied how to transform some data in JSON and CSV files.
+
 #### Day 1361-62-63 SQL in Spark
 
 On the weekend I continue reading the Spark in Action book,
