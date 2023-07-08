@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1366-67-68 Go to the Office
+
+I am having a busy weekend,
+I need to change my home because on the next week I need to start to go to the office,
+the remote work is over, now I need to work in a hybrid environment.
+
 #### Day 1365 Spark User Defined Functions (UDF)
 
 Today I begin to study about how to create User Defined Functions in Spark,
