@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1369-70 Spark and New Home
+
+I have been reading the Spark in action book on the weekend, also I am ordered my things in my month temporal home.  
+
 #### Day 1366-67-68 Go to the Office
 
 I am having a busy weekend,
