@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1371-72 Continue Learning Spark
+
+I have been reading the Spark in action book these days, I am reading the last part of the book. 
+Today and tomorrow I will be learning about performance techniques to improve the performance in Java.
+
 #### Day 1369-70 Spark and New Home
 
 I have been reading the Spark in action book on the weekend, also I am ordered my things in my month temporal home.  
