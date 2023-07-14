@@ -7,6 +7,14 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1373 Gradle Dependencies
+
+Today I learned a new concept **data lineage**.
+I don't think of this concept anytime because what person thinks about where the data comes?. 
+All of these new things about data engineering are amazing,
+I have a lot of desires to write some production code with Spark and Scala,
+definitely, spark is my next programming language to learn. 
+
 #### Day 1371-72 Continue Learning Spark
 
 I have been reading the Spark in action book these days, I am reading the last part of the book. 
