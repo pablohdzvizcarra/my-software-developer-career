@@ -7,22 +7,29 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1374-75 Continue Reading and Change Home
+
+These days have been quite busy for me. The company I work for is located in a different country, so I need to relocate
+and spend two days each week working in the office. Finding a suitable rental house has been a challenge as the rental
+companies in this city have strict requirements. It's been a bit overwhelming to juggle everything while also trying to
+find time for studying. Moving homes can be quite demanding, but I'm determined to make it work.
+
 #### Day 1373 Gradle Dependencies
 
 Today I learned a new concept **data lineage**.
-I don't think of this concept anytime because what person thinks about where the data comes?. 
+I don't think of this concept anytime because what person thinks about where the data comes?.
 All of these new things about data engineering are amazing,
 I have a lot of desires to write some production code with Spark and Scala,
-definitely, spark is my next programming language to learn. 
+definitely, spark is my next programming language to learn.
 
 #### Day 1371-72 Continue Learning Spark
 
-I have been reading the Spark in action book these days, I am reading the last part of the book. 
+I have been reading the Spark in action book these days, I am reading the last part of the book.
 Today and tomorrow I will be learning about performance techniques to improve the performance in Java.
 
 #### Day 1369-70 Spark and New Home
 
-I have been reading the Spark in action book on the weekend, also I am ordered my things in my month temporal home.  
+I have been reading the Spark in action book on the weekend, also I am ordered my things in my month temporal home.
 
 #### Day 1366-67-68 Go to the Office
 
@@ -46,14 +53,14 @@ I continue reading the Spark book, today I have studied how to transform some da
 #### Day 1361-62-63 SQL in Spark
 
 On the weekend I continue reading the Spark in Action book,
-I studied the different types of joins that Spark has like _inner_, _Left_, _Right_, etc. 
+I studied the different types of joins that Spark has like _inner_, _Left_, _Right_, etc.
 Also, I did some exercises using more SQL in Spark filtering and grouping data.
 
 #### Day 1360 Working with Spark Functions
 
 Today I was learning about the split function in spark,
 also I learned how to use the expr like SQL, with the expr you can compute mathematical operations with the data.
-On the weekend, if I have some free time, I need to focus on continue reading the Spark book. 
+On the weekend, if I have some free time, I need to focus on continue reading the Spark book.
 
 #### Day 1359 Concurrency and Parallelism
 
@@ -72,7 +79,7 @@ I don't know why working with data, massive data is a pleasure for me.
 #### Day 1357 Continues with SQL in Spark
 
 Today I have been continuing doing more exercises about how to use SQL with Spark,
-also I remember a gold rule when I did my exercises _a dataframe in Spark is immutable_. 
+also I remember a gold rule when I did my exercises _a dataframe in Spark is immutable_.
 
 #### Day 1356 SQL queries in Spark
 
@@ -87,7 +94,7 @@ I love the JVM languages.
 
 On the weekend I have been studying about how to manipulate data in a parallel process;
 parallelism is an advance topic in software engineering,
-one of these things that you need to learn when you work in a distributed system and performance applications. 
+one of these things that you need to learn when you work in a distributed system and performance applications.
 
 #### Day 1353 Ingesting Data to Spark by Stream
 
