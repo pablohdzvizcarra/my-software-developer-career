@@ -7,6 +7,15 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1376-77 Zip Files and Java
+
+Today I tried to unzip a ZIP with Java only in memory the idea was,
+given a ZIP file in bytes,
+I need to take these bytes and create a ZIP file in memory and next given thr ZIP file in memory only select one file 
+inside the ZIP file a process it.
+With Python this activity is fast, but with Java is a little complicated more low level I think,
+well I need to continue working on this.
+
 #### Day 1374-75 Continue Reading and Change Home
 
 These days have been quite busy for me. The company I work for is located in a different country, so I need to relocate
