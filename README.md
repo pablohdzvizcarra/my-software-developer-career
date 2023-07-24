@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1378-79-80-81-82 Spark Learning
+
+These days I am busy with my change of home activities.
+I have been continuing reading the Spark in action book only a few pages every day and doing the exercises.
+I hope that at the end of this moment I can finish reading the book. 
+
 #### Day 1376-77 Zip Files and Java
 
 Today I tried to unzip a ZIP with Java only in memory the idea was,
