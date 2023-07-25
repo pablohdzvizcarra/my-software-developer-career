@@ -7,6 +7,14 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1383 Finish Spark in Action Book
+
+Finally, today I completed to read the Spark in action book.
+I spend two months reading this book, I learned a lot on this journey,
+and now I have new knowledge in a new tool for my toolset.
+I have a lot of desires to start to apply Spark in one of my projects in the work.
+On the weekend, I will build some basic data pipeline applying all the knowledge acquired with this lecture.
+
 #### Day 1378-79-80-81-82 Spark Learning
 
 These days I am busy with my change of home activities.
