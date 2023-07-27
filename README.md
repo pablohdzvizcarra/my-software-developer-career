@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1384-85 Scripting with Java
+
+These days, I have been attempting to create some Java scripts, but I'm encountering challenges in achieving my goals.
+While I find Python to be efficient in scripting, I understand that Python is inherently designed for such tasks.
+However, I believe that scripts developed in Python can evolve into more comprehensive applications, APIs, Desktop Apps,
+CLI Apps, and so on. For projects with plans to extend functionalities, Java seems like a better option.
+
 #### Day 1383 Finish Spark in Action Book
 
 Finally, today I completed to read the Spark in action book.
@@ -19,13 +26,13 @@ On the weekend, I will build some basic data pipeline applying all the knowledge
 
 These days I am busy with my change of home activities.
 I have been continuing reading the Spark in action book only a few pages every day and doing the exercises.
-I hope that at the end of this moment I can finish reading the book. 
+I hope that at the end of this moment I can finish reading the book.
 
 #### Day 1376-77 Zip Files and Java
 
 Today I tried to unzip a ZIP with Java only in memory the idea was,
 given a ZIP file in bytes,
-I need to take these bytes and create a ZIP file in memory and next given thr ZIP file in memory only select one file 
+I need to take these bytes and create a ZIP file in memory and next given thr ZIP file in memory only select one file
 inside the ZIP file a process it.
 With Python this activity is fast, but with Java is a little complicated more low level I think,
 well I need to continue working on this.
