@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1386-87-88-89 Spark and Design Patterns
+
+These days I am practicing writing Object-Oriented code with Java, working with Spark to do some basic activities.
+I started to read the Head First Design Patterns book, coding the examples and use TDD and Spark to create more examples.
+I have a lot of desires to write Desktop or web browser applications with only Java.
+
 #### Day 1384-85 Scripting with Java
 
 These days, I have been attempting to create some Java scripts, but I'm encountering challenges in achieving my goals.
