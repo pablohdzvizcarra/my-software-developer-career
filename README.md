@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1390 Observer Pattern
+
+Today I finished studying the observer design pattern in my current book lecture. 
+I practiced doing more own exercises and practicing more Java APIs like io and reflection.
+
 #### Day 1386-87-88-89 Spark and Design Patterns
 
 These days I am practicing writing Object-Oriented code with Java, working with Spark to do some basic activities.
