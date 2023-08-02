@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1391 Spring Boot and SFTP Connection
+
+Today I was working to implement the spring boot sftp library to create a SFTP session. 
+I was having some problems with the SFTP creation connection because of the microservice that create the SFTP
+connection work with a lot of traffic, and the microservice creates a lot of SFTP sessions.
+I am working with Spring Boot 3 and Java 17.  
+
 #### Day 1390 Observer Pattern
 
 Today I finished studying the observer design pattern in my current book lecture. 
