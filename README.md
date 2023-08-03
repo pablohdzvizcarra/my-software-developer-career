@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1392 Bind Values in Spring Boot
+
+Today I was learning in deeper how to read the values stored in the application.properties file in a Spring Boot.
+I know how to bind the values to an instance variables, but never read the official Spring Boot documentation.
+I love reading technical documentation is the best way to learn in deep dive something
+
 #### Day 1391 Spring Boot and SFTP Connection
 
 Today I was working to implement the spring boot sftp library to create a SFTP session. 
