@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1393 Spring Shell
+
+Today I attempt to create a shell application using Spring Boot Shell,
+in the past I created some CLI Java applications using the Java library Picoli,
+Spring Shell is great, but I don't know if I can create a CLI application with Spring Boot that runs with the CLI like
+picoli.
+
 #### Day 1392 Bind Values in Spring Boot
 
 Today I was learning in deeper how to read the values stored in the application.properties file in a Spring Boot.
@@ -15,20 +22,21 @@ I love reading technical documentation is the best way to learn in deep dive som
 
 #### Day 1391 Spring Boot and SFTP Connection
 
-Today I was working to implement the spring boot sftp library to create a SFTP session. 
+Today I was working to implement the spring boot sftp library to create a SFTP session.
 I was having some problems with the SFTP creation connection because of the microservice that create the SFTP
 connection work with a lot of traffic, and the microservice creates a lot of SFTP sessions.
-I am working with Spring Boot 3 and Java 17.  
+I am working with Spring Boot 3 and Java 17.
 
 #### Day 1390 Observer Pattern
 
-Today I finished studying the observer design pattern in my current book lecture. 
+Today I finished studying the observer design pattern in my current book lecture.
 I practiced doing more own exercises and practicing more Java APIs like io and reflection.
 
 #### Day 1386-87-88-89 Spark and Design Patterns
 
 These days I am practicing writing Object-Oriented code with Java, working with Spark to do some basic activities.
-I started to read the Head First Design Patterns book, coding the examples and use TDD and Spark to create more examples.
+I started to read the Head First Design Patterns book, coding the examples and use TDD and Spark to create more
+examples.
 I have a lot of desires to write Desktop or web browser applications with only Java.
 
 #### Day 1384-85 Scripting with Java
