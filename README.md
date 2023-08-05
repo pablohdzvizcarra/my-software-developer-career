@@ -7,6 +7,14 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1394 Java InputStream
+
+Today reading the Head Fist Design Patterns book,
+I discovered that classes in the java.io package use Decorator specially the classes like InputStream,
+ByteArrayStream, etc. 
+These classes use the decorator pattern to extend their functionalities,
+applying the Open/Closed principle. 
+
 #### Day 1393 Spring Shell
 
 Today I attempt to create a shell application using Spring Boot Shell,
