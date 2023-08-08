@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1395-96-97 Scala and Reading
+
+On the weekend I have been reading the Design Patterns book,
+also I feel bored with the lecture and doing the exercises,
+so I start a basic project for fun with Scala and Kotlin creating a Server and Client socket connection.
+
 #### Day 1394 Java InputStream
 
 Today reading the Head Fist Design Patterns book,
