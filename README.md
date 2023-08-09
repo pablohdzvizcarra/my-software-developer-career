@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1398 Simple Factory
+
+Today I have been studying the Simple Factory pattern to encapsulate the object creation. 
+With this pattern, you can create concrete classes that implement a common interface,
+you have a lot of flexibility because the clients that use the factory always obtain the correct object. 
+
 #### Day 1395-96-97 Scala and Reading
 
 On the weekend I have been reading the Design Patterns book,
