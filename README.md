@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1399-1411 Change Home and Rest
+
+During these days I am doing a change of home activity, I have not been able to code activities.
+Changing my home with my wife and my children is a hard task,
+but finally I have been some free time to recover my code activities. 
+
 #### Day 1398 Simple Factory
 
 Today I have been studying the Simple Factory pattern to encapsulate the object creation. 
