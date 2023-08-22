@@ -7,17 +7,24 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1412 Factory Method Pattern
+
+Today I have studied the factory method pattern.
+In the past, when I studied this design pattern, I had some doubts about how it works or in which real-life scenarios
+can be useful.
+I don't know that you can see the Factory Method pattern as a framework to create a family of objects related to a type.
+
 #### Day 1399-1411 Change Home and Rest
 
 During these days I am doing a change of home activity, I have not been able to code activities.
 Changing my home with my wife and my children is a hard task,
-but finally I have been some free time to recover my code activities. 
+but finally I have been some free time to recover my code activities.
 
 #### Day 1398 Simple Factory
 
-Today I have been studying the Simple Factory pattern to encapsulate the object creation. 
+Today I have been studying the Simple Factory pattern to encapsulate the object creation.
 With this pattern, you can create concrete classes that implement a common interface,
-you have a lot of flexibility because the clients that use the factory always obtain the correct object. 
+you have a lot of flexibility because the clients that use the factory always obtain the correct object.
 
 #### Day 1395-96-97 Scala and Reading
 
@@ -29,9 +36,9 @@ so I start a basic project for fun with Scala and Kotlin creating a Server and C
 
 Today reading the Head Fist Design Patterns book,
 I discovered that classes in the java.io package use Decorator specially the classes like InputStream,
-ByteArrayStream, etc. 
+ByteArrayStream, etc.
 These classes use the decorator pattern to extend their functionalities,
-applying the Open/Closed principle. 
+applying the Open/Closed principle.
 
 #### Day 1393 Spring Shell
 
