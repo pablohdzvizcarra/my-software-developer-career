@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1413 Dependency Inversion
+
+Today I started to study the dependency inversion principle. 
+In the past I studied the principle without understanding in a good way,
+but now I want to gain a great acknowledgement about this.
+Some things continue obscure in my mind about Object-Oriented programming and clean code.
+
 #### Day 1412 Factory Method Pattern
 
 Today I have studied the factory method pattern.
