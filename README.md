@@ -7,6 +7,15 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1427 Command Pattern
+
+Today I have studied the Command design pattern, in the past I cannot find a real use case for use the command
+pattern, well, I cannot understand the command pattern in a good way, but now studying and practicing more and applying
+TDD with the book lecture I am understanding the command pattern better.
+The easy definition of the command patter is, you have an object called command in this command object you can
+store a receiver this receiver needs to know how to execute the command, and you have another object called invoker,
+the invoker has the responsibility to execute the command.
+
 #### Day 1426 Back to Work
 
 Today, I returned from my vacation to work, and my first day back brought several changes to the team.
@@ -20,11 +29,11 @@ Well, today my month vacation was completed,
 I cannot achieve my career goals in my vacation days like finish reading the head-first design Patterns book,
 but I continue reading two books making some Java code for book exercises.
 My most important challenge to complete in my vacation was my change of home activity,
-I need to move from a different city to work in the office at least two days each week. 
+I need to move from a different city to work in the office at least two days each week.
 
 #### Day 1413 Dependency Inversion
 
-Today I started to study the dependency inversion principle. 
+Today I started to study the dependency inversion principle.
 In the past I studied the principle without understanding in a good way,
 but now I want to gain a great acknowledgement about this.
 Some things continue obscure in my mind about Object-Oriented programming and clean code.
