@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1428 Java Artifacts
+
+Today I have needed to investigate how to create a Java library with a basic functionality like parse a String to 
+a CamelCase style, then package the library in a Jar Java artifact and upload the Java artifact into a Maven 
+repository, the final step is use this previous library created into a new Java project. 
+
 #### Day 1427 Command Pattern
 
 Today I have studied the Command design pattern, in the past I cannot find a real use case for use the command
