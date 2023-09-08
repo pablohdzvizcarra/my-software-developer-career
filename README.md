@@ -7,6 +7,14 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1429 Continue Maven and Build Artifacts
+
+Today I continue working on how to create Java libraries package in a .jar file and next upload the artifact into a 
+repository, I try to upload the .jar file into a nexus repository running in Docker container, but I have some 
+problems with the uploading process, I need to continue investigating this issue.
+Also, I have the doubt about how to create the package automatically with a GitHub action, I see some Java libraries 
+that in the GitHub repository has built the .jar files with versioning ready to download and test.
+
 #### Day 1428 Java Artifacts
 
 Today I have needed to investigate how to create a Java library with a basic functionality like parse a String to 
