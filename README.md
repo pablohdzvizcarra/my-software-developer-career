@@ -7,6 +7,15 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1430 Phoenix Project Book
+
+Today I have finished reading the Phoenix Project book, the history related in the book was funny really
+funny, when I am reading the book I remember some things that happen at the work (joy moments).
+I believe that DevOps is a great set of practices that every IT organization needs to follow, in the work we are 
+currently working into a DevSecOps operation environment, but most of the time we cannot realize the practices well, 
+maybe we can take some shortcuts to achieve something or our deployment process take long time like days to be 
+completed.   
+
 #### Day 1429 Continue Maven and Build Artifacts
 
 Today I continue working on how to create Java libraries package in a .jar file and next upload the artifact into a 
