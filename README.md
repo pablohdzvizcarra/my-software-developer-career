@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1431 Adapter Pattern
+
+Today I have been studying the Adapter pattern; the Adapter pattern permits that one object interact with another 
+object that requires another interface, for example, if your C needs to interact with object A but object A requires 
+a unique interface, you can create an adapter that works as the men in the middle between both objects and permit the 
+interactions.
+
 #### Day 1430 Phoenix Project Book
 
 Today I have finished reading the Phoenix Project book, the history related in the book was funny really
