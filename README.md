@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1432 Continues with the Adapter Pattern
+
+The intent of the Adapter pattern is to change the interface from one object to the interface required for the client.
+The adapter pattern does not create new behavior only modified the interface of the object.
+Today I continue studying the adapter pattern and learn the differences between the Adapter and Decorator design 
+patterns.
+
 #### Day 1431 Adapter Pattern
 
 Today I have been studying the Adapter pattern; the Adapter pattern permits that one object interact with another 
@@ -28,8 +35,9 @@ completed.
 Today I continue working on how to create Java libraries package in a .jar file and next upload the artifact into a 
 repository, I try to upload the .jar file into a nexus repository running in Docker container, but I have some 
 problems with the uploading process, I need to continue investigating this issue.
-Also, I have the doubt about how to create the package automatically with a GitHub action, I see some Java libraries 
-that in the GitHub repository has built the .jar files with versioning ready to download and test.
+Also, I have the doubt about how to create the package automatically with a GitHub action.
+I see some Java libraries that in the GitHub repository have built the .jar files with versioning ready to download 
+and test.
 
 #### Day 1428 Java Artifacts
 
@@ -48,7 +56,7 @@ the invoker has the responsibility to execute the command.
 
 #### Day 1426 Back to Work
 
-Today, I returned from my vacation to work, and my first day back brought several changes to the team.
+Today I returned from my vacation to work, and my first day back brought several changes to the team.
 I managed to complete some Java code tasks at work.
 Now, I need to establish a new routine for my life
 and ensure that I prioritize activities that will positively impact my career.
