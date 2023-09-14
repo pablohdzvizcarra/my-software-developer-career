@@ -7,7 +7,15 @@ of that record.
 
 ### Programming Changes My Life
 
-#### Day 1433 Facade Patterns
+#### Day 1434 Good Code Practices
+
+Today I have been working on package all the classes related to a database connection into a java package for reuse 
+in other projects with this separation I can use the implementation for the database in any project only with copy 
+and paste the entire package, these classes inside the package have some functionalities like, create, edit, delete 
+documents and database.
+I need to study again about Generics in Java and how the generics can be used to code reuse. 
+
+#### Day 1433 Facade Pattern
 
 Today I began to study the Facade design pattern, this pattern simplifies a subsystem to a client.
 If you have a Client that needs to interact with your subsystem with this pattern, you can easily manage the 
