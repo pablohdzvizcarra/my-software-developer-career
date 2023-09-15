@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1435 Podman
+
+Today I begin to use podman for my container activities. In the work, we use OpenShift to deploy our applications 
+creating Pods, the problem is these Pods work inside RHEL servers, and well, sometimes we have permission problems 
+about using docker in our local machines to test the applications.
+Podman and Docker have a lot of similarities but differ in some things like rootless containers. 
+
 #### Day 1434 Good Code Practices
 
 Today I have been working on package all the classes related to a database connection into a java package for reuse 
