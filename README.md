@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1436 Template Method
+
+Today I begin to study the template method pattern.
+With this pattern, you create an algorithm recipe inside a method, for example, how to create juice and the subclasses 
+only change the necessary things to complete the task, in the juice example maybe only the subclass that prepares an 
+Orange Juice only needs to change one step to add Oranges. 
+
 #### Day 1435 Podman
 
 Today I begin to use podman for my container activities. In the work, we use OpenShift to deploy our applications 
