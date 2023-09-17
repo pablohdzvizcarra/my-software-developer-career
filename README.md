@@ -7,6 +7,14 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1437 Learning Java API
+
+Today I was studying some classes and implementations in the Java API like the AbstractList class, how it works the 
+sort method.
+The sort method works with a template method; you need to define the sort by a static method, the default algorithm 
+to sort the array is hard to understand. I will hope that in the future I can understand more about the low-level 
+components in the Java API and how these components work better. 
+
 #### Day 1436 Template Method
 
 Today I begin to study the template method pattern.
