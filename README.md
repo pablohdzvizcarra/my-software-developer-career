@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1438-39 Continue Studying Design Patterns
+
+I continue reading the Head First Design Patterns book, I begin to study the Iterator pattern. 
+
 #### Day 1437 Learning Java API
 
 Today I was studying some classes and implementations in the Java API like the AbstractList class, how it works the 
