@@ -7,6 +7,12 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1440 Iterator Pattern
+
+Today I begin to study the Iterator design pattern and the single responsibility principle.
+I would need to do some exercises to understand the pattern, it's confused because you need to understand some 
+Object-Oriented concepts to better learning. 
+
 #### Day 1438-39 Continue Studying Design Patterns
 
 I continue reading the Head First Design Patterns book, I begin to study the Iterator pattern. 
