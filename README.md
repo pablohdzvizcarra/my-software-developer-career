@@ -7,6 +7,11 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1441-42 Composite Pattern
+
+Currently, I am learning about the composite pattern. 
+This pattern helps us to iterate over a hierarchy of objects like a tree in which you have a node and lefts.
+
 #### Day 1440 Iterator Pattern
 
 Today I begin to study the Iterator design pattern and the single responsibility principle.
