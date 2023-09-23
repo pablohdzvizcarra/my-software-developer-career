@@ -7,6 +7,14 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1443 Continues with the Composite Pattern
+
+Today I did a little exercise with the composite pattern, coding a basic application to create a menu with items.
+I used a JSON file with the menu items then read this JSON file, parse the data to POJOs and create the structure with 
+the composite pattern.
+Tomorrow I will explore the Java 21 new features.
+Java 21 arrives this week and looks like incredible and amazing.  
+
 #### Day 1441-42 Composite Pattern
 
 Currently, I am learning about the composite pattern. 
