@@ -7,6 +7,13 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1444 Java 21
+
+Today I begin to discover the new features that arrive with the new Java LTS release. 
+I started to watch a big picture of the features, and did a deeper dive into JEP 440 Record Patterns.
+Records are a great feature in Java really helpful, I love the way in which Java started to include this new 
+features to the language. 
+
 #### Day 1443 Continues with the Composite Pattern
 
 Today I did a little exercise with the composite pattern, coding a basic application to create a menu with items.
