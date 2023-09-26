@@ -7,6 +7,10 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1446 State Pattern
+
+Today I continue with my book lecture, the next pattern to study is the State pattern.
+
 #### Day 1445 Java Sequenced Collections
 
 Today I begin to study about Sequence collections new Java feature that comes with Java 21, also I learn some new 
