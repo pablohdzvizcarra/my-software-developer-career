@@ -7,6 +7,14 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1447 Studying State Pattern
+
+Today I continued studying the State design pattern.
+The state pattern is a good option when you have a lot of if statements in your code/class, rather than have these 
+statements you can have state objects in these objects resides the logic to execute.
+Applying this technique, your Context object delegates the execution of the task to the state objects added by 
+composition.   
+
 #### Day 1446 State Pattern
 
 Today I continue with my book lecture, the next pattern to study is the State pattern.
