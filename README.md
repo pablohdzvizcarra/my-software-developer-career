@@ -7,13 +7,28 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1448 Obscure Logic
+
+Today, I had to dive into some rather obscure logic, a piece of code that no developer really wants to deal with. When
+faced with legacy code like this, you essentially have two options:
+1. Minimal Intervention: You can opt to touch the legacy code as little as possible, making only the necessary 
+   changes to
+incorporate the new code.
+2. Understanding and Refactoring: Alternatively, you can choose to truly understand the legacy code, attempt to refactor
+it, and then integrate the desired new code.
+
+However, it's crucial to conduct thorough unit testing before embarking on the refactoring journey.
+The second option is not only the more correct approach but also the most rewarding one. Don't shy away from dealing
+with legacy code. While every developer may dream of starting fresh on a new project with a clean slate, there's
+tremendous value in unraveling the complexities of legacy systems. It's an opportunity for growth and learning.
+
 #### Day 1447 Studying State Pattern
 
 Today I continued studying the State design pattern.
-The state pattern is a good option when you have a lot of if statements in your code/class, rather than have these 
+The state pattern is a good option when you have a lot of if statements in your code/class, rather than have these
 statements you can have state objects in these objects resides the logic to execute.
-Applying this technique, your Context object delegates the execution of the task to the state objects added by 
-composition.   
+Applying this technique, your Context object delegates the execution of the task to the state objects added by
+composition.
 
 #### Day 1446 State Pattern
 
@@ -21,112 +36,112 @@ Today I continue with my book lecture, the next pattern to study is the State pa
 
 #### Day 1445 Java Sequenced Collections
 
-Today I begin to study about Sequence collections new Java feature that comes with Java 21, also I learn some new 
-things that I don't know about the Java collection framework.  
+Today I begin to study about Sequence collections new Java feature that comes with Java 21, also I learn some new
+things that I don't know about the Java collection framework.
 
 #### Day 1444 Java 21
 
-Today I begin to discover the new features that arrive with the new Java LTS release. 
+Today I begin to discover the new features that arrive with the new Java LTS release.
 I started to watch a big picture of the features, and did a deeper dive into JEP 440 Record Patterns.
 Records are a great feature in Java really helpful, I love the way in which Java started to include these new  
-features to the language. 
+features to the language.
 
 #### Day 1443 Continues with the Composite Pattern
 
 Today I did a little exercise with the composite pattern, coding a basic application to create a menu with items.
-I used a JSON file with the menu items then read this JSON file, parse the data to POJOs and create the structure with 
+I used a JSON file with the menu items then read this JSON file, parse the data to POJOs and create the structure with
 the composite pattern.
 Tomorrow I will explore the Java 21 new features.
-Java 21 arrives this week and looks like incredible and amazing.  
+Java 21 arrives this week and looks like incredible and amazing.
 
 #### Day 1441-42 Composite Pattern
 
-Currently, I am learning about the composite pattern. 
+Currently, I am learning about the composite pattern.
 This pattern helps us to iterate over a hierarchy of objects like a tree in which you have a node and lefts.
 
 #### Day 1440 Iterator Pattern
 
 Today I begin to study the Iterator design pattern and the single responsibility principle.
-I would need to do some exercises to understand the pattern, it's confused because you need to understand some 
-Object-Oriented concepts to better learning. 
+I would need to do some exercises to understand the pattern, it's confused because you need to understand some
+Object-Oriented concepts to better learning.
 
 #### Day 1438-39 Continue Studying Design Patterns
 
-I continue reading the Head First Design Patterns book, I begin to study the Iterator pattern. 
+I continue reading the Head First Design Patterns book, I begin to study the Iterator pattern.
 
 #### Day 1437 Learning Java API
 
-Today I was studying some classes and implementations in the Java API like the AbstractList class, how it works the 
+Today I was studying some classes and implementations in the Java API like the AbstractList class, how it works the
 sort method.
-The sort method works with a template method; you need to define the sort by a static method, the default algorithm 
-to sort the array is hard to understand. I will hope that in the future I can understand more about the low-level 
-components in the Java API and how these components work better. 
+The sort method works with a template method; you need to define the sort by a static method, the default algorithm
+to sort the array is hard to understand. I will hope that in the future I can understand more about the low-level
+components in the Java API and how these components work better.
 
 #### Day 1436 Template Method
 
 Today I begin to study the template method pattern.
-With this pattern, you create an algorithm recipe inside a method, for example, how to create juice and the subclasses 
-only change the necessary things to complete the task, in the juice example maybe only the subclass that prepares an 
-Orange Juice only needs to change one step to add Oranges. 
+With this pattern, you create an algorithm recipe inside a method, for example, how to create juice and the subclasses
+only change the necessary things to complete the task, in the juice example maybe only the subclass that prepares an
+Orange Juice only needs to change one step to add Oranges.
 
 #### Day 1435 Podman
 
-Today I begin to use podman for my container activities. In the work, we use OpenShift to deploy our applications 
-creating Pods, the problem is these Pods work inside RHEL servers, and well, sometimes we have permission problems 
+Today I begin to use podman for my container activities. In the work, we use OpenShift to deploy our applications
+creating Pods, the problem is these Pods work inside RHEL servers, and well, sometimes we have permission problems
 about using docker in our local machines to test the applications.
-Podman and Docker have a lot of similarities but differ in some things like rootless containers. 
+Podman and Docker have a lot of similarities but differ in some things like rootless containers.
 
 #### Day 1434 Good Code Practices
 
-Today I have been working on package all the classes related to a database connection into a java package for reuse 
-in other projects with this separation I can use the implementation for the database in any project only with copy 
-and paste the entire package, these classes inside the package have some functionalities like, create, edit, delete 
+Today I have been working on package all the classes related to a database connection into a java package for reuse
+in other projects with this separation I can use the implementation for the database in any project only with copy
+and paste the entire package, these classes inside the package have some functionalities like, create, edit, delete
 documents and database.
-I need to study again about Generics in Java and how the generics can be used to code reuse. 
+I need to study again about Generics in Java and how the generics can be used to code reuse.
 
 #### Day 1433 Facade Pattern
 
 Today I began to study the Facade design pattern, this pattern simplifies a subsystem to a client.
-If you have a Client that needs to interact with your subsystem with this pattern, you can easily manage the 
-interaction. 
+If you have a Client that needs to interact with your subsystem with this pattern, you can easily manage the
+interaction.
 
 #### Day 1432 Continues with the Adapter Pattern
 
 The intent of the Adapter pattern is to change the interface from one object to the interface required for the client.
 The adapter pattern does not create new behavior only modified the interface of the object.
-Today I continue studying the adapter pattern and learn the differences between the Adapter and Decorator design 
+Today I continue studying the adapter pattern and learn the differences between the Adapter and Decorator design
 patterns.
 
 #### Day 1431 Adapter Pattern
 
-Today I have been studying the Adapter pattern; the Adapter pattern permits that one object interact with another 
-object that requires another interface, for example, if your C needs to interact with object A but object A requires 
-a unique interface, you can create an adapter that works as the men in the middle between both objects and permit the 
+Today I have been studying the Adapter pattern; the Adapter pattern permits that one object interact with another
+object that requires another interface, for example, if your C needs to interact with object A but object A requires
+a unique interface, you can create an adapter that works as the men in the middle between both objects and permit the
 interactions.
 
 #### Day 1430 Phoenix Project Book
 
 Today I have finished reading the Phoenix Project book, the history related in the book was funny really
 funny, when I am reading the book I remember some things that happen at the work (joy moments).
-I believe that DevOps is a great set of practices that every IT organization needs to follow, in the work we are 
-currently working into a DevSecOps operation environment, but most of the time we cannot realize the practices well, 
-maybe we can take some shortcuts to achieve something or our deployment process take long time like days to be 
-completed.   
+I believe that DevOps is a great set of practices that every IT organization needs to follow, in the work we are
+currently working into a DevSecOps operation environment, but most of the time we cannot realize the practices well,
+maybe we can take some shortcuts to achieve something or our deployment process take long time like days to be
+completed.
 
 #### Day 1429 Continue Maven and Build Artifacts
 
-Today I continue working on how to create Java libraries package in a .jar file and next upload the artifact into a 
-repository, I try to upload the .jar file into a nexus repository running in Docker container, but I have some 
+Today I continue working on how to create Java libraries package in a .jar file and next upload the artifact into a
+repository, I try to upload the .jar file into a nexus repository running in Docker container, but I have some
 problems with the uploading process, I need to continue investigating this issue.
 Also, I have the doubt about how to create the package automatically with a GitHub action.
-I see some Java libraries that in the GitHub repository have built the .jar files with versioning ready to download 
+I see some Java libraries that in the GitHub repository have built the .jar files with versioning ready to download
 and test.
 
 #### Day 1428 Java Artifacts
 
-Today I have needed to investigate how to create a Java library with a basic functionality like parse a String to 
-a CamelCase style, then package the library in a Jar Java artifact and upload the Java artifact into a Maven 
-repository, the final step is use this previous library created into a new Java project. 
+Today I have needed to investigate how to create a Java library with a basic functionality like parse a String to
+a CamelCase style, then package the library in a Jar Java artifact and upload the Java artifact into a Maven
+repository, the final step is use this previous library created into a new Java project.
 
 #### Day 1427 Command Pattern
 
