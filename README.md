@@ -7,6 +7,14 @@ of that record.
 
 ### Programming Changes My Life
 
+
+#### Day 1449 Proxy
+
+Today I started to study about the Proxy design pattern.
+I am working on an implementation of the proxy with the rmi in Java at the same time I am learning new concepts 
+about this rmi technology in Java, I cannot understand ina good way how works the rmi communication in Java, 
+tomorrow I will need to investigate how it works.
+
 #### Day 1448 Obscure Logic
 
 Today, I had to dive into some rather obscure logic, a piece of code that no developer really wants to deal with. When
