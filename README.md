@@ -7,10 +7,17 @@ of that record.
 
 ### Programming Changes My Life
 
+#### Day 1454 Compound Patterns
+
+Today I am creating a basic application following a tutorial.
+The application implements six different design patterns like Adapter and Observer.
+My next thing to study is MVC(Model View Controller) design pattern; I hope that this time studying the MVC pattern 
+will be less difficult that the other times and I can understand in a better way.
+
 #### Day 1451-52-53 The Proxy Pattern
 
-These days I continue to read the Head-First Design Patterns book. 
-The **Proxy** pattern is a great tool for our design box; I remember in the past that I could see some proxy 
+These days I continue to read the Head-First Design Patterns book.
+The **Proxy** pattern is a great tool for our design box; I remember in the past that I could see some proxy
 implementations, but I don't know that this type of implementing the code has a name.
 Basic description: The Proxy pattern protects the access to an object and next surrogate the calls to the real object.
 
