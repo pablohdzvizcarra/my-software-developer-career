@@ -1,17 +1,25 @@
-# My Journey to Become a Software Engineer
+# My Journey to Becoming a Software Engineer
 
-In this repository, I will keep the progress of my career as a software engineer. I think it is very
-important that we all have some record of our progress, when I started programming, I wanted to have
-a record to go in the future and see what decisions I have taken and this repository is the result
-of that record.
+Within this repository, I will document my evolution as a software engineer.
+Maintaining a record of our progress is invaluable.
+When I first embarked on my programming journey, I envisioned a way to reflect on my past decisions.
+This repository stands as a testament to that vision, a chronicle of my growth in the world of software engineering.
 
 ### Programming Changes My Life
+
+#### Day 1455 Studying the MVC pattern
+
+Today I studied the Model-View-Controller (MVC) design pattern.
+Now I know that the MVC pattern is composed of other patterns like the Observer and Strategy patterns.
+I am building a Java Swing application following a book tutorial to understand the MVC pattern.
+Learning about Java Swing is a pleasure for me because it is a great technology to create desktop applications. 
+Maybe when I finish this book, I will learn more about Java Swing.
 
 #### Day 1454 Compound Patterns
 
 Today I am creating a basic application following a tutorial.
 The application implements six different design patterns like Adapter and Observer.
-My next thing to study is MVC(Model View Controller) design pattern; I hope that this time studying the MVC pattern 
+My next thing to study is MVC(Model View Controller) design pattern; I hope that this time studying the MVC pattern
 will be less difficult that the other times and I can understand in a better way.
 
 #### Day 1451-52-53 The Proxy Pattern
