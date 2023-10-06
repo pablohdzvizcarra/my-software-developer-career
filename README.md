@@ -7,9 +7,18 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ### Programming Changes My Life
 
+#### Day 1457 Learning More About Design Patterns
+
+Today I had been learning more about design patterns.
+The last of the Head-First Design Patterns book talks about what is a pattern, what is a pattern catalog, etc.
+I am learning general concepts about Design Patterns.
+Also, I started a new book lecture, this time I choose the Clean Agile book, I am always trying to read two books at 
+the same time, one book related a code (read the book sitting in front of my laptop) and other book that I can read in 
+any place like the commute to my work.
+
 #### Day 1456 Finish MVC Pattern Study
 
-Today, I completed my study of the MVC design pattern.
+Today I completed my study of the MVC design pattern.
 Now, I understand that the MVC pattern is intricately woven with other patterns such as Strategy, Observer, and Adapter.
 I recall studying the MVC pattern during my exploration of Angular.
 It fascinated me because Angular's framework incorporates this pattern at its core.
