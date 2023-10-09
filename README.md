@@ -7,13 +7,22 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ### Programming Changes My Life
 
+#### Day 1458-59-60 Finish to Read Head-First Design Patterns Book
+
+On the weekend I finished reading the Head-First Design Patterns. 
+It took me three months to complete it.
+During my journey, I learned a lot about design patterns and Java. 
+I really love the Head-First books because they offer a lot of examples, and you can read the book in an interactive way.
+I learned some new things about Java and Design Patterns, and also gained more knowledge in Software Design principles 
+like SOLID principles.
+
 #### Day 1457 Learning More About Design Patterns
 
 Today I had been learning more about design patterns.
 The last of the Head-First Design Patterns book talks about what is a pattern, what is a pattern catalog, etc.
 I am learning general concepts about Design Patterns.
-Also, I started a new book lecture, this time I choose the Clean Agile book, I am always trying to read two books at 
-the same time, one book related a code (read the book sitting in front of my laptop) and other book that I can read in 
+Also, I started a new book lecture, this time I choose the Clean Agile book, I am always trying to read two books at
+the same time, one book related a code (read the book sitting in front of my laptop) and other book that I can read in
 any place like the commute to my work.
 
 #### Day 1456 Finish MVC Pattern Study
