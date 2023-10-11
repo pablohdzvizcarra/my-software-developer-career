@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ### Programming Changes My Life
 
+#### Day 1462 Sealed Classes
+
+Today I began to study the new features that arrives with Java 17 and Java 21, I am not studying about the new Java 
+features and I have the goal to obtain the Java 17 Developer certification next year.
+
 #### Day 1461 Kotlin Cronjob
 
 Today I have been learning how to create a Cronjob application with Kotlin.
