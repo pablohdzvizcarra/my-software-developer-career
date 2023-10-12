@@ -7,10 +7,16 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ### Programming Changes My Life
 
+#### Day 1463 Looking for More New Java Features
+
+Today I am studying about the nex Java ecosystem like GrailVM and trying to build a native image. I had some 
+problems with maven about compiling the project, its amazing when you only use Spring Boot for all your projects, 
+how building an application from scratch can be arduous at the start.
+
 #### Day 1462 Sealed Classes
 
-Today I began to study the new features that arrives with Java 17 and Java 21, I am not studying about the new Java 
-features and I have the goal to obtain the Java 17 Developer certification next year.
+Today I began to study the new features that arrive with Java 17 and Java 21, I am not studying about the new Java 
+features, and I have the goal to obtain the Java 17 Developer certification next year.
 
 #### Day 1461 Kotlin Cronjob
 
