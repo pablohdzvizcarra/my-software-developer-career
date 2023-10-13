@@ -7,6 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ### Programming Changes My Life
 
+#### Day 1464 Clean Agile
+
+Today I have been continuing reading the Clean Agile book, this book is amazing.
+I love the next message about practice TDD:
+We practice TDD because it gives us the courage to keep the code clean and orderly.
+It gives us the courage to act like professionals.
+
 #### Day 1463 Looking for More New Java Features
 
 Today I am studying about the nex Java ecosystem like GrailVM and trying to build a native image. I had some 
