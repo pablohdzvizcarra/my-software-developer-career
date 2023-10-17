@@ -7,6 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ### Programming Changes My Life
 
+#### Day 1465-66-67-68 Finish Clean Agile
+
+Recently, I completed reading the Clean Agile book. While going through its pages, I experienced several 'aha' moments,
+realizing the essence of Agile in my work. It became evident that our current approach to Agile practices was lacking.
+Prior to reading the book, I didn't fully grasp the concept of Agile. Now, armed with newfound knowledge, I am equipped
+to apply Agile methodologies effectively in my daily work.
+
 #### Day 1464 Clean Agile
 
 Today I have been continuing reading the Clean Agile book, this book is amazing.
@@ -16,13 +23,13 @@ It gives us the courage to act like professionals.
 
 #### Day 1463 Looking for More New Java Features
 
-Today I am studying about the nex Java ecosystem like GrailVM and trying to build a native image. I had some 
-problems with maven about compiling the project, its amazing when you only use Spring Boot for all your projects, 
+Today I am studying about the nex Java ecosystem like GrailVM and trying to build a native image. I had some
+problems with maven about compiling the project, its amazing when you only use Spring Boot for all your projects,
 how building an application from scratch can be arduous at the start.
 
 #### Day 1462 Sealed Classes
 
-Today I began to study the new features that arrive with Java 17 and Java 21, I am not studying about the new Java 
+Today I began to study the new features that arrive with Java 17 and Java 21, I am not studying about the new Java
 features, and I have the goal to obtain the Java 17 Developer certification next year.
 
 #### Day 1461 Kotlin Cronjob
@@ -34,11 +41,12 @@ container.
 
 #### Day 1458-59-60 Finish to Read Head-First Design Patterns Book
 
-On the weekend I finished reading the Head-First Design Patterns. 
+On the weekend I finished reading the Head-First Design Patterns.
 It took me three months to complete it.
-During my journey, I learned a lot about design patterns and Java. 
-I really love the Head-First books because they offer a lot of examples, and you can read the book in an interactive way.
-I learned some new things about Java and Design Patterns, and also gained more knowledge in Software Design principles 
+During my journey, I learned a lot about design patterns and Java.
+I really love the Head-First books because they offer a lot of examples, and you can read the book in an interactive
+way.
+I learned some new things about Java and Design Patterns, and also gained more knowledge in Software Design principles
 like SOLID principles.
 
 #### Day 1457 Learning More About Design Patterns
