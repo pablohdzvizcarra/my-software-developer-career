@@ -7,6 +7,14 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ### Programming Changes My Life
 
+#### Day 1469 Testing Database SLA
+
+Today I created a basic Java application to test the SLA (Service Level Agreement) for a database.
+The application works as a cronjob that every minute sends five requests to the database to save documents if an 
+error occurs when saving the data in the database.
+We catch the error and try again to save the registry again.
+The application runs in a Docker container in an oracle server to avoid wasting my resources on my laptop.
+
 #### Day 1465-66-67-68 Finish Clean Agile
 
 Recently, I completed reading the Clean Agile book. While going through its pages, I experienced several 'aha' moments,
