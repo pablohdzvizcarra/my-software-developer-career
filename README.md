@@ -7,10 +7,18 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ### Programming Changes My Life
 
+#### Day 1473-74 Spark Ingestion App
+
+Over the weekend, I've been working on creating a Java application using Spark to ingest data into a database. I've
+encountered challenges with the volume of data involved - I was attempting to process a batch of two million records,
+which the database was unable to handle. Consequently, I modified the Java code to split the data into manageable
+chunks. However, a subsequent issue arose - the application failed after splitting the data, and was only able to upload
+one million of the two million records.
+
 #### Day 1470-71-72 Java and Python
 
 These days I was working in write Python code create reports in PDF format, I have test data in many databases, so I
-have been creating a ETL process to extract data from multiple sources, transform in a unique data and finally load the
+have been creating an ETL process to extract data from multiple sources, transform in a unique data and finally load the
 data into CSV files. With Java, I am working in an application to create data database records to apply some query's to
 these records.
 
