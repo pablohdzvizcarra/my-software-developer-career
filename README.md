@@ -7,6 +7,12 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ### Programming Changes My Life
 
+#### Day 1475 Abstract Factory
+
+Today I have been working in my Spark application to ingest data from a CSV file to a database. I implemented the 
+Abstract Factory pattern to change the database target without clean and write code. Using the Abstract Factory pattern 
+I can write implementations for save the data in different NoSQL databases like Cloudant and CouchDB.
+
 #### Day 1473-74 Spark Ingestion App
 
 Over the weekend, I've been working on creating a Java application using Spark to ingest data into a database. I've
