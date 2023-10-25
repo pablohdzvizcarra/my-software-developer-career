@@ -7,6 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ### Programming Changes My Life
 
+#### Day 1476 Containerfiles
+
+Today I began the Red Hat certification path about Cloud-Native developer.
+In the Cloud-Native developer certification I will need to improve and learn new skills about Java, Quarkus, Containers,
+Kubernetes and OpenShift technologies. I choose this certification path because I love work with Java and DevOps 
+methodology. The course in large and hard. 
+
 #### Day 1475 Abstract Factory
 
 Today I have been working in my Spark application to ingest data from a CSV file to a database. I implemented the 
