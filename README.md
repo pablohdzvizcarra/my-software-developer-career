@@ -7,21 +7,29 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1478 Image Layers
+
+Today I studied about the image layers that are generated when you build a container with Podman/Docker. When you start
+to create a container with a Dockerfile the first instruction **FROM** choice the base image layer for your container,
+some instructions like RUN, COPY and ADD creates image layers, these images layers are thin and ephemeral and can be
+reusable. Also I learned that the image layers work in Copy-on-write operation.
+
 ### Day 1477 Containerfile Instructions
 
-Today, I continued my study on creating containers. I utilized advanced instructions such as ENV and ARG to customize container creation. By employing different instructions, you can personalize the process of container creation.
+Today, I continued my study on creating containers. I utilized advanced instructions such as ENV and ARG to customize
+container creation. By employing different instructions, you can personalize the process of container creation.
 
 #### Day 1476 Containerfiles
 
 Today I began the Red Hat certification path about Cloud-Native developer.
 In the Cloud-Native developer certification I will need to improve and learn new skills about Java, Quarkus, Containers,
-Kubernetes and OpenShift technologies. I choose this certification path because I love work with Java and DevOps 
-methodology. The course in large and hard. 
+Kubernetes and OpenShift technologies. I choose this certification path because I love work with Java and DevOps
+methodology. The course in large and hard.
 
 #### Day 1475 Abstract Factory
 
-Today I have been working in my Spark application to ingest data from a CSV file to a database. I implemented the 
-Abstract Factory pattern to change the database target without clean and write code. Using the Abstract Factory pattern 
+Today I have been working in my Spark application to ingest data from a CSV file to a database. I implemented the
+Abstract Factory pattern to change the database target without clean and write code. Using the Abstract Factory pattern
 I can write implementations for save the data in different NoSQL databases like Cloudant and CouchDB.
 
 #### Day 1473-74 Spark Ingestion App
