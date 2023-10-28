@@ -7,12 +7,21 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1479 Craftsmanship
+
+Today, I've decided to take a break from my Red Hat certification course and instead, devote my time to reading the '
+Clean Craftsmanship' book. This book is something I'd started reading as a continuation of the 'Clean Agile' book.
+
+During the week, I have been practicing TDD (Test-Driven Development). What surprised me about this technique is that it
+has significantly reduced my impostor syndrome as it gives me a thorough understanding of the code. This knowledge not
+only aids me while fixing a bug but also while adding a new feature, as it allows me to refactor the code efficiently.
+
 ### Day 1478 Image Layers
 
 Today I studied about the image layers that are generated when you build a container with Podman/Docker. When you start
 to create a container with a Dockerfile the first instruction **FROM** choice the base image layer for your container,
 some instructions like RUN, COPY and ADD creates image layers, these images layers are thin and ephemeral and can be
-reusable. Also I learned that the image layers work in Copy-on-write operation.
+reusable. Also, I learned that the image layers work in Copy-on-write operation.
 
 ### Day 1477 Containerfile Instructions
 
