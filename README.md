@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1480-81 Test-Driven Development
+
+During the weekend I continued studying and practicing more about TDD methodology. I want to apply TDD for most of the code that I will need to write in the future, code for work and for personal projects.
+
 ### Day 1479 Craftsmanship
 
 Today, I've decided to take a break from my Red Hat certification course and instead, devote my time to reading the '
@@ -173,4 +177,3 @@ Basic description: The Proxy pattern protects the access to an object and next s
 **Day 1301 - 1350 Java | Python | Spark | Microservices** [here](day1301-1350.md)</br>
 **Day 1351 - 1400 Java | Python | Design Patterns | Microservices** [here](day1351-1400.md)</br>
 **Day 1401 - 1450 Java | Design Patterns | CI/CD** [here](day1401-1450.md)</br>
-
