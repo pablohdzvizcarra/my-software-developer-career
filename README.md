@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1482 Linux users
+
+Today I had a problem with a SFTP podman container, I created a SFTP server with a container the problem was the application that needs to read data from the SFTP server does not work. The application cannot find the files inside the container, I attempt to find a solution for the problem, but I cannot fix the issue. In the past when I needed to create SFTP servers in containers, working with docker is more easy, I have not this type of problems.
+
 ### Day 1480-81 Test-Driven Development
 
 During the weekend I continued studying and practicing more about TDD methodology. I want to apply TDD for most of the code that I will need to write in the future, code for work and for personal projects.
