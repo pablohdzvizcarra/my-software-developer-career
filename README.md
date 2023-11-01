@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1483 SFTP Server Issue
+
+Today I had a SFTP connection problem, for some reason I cannot connect to a SFTP server using the JSch Java library, I attempt some solutions to fix the issue, but I cannot achieve the connection. The error is strange because I can connect to a SFTP server created with a container. Another application has the same code, use the same library and connect with the same library. Tomorrow I will need to continue investigating more about how an application creates a SFTP connection.  
+
 ### Day 1482 Linux users
 
 Today I had a problem with a SFTP podman container, I created a SFTP server with a container the problem was the application that needs to read data from the SFTP server does not work. The application cannot find the files inside the container, I attempt to find a solution for the problem, but I cannot fix the issue. In the past when I needed to create SFTP servers in containers, working with docker is more easy, I have not this type of problems.
