@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1484 Deep Dive SFTP Protocol
+
+Today I have been studied how works the SFTP protocol. I learned interesting things like the SFTP protocol runs on the SSH protocol, you need first creates a SSH connection and then a SFTP channel is open by the serves that manage the connection.
+I did a basic diagram to understand the step under a SFTP connection and created a basic golang application to test a SFTP server running in a container.
+
 ### Day 1483 SFTP Server Issue
 
 Today I had a SFTP connection problem, for some reason I cannot connect to a SFTP server using the JSch Java library, I attempt some solutions to fix the issue, but I cannot achieve the connection. The error is strange because I can connect to a SFTP server created with a container. Another application has the same code, use the same library and connect with the same library. Tomorrow I will need to continue investigating more about how an application creates a SFTP connection.  
