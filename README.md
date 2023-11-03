@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1485 OutOfMemory
+
+Today, I started debugging a Java OutOfMemory error. Our application utilizes 2GB of RAM memory, but it's throwing an OutOfMemory exception because the heap space is full. Tomorrow, I plan to review the resource consumption of the application and pinpoint the part of the code where the memory is being exhausted.
+
 ### Day 1484 Deep Dive SFTP Protocol
 
 Today I have been studied how works the SFTP protocol. I learned interesting things like the SFTP protocol runs on the SSH protocol, you need first creates a SSH connection and then a SFTP channel is open by the serves that manage the connection.
