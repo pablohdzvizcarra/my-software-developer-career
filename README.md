@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1486 Python Desktop App
+
+Today, I successfully developed a desktop application for validating JSON schemas using Python and PyQt6.
+I undertook this project with the aim of learning how to create desktop applications. Initially, I considered using Java for the task. However, considering I already had the Python code to create and validate JSON schemas, I opted for Python. The outcome was excellent, and the application fully meets the specified requirements. I am pleased with the result.
+
 ### Day 1485 OutOfMemory
 
 Today, I started debugging a Java OutOfMemory error. Our application utilizes 2GB of RAM memory, but it's throwing an OutOfMemory exception because the heap space is full. Tomorrow, I plan to review the resource consumption of the application and pinpoint the part of the code where the memory is being exhausted.
