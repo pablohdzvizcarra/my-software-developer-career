@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1487-88 Getting Things Done and Python
+
+On the weekend I continue to reading the Getting Things done book. I started a travel to organize all the things that arrives in my life personal and work. I started applied the methodology creating some projects references. I choice outlook as my main tool for organize my things. With Python I create a Script to send me emails with repetitive content like complete the module 1 for the course X. Python is a great language to crete fast tasks.
+
 ### Day 1486 Python Desktop App
 
 Today, I successfully developed a desktop application for validating JSON schemas using Python and PyQt6.
