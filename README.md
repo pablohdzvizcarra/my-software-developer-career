@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1490 Java Concurrency Problem
+
+Today I have been working in a problem with concurrency in Java. Work with concurrency is always when working with legacy code because is hard to understand.  
+
 ### Day 1489 Free IDEs
 
 Today I am facing a problem the VSC code editor, VSC code in my MacBooks drain a lot of battery.
