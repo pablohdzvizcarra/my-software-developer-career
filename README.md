@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1491 Practicing TDD
+
+Today I continue studying more about TDD (Test-Driven Development), I created a little code exercise following TDD. Thinking in my future I will need to focus in my current goals like achieve my Red Hat Certification, maybe I will need to stop reading the Clean Craftsmanship book.  
+
 ### Day 1490 Java Concurrency Problem
 
 Today I have been working in a problem with concurrency in Java. Work with concurrency is always when working with legacy code because is hard to understand.  
