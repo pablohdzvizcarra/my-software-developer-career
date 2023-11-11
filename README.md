@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1492 Neovim
+
+Wiht the problem related that I could not continue using Jetbrains IDEs in my current work, I started to look for alterniatives like VSC. I know that VSC is the most editor used in the Software Engineer industry, but well I think maybe I will need to attempt to use Neovim. In the past I attemp to use neovim without successful results. This time I take my time to learn vim and don't die in the attemp.
+
+
 ### Day 1491 Practicing TDD
 
 Today I continue studying more about TDD (Test-Driven Development), I created a little code exercise following TDD. Thinking in my future I will need to focus in my current goals like achieve my Red Hat Certification, maybe I will need to stop reading the Clean Craftsmanship book.  
