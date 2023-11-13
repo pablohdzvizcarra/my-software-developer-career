@@ -7,10 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1493-94 Learning Vim and Reading a Book
+
+On the weekend I have been learning Vim following some tutorials after attempt to configure my neovim editor with my own choices, I surrender because configure your neovim editor is hard and require time. However I can learn how to move faster with vim, learning shortcuts and more about vim. I started to read a software developer book to improve my Soft-Skills as a software developer following a recommendation from my company.
+
 ### Day 1492 Neovim
 
-Wiht the problem related that I could not continue using Jetbrains IDEs in my current work, I started to look for alterniatives like VSC. I know that VSC is the most editor used in the Software Engineer industry, but well I think maybe I will need to attempt to use Neovim. In the past I attemp to use neovim without successful results. This time I take my time to learn vim and don't die in the attemp.
-
+With the problem related that I could not continue using Jetbrains IDEs in my current work, I started to look for alternatives like VSC. I know that VSC is the most editor used in the Software Engineer industry, but well I think maybe I will need to attempt to use Neovim. In the past I attempt to use neovim without successful results. This time I take my time to learn vim and don't die in the attempt.
 
 ### Day 1491 Practicing TDD
 
