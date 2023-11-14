@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1495 IO Operations
+
+Today I studied IO operations in Java, like reading data from a file into a buffer and then saving the buffer into a file. I want to know more about these operations in a Computer Science general concept. Tomorrow I am planning to continue studying more about this. We have an application that consumes a lot of RAM memory because saves a lot of data in memory, my intention is understand these operation and then look a way to optimized the high-consume.
+
 ### Day 1493-94 Learning Vim and Reading a Book
 
 On the weekend I have been learning Vim following some tutorials after attempt to configure my neovim editor with my own choices, I surrender because configure your neovim editor is hard and require time. However I can learn how to move faster with vim, learning shortcuts and more about vim. I started to read a software developer book to improve my Soft-Skills as a software developer following a recommendation from my company.
