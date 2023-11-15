@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1496 Java and Scala
+
+Today I learned how to unzip a ZIP file saving the data into buffers without use a IO disk operation to storage the data.
+With Scala I created a short application to perform some data analytics in a database, creating a report fetching data and saving the result with Spark in a CSV format. I have the plan to learn Scala and also learn another programming language to learn low-level concepts.
+
 ### Day 1495 IO Operations
 
 Today I studied IO operations in Java, like reading data from a file into a buffer and then saving the buffer into a file. I want to know more about these operations in a Computer Science general concept. Tomorrow I am planning to continue studying more about this. We have an application that consumes a lot of RAM memory because saves a lot of data in memory, my intention is understand these operation and then look a way to optimized the high-consume.
