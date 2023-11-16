@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1497 Continue Application
+
+Today I continue working in my Java application to read CSV files into buffers inside a ZIP file, then with the buffer data create Spark Dataframe to perform data analytics and transformations, finally saving the result into a new CSV file. I am learning a little about Data Engineering because in my work most of the applications are ETL process. My goal is to use new technologies in these applications to refactor it.
+
 ### Day 1496 Java and Scala
 
 Today I learned how to unzip a ZIP file saving the data into buffers without use a IO disk operation to storage the data.
