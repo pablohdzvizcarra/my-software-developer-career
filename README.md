@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1498 Java 21 Problems with Spark
+
+Today I had a problem trying to run an Spark application with Java 21, looks like that Spark is not compatible with Java 21, you will need to run the application with some predefined configurations. However after add this configurations don't works for me.
+With Scala and Spark I don't have these type of problems.
+
 ### Day 1497 Continue Application
 
 Today I continue working in my Java application to read CSV files into buffers inside a ZIP file, then with the buffer data create Spark Dataframe to perform data analytics and transformations, finally saving the result into a new CSV file. I am learning a little about Data Engineering because in my work most of the applications are ETL process. My goal is to use new technologies in these applications to refactor it.
