@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1502-03 Scala and Spark
+
+These two days I am learning how to create a uber jar file given a Scala project. Really I waste a lot of time looking tutorials in the internet, finally I found the answer in the sbt-assembly-plugin official documentation. Please first read the documentation before look for an answer in the internet or ChatGPT.
+Tomorrow I will need to continue developing my Scala and Spark application.
+
 ### Day 1499-1500-01 Continue to Reading
 
 During the weekend I continue to reading the Soft Skills to advance your developer career book. I was doing the exercises provided by the book, really I was some aha moments because now I understand some things better. With this new gained knowledge I feel more confident and focused in my developer career. Also I am happy I could reach 1500 programming days.
