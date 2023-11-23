@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1504 SELinux
+
+Today I did a little study about the SELinux system. The Security-Enhanced Linux is a security architecture system to control the resources access into a linux system, resources like files, processes and folders. SELinux works as a labeled system to give access to the subjects/users.
+
 ### Day 1502-03 Scala and Spark
 
 These two days I am learning how to create a uber jar file given a Scala project. Really I waste a lot of time looking tutorials in the internet, finally I found the answer in the sbt-assembly-plugin official documentation. Please first read the documentation before look for an answer in the internet or ChatGPT.
