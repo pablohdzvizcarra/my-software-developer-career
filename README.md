@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1505 Implementing SELinux System
+
+Today I worked in a little implementation of the SELinux system with Java code. I wrote a label, object and a folder classes to represent the label and the objects in the SELinux mechanism. Also I created a SELinux component to validate that some user with X label has access to the folder with the X label. Project-Based learning is really a great way to learn software engineering concepts.
+
 ### Day 1504 SELinux
 
 Today I did a little study about the SELinux system. The Security-Enhanced Linux is a security architecture system to control the resources access into a linux system, resources like files, processes and folders. SELinux works as a labeled system to give access to the subjects/users.
