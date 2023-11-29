@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1510 Java JFR
+
+Today I was learning more about the JFR tool due to some performance issues in my work related with high CPU usage for a Java application.
+
 ### Day 1509 Visual Studio Code Problems
 
 Today I was reading the Settings Sync Visual Studio Code documentation, I am having some problems with sync my editor configuration. Maybe I will need to continue solving this issue tomorrow.
