@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1511 Java Optional
+
+Today I created an elegant solution to a Java problem, I will need to call a method to get something, if this X item exists do action A and if doesn't exists do action B, I have the idea to return a Java optional from the calling method an use the ifPresentOrElse method from the Java optional rather than a if statement.
+The result code was elegant and beautiful.
+
 ### Day 1510 Java JFR
 
 Today I was learning more about the JFR tool due to some performance issues in my work related with high CPU usage for a Java application.
