@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1512-13 Java Executor
+
+Today I have been learning about what is and how works an Executor in Java. I planning to create a Java tutorial trying to understand this concept, I want to learn the abstract concept about an Executor and understand how to works with them with Java and maybe Golang.
+
 ### Day 1511 Java Optional
 
 Today I created an elegant solution to a Java problem, I will need to call a method to get something, if this X item exists do action A and if doesn't exists do action B, I have the idea to return a Java optional from the calling method an use the ifPresentOrElse method from the Java optional rather than a if statement.
