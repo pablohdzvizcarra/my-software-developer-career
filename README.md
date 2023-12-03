@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1514 Continue with Executor
+
+Today I have been writing a tutorial to understand what is a Java executor and how you can use a Executor in you Java code. Tomorrow I will investigating about how the Executor works the Go language, I want to understand the abstract concept about this.
+
 ### Day 1512-13 Java Executor
 
 Today I have been learning about what is and how works an Executor in Java. I planning to create a Java tutorial trying to understand this concept, I want to learn the abstract concept about an Executor and understand how to works with them with Java and maybe Golang.
