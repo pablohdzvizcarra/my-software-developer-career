@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1515-16 Python Pandas
+
+These days I dedicated some time to learn more about Python pandas library. I will want to have some expertise with Python and basic data analytics task like read data, filter data, transform data and so on. Also I love to write useful Python scripts to automate my daily activities, really help me to save a lot of time in manual work.
+
 ### Day 1514 Continue with Executor
 
 Today I have been writing a tutorial to understand what is a Java executor and how you can use a Executor in you Java code. Tomorrow I will investigating about how the Executor works the Go language, I want to understand the abstract concept about this.
