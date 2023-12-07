@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1517-18 OpenShift
+
+Today doing my Red Hat certification I studied OpenShift platform, I am happy because I can understand an ambiguous topic in software engineer for me what is a Cluster and a Node? Cluster is a group of servers that work together, and a node is a server inside the cluster. The OpenShift platform uses a node as the master node to control some operations in the OpenShift cluster, but if this node fails, the OpenShift platform can use another node as the master.
+Overall, understanding the concept of clusters and nodes is fundamental to understanding how OpenShift platform works. I'm excited to continue learning and exploring its capabilities!
+
 ### Day 1515-16 Python Pandas
 
 These days I dedicated some time to learn more about Python pandas library. I will want to have some expertise with Python and basic data analytics task like read data, filter data, transform data and so on. Also I love to write useful Python scripts to automate my daily activities, really help me to save a lot of time in manual work.
