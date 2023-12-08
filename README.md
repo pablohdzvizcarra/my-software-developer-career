@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1519 Http Go Server
+
+Today I was writing a HTTP server with golang, I want to know how build a HTTP server with Go only for curiosity because I hear a lot of times that golang is a great language, and well create a basic HTTP server is a easy task.
+Golang > Python.  
+
 ### Day 1517-18 OpenShift
 
 Today doing my Red Hat certification I studied OpenShift platform, I am happy because I can understand an ambiguous topic in software engineer for me what is a Cluster and a Node? Cluster is a group of servers that work together, and a node is a server inside the cluster. The OpenShift platform uses a node as the master node to control some operations in the OpenShift cluster, but if this node fails, the OpenShift platform can use another node as the master.
