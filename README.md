@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1520-21-22 Linux
+
+These days I was studying about Linux, I am working in a Red Hat certification to gain more knowledge about Linux I started to read The Linux Command Line book. In my first days I learned some interesting things like the shell is a program to accept keyboard inputs from the user and send these inputs to the operating system, the most common shell programs are **bash** and **zsh**, also I learned that to interact with a shell we require a terminal emulator like iTerm, I am reading the book at the same time doing some code exercises with Java, creating some abstractions to emulate a operating system in code. I am happy writing code.
+
 ### Day 1519 Http Go Server
 
 Today I was writing a HTTP server with golang, I want to know how build a HTTP server with Go only for curiosity because I hear a lot of times that golang is a great language, and well create a basic HTTP server is a easy task.
