@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1523 Linux and OpenShift
+
+Today I continue learning more about Linux and OpenShift. Working in my Red Hat certification, I learned how to deploy an application using the OpenShift web console, creating a project and deploy an application from an image stored in a container registry.
+
 ### Day 1520-21-22 Linux
 
 These days I was studying about Linux, I am working in a Red Hat certification to gain more knowledge about Linux I started to read The Linux Command Line book. In my first days I learned some interesting things like the shell is a program to accept keyboard inputs from the user and send these inputs to the operating system, the most common shell programs are **bash** and **zsh**, also I learned that to interact with a shell we require a terminal emulator like iTerm, I am reading the book at the same time doing some code exercises with Java, creating some abstractions to emulate a operating system in code. I am happy writing code.
