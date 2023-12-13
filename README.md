@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1524 Python and Dependency Injection
+
+Today I ask me what is the reason that dependency injection in python is not a common use technique. I am working in writing python code, the problem is that to mock some database dependency, the best option is to mock the database dependency using the dependency injection technique. With Python the most common option used is mock/patch directly the function.
+
 ### Day 1523 Linux and OpenShift
 
 Today I continue learning more about Linux and OpenShift. Working in my Red Hat certification, I learned how to deploy an application using the OpenShift web console, creating a project and deploy an application from an image stored in a container registry.
