@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1525-26 Linux, Linux and more Linux
+
+These days I continue working in my red hat certification, I am learning useful linux commands like look for files using regex patterns, learn how works with OpenShift pods testing connections between pods to troubleshoot common errors.
+
 ### Day 1524 Python and Dependency Injection
 
 Today I ask me what is the reason that dependency injection in python is not a common use technique. I am working in writing python code, the problem is that to mock some database dependency, the best option is to mock the database dependency using the dependency injection technique. With Python the most common option used is mock/patch directly the function.
