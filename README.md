@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1527 Environment Issues
+
+Today working with some Python code, I had some problems when executing unit testing in a container environment, in my local visual studio code the unit test work without problems, but in the containerized environment I had an error when executing the unit test. The error was strange, but today I learned how to create a Dockerfile to execute unit test with Python and how to configure a Python project in VSC with venv Python environment.
+
 ### Day 1525-26 Linux, Linux and more Linux
 
 These days I continue working in my red hat certification, I am learning useful linux commands like look for files using regex patterns, learn how works with OpenShift pods testing connections between pods to troubleshoot common errors.
