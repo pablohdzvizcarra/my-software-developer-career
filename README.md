@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1528-29-30 Studying Linux
+
+During the weekend I continue working in my certification and learning more about Linux. I learned what is the Expansion in the Linux shell, basically is when we introduce something to the shell and the shell produces something else before execute the command one example can be 'echo *', the shell expand the symbol '*' to a list with all the files and folders in the current directory. Learning about Linux is changing my mind in some topics about Software Engineer, it's interesting how Linux works and how an operating system is build it.
+
 ### Day 1527 Environment Issues
 
 Today working with some Python code, I had some problems when executing unit testing in a container environment, in my local visual studio code the unit test work without problems, but in the containerized environment I had an error when executing the unit test. The error was strange, but today I learned how to create a Dockerfile to execute unit test with Python and how to configure a Python project in VSC with venv Python environment.
