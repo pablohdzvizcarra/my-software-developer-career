@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1531 NeoVim Distractions
+
+Today I send my day learning how to configure NeoVim to work with Java and Python, I am learning new concepts like LSP servers, key mappers and how a editor like Visual Studio Code works under the hood, but I am spending my time in a non important task at this moment, my current goal at this moment is to complete my RedHat certification and finish to read the Linux book. NeoVim is amazing, but is a high-consume thing.
+
 ### Day 1528-29-30 Studying Linux
 
 During the weekend I continue working in my certification and learning more about Linux. I learned what is the Expansion in the Linux shell, basically is when we introduce something to the shell and the shell produces something else before execute the command one example can be 'echo *', the shell expand the symbol '*' to a list with all the files and folders in the current directory. Learning about Linux is changing my mind in some topics about Software Engineer, it's interesting how Linux works and how an operating system is build it.
