@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1532 Python ETL
+
+Today I was creating a Python ETL process for run, my idea was extract some data for X source, next apply some cleaning and transformation operations to this data to finally save the data with pandas into a CSV file.
+
 ### Day 1531 NeoVim Distractions
 
 Today I send my day learning how to configure NeoVim to work with Java and Python, I am learning new concepts like LSP servers, key mappers and how a editor like Visual Studio Code works under the hood, but I am spending my time in a non important task at this moment, my current goal at this moment is to complete my RedHat certification and finish to read the Linux book. NeoVim is amazing, but is a high-consume thing.
