@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1533 Building Containers
+
+Today studying thr Red Hat certification I did a little exercise to build a container image following the best practices recommended by RedHat. I don't know why but Containers and Microservices are two topics loved by me.
+
 ### Day 1532 Python ETL
 
 Today I was creating a Python ETL process for run, my idea was extract some data for X source, next apply some cleaning and transformation operations to this data to finally save the data with pandas into a CSV file.
