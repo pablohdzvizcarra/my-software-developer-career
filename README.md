@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1534-40 Holydays with Coding
+
+These holydays I continue to reading my current book, and also I am learning how to use neovim as my IDE, neovim is amazing but very complicated, I am learning a lot of new concepts.  
+
 ### Day 1533 Building Containers
 
 Today studying thr Red Hat certification I did a little exercise to build a container image following the best practices recommended by RedHat. I don't know why but Containers and Microservices are two topics loved by me.
