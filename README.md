@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1540-44 New Year Coding
+
+As the new year bursts onto the scene, I'm thrilled to set my software engineering goals for 2024! I've meticulously crafted a plan encompassing study initiatives, ambitious project targets, and even the exciting prospect of learning a new programming language. I eagerly anticipate the professional and personal growth this year will bring, brimming with fresh opportunities and challenges.
+
 ### Day 1534-40 Holydays with Coding
 
 These holydays I continue to reading my current book, and also I am learning how to use neovim as my IDE, neovim is amazing but very complicated, I am learning a lot of new concepts.  
