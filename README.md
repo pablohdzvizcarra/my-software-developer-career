@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1545-46 Red Hat Course and Linux
+
+Today I have been working in my Red Hat course, I learned more about the ConfigMaps and Secrets resources in OpenShift, creating a basic python http server application that returns the value from a Environment variable, the objective was assign this value with some configuration like take the value from a environment variable or a file.
+
 ### Day 1540-44 New Year Coding
 
 As the new year bursts onto the scene, I'm thrilled to set my software engineering goals for 2024! I've meticulously crafted a plan encompassing study initiatives, ambitious project targets, and even the exciting prospect of learning a new programming language. I eagerly anticipate the professional and personal growth this year will bring, brimming with fresh opportunities and challenges.
