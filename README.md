@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1547 Continue with Linux
+
+Today I studied the most useful command linux to manipulate the processes running in the system like top, ps, kill, etc.
+
 ### Day 1545-46 Red Hat Course and Linux
 
 Today I have been working in my Red Hat course, I learned more about the ConfigMaps and Secrets resources in OpenShift, creating a basic python http server application that returns the value from a Environment variable, the objective was assign this value with some configuration like take the value from a environment variable or a file.
