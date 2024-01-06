@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1548 Linux and Go
+
+Today I continue studying about Linux, I started to study the environment in the shell, now I know what is the use of some Environment variables like HOME, PATH and obviously the JAVA_HOME, some programs use this variables well, don't use the variables use the files reference for this variables remember in Linux everything is a file. Also I practice a little of Go and a sandbox environment, doing a little software exercise.
+
 ### Day 1547 Continue with Linux
 
 Today I studied the most useful command linux to manipulate the processes running in the system like top, ps, kill, etc.
