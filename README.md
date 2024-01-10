@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1549-52 Linux and OpenShift
+
+These days I continue reading the Linux book, I learned some important file system and network linux commands, also I advanced in my Red Hat certification.
+
 ### Day 1548 Linux and Go
 
 Today I continue studying about Linux, I started to study the environment in the shell, now I know what is the use of some Environment variables like HOME, PATH and obviously the JAVA_HOME, some programs use this variables well, don't use the variables use the files reference for this variables remember in Linux everything is a file. Also I practice a little of Go and a sandbox environment, doing a little software exercise.
