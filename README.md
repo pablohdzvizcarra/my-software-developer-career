@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1555 Java and Linux
+
+Today I learned more about Maven, I studying which plugins are required to create Java applications packaged into a jar file, how I can create a jar artifact with all the required dependencies to run. Also I continued studying Linux, now is the time to study some tools to find files and directories.
+
 ### Day 1554 OpenShift S2I
 
-Today I learned how to create applications in OpenShift with the S2I Strategy builder, was interesting how OpenShift with only a git repository with a app.py file can create and deploy an application fast. Working in creating the previuos application I noticed that I don't know how to create a Java application from scratch without use a tool like maven or gradle, my plan is learn how to create a maven project without using the mvn command because in the host that I use I don't have maven installed, tomorrow I will review how to achieve this.
+Today I learned how to create applications in OpenShift with the S2I Strategy builder, was interesting how OpenShift with only a git repository with a app.py file can create and deploy an application fast. Working in creating the previous application I noticed that I don't know how to create a Java application from scratch without use a tool like maven or gradle, my plan is learn how to create a maven project without using the mvn command because in the host that I use I don't have maven installed, tomorrow I will review how to achieve this.
 
 ### Day 1553 Data Analytics
 
