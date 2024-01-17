@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1559 Python and Flexibility
+
+Today I was working in a task that needs to be performed fast, I choice Python to create and execute the task duw to the Python simplicity and their useful libraries to work with files, I have a lot of desire to learn how to apply TDD for this simple task working with Python, my testing skills in Python are little.
+
 ### Day 1556-57-58 Java Http Server
 
 On the weekend I have been learning about the jwebserver, a Java tool to crate a HTTP server for testing purposes. This tool is amazing sometimes we only need a HTTP server to put some information that work as an external API, and another service use this information to perform their work. Also I learned how to create a Java HTTP server for testing purposes mounting a directory hierarchy and some files in the server in memory without save the information in disk, this exercise was amazing.
