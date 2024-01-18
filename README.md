@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1560 Grep and Linux Dictionary
+
+Today I started to learn about the [grep](https://man.cx/grep(1)) in Linux. I practice performing some grep commands using different Metacharacters like anchors and brackets. Also I discovered that Linux distributions have a dictionary, and yes this is amazing look in the /usr/share/dict/words path. On my work I read the pandas documentation about the [to_dict](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_dict.html) because I need to work with this functionality.
+
 ### Day 1559 Python and Flexibility
 
 Today I was working in a task that needs to be performed fast, I choice Python to create and execute the task duw to the Python simplicity and their useful libraries to work with files, I have a lot of desire to learn how to apply TDD for this simple task working with Python, my testing skills in Python are little.
