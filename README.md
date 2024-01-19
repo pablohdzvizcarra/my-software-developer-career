@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1661 Synchronous Architectures and Python
+
+Today I was working in a issue related with a [race condition](https://simple.wikipedia.org/wiki/Race_condition) in two Microservices that need to interact between them in the correct order, I saw this problem other times and I performed some exercises in the past to avoid issues using Events to communicate rather than synchronous code and waiting always that the process X finish it is execution before process W starts. Microservice are amazing I love how a simple Microservice design can be converted into a complicated scenario.
+
 ### Day 1560 Grep and Linux Dictionary
 
 Today I started to learn about the [grep](https://man.cx/grep(1)) in Linux. I practice performing some grep commands using different Metacharacters like anchors and brackets. Also I discovered that Linux distributions have a dictionary, and yes this is amazing look in the /usr/share/dict/words path. On my work I read the pandas documentation about the [to_dict](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_dict.html) because I need to work with this functionality.
