@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1665 Continue Reading About Linux
+
+These days I have been reading the Linux command line book. I am reading the book and making excersises in my computer at the same time, it is amazing how the terminal is very powerfull and useful when you lose the fear. Today I had a unconfort situation in my work due to my English skill, I know English is very important in the Software Engineering industry, please if you are reading this, learn English and learn good, talk with people in discord, watch TV in English but the most important thing is practice this skill everyday. 
+
 ### Day 1661 Synchronous Architectures and Python
 
 Today I was working in a issue related with a [race condition](https://simple.wikipedia.org/wiki/Race_condition) in two Microservices that need to interact between them in the correct order, I saw this problem other times and I performed some exercises in the past to avoid issues using Events to communicate rather than synchronous code and waiting always that the process X finish it is execution before process W starts. Microservice are amazing I love how a simple Microservice design can be converted into a complicated scenario.
