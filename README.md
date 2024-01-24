@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1666 CRLF and LF
+
+Today, I learned why my VSC editor shows LF as the end-of-line sequence value. It was fascinating to discover that Windows uses CRLF (\r\n) and Linux uses LF (\n) for this purpose. The different approaches have historical roots, dating back to the early days of computing. While the reasons may seem outdated today, understanding this legacy adds depth to our appreciation of computer science.
+
 ### Day 1665 Continue Reading About Linux
 
 These days I have been reading the Linux command line book. I am reading the book and making excersises in my computer at the same time, it is amazing how the terminal is very powerfull and useful when you lose the fear. Today I had a unconfort situation in my work due to my English skill, I know English is very important in the Software Engineering industry, please if you are reading this, learn English and learn good, talk with people in discord, watch TV in English but the most important thing is practice this skill everyday. 
