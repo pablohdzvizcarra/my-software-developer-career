@@ -7,6 +7,12 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1667-68 Java Testing
+
+I encountered a challenge today while attempting to create unit tests for a Java class. My goal was to add a new feature to the application, and I wanted to establish unit tests to ensure its quality and maintainability. However, I faced difficulties due to the inherent complexities of testing legacy code, particularly those arising from code dependencies.
+
+While I firmly believe that unit testing is the most effective approach to understanding and validating code behavior, I was unable to fully implement tests within the required timeframe due to the feature's urgency.
+
 ### Day 1666 CRLF and LF
 
 Today, I learned why my VSC editor shows LF as the end-of-line sequence value. It was fascinating to discover that Windows uses CRLF (\r\n) and Linux uses LF (\n) for this purpose. The different approaches have historical roots, dating back to the early days of computing. While the reasons may seem outdated today, understanding this legacy adds depth to our appreciation of computer science.
