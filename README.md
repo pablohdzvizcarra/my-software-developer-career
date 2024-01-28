@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1669-70 Creating My Own Java Database
+
+Today, I embarked on a Java project to enhance my programming skills. The objective of this project is to create a basic database that supports CRUD functionalities. I have decided to store the data in JSON files, which will be generated in the project's source directory within a dedicated folder. Throughout this project, I am following the Test-Driven Development (TDD) methodology, allowing me to enjoy the process of coding for a personal project after a long time.
+
 ### Day 1667-68 Java Testing
 
 I encountered a challenge today while attempting to create unit tests for a Java class. My goal was to add a new feature to the application, and I wanted to establish unit tests to ensure its quality and maintainability. However, I faced difficulties due to the inherent complexities of testing legacy code, particularly those arising from code dependencies.
