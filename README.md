@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1671 Document-based database
+
+Today, I continued working on my own database project. I encountered difficulties when attempting to save records/json into a single file. Initially, I planned to store all the records in a single file, with each table represented as a JSON file. However, this approach proved to be complex and caused issues when inserting multiple records. To address this, I have been researching how MongoDB manages these challenges and exploring the document-based approach.
+
 ### Day 1669-70 Creating My Own Java Database
 
 Today, I embarked on a Java project to enhance my programming skills. The objective of this project is to create a basic database that supports CRUD functionalities. I have decided to store the data in JSON files, which will be generated in the project's source directory within a dedicated folder. Throughout this project, I am following the Test-Driven Development (TDD) methodology, allowing me to enjoy the process of coding for a personal project after a long time.
