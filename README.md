@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1672 Serialization and Deserialization
+
+Today I created the basic functionalities for serialization and deserialization in my database implementation, I had some problems when deserialize the content of a file JSON file into a Java String, I am looking for a way to deserialize the Java String into a Java record, the problem is create the code generic to be reused to convert a JSON into X Java record/object.
+
 ### Day 1671 Document-based database
 
 Today, I continued working on my own database project. I encountered difficulties when attempting to save records/json into a single file. Initially, I planned to store all the records in a single file, with each table represented as a JSON file. However, this approach proved to be complex and caused issues when inserting multiple records. To address this, I have been researching how MongoDB manages these challenges and exploring the document-based approach.
