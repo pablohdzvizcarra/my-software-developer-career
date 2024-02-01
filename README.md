@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1673-74 Continue with CRUD Database Operations
+
+These days I have been working in my database project, I could implement the Read and Delete operations. I am happy with my current job completed, my project was created following a TDD methodology for this reason I can change/add features in my code fast.
+
 ### Day 1672 Serialization and Deserialization
 
 Today I created the basic functionalities for serialization and deserialization in my database implementation, I had some problems when deserialize the content of a file JSON file into a Java String, I am looking for a way to deserialize the Java String into a Java record, the problem is create the code generic to be reused to convert a JSON into X Java record/object.
@@ -31,7 +35,7 @@ Today, I learned why my VSC editor shows LF as the end-of-line sequence value. I
 
 ### Day 1665 Continue Reading About Linux
 
-These days I have been reading the Linux command line book. I am reading the book and making excersises in my computer at the same time, it is amazing how the terminal is very powerfull and useful when you lose the fear. Today I had a unconfort situation in my work due to my English skill, I know English is very important in the Software Engineering industry, please if you are reading this, learn English and learn good, talk with people in discord, watch TV in English but the most important thing is practice this skill everyday. 
+These days I have been reading the Linux command line book. I am reading the book and making excersises in my computer at the same time, it is amazing how the terminal is very powerfull and useful when you lose the fear. Today I had a unconfort situation in my work due to my English skill, I know English is very important in the Software Engineering industry, please if you are reading this, learn English and learn good, talk with people in discord, watch TV in English but the most important thing is practice this skill everyday.
 
 ### Day 1661 Synchronous Architectures and Python
 
