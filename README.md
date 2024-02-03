@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1675-76 Problems Reading All Documents
+
+I am facing with a problem when try to read all the documents from X collection. The problem is I am trying to read file by file, deserialize the each file into a ```Map```, add the map to a ```List``` to finally serialize the ```List<Map>``` into a Json, I don't know why I cannot do this due to some Java errors, maybe I need a rest to recover my batteries, well on the weekend I will have some free time to solve this problem.
+
 ### Day 1673-74 Continue with CRUD Database Operations
 
 These days I have been working in my database project, I could implement the Read and Delete operations. I am happy with my current job completed, my project was created following a TDD methodology for this reason I can change/add features in my code fast.
