@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1677-78 Java Path Problems
+
+I am currently facing an issue with Java regarding file path management within the JVM filesystem. Specifically, I am encountering an error when attempting to read files from the root folder in a Java JAR application. While my code works fine in Visual Studio Code and when generating the JAR archive on my local machine, it fails when I move the JAR to a different folder. Tomorrow, I will continue investigating and resolving this error.
+
 ### Day 1675-76 Problems Reading All Documents
 
 I am facing with a problem when try to read all the documents from X collection. The problem is I am trying to read file by file, deserialize the each file into a ```Map```, add the map to a ```List``` to finally serialize the ```List<Map>``` into a Json, I don't know why I cannot do this due to some Java errors, maybe I need a rest to recover my batteries, well on the weekend I will have some free time to solve this problem.
