@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1679 Application Problems and GitHub Issues
+
+Today, I have been testing my [database](https://github.com/pablohdzvizcarra/test-database-txt) application and encountered some errors. It's interesting how even small and obvious errors can go unnoticed until we thoroughly test our code. This experience reminds me of the Agile spirit, where we deliver the Minimum Viable Product (MVP) and continuously improve through iterations. Building a JSON database is not as fast as I initially believed, but it's a valuable learning experience.
+
 ### Day 1677-78 Java Path Problems
 
 I am currently facing an issue with Java regarding file path management within the JVM filesystem. Specifically, I am encountering an error when attempting to read files from the root folder in a Java JAR application. While my code works fine in Visual Studio Code and when generating the JAR archive on my local machine, it fails when I move the JAR to a different folder. Tomorrow, I will continue investigating and resolving this error.
