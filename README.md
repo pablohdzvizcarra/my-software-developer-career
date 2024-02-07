@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1680 Pandas for Java
+
+Today, I attempted to create a Spark application to perform some data cleaning activities on CSV files. However, I encountered an issue where my application, which uses Java 17, was incompatible with Spark due to errors. After trying different solutions to resolve this problem, I ultimately decided to switch to using Python and Pandas for working with CSV files. I find this approach to be more suitable and efficient. Please don't use a hammer for everything, use the right tool for the work.
+
 ### Day 1679 Application Problems and GitHub Issues
 
 Today, I have been testing my [database](https://github.com/pablohdzvizcarra/test-database-txt) application and encountered some errors. It's interesting how even small and obvious errors can go unnoticed until we thoroughly test our code. This experience reminds me of the Agile spirit, where we deliver the Minimum Viable Product (MVP) and continuously improve through iterations. Building a JSON database is not as fast as I initially believed, but it's a valuable learning experience.
