@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1681-82-83 RedHat Course
+
+These day I have been working in the [Building Kubernetes Application](https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314152) course, I am doing the last part of the course, my goal is finish this big and challenge course on the weekend to continue with a site project (a data analytics python application). One of my goals on this year is study Python, Data Engineering and learn a new programming language maybe Go or Rust.
+
 ### Day 1680 Pandas for Java
 
 Today, I attempted to create a Spark application to perform some data cleaning activities on CSV files. However, I encountered an issue where my application, which uses Java 17, was incompatible with Spark due to errors. After trying different solutions to resolve this problem, I ultimately decided to switch to using Python and Pandas for working with CSV files. I find this approach to be more suitable and efficient. Please don't use a hammer for everything, use the right tool for the work.
