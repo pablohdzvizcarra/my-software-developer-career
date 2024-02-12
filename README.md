@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1684-85 Completed Red Hat Course
+
+On the weekend I completed the Building Kubernetes Application Red Hat course. This course has a 32 hours duration, I spend around three months to complete the course, because the course has multiple labs and exercises. I learned a lot of things in the course specially Containers and OpenShift.
+
 ### Day 1681-82-83 RedHat Course
 
 These day I have been working in the [Building Kubernetes Application](https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314152) course, I am doing the last part of the course, my goal is finish this big and challenge course on the weekend to continue with a site project (a data analytics python application). One of my goals on this year is study Python, Data Engineering and learn a new programming language maybe Go or Rust.
