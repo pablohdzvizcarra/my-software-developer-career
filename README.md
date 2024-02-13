@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1686 Analyzing Linux File System
+
+Today I continue reading the Linux book and making some exercises with linux command and Python code. I take the output of some Linux command like cat, sort and uniq, and analyze the output with python, and transform this text plain into CSV file to apply filtering operations.
+
 ### Day 1684-85 Completed Red Hat Course
 
 On the weekend I completed the Building Kubernetes Application Red Hat course. This course has a 32 hours duration, I spend around three months to complete the course, because the course has multiple labs and exercises. I learned a lot of things in the course specially Containers and OpenShift.
