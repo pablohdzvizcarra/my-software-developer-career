@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1687-88-89-90 Javascript, NodeJS and Synchronous Code
+
+These days I have been remembering how to write Javascript code. I needed to refresh my JS knowledge because I started to work on a JS project, I have a problem remembering how works the async code with async/await, I needed to review again the [javascript.info](https://javascript.info/async-await) async/await tutorial, also remember how to write JS unit tests with [jest](https://jestjs.io/), on the weekend I have the plan to create an JS application to continue practice.
+
 ### Day 1686 Analyzing Linux File System
 
 Today I continue reading the Linux book and making some exercises with linux command and Python code. I take the output of some Linux command like cat, sort and uniq, and analyze the output with python, and transform this text plain into CSV file to apply filtering operations.
