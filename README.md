@@ -7,6 +7,14 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1691-92 Security, TLS, HTTPS
+
+During the weekend, I dedicated my time to studying cybersecurity, AI security, and communication protocols such as TLS and HTTPS. I chose these topics because I didn't have any specific study plans and came across a blog post that sparked my interest in good code practices. However, I realized the need to better manage my study resources and schedule to ensure completion of my ongoing studies.
+
+- <https://datatracker.ietf.org/doc/html/rfc5246>
+- <https://aws.amazon.com/compare/the-difference-between-ssl-and-tls/#:~:text=HTTPS%20is%20the%20practice%20of,to%20the%20current%20security%20standards>.
+- <https://en.wikipedia.org/wiki/Transport_Layer_Security>
+
 ### Day 1687-88-89-90 Javascript, NodeJS and Synchronous Code
 
 These days I have been remembering how to write Javascript code. I needed to refresh my JS knowledge because I started to work on a JS project, I have a problem remembering how works the async code with async/await, I needed to review again the [javascript.info](https://javascript.info/async-await) async/await tutorial, also remember how to write JS unit tests with [jest](https://jestjs.io/), on the weekend I have the plan to create an JS application to continue practice.
