@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1693 Continue Learning about Linux and Command Line
+
+Today I learned the patch, tr and sed Linux commands/tools. I make some investigation related with the [transliteration](https://en.wikipedia.org/wiki/Transliteration) process, I remember in my first days learning programming I learned about the [ROT13](https://en.wikipedia.org/wiki/ROT13) cipher algorithm to encrypt your messages moving the character 13 letters in the alphabet, it's amazing how you start to study about X topic and you finish learning amazing new things.
+
 ### Day 1691-92 Security, TLS, HTTPS
 
 During the weekend, I dedicated my time to studying cybersecurity, AI security, and communication protocols such as TLS and HTTPS. I chose these topics because I didn't have any specific study plans and came across a blog post that sparked my interest in good code practices. However, I realized the need to better manage my study resources and schedule to ensure completion of my ongoing studies.
