@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1694 Sed Command
+
+Today I learned how to perform basic operations with the [sed](https://linux.die.net/man/1/sed) Linux tool. The **sed** tool is amazing, offers a stream editor on the CLI, you can edit files without open the file and manipulate manually, with this tool is faster the simple edition of files like change a version number.
+
 ### Day 1693 Continue Learning about Linux and Command Line
 
 Today I learned the patch, tr and sed Linux commands/tools. I make some investigation related with the [transliteration](https://en.wikipedia.org/wiki/Transliteration) process, I remember in my first days learning programming I learned about the [ROT13](https://en.wikipedia.org/wiki/ROT13) cipher algorithm to encrypt your messages moving the character 13 letters in the alphabet, it's amazing how you start to study about X topic and you finish learning amazing new things.
