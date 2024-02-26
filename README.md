@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1695-96-97-98-99 The Linux Command Line Book
+
+The last days I have been studying the Linux command book and making an AI course. I learned different commands/tools to process text like uniq, sort, diff, etc. Also commands to show standard output like nl, fold, fmt, etc. The Linux command line is amazing the book suggest knowing some arcane commands to process files that maybe you will not have a use case with the arrives of text editors like Word and Pages. Markdown is a great markup language to create good text files.
+
 ### Day 1694 Sed Command
 
 Today I learned how to perform basic operations with the [sed](https://linux.die.net/man/1/sed) Linux tool. The **sed** tool is amazing, offers a stream editor on the CLI, you can edit files without open the file and manipulate manually, with this tool is faster the simple edition of files like change a version number.
