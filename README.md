@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1700 Linux Scripts
+
+Today I started to study shell scripting, I start to write basic scripts and learning the Bash language. Write shell scripts is like a write C code, in the past sometimes I needed to write some scripts copying instructions from the internet without deep dive in the details. I believe if a learn how to create application with scripts and learn low level concepts my Software Engineer career receives an upgrade with this new knowledge.
+
 ### Day 1695-96-97-98-99 The Linux Command Line Book
 
 The last days I have been studying the Linux command book and making an AI course. I learned different commands/tools to process text like uniq, sort, diff, etc. Also commands to show standard output like nl, fold, fmt, etc. The Linux command line is amazing the book suggest knowing some arcane commands to process files that maybe you will not have a use case with the arrives of text editors like Word and Pages. Markdown is a great markup language to create good text files.
