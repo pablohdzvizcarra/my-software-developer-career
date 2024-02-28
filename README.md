@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1701 Continue Linux Scripting
+
+Today I have been learning more about Linux scripts, I was studying the test expressions in bash and how works flow conditional statements like if/else on bash. It is interesting how bash works.
+
 ### Day 1700 Linux Scripts
 
 Today I started to study shell scripting, I start to write basic scripts and learning the Bash language. Write shell scripts is like a write C code, in the past sometimes I needed to write some scripts copying instructions from the internet without deep dive in the details. I believe if a learn how to create application with scripts and learn low level concepts my Software Engineer career receives an upgrade with this new knowledge.
