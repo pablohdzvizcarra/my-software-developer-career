@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1707-08 More Frontend
+
+I continue studying more about Frontend technologies, I am doing a NextJS tutorial to learn the recent frontend technologies, In the past I learned and created interesting ReactJS applications, with MERN stack, I want to learn how to use ReactJs 18 and NextJS to build some basic applications, for the moment I am in the bom moment, when you start to remember a technology learned on the past.
+
 ### Day 1702-03-04-05-06 Back to the Frontend
 
 These days I have been studying about Frontend technologies, like ReactJS, TypeScript, NPM and NextJS. On my first days learning programming I started with Javascript, ReactJS and NodeJS I have a lot of fun making some full stack applications, really I loved these times, I needed to start to study again frontend technologies because on my current job I started to work with ReactJS and NodeJS for a full stack application. I paused my Linux study for a moment to focus on this.
