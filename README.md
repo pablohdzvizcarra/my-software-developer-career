@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1614 OpenID Connect and NodeJS HTTPS Server
+
+Today I have been learning how works the OpenID Connect protocol, I needed to learn how to implement this protocol with NodeJS and Typescript, my weekend goal is learn how to implement this protocol with a Go application. Also, I needed to learn how to create a HTTPS server on my local machine with NodeJS and Express application.
+
 ### Day 1609-10-11-12-13 NextJS Application
 
 Recently, I’ve been diving into a Next.js tutorial [you can find it here](https://www.youtube.com/watch?v=O5cmLDVTgAs&t=12330s). In this tutorial, I’m not only refreshing my ReactJS knowledge but also exploring the exciting world of Next.js.
