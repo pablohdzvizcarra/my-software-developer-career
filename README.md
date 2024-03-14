@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1615-16 NextJS and Unit Testing
+
+Unit testing in front end applications is a funny task for me, I love to test my UI components, it's funny work with logic in the UI, some of my unit testing backend techniques can be applied to the frontend. React properties in components are like dependency injection in backend code. 
+
 ### Day 1614 OpenID Connect and NodeJS HTTPS Server
 
 Today I have been learning how works the OpenID Connect protocol, I needed to learn how to implement this protocol with NodeJS and Typescript, my weekend goal is learn how to implement this protocol with a Go application. Also, I needed to learn how to create a HTTPS server on my local machine with NodeJS and Express application.
