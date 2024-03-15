@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1617 UI Styles
+
+Today, I've been applying UI designs to a Next.js component. Reflecting on the past, I recall that one reason I used to dislike Frontend work was due to design and CSS. Frankly, it's not my favorite aspect. Nevertheless, I recognize the importance of this task and am committed to improving in this area. As a Full Stack developer, I find it fulfilling to work on complete projects independently.
+
 ### Day 1615-16 NextJS and Unit Testing
 
-Unit testing in front end applications is a funny task for me, I love to test my UI components, it's funny work with logic in the UI, some of my unit testing backend techniques can be applied to the frontend. React properties in components are like dependency injection in backend code. 
+Unit testing in front end applications is a funny task for me, I love to test my UI components, it's funny work with logic in the UI, some of my unit testing backend techniques can be applied to the frontend. React properties in components are like dependency injection in backend code.
 
 ### Day 1614 OpenID Connect and NodeJS HTTPS Server
 
