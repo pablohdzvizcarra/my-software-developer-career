@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1618-19-20-21-22 Finishing NextJS Application
+
+These days I have been working to complete the NextJS application tutorial. I could completed the tutorial and deploy the application in Vercel, the application looks good and work as expected. I discovery something studying about the IBM Carbon Design System, I don't like the Frontend technologies related with the style like SASS and other tyke of obscure technologies. The problem with styling the frontend is you need to understand all the technologies available and select the best for your project.
+
 ### Day 1617 UI Styles
 
 Today, I've been applying UI designs to a Next.js component. Reflecting on the past, I recall that one reason I used to dislike Frontend work was due to design and CSS. Frankly, it's not my favorite aspect. Nevertheless, I recognize the importance of this task and am committed to improving in this area. As a Full Stack developer, I find it fulfilling to work on complete projects independently.
