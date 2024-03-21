@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1623 Bash Loops
+
+Today I learned how to use loops in bash like while, for and until. Bash is a funny language if you want to interact with the OS system in my case MacOS, I created some scripts to learn and practice control flow in bash scripts. An interesting script created today was a script that reads the content of a file line by line and column by colum.
+
 ### Day 1618-19-20-21-22 Finishing NextJS Application
 
 These days I have been working to complete the NextJS application tutorial. I could completed the tutorial and deploy the application in Vercel, the application looks good and work as expected. I discovery something studying about the IBM Carbon Design System, I don't like the Frontend technologies related with the style like SASS and other tyke of obscure technologies. The problem with styling the frontend is you need to understand all the technologies available and select the best for your project.
@@ -43,7 +47,7 @@ These days I have been studying about Frontend technologies, like ReactJS, TypeS
 
 Today I have been learning more about Linux scripts, I was studying the test expressions in bash and how works flow conditional statements like if/else on bash. It is interesting how bash works.
 
-**Day 1 - 50 HTML - CSS - Javascript**  [here](./day0-500/day0-50.md)</br>
+**Day 1 - 50 HTML - CSS - Javascript** [here](./day0-500/day0-50.md)</br>
 **Day 51 - 100 Javascript** [here](./day0-500/day51-100.md)</br>
 **Day 101 - 150 Javascript** [here](./day0-500/day101-150.md)</br>
 **Day 151 - 200 Javascript** [here](./day0-500/day151-200.md)</br>
