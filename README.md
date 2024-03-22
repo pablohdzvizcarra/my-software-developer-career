@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1624 Continue with Bash
+
+Today I continue reading the Linux Command Line book. I learned about how to debug bash scripts and how bash manage syntax errors.
+
 ### Day 1623 Bash Loops
 
 Today I learned how to use loops in bash like while, for and until. Bash is a funny language if you want to interact with the OS system in my case MacOS, I created some scripts to learn and practice control flow in bash scripts. An interesting script created today was a script that reads the content of a file line by line and column by colum.
