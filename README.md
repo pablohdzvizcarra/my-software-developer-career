@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1625-26-27 Finished the Linux Command Line Book
+
+Over the weekend, I completed reading the Linux Command Line book. I thoroughly enjoyed the book, especially the section on increasing productivity using the terminal for common and repetitive tasks. After finishing the book, I started a new project: building my own implementation of the OAuth standard using Node.js, Express, and TypeScript for learning purposes. My goal is to practice TypeScript and refresh my knowledge of client-server communication. As a first step, I will dive into understanding how the OAuth standard works while documenting my journey in a Medium blog post. Of course, I will follow the Test-Driven Development methodology in developing this application.
+
 ### Day 1624 Continue with Bash
 
 Today I continue reading the Linux Command Line book. I learned about how to debug bash scripts and how bash manage syntax errors.
