@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1630-31 Backend Communication Patterns
+
+During these days, I continue studying communication patterns in client-server connections. The reason for studying this is that I am currently working on a full-stack application. This project is a challenge for me because, in the past, I focused on creating FrontEnd applications using ReactJS and Angular. However, my knowledge in these areas is still at a basic level. Working as a Full Stack developer is rewarding but also exhausting. I recognize that I need to continue learning more about full-stack development and client-server applications.
+
 ### Day 1628-29 Register Users and Authentication
 
 I am working on implement an user registration routes for my application, the idea is that any user can register in the server with their data, and with this data registered, now clients can create applications to fetch this user information.
