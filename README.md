@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1635-36 Implementing Google OAuth
+
+During these days, I have been working on my MERN course. I am learning how to implement an OAuth login with google using [firebase](https://firebase.google.com/docs/auth) and authentication functionalities. I builded the Sign In and Sign Up pages in the frontend currently I am working on implement the sing in google functionality in the backend.
+
 ### Day 1633-34 HTMX and Frontend Technologies
 
 During the weekend, I continued studying more about Frontend technologies. I started an O'Reilly MERN (MongoDB, Express, React, NodeJS) course to further improve my frontend skills. You can find the course [here](https://learning.oreilly.com/course/full-stack-mern/9781835461686/). Additionally, I began exploring [HTMX](https://htmx.org), a library designed to build interactive web applications similar to ReactJS. I found working with HTMX to be enjoyable and it has been a great resource for learning more about Golang, as I created a basic web application with a form and managed the backend with Golang.
