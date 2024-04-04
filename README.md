@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1637 Firestore
+
+Today I learned how to upload files to firestore with JavaScript code, I created a basic application functionality that uploads images files from the user. Also I learned some of the JavaScript/NodeJS APIs to manipulate files. JavaScript have a basic APIs to manage the disk storage in the application this is my personal opinion I felt limited working with this rather than Java or Python code.
+
 ### Day 1635-36 Implementing Google OAuth
 
 During these days, I have been working on my MERN course. I am learning how to implement an OAuth login with google using [firebase](https://firebase.google.com/docs/auth) and authentication functionalities. I builded the Sign In and Sign Up pages in the frontend currently I am working on implement the sing in google functionality in the backend.
@@ -106,4 +110,4 @@ Today I have been learning more about Linux scripts, I was studying the test exp
 **Day 1401 - 1450 Java | Design Patterns | CI/CD** [here](./day1001-1500/day1401-1450.md)</br>
 **Day 1451 - 1500 Java | Design Patterns | CI/CD** [here](./day1001-1500/day1451-1500.md)</br>
 **Day 1501 - 1550 Java | Python | Data Analytics | CI/CD** [here](./day1501-2000/day1501-1550.md)</br>
-**Day 1501 - 1550 Java | Python | Data Analytics | CI/CD** [here](./day1501-2000/day1551-1600.md)</br>
+**Day 1551 - 1600 Java | Python | Data Analytics | CI/CD** [here](./day1501-2000/day1551-1600.md)</br>
