@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1638 Managing Files with JavaScript and NodeJS
+
+Today I was working on a piece of code that needs to read a CSV file, validate the correct CSV file structure to finally parse the CSV into a database. I am having some problems to learn how to use the Javascript APIS for handling files, specially learn how to use async/await code with this.
+
 ### Day 1637 Firestore
 
 Today I learned how to upload files to firestore with JavaScript code, I created a basic application functionality that uploads images files from the user. Also I learned some of the JavaScript/NodeJS APIs to manipulate files. JavaScript have a basic APIs to manage the disk storage in the application this is my personal opinion I felt limited working with this rather than Java or Python code.
