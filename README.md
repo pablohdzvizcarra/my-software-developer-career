@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1639-40 Continue Learning ReactJS and UI
+
+These days I have been doing my MERN course, I have been learning basic style techniques to add styles to my ReactJS components. Creating ReactJS components can be a tricky activity, is the same like backend development you can create a mess of TS/JS code. It's funny for the moment.
+
 ### Day 1638 Managing Files with JavaScript and NodeJS
 
 Today I was working on a piece of code that needs to read a CSV file, validate the correct CSV file structure to finally parse the CSV into a database. I am having some problems to learn how to use the Javascript APIS for handling files, specially learn how to use async/await code with this.
