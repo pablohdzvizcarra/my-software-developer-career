@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1641-42 useEffect Hook
+
+I studied with more dive how works the useEffect ReactJS hook, also I studied a little how ReactJs manage the status update in the application.
+
 ### Day 1639-40 Continue Learning ReactJS and UI
 
 These days I have been doing my MERN course, I have been learning basic style techniques to add styles to my ReactJS components. Creating ReactJS components can be a tricky activity, is the same like backend development you can create a mess of TS/JS code. It's funny for the moment.
