@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1643 Render Components Conditionally
+
+Today I have been studying different techniques to render ReactJS components conditionally. I need to apply some logic to render X component for an authenticated user and another component for non-authenticated users. ReactJS is beautiful, but it's just JavaScript/TypeScript code, and with a good software engineering background, any JavaScript frontend framework can be easy to work with. However the magic in frontend development comes from CSS.
+
 ### Day 1641-42 useEffect Hook
 
 I studied with more dive how works the useEffect ReactJS hook, also I studied a little how ReactJs manage the status update in the application.
