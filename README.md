@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1645 Search Functionality
+
+Today I have been working on a search functionality in the course application, the idea is to create a search bar that look for elements in the database through a query.
+
 ### Day 1644 Managing React State
 
 Today working in some ReactJS code finally something make click in my  mind and I could start to think in ReactJS statement components in a more effectively way, state is like a properties in classes, you can create code variables in the component, but this code variables are scoped like a variables created in a method execution, and to persist this value to be reusable by other components you require the state, you can link components and classes with this analogy.
