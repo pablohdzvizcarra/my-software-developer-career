@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1646-47-48-49 Completed ReactJS Course
+
+During these days I completed the ReactJS course, I have been working on this course for around two-three weeks, working on the course I refresh my ReactJs knowledge and learned new things. I am excited about my new project, tomorrow I will need to think and start a new project to practice all the knowledge learned.
+
 ### Day 1645 Search Functionality
 
 Today I have been working on a search functionality in the course application, the idea is to create a search bar that look for elements in the database through a query.
