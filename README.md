@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1650 How to Organize Study Topics as a Software Engineer
+
+Today, I was contemplating my next topic of study. For my current job, I need to enhance my skills in NextJS, communication between backend and frontend, TypeScript, FrontEnd development, and ETL processes with Python and Pandas. However, for my personal growth, I'm interested in exploring other areas such as Golang, Computer Science, and backend engineering topics. This morning, I attempted to learn Python Pandas, but the results were disappointing. I lost interest after just 30 minutes into the course. I also tried to initiate a NextJS project for practice, but again, I found myself feeling bored. I need to reflect on these feelings to effectively continue my learning journey.
+
 ### Day 1646-47-48-49 Completed ReactJS Course
 
 During these days I completed the ReactJS course, I have been working on this course for around two-three weeks, working on the course I refresh my ReactJs knowledge and learned new things. I am excited about my new project, tomorrow I will need to think and start a new project to practice all the knowledge learned.
