@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1651 OSI Model
+
+Today studying my backend engineering course, I started to study about the OSI Model focusing today in the layer 1 and layer 2. Now I know that the layer 1 is like the ethernet cable that send the request to the bare metal server, layer two is used to add some information to the previous data received in the layer 1 like the Mac address source, Mac address destination, etc. I started to work on a GitHub gist to create a representation of the OSI model with golang code.
+
 ### Day 1650 How to Organize Study Topics as a Software Engineer
 
 Today, I was contemplating my next topic of study. For my current job, I need to enhance my skills in NextJS, communication between backend and frontend, TypeScript, FrontEnd development, and ETL processes with Python and Pandas. However, for my personal growth, I'm interested in exploring other areas such as Golang, Computer Science, and backend engineering topics. This morning, I attempted to learn Python Pandas, but the results were disappointing. I lost interest after just 30 minutes into the course. I also tried to initiate a NextJS project for practice, but again, I found myself feeling bored. I need to reflect on these feelings to effectively continue my learning journey.
