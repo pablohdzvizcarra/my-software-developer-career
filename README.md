@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1652 OSI Model Basic Representation
+
+Today I continue learning the OSI Model, to understand better this I tried to abstract the OSI model with Golang code, you can found the gist in the next [link](https://gist.github.com/pablohdzvizcarra/1b107c13c68ff93e7765568c2a47c634). When I attempt to abstract the concepts with code I needed to think how can abstract this, from my perspective doing this you can understand better the concepts.
+
 ### Day 1651 OSI Model
 
 Today studying my backend engineering course, I started to study about the OSI Model focusing today in the layer 1 and layer 2. Now I know that the layer 1 is like the ethernet cable that send the request to the bare metal server, layer two is used to add some information to the previous data received in the layer 1 like the Mac address source, Mac address destination, etc. I started to work on a GitHub gist to create a representation of the OSI model with golang code.
