@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1653-54-55-56-57 Vacation and Low Code Time
+
+During these days I am on vacations from my work. I have been making some low code time, although I am on vacations I need to code a little every day, I don't know why but code for me is a hobby rather than a work. I continue studying about Networking and the OSI model, wait a blog tutorial about this topic in a near future.
+
 ### Day 1652 OSI Model Basic Representation
 
 Today I continue learning the OSI Model, to understand better this I tried to abstract the OSI model with Golang code, you can found the gist in the next [link](https://gist.github.com/pablohdzvizcarra/1b107c13c68ff93e7765568c2a47c634). When I attempt to abstract the concepts with code I needed to think how can abstract this, from my perspective doing this you can understand better the concepts.
