@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1658 TCP Server
+
+Today I have been working on create a TCP server with NodeJS and a TCP client with Python. Rather than start to study a new framework or a new programming language, I want to study and learn the Computer Science basics, I believe that it is important to understand the deep concepts in the backend engineering.
+
 ### Day 1653-54-55-56-57 Vacation and Low Code Time
 
 During these days I am on vacations from my work. I have been making some low code time, although I am on vacations I need to code a little every day, I don't know why but code for me is a hobby rather than a work. I continue studying about Networking and the OSI model, wait a blog tutorial about this topic in a near future.
