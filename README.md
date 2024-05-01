@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1659-60-61-62-63-64 Break Days and Continues with Backend Engineering Course
+
+During these days I took some free time to rest and relax, I needed to take a break from my daily routine. I have been working on my backend engineering course, I am learning about HTTP 1.0 and HTTP 1.1, today I learned how to create a simple HTTP 1.0 server with Python, also I learned some important concepts in HTTP like Pipeline and Keep-Alive, with this new knowledge I remember a past problem with an application in which when we create a HTTP client with Java and keep this connection live, we reduce the time of the request-response cycle. Really the application performance improved a lot.
+
 ### Day 1658 TCP Server
 
 Today I have been working on create a TCP server with NodeJS and a TCP client with Python. Rather than start to study a new framework or a new programming language, I want to study and learn the Computer Science basics, I believe that it is important to understand the deep concepts in the backend engineering.
