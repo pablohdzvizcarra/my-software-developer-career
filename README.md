@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1665 WebSockets
+
+Today I have been studying the basics about the WebSockets protocol and more abstract concepts, In the past I had the opportunity to work with WebSockets in a project, I remember that the WebSockets servers was wrote with NodeJS and Socket.io, working with websocket was a challenge for me because or websocket implementation works with some errors and the developer that build this implementation was a developers contracted only to build this websocket server, I needed to fix the errors and improve the performance of the server. I learned a lot about WebSockets in this project through reading the official [socket.io]("https://socket.io/").
+
 ### Day 1659-60-61-62-63-64 Break Days and Continues with Backend Engineering Course
 
 During these days I took some free time to rest and relax, I needed to take a break from my daily routine. I have been working on my backend engineering course, I am learning about HTTP 1.0 and HTTP 1.1, today I learned how to create a simple HTTP 1.0 server with Python, also I learned some important concepts in HTTP like Pipeline and Keep-Alive, with this new knowledge I remember a past problem with an application in which when we create a HTTP client with Java and keep this connection live, we reduce the time of the request-response cycle. Really the application performance improved a lot.
