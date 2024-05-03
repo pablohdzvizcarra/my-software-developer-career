@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1666 Focusing on DSA
+
+Today I continue reading the A Common-Sense Guide to Data Structures and Algorithms book, the books starts with the basic operations in data structures like insert, delete, search, etc. For the moment the book has great visual examples to understand the concepts, I have the doubt about what programming language I will use to practice the examples in the book, I am thinking in use Java or Python.
+
 ### Day 1665 WebSockets
 
 Today I have been studying the basics about the WebSockets protocol and more abstract concepts, In the past I had the opportunity to work with WebSockets in a project, I remember that the WebSockets servers was wrote with NodeJS and Socket.io, working with websocket was a challenge for me because or websocket implementation works with some errors and the developer that build this implementation was a developers contracted only to build this websocket server, I needed to fix the errors and improve the performance of the server. I learned a lot about WebSockets in this project through reading the official [socket.io]("https://socket.io/").
