@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+
+### Day 1667-68 Continue with DSA
+
+Today I have been learning search algorithms for arrays and set arrays, I learned about the linear search and binary search algorithms, I have practicing with some examples and creating implementations for these algorithms, please check the next github gist with the implementations [here](https://gist.github.com/pablohdzvizcarra/66c3ecd092bcb7269d2f25bd4d164c4a);
+
 ### Day 1666 Focusing on DSA
 
 Today I continue reading the A Common-Sense Guide to Data Structures and Algorithms book, the books starts with the basic operations in data structures like insert, delete, search, etc. For the moment the book has great visual examples to understand the concepts, I have the doubt about what programming language I will use to practice the examples in the book, I am thinking in use Java or Python.
