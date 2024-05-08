@@ -7,6 +7,9 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1669-70-71 Bubble Sort and Big O Notation
+
+I learned how to implement the bubble sort algorithm with Java, also I am studying about the Big O notation to learn about the tim complexity of the algorithms. Really I am enjoying the DSA study, today something in my head make click and I could understand that any code for example calculate the current date has a time complexity and can be represented with the Big O notation. Really I never thing on this in the past when I was coding.
 
 ### Day 1667-68 Continue with DSA
 
