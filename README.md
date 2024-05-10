@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1673 Greedy Algorithms
+
+Today I have been studying greedy algorithms, I learned how to identify a greedy algorithm and how to implement it. I attempt to solve a greedy LeetCode problem without success results, so I need to study these type of algorithms, I solved the Activity Selection Problem with some GitHub copilot's help, copilot is an amazing tool to explain and understand problems, you will need to give an opportunity to this tool.
+
 ### Day 1672 Understanding Time Complexity in Algorithms
 
 Today I continue studying the time complexity in algorithms. I did some code exercises to practice how to identify time complexity in algorithms. I learned the basics about how can refactor an algorithm with O(N2) to only O(N), understanding how two nested loops affect the algorithm performance.
