@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1674 Two Pointer
+
+Today I have been solving two leetcode problems with the two pointer technique, really when you return to leetcode for a long time, you will need to require some time to feel confident with the problems. Good luck and don't give up.
+
 ### Day 1673 Greedy Algorithms
 
 Today I have been studying greedy algorithms, I learned how to identify a greedy algorithm and how to implement it. I attempt to solve a greedy LeetCode problem without success results, so I need to study these type of algorithms, I solved the Activity Selection Problem with some GitHub copilot's help, copilot is an amazing tool to explain and understand problems, you will need to give an opportunity to this tool.
