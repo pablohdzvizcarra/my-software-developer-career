@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1676 Two-pointer and Array Problems
+
+Today, I have been continue doing two-pointer and array problems on LeetCode. I was feeling relax most of the day, spending the time in non-coding activities. You will need to take a rest before start with a intensive week.
+
 ### Day 1675 Solving Easy Problems
 
 Today, I have been working on easy LeetCode questions, specifically those related to arrays. At the moment, medium and hard problems pose a significant challenge for me. I attempted to solve an easy problem that involved developing my own logic for a tic-tac-toe game. However, this problem proved to be quite difficult for me, and I was unable to solve it. Tomorrow, I plan to begin studying a different data structure, such as a HashTable, Queue, or Stack.
