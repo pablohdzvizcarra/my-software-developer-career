@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1677 HashMap Problems
+
+Today I started to study the HashMap/Map Data Structure and also I start to work on problems related this this DS on LeetCode. 
+
 ### Day 1676 Two-pointer and Array Problems
 
 Today, I have been continue doing two-pointer and array problems on LeetCode. I was feeling relax most of the day, spending the time in non-coding activities. You will need to take a rest before start with a intensive week.
