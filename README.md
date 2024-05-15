@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1678 Solving Medium Problems and Modulus Operator
+
+Today I have been solving some medium problems on LeetCode, I solved a problem that required the use of the modulus operator. The modulus operator is a powerful tool that can be used in many different ways. Solving medium problems was hard for me, but I can solve around 8 problems today, 3 without help, my solution was not the better but works. Also I learned that using the modules operator with a one digit number and divided by 10 always return the number itself like `9 % 10 = 9` the formula that explain this is `n % 10 = n` and `0 < n < 10` where n is a one digit number.
+
 ### Day 1677 HashMap Problems
 
 Today I started to study the HashMap/Map Data Structure and also I start to work on problems related this this DS on LeetCode. 
