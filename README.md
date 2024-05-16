@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1679 Java Priority Queue
+
+Today I was solving LeetCode problem related with order a list of elements by ascending order. I can solve this problem with store the data in a Java record and use the `stream` API to perform the sort, and modifications operations for the data. Looking in the solutions implemented by other people I discovered a solution using a PriorityQueue, I never used this data structure in Java, I needed to study how to use this data structure and how to implement the solution with this data structure. I learned that the [PriorityQueue](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/PriorityQueue.html#%3Cinit%3E()) is a data structure that allows you to store elements in a queue and order the elements by a priority, the priority is defined by a comparator.
+
 ### Day 1678 Solving Medium Problems and Modulus Operator
 
 Today I have been solving some medium problems on LeetCode, I solved a problem that required the use of the modulus operator. The modulus operator is a powerful tool that can be used in many different ways. Solving medium problems was hard for me, but I can solve around 8 problems today, 3 without help, my solution was not the better but works. Also I learned that using the modules operator with a one digit number and divided by 10 always return the number itself like `9 % 10 = 9` the formula that explain this is `n % 10 = n` and `0 < n < 10` where n is a one digit number.
