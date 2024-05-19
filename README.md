@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1680-81-82 Reading and Solving LeetCode Problems
+
+During these days I have been reading the book "A Common-Sense Guide to Data Structures and Algorithms" and solving some LeetCode problems. In the book currently I am learning why the Big O notation does not accept constants to measure time complexity in algorithms like `O(2N)` is equal to `O(N)`. Interesting how the Big O notation works, I remember in the past why an algorithm that execute three for loops not nested only use three for loops operations in the same N element, the time complexity is `O(3N)` but the Big O notation only accept `O(N)`.  
+
 ### Day 1679 Java Priority Queue
 
 Today I was solving LeetCode problem related with order a list of elements by ascending order. I can solve this problem with store the data in a Java record and use the `stream` API to perform the sort, and modifications operations for the data. Looking in the solutions implemented by other people I discovered a solution using a PriorityQueue, I never used this data structure in Java, I needed to study how to use this data structure and how to implement the solution with this data structure. I learned that the [PriorityQueue](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/PriorityQueue.html#%3Cinit%3E()) is a data structure that allows you to store elements in a queue and order the elements by a priority, the priority is defined by a comparator.
