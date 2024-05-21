@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1683-84 Solving String, Array and Greedy Problems
+
+These days I have been solving some LeetCode problems related with strings, arrays and greedy algorithms. I learned that the greedy algorithm is a powerful tool to solve problems that require making the best decision at each step. I will need to continue practicing general algorithms and improve my math concepts, why when I attempt to solve a Medium problems I feel very bad, because some of them has a math concept that I don't understand.
+
 ### Day 1680-81-82 Reading and Solving LeetCode Problems
 
 During these days I have been reading the book "A Common-Sense Guide to Data Structures and Algorithms" and solving some LeetCode problems. In the book currently I am learning why the Big O notation does not accept constants to measure time complexity in algorithms like `O(2N)` is equal to `O(N)`. Interesting how the Big O notation works, I remember in the past why an algorithm that execute three for loops not nested only use three for loops operations in the same N element, the time complexity is `O(3N)` but the Big O notation only accept `O(N)`.  
