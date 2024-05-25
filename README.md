@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1685-86-87-88 Continue with DSA
+
+During these days I continue reading my current DSA book and solving some LeetCode problems. I have a project in mind related with use this personal GitHub repository to automate my skills punctuation/grade in Computer Science topics. My idea is create a GitHub action that with every new commit trigger another application that fetch the data from this repository and calculate my new knowledge acquired, for example Java == 80%, Python == 20%, good skills in DSA, normal skills on FrontEnd technologies, etc.  
+
 ### Day 1683-84 Solving String, Array and Greedy Problems
 
 These days I have been solving some LeetCode problems related with strings, arrays and greedy algorithms. I learned that the greedy algorithm is a powerful tool to solve problems that require making the best decision at each step. I will need to continue practicing general algorithms and improve my math concepts, why when I attempt to solve a Medium problems I feel very bad, because some of them has a math concept that I don't understand.
