@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1689-90-91 Hash Table
+
+During the weekend and today I was studying the Hash Table data structure, this time I did a deep dive about how the computer store a Hash Table in memory, now I know why the time complexity of the Hash Table is O(1) in the best case, and O(N) in the worst case. Also I learned that an important component of a Hash Table is the has function, because this function has the responsibility to parse the value into a key to be used bu the Hash Table to store the data. The load factor in a Hash Table is 0.75 this means that when the Hash Table is 75% full the Hash Table will be resized to double the size, this is a good practice to maintain the performance of the Hash Table. The formula to calculate the size of the hash table is `Cn = 16 X 2^n`. Java by default create a Hash Table with a size of 16. 
+
 ### Day 1685-86-87-88 Continue with DSA
 
 During these days I continue reading my current DSA book and solving some LeetCode problems. I have a project in mind related with use this personal GitHub repository to automate my skills punctuation/grade in Computer Science topics. My idea is create a GitHub action that with every new commit trigger another application that fetch the data from this repository and calculate my new knowledge acquired, for example Java == 80%, Python == 20%, good skills in DSA, normal skills on FrontEnd technologies, etc.  
