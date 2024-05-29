@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1692 Stack and Queue
+
+Today I started to study about Stack and Queue data structures, I learned that this data structures are Abstract Data Types (ADT) that can be implemented most of the times with arrays. The Stack and Queue are only an array with a set of rules, for example, the Stack is a data structure that follows the LIFO (Last In First Out) rule, and the Queue is a data structure that follows the FIFO (First In First Out) rule.
+
 ### Day 1689-90-91 Hash Table
 
 During the weekend and today I was studying the Hash Table data structure, this time I did a deep dive about how the computer store a Hash Table in memory, now I know why the time complexity of the Hash Table is O(1) in the best case, and O(N) in the worst case. Also I learned that an important component of a Hash Table is the has function, because this function has the responsibility to parse the value into a key to be used bu the Hash Table to store the data. The load factor in a Hash Table is 0.75 this means that when the Hash Table is 75% full the Hash Table will be resized to double the size, this is a good practice to maintain the performance of the Hash Table. The formula to calculate the size of the hash table is `Cn = 16 X 2^n`. Java by default create a Hash Table with a size of 16. 
