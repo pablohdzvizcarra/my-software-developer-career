@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1693-94 Thinking Recursively
+
+I started to study about recursion in programming, I remember when I encounter this concept in the past I only make a little study, but now I am studying deeply about this concept. I learned that recursion is a powerful tool to solve problems that can be divided into smaller problems. It's complicated for me at the moment understand good recursion but my hope is with the days and continue studying I can know how works with recursion in DSA.
+
 ### Day 1692 Stack and Queue
 
 Today I started to study about Stack and Queue data structures, I learned that this data structures are Abstract Data Types (ADT) that can be implemented most of the times with arrays. The Stack and Queue are only an array with a set of rules, for example, the Stack is a data structure that follows the LIFO (Last In First Out) rule, and the Queue is a data structure that follows the FIFO (First In First Out) rule.
