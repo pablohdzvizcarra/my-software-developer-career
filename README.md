@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1695-96 Recursion is Hard
+
+Studying recursion and changing my mind to thing how to write, read, break problems into smaller problems, and solve them recursively is hard. I am having some problems to understand for example when in the return statement we return two times the same recursive function, I know that this is not an easy topic, well at least for me is not easy. also I solved some LeetCode problems with Java to continue practicing.
+
 ### Day 1693-94 Thinking Recursively
 
 I started to study about recursion in programming, I remember when I encounter this concept in the past I only make a little study, but now I am studying deeply about this concept. I learned that recursion is a powerful tool to solve problems that can be divided into smaller problems. It's complicated for me at the moment understand good recursion but my hope is with the days and continue studying I can know how works with recursion in DSA.
