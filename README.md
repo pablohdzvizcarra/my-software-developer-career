@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1697-98 Continue with Recursion
+
+I have been studying recursion in programming and DSA. Today I was practicing with some book exercises about how to solve problems with recursion, I continue having problems to be able to read and write recursive code, I learned a new type of recursion functions called **Accumulative Recursion**, this functions are used for example to create a new List with the elements from a list that meet a condition.
+
 ### Day 1695-96 Recursion is Hard
 
 Studying recursion and changing my mind to thing how to write, read, break problems into smaller problems, and solve them recursively is hard. I am having some problems to understand for example when in the return statement we return two times the same recursive function, I know that this is not an easy topic, well at least for me is not easy. also I solved some LeetCode problems with Java to continue practicing.
@@ -21,7 +25,7 @@ Today I started to study about Stack and Queue data structures, I learned that t
 
 ### Day 1689-90-91 Hash Table
 
-During the weekend and today I was studying the Hash Table data structure, this time I did a deep dive about how the computer store a Hash Table in memory, now I know why the time complexity of the Hash Table is O(1) in the best case, and O(N) in the worst case. Also I learned that an important component of a Hash Table is the has function, because this function has the responsibility to parse the value into a key to be used bu the Hash Table to store the data. The load factor in a Hash Table is 0.75 this means that when the Hash Table is 75% full the Hash Table will be resized to double the size, this is a good practice to maintain the performance of the Hash Table. The formula to calculate the size of the hash table is `Cn = 16 X 2^n`. Java by default create a Hash Table with a size of 16. 
+During the weekend and today I was studying the Hash Table data structure, this time I did a deep dive about how the computer store a Hash Table in memory, now I know why the time complexity of the Hash Table is O(1) in the best case, and O(N) in the worst case. Also I learned that an important component of a Hash Table is the has function, because this function has the responsibility to parse the value into a key to be used bu the Hash Table to store the data. The load factor in a Hash Table is 0.75 this means that when the Hash Table is 75% full the Hash Table will be resized to double the size, this is a good practice to maintain the performance of the Hash Table. The formula to calculate the size of the hash table is `Cn = 16 X 2^n`. Java by default create a Hash Table with a size of 16.
 
 ### Day 1685-86-87-88 Continue with DSA
 
@@ -45,7 +49,7 @@ Today I have been solving some medium problems on LeetCode, I solved a problem t
 
 ### Day 1677 HashMap Problems
 
-Today I started to study the HashMap/Map Data Structure and also I start to work on problems related this this DS on LeetCode. 
+Today I started to study the HashMap/Map Data Structure and also I start to work on problems related this this DS on LeetCode.
 
 ### Day 1676 Two-pointer and Array Problems
 
