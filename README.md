@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1699-1700-01-02-03-04-05 Recursion, Dynamic Programming and Memoization
+
+During these days I have studying more about recursion, dynamic programming and memoization. Really this three topics are very hard, think in recursive code is complex, you will need to change your mind about how you think in problems. With Dynamic problem I am having problems to understand how to break a problem in smaller problems itself, sometimes I don't catch up how to break a problem, how the little problem manages their state, inputs and outputs. Memoization in other words is more easy, most of the time a Map is good to store the results of the subproblem, but also to save the subproblem results, first you will need to know the subproblem and how to solve it.
+Well, I will need to put more efforts and don't surrender to understand and learn these topics.
+
 ### Day 1697-98 Continue with Recursion
 
 I have been studying recursion in programming and DSA. Today I was practicing with some book exercises about how to solve problems with recursion, I continue having problems to be able to read and write recursive code, I learned a new type of recursion functions called **Accumulative Recursion**, this functions are used for example to create a new List with the elements from a list that meet a condition.
