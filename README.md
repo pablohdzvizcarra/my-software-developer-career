@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1707 Time Limit Exceeded on Algorithms
+
+Today I have been working on a problem, I solved the problem with a brute force solution, the problem was with the brute force the algorithm exceeded the time limit. So, I will need to investigate how can I improve the efficiency of the algorithm.
+
 ### Day 1706 Quick Select and Quick Sort Algorithms
 
 Today I studied these two sorting and selection algorithms. Quick sort is one of the most efficient algorithms to sort array elements in the average case, quick sort has a Big O notation of `O(N log N)`. For the moment I don't understand how works the quick select algorithm, looks like magic how it's works.
