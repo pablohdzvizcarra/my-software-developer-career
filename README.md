@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1708-09 Bitmasking
+
+Today I learned the concept of bitmasking, bitmasking is the concept of represent something in their binary form, I solved a leet code problem in which I represent an string into a bitmask represent the existence of a character with a number 1 in the bitmask, with this representation was easy found duplicates characters in the string.
+
 ### Day 1707 Time Limit Exceeded on Algorithms
 
 Today I have been working on a problem, I solved the problem with a brute force solution, the problem was with the brute force the algorithm exceeded the time limit. So, I will need to investigate how can I improve the efficiency of the algorithm.
