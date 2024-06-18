@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1710-11-12 Binary Search Tree
+
+These days I have been studying about binary search trees, I learned how to implement a BST with Python and the basic operation like inserting, deleting, update and searching for elements. I learned about pre-order and post-order traversals ways to traverse a BST.
+
 ### Day 1708-09 Bitmasking
 
 Today I learned the concept of bitmasking, bitmasking is the concept of represent something in their binary form, I solved a leet code problem in which I represent an string into a bitmask represent the existence of a character with a number 1 in the bitmask, with this representation was easy found duplicates characters in the string.
