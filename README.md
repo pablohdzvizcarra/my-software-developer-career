@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1713 Solving Recursion and Medium LeetCode Problems
+
+Today I solved two medium problems on LeetCode related to arrays and math, also I reviewed the recursion topic again, working with trees I discovered that my recursion knowledge needs to be refreshed and I have a lack of knowledge about this topic.
+
 ### Day 1710-11-12 Binary Search Tree
 
 These days I have been studying about binary search trees, I learned how to implement a BST with Python and the basic operation like inserting, deleting, update and searching for elements. I learned about pre-order and post-order traversals ways to traverse a BST.
