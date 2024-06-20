@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1714 Medium Problems on LeetCode
+
+Today I attempted to solve two medium LeetCode problems, after a few attempts and spend more than 40 minutes in each problem I couldn't solve them. I needed to view the solutions to understand how solve them and also understand the pattern problems. 
+
 ### Day 1713 Solving Recursion and Medium LeetCode Problems
 
 Today I solved two medium problems on LeetCode related to arrays and math, also I reviewed the recursion topic again, working with trees I discovered that my recursion knowledge needs to be refreshed and I have a lack of knowledge about this topic.
