@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1715 Sorting Problems
+
+Today I started to solve sorting problems, I discovered that I had problems understanding problems with a lot of words, problems that are tricky to understand and you will need first understand the problem, second discover the pattern and third solve the itself problem. Sorting problems for my are good candidates to practice this because most of the sorting problems contains a strange explanation.
+
 ### Day 1714 Medium Problems on LeetCode
 
 Today I attempted to solve two medium LeetCode problems, after a few attempts and spend more than 40 minutes in each problem I couldn't solve them. I needed to view the solutions to understand how solve them and also understand the pattern problems. 
