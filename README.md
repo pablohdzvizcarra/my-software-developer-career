@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1716 Log42j Problems
+
+Today I was debugging a problem with the Log42j Java library, for the project the library uses a configuration XML file to configure the logging properties, the problem was I don't know why the application was not showing info logs, I reviewed the library documentation and looks like fine. At the end of the day I replace all the info log statements to error, with this change the applications works with normal behavior. I don't want to learn about this library I prefer use the SE logging library.
+
 ### Day 1715 Sorting Problems
 
 Today I started to solve sorting problems, I discovered that I had problems understanding problems with a lot of words, problems that are tricky to understand and you will need first understand the problem, second discover the pattern and third solve the itself problem. Sorting problems for my are good candidates to practice this because most of the sorting problems contains a strange explanation.
