@@ -7,7 +7,7 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
-### Day 1718-19 Starting a Go Project
+### Day 1719-20 Starting a Go Project
 
 Watching some videos on YouTube and investigating more about how to create my own implementation of a Message Broker with Java, I discovered a good YouTube channel with a very good golang tutorial, the channel is [Channel]("https://www.youtube.com/@anthonygg_"), I am following the tutorial to learn how to create a distributed file storage with Go. This tutorial is very extensive and is my first tutorial to create a low level application with Golang, most of my technical background comes from creating web applications with Java/Python/TypeScript. Also I started to practice on LeetCode solving the problems with Go.
 
