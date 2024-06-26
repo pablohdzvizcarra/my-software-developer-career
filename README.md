@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1718-19 Starting a Go Project
+
+Watching some videos on YouTube and investigating more about how to create my own implementation of a Message Broker with Java, I discovered a good YouTube channel with a very good golang tutorial, the channel is [Channel]("https://www.youtube.com/@anthonygg_"), I am following the tutorial to learn how to create a distributed file storage with Go. This tutorial is very extensive and is my first tutorial to create a low level application with Golang, most of my technical background comes from creating web applications with Java/Python/TypeScript. Also I started to practice on LeetCode solving the problems with Go.
+
 ### Day 1717-18 Message Brokers
 
 During the weekend I have been studied the Message Brokers theory. I begin with a medium Go tutorial [Article]("https://medium.com/@parvjn616/building-a-message-broker-in-go-a-beginners-guide-e4d8be2359c"), on this tutorial I build a in memory basic implementation, after completing the tutorial I started my own implementation using Java. I used the Socket Java API to create the Socket server, a client can connect to the server, I used the **nc** linux tool to create the client. When the client connects to the Java server can send messages and the server needs to know how to understand the message. Really interesting how a message broker works under the hood. I have the plan to work on this learning project for some months. My idea is to become a expert on message brokers. I had bast experience working with Kafka and RabbitMQ.
