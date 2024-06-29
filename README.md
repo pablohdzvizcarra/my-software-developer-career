@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1723 Manipulating Files and Directories with Go
+
+Today working on my Go tutorial project, I discovered that Go has a good standard library to manipulate files and directories, really some operations are very easy and fast rather than Java, we save a lot of code lines with Go. I am feeling good with writing low level code with Go, I know that Golang is not a low-level language but I feel good writing applications that are not web applications/REST APIs, ETL processes, etc.
+
 ### Day 1721-22 Go Project and DSA
 
 Today I continued working on my Go distributed file system project, also I continue studying the Programming Skills LeetCode study plan. I started to solve the LeetCode problems with Go.
@@ -29,7 +33,7 @@ Today I started to solve sorting problems, I discovered that I had problems unde
 
 ### Day 1714 Medium Problems on LeetCode
 
-Today I attempted to solve two medium LeetCode problems, after a few attempts and spend more than 40 minutes in each problem I couldn't solve them. I needed to view the solutions to understand how solve them and also understand the pattern problems. 
+Today I attempted to solve two medium LeetCode problems, after a few attempts and spend more than 40 minutes in each problem I couldn't solve them. I needed to view the solutions to understand how solve them and also understand the pattern problems.
 
 ### Day 1713 Solving Recursion and Medium LeetCode Problems
 
