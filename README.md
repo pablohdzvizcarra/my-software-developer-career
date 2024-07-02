@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1724-25-26 Continue with the File System Project
+
+I have been doing the Distributed File System project, I am learning a lot of things about Go and Networking. Now I know why the people loves go, is very fast to write a code without boilerplate like Java, in the past I never attempted to create a low-level project like this, I don't know if with Java make this type of things is smoothly like in Go. I am exciting to finish this project to retake my own Message Broker project. This time I have the plan to write the Message Broker using Golang and reading the RabbitMQ and Kafka source code to understand how they work under the hood.  
+
 ### Day 1723 Manipulating Files and Directories with Go
 
 Today working on my Go tutorial project, I discovered that Go has a good standard library to manipulate files and directories, really some operations are very easy and fast rather than Java, we save a lot of code lines with Go. I am feeling good with writing low level code with Go, I know that Golang is not a low-level language but I feel good writing applications that are not web applications/REST APIs, ETL processes, etc.
