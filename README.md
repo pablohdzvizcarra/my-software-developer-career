@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1727 Continue with Project and Learning about Monotonic Arrays
+
+Today I continued with my tutorial/project I am learning with Golang how to copy data from a peer and transmit this data to other peers connected to a network, is very interesting how these things work under the hood, I am learning about networking, File Systems and Golang. Also I learned what is a Monotonic Array solving a some LeetCode problems. 
+
 ### Day 1724-25-26 Continue with the File System Project
 
 I have been doing the Distributed File System project, I am learning a lot of things about Go and Networking. Now I know why the people loves go, is very fast to write a code without boilerplate like Java, in the past I never attempted to create a low-level project like this, I don't know if with Java make this type of things is smoothly like in Go. I am exciting to finish this project to retake my own Message Broker project. This time I have the plan to write the Message Broker using Golang and reading the RabbitMQ and Kafka source code to understand how they work under the hood.  
