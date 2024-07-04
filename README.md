@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1728 Batch Operations
+
+Today I did a little research about how works the batch operations specially in SQL databases, I am facing a problem in which the application make a batch operation to a database to save some data, the problem is the application requires minutes to perform the batch operation. due to this the application requires hours for the time execution, the application works as a cronjob.
+
 ### Day 1727 Continue with Project and Learning about Monotonic Arrays
 
 Today I continued with my tutorial/project I am learning with Golang how to copy data from a peer and transmit this data to other peers connected to a network, is very interesting how these things work under the hood, I am learning about networking, File Systems and Golang. Also I learned what is a Monotonic Array solving a some LeetCode problems. 
