@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1729 Strange Applications
+
+Today I have been analyzing a legacy Java code, one of the reasons to start to learn Go is to work with more new software technologies. Sometimes you can feel tired to work with legacy code bases and Java is a popular election for this. The problem is the people write a lot of boilerplate code and uses Java as a procedural language not using the OOP features/style. At least with Golang and Python most of the times also you have procedural code but avoiding all the boilerplate, with any language you can write nasty code this is the real problem. 
+
 ### Day 1728 Batch Operations
 
 Today I did a little research about how works the batch operations specially in SQL databases, I am facing a problem in which the application make a batch operation to a database to save some data, the problem is the application requires minutes to perform the batch operation. due to this the application requires hours for the time execution, the application works as a cronjob.
