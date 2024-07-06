@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1730 Roman to Integer
+
+Today I did a LeetCode problem in which I need to convert a Roman number into their integer value like XVII --> 57. The problem was an easy level, but I needed to review a YouTube video to understand how to solve the problem. The most important thing to solve this tricky problems is know the pattern to solve or the concepts to solve the problem.
+
 ### Day 1729 Strange Applications
 
-Today I have been analyzing a legacy Java code, one of the reasons to start to learn Go is to work with more new software technologies. Sometimes you can feel tired to work with legacy code bases and Java is a popular election for this. The problem is the people write a lot of boilerplate code and uses Java as a procedural language not using the OOP features/style. At least with Golang and Python most of the times also you have procedural code but avoiding all the boilerplate, with any language you can write nasty code this is the real problem. 
+Today I have been analyzing a legacy Java code, one of the reasons to start to learn Go is to work with more new software technologies. Sometimes you can feel tired to work with legacy code bases and Java is a popular election for this. The problem is the people write a lot of boilerplate code and uses Java as a procedural language not using the OOP features/style. At least with Golang and Python most of the times also you have procedural code but avoiding all the boilerplate, with any language you can write nasty code this is the real problem.
 
 ### Day 1728 Batch Operations
 
@@ -17,7 +21,7 @@ Today I did a little research about how works the batch operations specially in 
 
 ### Day 1727 Continue with Project and Learning about Monotonic Arrays
 
-Today I continued with my tutorial/project I am learning with Golang how to copy data from a peer and transmit this data to other peers connected to a network, is very interesting how these things work under the hood, I am learning about networking, File Systems and Golang. Also I learned what is a Monotonic Array solving a some LeetCode problems. 
+Today I continued with my tutorial/project I am learning with Golang how to copy data from a peer and transmit this data to other peers connected to a network, is very interesting how these things work under the hood, I am learning about networking, File Systems and Golang. Also I learned what is a Monotonic Array solving a some LeetCode problems.
 
 ### Day 1724-25-26 Continue with the File System Project
 
