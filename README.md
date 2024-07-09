@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1731-32-33 Continue with the Distributed File System Project
+
+These days I continue working on the Golang Distributed File system project. I continue learning interesting things about Network, Peers, Application nodes, distributed systems like this, etc.
+
 ### Day 1730 Roman to Integer
 
 Today I did a LeetCode problem in which I need to convert a Roman number into their integer value like XVII --> 57. The problem was an easy level, but I needed to review a YouTube video to understand how to solve the problem. The most important thing to solve this tricky problems is know the pattern to solve or the concepts to solve the problem.
