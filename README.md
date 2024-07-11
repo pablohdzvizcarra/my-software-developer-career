@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1734-35 Managing connections with Go
+
+Today I have been working and understand and issue related with golang and goroutine. It's interesting how building a distributed system you need to apply asynchronous programming to manage the connections and any block operation. This type of code thinking is new for me, is very different from building a basic HTTP services or web services.
+
 ### Day 1731-32-33 Continue with the Distributed File System Project
 
 These days I continue working on the Golang Distributed File system project. I continue learning interesting things about Network, Peers, Application nodes, distributed systems like this, etc.
