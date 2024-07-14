@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1736-37-38 Finish the Distributed File System Project
+
+I completed the Distributed File System tutorial. I had some problems finishing the tutorial because the application does not worked as expected, I needed to debug the application to understand the problem. The tutorial at the end suggest make the next functionalities to the application, so I am working into implement them in the project. It's hard really hard implement something without the tutorial, my experience with concurrency and distributed systems is very low.
+
 ### Day 1734-35 Managing connections with Go
 
 Today I have been working and understand and issue related with golang and goroutine. It's interesting how building a distributed system you need to apply asynchronous programming to manage the connections and any block operation. This type of code thinking is new for me, is very different from building a basic HTTP services or web services.
