@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1739-40-41 Hard Working Days
+
+During these days I am having a lot of work out of normal hours, so I am feeling very tired. Sometimes in this professions we need to work on critical things for the company, and well you will need to work long time periods to make the things flow. I love these moments because remember to me the time when I had another non-programming works and working for more than 12 hours was normal. Sometimes non-good situations are good to remember the past and be grateful for the present. 
+
 ### Day 1736-37-38 Finish the Distributed File System Project
 
 I completed the Distributed File System tutorial. I had some problems finishing the tutorial because the application does not worked as expected, I needed to debug the application to understand the problem. The tutorial at the end suggest make the next functionalities to the application, so I am working into implement them in the project. It's hard really hard implement something without the tutorial, my experience with concurrency and distributed systems is very low.
