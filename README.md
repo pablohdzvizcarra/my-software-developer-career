@@ -7,13 +7,17 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1743 Studying about Trie Data Structure
+
+Today I continue my DSA study, this time I am learning how to implement a Trie with Java, also I learned that a Trie is a data structure designed to work on strings, and operations like find a word, insert a word, delete a word, etc. One of the most common usages of a Trie is to implement search operations and autocomplete features.
+
 ### Day 1742 Mathematical Application Problems
 
 Today I have been working on a little application to solve mathematical problems. My son has a school vacation homework to solve some problems from a PDF document, so I think well I am a developer I can build an application to given a text file with the problems, the application ask these problems by the CLI and the application will show the result. I am using Golang to build the application. When I complete this application I will share the code in my GitHub account.
 
 ### Day 1739-40-41 Hard Working Days
 
-During these days I am having a lot of work out of normal hours, so I am feeling very tired. Sometimes in this professions we need to work on critical things for the company, and well you will need to work long time periods to make the things flow. I love these moments because remember to me the time when I had another non-programming works and working for more than 12 hours was normal. Sometimes non-good situations are good to remember the past and be grateful for the present. 
+During these days I am having a lot of work out of normal hours, so I am feeling very tired. Sometimes in this professions we need to work on critical things for the company, and well you will need to work long time periods to make the things flow. I love these moments because remember to me the time when I had another non-programming works and working for more than 12 hours was normal. Sometimes non-good situations are good to remember the past and be grateful for the present.
 
 ### Day 1736-37-38 Finish the Distributed File System Project
 
