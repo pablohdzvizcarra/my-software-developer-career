@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1744 AutoComplete and AutoCorrect Features
+
+Today I have been working on implement autocomplete and autoCorrect functions in a Trie data structure, I am having some problems understanding how recursion works, Trie operations are based on recursion and backtracking. My assumption is if I can understand this two hard topics, I can upgrade my programming skill to the next level. Tomorrow I will need to continue working on this.
+
 ### Day 1743 Studying about Trie Data Structure
 
 Today I continue my DSA study, this time I am learning how to implement a Trie with Java, also I learned that a Trie is a data structure designed to work on strings, and operations like find a word, insert a word, delete a word, etc. One of the most common usages of a Trie is to implement search operations and autocomplete features.
