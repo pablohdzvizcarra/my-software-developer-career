@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1745-46-47 Graphs
+
+These days I have been studying about Graph data structure, I learned the basics of graphs, how a graph is represent by vertices and edges, some type of graphs and the most common algorithms to traverse a graph like DFS and BFS.
+
 ### Day 1744 AutoComplete and AutoCorrect Features
 
 Today I have been working on implement autocomplete and autoCorrect functions in a Trie data structure, I am having some problems understanding how recursion works, Trie operations are based on recursion and backtracking. My assumption is if I can understand this two hard topics, I can upgrade my programming skill to the next level. Tomorrow I will need to continue working on this.
