@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1748 Dijkstra's Algorithm to find the shortest path
+
+Today I studied the Dijkstra's algorithm, this algorithm is used to find the shortest path between two nodes in a weighted graph. For the studied implementation we use Map and List to represent the list of visited nodes, etc in the algorithm. It's complex understand this algorithms the first time, you start thinking what I am doing here, really very hard. Well I am in the last chapters of my DSA book, after complete the book I will need to continue reinforcing these concepts with LeetCode problems and making some applications for learning purposes. 
+
 ### Day 1745-46-47 Graphs
 
 These days I have been studying about Graph data structure, I learned the basics of graphs, how a graph is represent by vertices and edges, some type of graphs and the most common algorithms to traverse a graph like DFS and BFS.
