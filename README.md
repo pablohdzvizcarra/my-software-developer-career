@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1749 SQL Backups
+
+Today I learned how to backup a production database in SQL using a SQL query. First I created a new empty table with the same columns of the database to be backed up, then I use the `INSERT INTO` SQL statement to copy the data from the database to the new table. After that I use the `SELECT * FROM` SQL statement to copy the data from the new table to a file. This is a simple way to backup a database, currently I don't know another ways to backup a database, I will go to investigate this topic.
+
 ### Day 1748 Dijkstra's Algorithm to find the shortest path
 
-Today I studied the Dijkstra's algorithm, this algorithm is used to find the shortest path between two nodes in a weighted graph. For the studied implementation we use Map and List to represent the list of visited nodes, etc in the algorithm. It's complex understand this algorithms the first time, you start thinking what I am doing here, really very hard. Well I am in the last chapters of my DSA book, after complete the book I will need to continue reinforcing these concepts with LeetCode problems and making some applications for learning purposes. 
+Today I studied the Dijkstra's algorithm, this algorithm is used to find the shortest path between two nodes in a weighted graph. For the studied implementation we use Map and List to represent the list of visited nodes, etc in the algorithm. It's complex understand this algorithms the first time, you start thinking what I am doing here, really very hard. Well I am in the last chapters of my DSA book, after complete the book I will need to continue reinforcing these concepts with LeetCode problems and making some applications for learning purposes.
 
 ### Day 1745-46-47 Graphs
 
