@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1750 Optimization Techniques
+
+Today I learned some optimization techniques for algorithms. One of the most important techniques is use fastest lookups with HashTables, change the data structure in which the data is represented, use the right data structure for the problem, use greedy algorithms, etc. I am in the last part of the book.  
+
 ### Day 1749 SQL Backups
 
 Today I learned how to backup a production database in SQL using a SQL query. First I created a new empty table with the same columns of the database to be backed up, then I use the `INSERT INTO` SQL statement to copy the data from the database to the new table. After that I use the `SELECT * FROM` SQL statement to copy the data from the new table to a file. This is a simple way to backup a database, currently I don't know another ways to backup a database, I will go to investigate this topic.
