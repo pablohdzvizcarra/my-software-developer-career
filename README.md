@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1751 Coding Exercises
+
+Today I have been solving the final book exercises. This book exercises are designed to learn how to optimize algorithms, the problems starts with an explanation about the problem, and the worse time complexity to solve, the idea is use optimization techniques like lookup tables with Map, change the data structure and Greedy techniques to improve the time complexity.
+
 ### Day 1750 Optimization Techniques
 
 Today I learned some optimization techniques for algorithms. One of the most important techniques is use fastest lookups with HashTables, change the data structure in which the data is represented, use the right data structure for the problem, use greedy algorithms, etc. I am in the last part of the book.  
