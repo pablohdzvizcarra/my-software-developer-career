@@ -7,6 +7,14 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1753-54 Completing the A Common Sense Guide to Data Structures and Algorithms Book
+
+During the weekend I completed the book A Common Sense guide to DSA and algorithms, I am writing my book review in a Medium blog post. I am very happy to complete the book, I learned a lof things about DSA and algorithms and well I feel my Software Engineer skills are improving. The next step is continue studying these topics practicing with algorithms problems in LeetCode and GeekForGeeks. 
+
+### Day 1752 Counting Sort
+
+Today I learned a new sorting algorithm called **Counting Sort**, this algorithm is great when we have a limit range of numbers to sort, the algorithm has a time complexity of `O(N + K)` where `N` is the number of elements to sort and `K` is the range of the numbers.
+
 ### Day 1751 Coding Exercises
 
 Today I have been solving the final book exercises. This book exercises are designed to learn how to optimize algorithms, the problems starts with an explanation about the problem, and the worse time complexity to solve, the idea is use optimization techniques like lookup tables with Map, change the data structure and Greedy techniques to improve the time complexity.
