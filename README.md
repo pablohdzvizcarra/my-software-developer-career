@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1755 Matrix Algorithms
+
+Today I am solving matrix algorithm problems, solving a LeetCode problem yesterday I discovery that I have a lack of knowledge about matrix DSA and algorithms. I am studying about the Matrix DSA on GeekForGeeks [here]("https://www.geeksforgeeks.org/matrix/?ref=lbp"), this resource is very good to learn about DSA and have a lot of problems to solve practice.
+
 ### Day 1753-54 Completing the A Common Sense Guide to Data Structures and Algorithms Book
 
-During the weekend I completed the book A Common Sense guide to DSA and algorithms, I am writing my book review in a Medium blog post. I am very happy to complete the book, I learned a lof things about DSA and algorithms and well I feel my Software Engineer skills are improving. The next step is continue studying these topics practicing with algorithms problems in LeetCode and GeekForGeeks. 
+During the weekend I completed the book A Common Sense guide to DSA and algorithms, I am writing my book review in a Medium blog post. I am very happy to complete the book, I learned a lof things about DSA and algorithms and well I feel my Software Engineer skills are improving. The next step is continue studying these topics practicing with algorithms problems in LeetCode and GeekForGeeks.
 
 ### Day 1752 Counting Sort
 
