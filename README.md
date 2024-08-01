@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1756 Continue Solving Matrix Problems
+
+Today I continue solving Matrix problems, I learn how to traverse the boundaries in a Matrix following the clockwise direction, it's interesting how with programming you can solve any type of problem, this simulation problems are helping me to understand other type of problems.
+
 ### Day 1755 Matrix Algorithms
 
 Today I am solving matrix algorithm problems, solving a LeetCode problem yesterday I discovery that I have a lack of knowledge about matrix DSA and algorithms. I am studying about the Matrix DSA on GeekForGeeks [here]("https://www.geeksforgeeks.org/matrix/?ref=lbp"), this resource is very good to learn about DSA and have a lot of problems to solve practice.
