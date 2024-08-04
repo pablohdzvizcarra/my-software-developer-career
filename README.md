@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1757-58-59 LeetCode Problems
+
+During these days I continue on solving LeetCode problems, I attempted to solve some Medium problems without great results, Medium problems continues be complicated for me yet. Sometimes I also fight with some easy questions, really DSA is hard and fun at the same time. I attempted to feel motivated working on this, when I solve X problem I feel with super powers, is a very good sensation.
+
 ### Day 1756 Continue Solving Matrix Problems
 
 Today I continue solving Matrix problems, I learn how to traverse the boundaries in a Matrix following the clockwise direction, it's interesting how with programming you can solve any type of problem, this simulation problems are helping me to understand other type of problems.
