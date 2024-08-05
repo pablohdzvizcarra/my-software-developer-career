@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1760 Overlaping Problems
+
+Today I have been working on solving LeetCode questions related with Overlaps. I learned a new math concept Interval Coverage, this types of problems. I solved one problem related with timestamps, how do you know if within an array of intervals, two intervals have a conflict, normally we need to use greedy approach and consider edge cases to solve these type of problems.
+
 ### Day 1757-58-59 LeetCode Problems
 
 During these days I continue on solving LeetCode problems, I attempted to solve some Medium problems without great results, Medium problems continues be complicated for me yet. Sometimes I also fight with some easy questions, really DSA is hard and fun at the same time. I attempted to feel motivated working on this, when I solve X problem I feel with super powers, is a very good sensation.
