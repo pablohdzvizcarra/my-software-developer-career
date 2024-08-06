@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1761 Depth Level in a Tree
+
+Today I learned how to know the know the depth level of a binary tree using BFS. I solved three problems related with binary trees using BFS, I needed to remember how the BFS algorithm works, and how implement them with Java. I continue having problems to solve medium leetcode problems, and also easy problems. for Java today I learned how to create a binary executable from a java JAR file, it's amazing how GraalVM can create binary executables from Java code. 
+
 ### Day 1760 Overlaping Problems
 
 Today I have been working on solving LeetCode questions related with Overlaps. I learned a new math concept Interval Coverage, this types of problems. I solved one problem related with timestamps, how do you know if within an array of intervals, two intervals have a conflict, normally we need to use greedy approach and consider edge cases to solve these type of problems.
