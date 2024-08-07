@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1762 R and Scala Code
+
+Today, I have been working on creating an application to generate a report from some information. I started learning R because I heard that it's one of the best programming languages for performing analytical operations on data. At first, R seemed strange since I come from a background in statically-typed languages like Java, which require a lot of boilerplate. However, I found that R is simpler than Python. I was able to complete the task and create the R application to generate the report. I will attempt to replicate this task with Scala because I love JVM languages, and for me, statically-typed languages like Scala are better
+
 ### Day 1761 Depth Level in a Tree
 
-Today I learned how to know the know the depth level of a binary tree using BFS. I solved three problems related with binary trees using BFS, I needed to remember how the BFS algorithm works, and how implement them with Java. I continue having problems to solve medium leetcode problems, and also easy problems. for Java today I learned how to create a binary executable from a java JAR file, it's amazing how GraalVM can create binary executables from Java code. 
+Today I learned how to know the know the depth level of a binary tree using BFS. I solved three problems related with binary trees using BFS, I needed to remember how the BFS algorithm works, and how implement them with Java. I continue having problems to solve medium leetcode problems, and also easy problems. for Java today I learned how to create a binary executable from a java JAR file, it's amazing how GraalVM can create binary executables from Java code.
 
 ### Day 1760 Overlaping Problems
 
@@ -41,7 +45,7 @@ Today I have been solving the final book exercises. This book exercises are desi
 
 ### Day 1750 Optimization Techniques
 
-Today I learned some optimization techniques for algorithms. One of the most important techniques is use fastest lookups with HashTables, change the data structure in which the data is represented, use the right data structure for the problem, use greedy algorithms, etc. I am in the last part of the book.  
+Today I learned some optimization techniques for algorithms. One of the most important techniques is use fastest lookups with HashTables, change the data structure in which the data is represented, use the right data structure for the problem, use greedy algorithms, etc. I am in the last part of the book.
 
 ### Day 1749 SQL Backups
 
@@ -101,7 +105,7 @@ Today I continued with my tutorial/project I am learning with Golang how to copy
 
 ### Day 1724-25-26 Continue with the File System Project
 
-I have been doing the Distributed File System project, I am learning a lot of things about Go and Networking. Now I know why the people loves go, is very fast to write a code without boilerplate like Java, in the past I never attempted to create a low-level project like this, I don't know if with Java make this type of things is smoothly like in Go. I am exciting to finish this project to retake my own Message Broker project. This time I have the plan to write the Message Broker using Golang and reading the RabbitMQ and Kafka source code to understand how they work under the hood.  
+I have been doing the Distributed File System project, I am learning a lot of things about Go and Networking. Now I know why the people loves go, is very fast to write a code without boilerplate like Java, in the past I never attempted to create a low-level project like this, I don't know if with Java make this type of things is smoothly like in Go. I am exciting to finish this project to retake my own Message Broker project. This time I have the plan to write the Message Broker using Golang and reading the RabbitMQ and Kafka source code to understand how they work under the hood.
 
 ### Day 1723 Manipulating Files and Directories with Go
 
