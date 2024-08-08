@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1763 Tired About Support in Work
+
+Today, I felt tired working on support tasks at my job. It’s demotivating to work on a project that’s scheduled for sunset, where my role is solely maintaining the existing codebase without adding new features or improvements. I’m determined to find a way to change this situation because it’s driving me crazy. On a positive note, I recently learned how to package a Java application into a native executable using GraalVM. Although I encountered some issues with application dependencies, I managed to solve them by the end of the day.
+
 ### Day 1762 R and Scala Code
 
 Today, I have been working on creating an application to generate a report from some information. I started learning R because I heard that it's one of the best programming languages for performing analytical operations on data. At first, R seemed strange since I come from a background in statically-typed languages like Java, which require a lot of boilerplate. However, I found that R is simpler than Python. I was able to complete the task and create the R application to generate the report. I will attempt to replicate this task with Scala because I love JVM languages, and for me, statically-typed languages like Scala are better
