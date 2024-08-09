@@ -7,6 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1764 Kadane's Algorithm
+
+Today I started to study the [Amazon SDE Sheet](https://www.geeksforgeeks.org/amazon-sde-sheet-interview-questions-and-answers/?ref=outind#Language) looking for a future work on Amazon.
+I started with the beginning making an OOP test and with the first algorithm problem Find the maximum sum on a subarray, working on this code exercises I discovered the [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
+If you can understand how to implement this algorithm with code, you can easily solve the problem. I discovered that in Java, if you use Math.max() with negative numbers, it returns the lesser number example: `Math.max(-1, -100) -> -1`.
+It's amazing how we can think we know how something works after having an "aha" moment. I am studying for the moment 1 day DSA and the next advance in my Cloud certifications, and again, again. But when I feel bored I code something only for fun.
+
 ### Day 1763 Tired About Support in Work
 
 Today, I felt tired working on support tasks at my job. It’s demotivating to work on a project that’s scheduled for sunset, where my role is solely maintaining the existing codebase without adding new features or improvements. I’m determined to find a way to change this situation because it’s driving me crazy. On a positive note, I recently learned how to package a Java application into a native executable using GraalVM. Although I encountered some issues with application dependencies, I managed to solve them by the end of the day.
