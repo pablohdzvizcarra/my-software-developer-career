@@ -7,6 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1765 Pointers in Arrays
+
+Today I have been solving some LeetCode problems realted with arrays. For solve some of them using a pointer an a while loop is better that the common
+for loop approach. I feel sometimes not able to solve algorithms, is amazing how easy algorithms are hard at the start. Practice make the master I don't know if the phrase
+is correct write on English, practice and learning is the way to achieve this.
+
+
 ### Day 1764 Kadane's Algorithm
 
 Today I started to study the [Amazon SDE Sheet](https://www.geeksforgeeks.org/amazon-sde-sheet-interview-questions-and-answers/?ref=outind#Language) looking for a future work on Amazon.
