@@ -7,12 +7,19 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1766 Medium Blog
+
+Today I completed and pusblished a Medium blog post, you can read the post [here](https://medium.com/@pablohdzvizcarra/a-common-sense-guide-to-data-structures-and-algorithms-quick-book-resume-c1ca9d86a4f4).
+The blog post is about my book review of the A Common-sense guide to data structures and algorithms book, that I finished to read some weeks ago. This book helped me to understand
+DSA, teach me new things about DSA and refresh my current DSA knowledge. I continue with my DSA study solving LeetCode questions, I started a Udemy course about DSA [50 Days of LeetCode Questions with Python](https://www.udemy.com/course/leetcode-in-python-50-algorithms-coding-interview-questions/),
+This course is amazing because first the teacher presents the problem, second explain the problem with simple words, also suggets the pattern to solve the problem and finally show the code solution.
+For me see the two videos about the explanations are great and next attempt to solve the problem without see the solution, I want to have a course to continue study DSA because making random LeetCode problems for me is not fun.
+
 ### Day 1765 Pointers in Arrays
 
 Today I have been solving some LeetCode problems realted with arrays. For solve some of them using a pointer an a while loop is better that the common
 for loop approach. I feel sometimes not able to solve algorithms, is amazing how easy algorithms are hard at the start. Practice make the master I don't know if the phrase
 is correct write on English, practice and learning is the way to achieve this.
-
 
 ### Day 1764 Kadane's Algorithm
 
