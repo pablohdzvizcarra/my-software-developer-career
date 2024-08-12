@@ -7,6 +7,14 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1767 Creating My RoadMap and Continue with DSA
+
+Today I have created my career roadmap. My goal is to work in Netflix as a software engineer in the future, I know
+I know that the journey to reach Netflix is very hard, like climbing a very inclined mountain with your hands.
+When you have a goal defined and cleared for you, it is easy to maintain the focus towards that goal,
+also it is important to do only the necessary things to achieve that goal. DSA is sometimes boring and having a goal is
+important to face those boring moments.
+
 ### Day 1766 Medium Blog
 
 Today I completed and pusblished a Medium blog post, you can read the post [here](https://medium.com/@pablohdzvizcarra/a-common-sense-guide-to-data-structures-and-algorithms-quick-book-resume-c1ca9d86a4f4).
