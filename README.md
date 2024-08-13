@@ -7,6 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1768 Brute Force Solutions
+
+Today I solved two problesm with the **Brute Force** solution, the problem with this was the problems can pass all the test cases
+due to the time complexity, I will need to think in a way to improve the time complexity for each problem. I see a YouTube about
+how undertand the problems and the logic to solve with a better approach, it's amazing how if you type in Youtube any problem name
+you find some videos with the explanations.
+
 ### Day 1767 Creating My RoadMap and Continue with DSA
 
 Today I have created my career roadmap. My goal is to work in Netflix as a software engineer in the future, I know
