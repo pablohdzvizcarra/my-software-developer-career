@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1769 Cloud Computing Certifications
+I am doing two cloud certifications, IBM Cloud Advocate and AWS Cloud Practitioner. In the work they have the inniciative to offer some certifications to make available for the employees. I signed up for these two and the study schedule starts this week.
+I feel like in school because we have study groups and also every week we have a validation step to ensure we are studying the certification. I will have to reduce my DSA study to focus on this, I don't want to stop my DSA study because if you stop you require another effort to start again and remember the things.
+
 ### Day 1768 Brute Force Solutions
 
 Today I solved two problesm with the **Brute Force** solution, the problem with this was the problems can pass all the test cases
