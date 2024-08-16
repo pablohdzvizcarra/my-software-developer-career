@@ -7,6 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1771 Regions, Availability Zones, Data Centers and Edge Locations
+
+Today I learned about Regions, Availability zones, data centers and edge locations in my AWS study. In the past I studied all off this
+concepts making my Oracle Cloud certification but with the time I forgot it, in my current job my cloud computing usage is little, we only use a Database in the cloud
+and the others services are out of the cloud. A Region is composed by some availability zones and an availability zone is composed for three or more data centers.
+For the moment I am learning the basic concepts of cloud computing, and I am in the IAM part of the course.
+
 ### Day 1770 Studying Greedy Algorithms
 
 Today I continued stuying about Cloud computing and solving some LeetCode question about Greedy algorithms.
