@@ -7,6 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1772 AWS IAM
+
+Today I studied about the IAM (Identity and Access Management) AWS service to admin our AWS account access. I learned about the authentication and authorization flow.
+Groups can have multiple users, the actions that a group can perfom are defined by Policies. For example we can a developers group and this group have access to use S3 buckets.
+I am studying this concepts and refreshing my knowlegde of them, I remember in the past working in my Oracle Cloud certification, I learned all these topics, but in my jobs
+as a software developer I never use a variable range of multiple Cloud services profesionally.
+
 ### Day 1771 Regions, Availability Zones, Data Centers and Edge Locations
 
 Today I learned about Regions, Availability zones, data centers and edge locations in my AWS study. In the past I studied all off this
