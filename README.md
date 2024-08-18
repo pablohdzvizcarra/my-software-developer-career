@@ -7,6 +7,14 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1773 AWS EC2
+
+Today I have been studied and create an AWS EC2 instance. I learned multple things about EC2, how we manage the
+inbound and unbound network traffict to an EC2 instance using Security Groups, how to connect to an EC2 instance using SSH
+with a private key, connect to to he instance with the Browser. AWS offers different types of EC2 instance for different types of workloads
+like data science, data analythics, batch processing, caching, etc. I created today an EC2 instance and configure an apache HTTP server
+with `httpd` and configure a default HTML page to show a basic web page to the end users
+
 ### Day 1772 AWS IAM
 
 Today I studied about the IAM (Identity and Access Management) AWS service to admin our AWS account access. I learned about the authentication and authorization flow.
