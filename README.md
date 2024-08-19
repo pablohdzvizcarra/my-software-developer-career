@@ -7,13 +7,19 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1774 Array & Hashing Algorithms
+
+Today I continue to solve the array & hashing problems from the NeetCode roadmap [here](https://neetcode.io/roadmap). This roadmap is very good for me because
+I did not have a clear idea how to study DSA, the author of this roadmap suggests it as a good starting point for the DSA world. In other videos other people
+suggest to solve the **top interview 150** LeetCode problem list, my goal is to solve the roadmap first and then continue with the LeetCode specialised lists.
+
 ### Day 1773 AWS EC2
 
 Today I have been studied and create an AWS EC2 instance. I learned multple things about EC2, how we manage the
 inbound and unbound network traffict to an EC2 instance using Security Groups, how to connect to an EC2 instance using SSH
 with a private key, connect to to he instance with the Browser. AWS offers different types of EC2 instance for different types of workloads
 like data science, data analythics, batch processing, caching, etc. I created today an EC2 instance and configure an apache HTTP server
-with `httpd` and configure a default HTML page to show a basic web page to the end users
+with `httpd` and configure a default HTML page to show a basic web page to the end usersØ
 
 ### Day 1772 AWS IAM
 
@@ -34,6 +40,7 @@ For the moment I am learning the basic concepts of cloud computing, and I am in 
 Today I continued stuying about Cloud computing and solving some LeetCode question about Greedy algorithms.
 
 ### Day 1769 Cloud Computing Certifications
+
 I am doing two cloud certifications, IBM Cloud Advocate and AWS Cloud Practitioner. In the work they have the inniciative to offer some certifications to make available for the employees. I signed up for these two and the study schedule starts this week.
 I feel like in school because we have study groups and also every week we have a validation step to ensure we are studying the certification. I will have to reduce my DSA study to focus on this, I don't want to stop my DSA study because if you stop you require another effort to start again and remember the things.
 
