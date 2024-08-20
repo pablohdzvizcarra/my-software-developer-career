@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1775 Continue with AWS
+
+Today I continue studying my AWS certification, I am studying a lot of stuff about EC2 AWS service it's amazing how AWS have a lot of different types of instances
+and usage plans to adapt to any specific workload.
+
 ### Day 1774 Array & Hashing Algorithms
 
 Today I continue to solve the array & hashing problems from the NeetCode roadmap [here](https://neetcode.io/roadmap). This roadmap is very good for me because
