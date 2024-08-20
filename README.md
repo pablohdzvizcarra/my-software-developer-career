@@ -16,15 +16,15 @@ and usage plans to adapt to any specific workload.
 
 Today I continue to solve the array & hashing problems from the NeetCode roadmap [here](https://neetcode.io/roadmap). This roadmap is very good for me because
 I did not have a clear idea how to study DSA, the author of this roadmap suggests it as a good starting point for the DSA world. In other videos other people
-suggest to solve the **top interview 150** LeetCode problem list, my goal is to solve the roadmap first and then continue with the LeetCode specialised lists.
+suggest to solve the **top interview 150** LeetCode problem list, my goal is to solve the roadmap first and then continue with the LeetCode specialized lists.
 
 ### Day 1773 AWS EC2
 
-Today I have been studied and create an AWS EC2 instance. I learned multple things about EC2, how we manage the
+Today I have been studied and create an AWS EC2 instance. I learned multiple things about EC2, how we manage the
 inbound and unbound network traffict to an EC2 instance using Security Groups, how to connect to an EC2 instance using SSH
 with a private key, connect to to he instance with the Browser. AWS offers different types of EC2 instance for different types of workloads
-like data science, data analythics, batch processing, caching, etc. I created today an EC2 instance and configure an apache HTTP server
-with `httpd` and configure a default HTML page to show a basic web page to the end usersØ
+like data science, data analytics, batch processing, caching, etc. I created today an EC2 instance and configure an apache HTTP server
+with `httpd` and configure a default HTML page to show a basic web page to the end users.
 
 ### Day 1772 AWS IAM
 
