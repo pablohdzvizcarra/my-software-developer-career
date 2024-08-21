@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1776 Longest Consecutive Sequence & Product of Array Except Itself
+
+Today I continue to solve algorithm problems. Today I solved two medium algorithms according to the roadmap, for the first algorithm I had to find the longest consecutive sequence in an array without sorting the array. Solving this without sorting the array was hard, I had to look on YouTube for some hints to solve the algorithm. The second was less complicated, but I also need to look for help to understand the problem. When I don't know how to continue with the X algorithm, I go to YouTube and look for an explanation of the problem and the general idea of how to solve it without seeing the code solution.
+
 ### Day 1775 Continue with AWS
 
 Today I continue studying my AWS certification, I am studying a lot of stuff about EC2 AWS service it's amazing how AWS have a lot of different types of instances
