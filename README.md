@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1777 Ephemeral Volumes
+
+Today I learned the ephemeral storage options in AWS. I am learning about the different Storage options for EC2 instances like EBS, EFS, Amazon FSx and EC2 instance storage. EC2 instances storage offers a better performance than EBS but the trade-off is manage ephemeral storage this means if the instance is stopped or deleted you will lose all your data, also I learned that Amazon has an option for Windows File system because mots the Storage options are designed to work on Linux instances. I read the Kubernetes documentation about [ephemeral volumes](https://kubernetes.io/docs/concepts/storage/ephemeral-volumes/). 
+
 ### Day 1776 Longest Consecutive Sequence & Product of Array Except Itself
 
 Today I continue to solve algorithm problems. Today I solved two medium algorithms according to the roadmap, for the first algorithm I had to find the longest consecutive sequence in an array without sorting the array. Solving this without sorting the array was hard, I had to look on YouTube for some hints to solve the algorithm. The second was less complicated, but I also need to look for help to understand the problem. When I don't know how to continue with the X algorithm, I go to YouTube and look for an explanation of the problem and the general idea of how to solve it without seeing the code solution.
