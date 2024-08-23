@@ -7,9 +7,16 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1778 AWS ELB & LeetCode 36 Problem
+
+This morning I continued studying for my AWS certification, this time studying the different AWS Load Balancer options available.
+For my DSA study I solved a medium algorithm problem, this problem was difficult at the beginning and I need to work on the problem for more than 1 hour,
+I reviewed the better solutions to the problem, but for me these solutions were hard to understand, they used a lot of maths in the solution.
+My implemented solution for me is easy to understand and works with great performance.
+
 ### Day 1777 Ephemeral Volumes
 
-Today I learned the ephemeral storage options in AWS. I am learning about the different Storage options for EC2 instances like EBS, EFS, Amazon FSx and EC2 instance storage. EC2 instances storage offers a better performance than EBS but the trade-off is manage ephemeral storage this means if the instance is stopped or deleted you will lose all your data, also I learned that Amazon has an option for Windows File system because mots the Storage options are designed to work on Linux instances. I read the Kubernetes documentation about [ephemeral volumes](https://kubernetes.io/docs/concepts/storage/ephemeral-volumes/). 
+Today I learned the ephemeral storage options in AWS. I am learning about the different Storage options for EC2 instances like EBS, EFS, Amazon FSx and EC2 instance storage. EC2 instances storage offers a better performance than EBS but the trade-off is manage ephemeral storage this means if the instance is stopped or deleted you will lose all your data, also I learned that Amazon has an option for Windows File system because mots the Storage options are designed to work on Linux instances. I read the Kubernetes documentation about [ephemeral volumes](https://kubernetes.io/docs/concepts/storage/ephemeral-volumes/).
 
 ### Day 1776 Longest Consecutive Sequence & Product of Array Except Itself
 
