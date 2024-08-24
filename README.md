@@ -7,6 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1779 Amazon S3
+
+Today I started to learn about S3 buckets in AWS. The S3 buckets for me are just digital pieces of software where you can store data.
+In S3 buckets terminology all the files storage are called objects and each object have assigned and unique ID.
+The rule that an S3 bucket must have a unique name and that this unique name must be unique across all AWS accounts was amazing to me.
+I learned how to use an S3 bucket to host a website, I created an HTML web page and uploaded it to the bucket to be used by other users.
+
 ### Day 1778 AWS ELB & LeetCode 36 Problem
 
 This morning I continued studying for my AWS certification, this time studying the different AWS Load Balancer options available.
