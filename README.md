@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1780 Continue with AWS Certification Fighting with Spark
+
+Today I have been studying for my AWS certification, I completed the section 8 about S3. In other things I was attempting to execute
+a Spark cluster in a Docker container in my remote server, however I can achieved this, I attempted multiple ways like using the bitnami version, some versions from the community and anything works. At the end I installed Spark in my local machine with homebrew. I needed to install Spark because in my job I start to work with this technology and Apache airflow, Data Engineering is coming.
+
 ### Day 1779 Amazon S3
 
 Today I started to learn about S3 buckets in AWS. The S3 buckets for me are just digital pieces of software where you can store data.
