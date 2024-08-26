@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1781 Solving Algorithms
+
+Today, I only practice solving two LeetCode problems. I have a goal to write my status in this repository every day and continue to practice my DSA skills, this is a commitment on my part to progress in my software engineering career and build discipline in my career and life.
+
 ### Day 1780 Continue with AWS Certification Fighting with Spark
 
 Today I have been studying for my AWS certification, I completed the section 8 about S3. In other things I was attempting to execute
