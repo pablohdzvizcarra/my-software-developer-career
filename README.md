@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1782 Amazon RDS and Python
+
+Today I started to learn about Amazon RDS in my AWS certification. Amazon RDS is a service that offers different SQL database engines to create a fully managed SQL database, engines like Oracle, MySQL, PostgreSQL, etc. I created a MySQL database and a python client application to perform basic SQL operations like, create a database, create a table, insert and read records. You can found the Python client in the next gist [client](https://gist.github.com/pablohdzvizcarra/19144156ffeb27e6932cb6401a9ac625). I want to test the Amazon Aurora database but is not available in the Amazon AWS free tier, Amazon Aurora offers better speed and performance that MySQL and PostgreSQL databases.
+
 ### Day 1781 Solving Algorithms
 
 Today, I only practice solving two LeetCode problems. I have a goal to write my status in this repository every day and continue to practice my DSA skills, this is a commitment on my part to progress in my software engineering career and build discipline in my career and life.
