@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1783-84 AWS DynamoDB
+
+Today I studied the Amazon DynamoDB, DynamoDB DAX and DynamoDb Global Tables. DynamoDB is a NoSQL database designed to offers low-latency and milliseconds operations. With DynamoDB DAX you can reduce the response time to microseconds, DAX is a in-memory cache service to create a layer between your DynamoDB tables and the application. If you want to have your data replicated across multiple locations in the world, DynamoDB global tables is the service that you need to use.
+
 ### Day 1782 Amazon RDS and Python
 
 Today I started to learn about Amazon RDS in my AWS certification. Amazon RDS is a service that offers different SQL database engines to create a fully managed SQL database, engines like Oracle, MySQL, PostgreSQL, etc. I created a MySQL database and a python client application to perform basic SQL operations like, create a database, create a table, insert and read records. You can found the Python client in the next gist [client](https://gist.github.com/pablohdzvizcarra/19144156ffeb27e6932cb6401a9ac625). I want to test the Amazon Aurora database but is not available in the Amazon AWS free tier, Amazon Aurora offers better speed and performance that MySQL and PostgreSQL databases.
