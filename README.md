@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1785 AWS Lambda and Two Pointer Algorithms
+
+Today I studied the AWS Lambda Service in my AWS course. AWS Lambda is a great free service, with Lambda you can run 1 million functions every month for free. I love that it provides a code editor for Java, Python, NodeJS and Ruby, so you can easily edit your Lambda functions in the same AWS console page. I solved a medium algorithm question related to two pointer technique, when I saw the problem I noticed that I solved this problem in the past with Java, so I solved this time with Python.
+
 ### Day 1783-84 AWS DynamoDB
 
 Today I studied the Amazon DynamoDB, DynamoDB DAX and DynamoDb Global Tables. DynamoDB is a NoSQL database designed to offers low-latency and milliseconds operations. With DynamoDB DAX you can reduce the response time to microseconds, DAX is a in-memory cache service to create a layer between your DynamoDB tables and the application. If you want to have your data replicated across multiple locations in the world, DynamoDB global tables is the service that you need to use.
@@ -163,8 +167,6 @@ Today I learned a new sorting algorithm called **Counting Sort**, this algorithm
 ### Day 1751 Coding Exercises
 
 Today I have been solving the final book exercises. This book exercises are designed to learn how to optimize algorithms, the problems starts with an explanation about the problem, and the worse time complexity to solve, the idea is use optimization techniques like lookup tables with Map, change the data structure and Greedy techniques to improve the time complexity.
-
-
 
 **Day 1 - 50 HTML - CSS - Javascript** [here](./day0-500/day0-50.md)</br>
 **Day 51 - 100 Javascript** [here](./day0-500/day51-100.md)</br>
