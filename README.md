@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1786 AWS Infrastructure Services
+
+Today I studied about the different AWS services to create resources in an easy way like infrastructure as a code.
+I studied the CloudFormation, AWS Cloud Development Kit & Beanstalk. These services are created to create another services like EC2 instances, S3 buckets, Load Balancer, etc. For me CloudFormation is like terraform.
+
 ### Day 1785 AWS Lambda and Two Pointer Algorithms
 
 Today I studied the AWS Lambda Service in my AWS course. AWS Lambda is a great free service, with Lambda you can run 1 million functions every month for free. I love that it provides a code editor for Java, Python, NodeJS and Ruby, so you can easily edit your Lambda functions in the same AWS console page. I solved a medium algorithm question related to two pointer technique, when I saw the problem I noticed that I solved this problem in the past with Java, so I solved this time with Python.
