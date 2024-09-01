@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1787 More AWS Services and pyspark
+
+Today I continue with my AWS certification studying services like CodeDeploy, CodeBuild, CodeArtifact, CodePipeline and System manager. I learned that AWS have services dedicated for specific problems like do you want to create a Java JAR for example or maybe a native executable, you will need to use CodeBuild for this tasks rather then other cloud providers that offers complete solutions the most common example is create a CI/CD pipeline to deploy an application, with AWS you can use separate services to achieve the task. Also I practiced pyspark a little, reading datasets from hugging face and manipulating them.
+
 ### Day 1786 AWS Infrastructure Services
 
 Today I studied about the different AWS services to create resources in an easy way like infrastructure as a code.
