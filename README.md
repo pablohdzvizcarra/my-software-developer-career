@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1788 Route53 & Latency
+
+Today I learned about the AWS Route53 service, with this AWS service you can register a domain name and then configure the routing rules for the domain name. I don't want to register a domain name in Route53 because I am looking for other cheaper options, with AWS I have to pay for registering the domain name, $0.50 per month and the number of requests answered by Route53. In other things I learned about latency in networking related to servers close to your end users, I learned a wikipedia article about latency: [latency](https://en.wikipedia.org/wiki/Latency_(engineering)). In simple words latency is how much require a network package to be sended to the client like a web browser.
+
 ### Day 1787 More AWS Services and pyspark
 
 Today I continue with my AWS certification studying services like CodeDeploy, CodeBuild, CodeArtifact, CodePipeline and System manager. I learned that AWS have services dedicated for specific problems like do you want to create a Java JAR for example or maybe a native executable, you will need to use CodeBuild for this tasks rather then other cloud providers that offers complete solutions the most common example is create a CI/CD pipeline to deploy an application, with AWS you can use separate services to achieve the task. Also I practiced pyspark a little, reading datasets from hugging face and manipulating them.
