@@ -7,7 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
-### Day 1789 CloudFront, Global Accelertor and more
+### Day 1790 AWS SQS Simple Queue Service
+
+Today I started to study one of the most important AWS services, I love work with message brokers like RabbitMQ, Apache Kafka, Nexus, ActiveMQ, etc. SQS is a simple message queue like a kafka topic, or a RabbitMQ queue. I want to build an ETL application to use SQS to push my data events to be processed by a consumer.
+
+### Day 1789 CloudFront, Global Accelerator and more
 
 Today, I continued studying for my AWS certification. I learned about interesting services like CloudFront and Global Accelerator. It’s amazing how AWS offers great cloud capabilities, such as the Global Accelerator, to improve application performance using AWS private resources like the private network and multiple edge locations around the world.
 
