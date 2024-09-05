@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1791 AWS SNS, MQ, Kinesis
+
+Today I studied about the SNS, MQ and Kinesis AWs services, I created a simple SNS to send some messages by email to the subscribers. I love to work with messages brokers like RabbitMQ, Apache Kafka, ActiveMQ, etc. One of my possible areas of expertise can be Message Brokers.
+
 ### Day 1790 AWS SQS Simple Queue Service
 
 Today I started to study one of the most important AWS services, I love work with message brokers like RabbitMQ, Apache Kafka, Nexus, ActiveMQ, etc. SQS is a simple message queue like a kafka topic, or a RabbitMQ queue. I want to build an ETL application to use SQS to push my data events to be processed by a consumer.
