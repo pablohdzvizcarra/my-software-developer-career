@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1792 AWS Integration
+
+Today I created an AWS integration using EventBridge and Lambda AWS services. I configured EventBridge as a cronjob to trigger a Lambda function, the lambda function only makes an HTTP request to an external API to extract information. Also I configured EvenBridge to catch the event when a user upload a file to a S3 bucket and then send a email notification with SNS.
+
 ### Day 1791 AWS SNS, MQ, Kinesis
 
 Today I studied about the SNS, MQ and Kinesis AWs services, I created a simple SNS to send some messages by email to the subscribers. I love to work with messages brokers like RabbitMQ, Apache Kafka, ActiveMQ, etc. One of my possible areas of expertise can be Message Brokers.
