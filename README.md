@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1793 Web Crawling and Software Engineering at Google
+
+Today I began to create a WebCrawler to extract article information from a platform like Amazon. My idea is to create a dataset with product information and this dataset can be used for any purpose. I continue reading the Software Engineering at Google book is amazing how Google manage some software aspects in the company. 
+
 ### Day 1792 AWS Integration
 
 Today I created an AWS integration using EventBridge and Lambda AWS services. I configured EventBridge as a cronjob to trigger a Lambda function, the lambda function only makes an HTTP request to an external API to extract information. Also I configured EvenBridge to catch the event when a user upload a file to a S3 bucket and then send a email notification with SNS.
