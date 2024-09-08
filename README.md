@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1794 More AWS Services
+
+Today I studied more AWS services focused in compliance and monitoring activities, services like AWS Config, Inspector, GuardDuty, Artifact, Secrets Manager and Certificate Manager (ACM). I feel sometimes bored while studying the course and reading the AWS docs to learn more about these services. I am studying the last part of the course approximately I completed the 70% of the course.
+
 ### Day 1793 Web Crawling and Software Engineering at Google
 
 Today I began to create a WebCrawler to extract article information from a platform like Amazon. My idea is to create a dataset with product information and this dataset can be used for any purpose. I continue reading the Software Engineering at Google book is amazing how Google manage some software aspects in the company. 
