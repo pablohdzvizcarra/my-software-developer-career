@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1795-96 Machine Learning Services
+
+I studied multiple AWS resources focused in machine learning that, Translator, Rekognition, Kendra, SageMaker, Comprehend and Forecast. It's good how AWS offers specialized services for specific tasks rather than offering a big service to meet all these tasks.  
+
 ### Day 1794 More AWS Services
 
 Today I studied more AWS services focused in compliance and monitoring activities, services like AWS Config, Inspector, GuardDuty, Artifact, Secrets Manager and Certificate Manager (ACM). I feel sometimes bored while studying the course and reading the AWS docs to learn more about these services. I am studying the last part of the course approximately I completed the 70% of the course.
