@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1797 Airflow and DAGs
+
+Today I started to study about Apache Airflow, in my current work I will need to work with Airflow to create and maintain data pipelines. In Airflow context a pipeline equal to a DAG (Directed Acyclic Graph), a DAG is like a pipeline but with some restrictions, the most important is a DAG can't have a cycle in any Graph node. Apache airflow is an interesting orchestrator to build data pipelines as a first view.
+
 ### Day 1795-96 Machine Learning Services
 
 I studied multiple AWS resources focused in machine learning that, Translator, Rekognition, Kendra, SageMaker, Comprehend and Forecast. It's good how AWS offers specialized services for specific tasks rather than offering a big service to meet all these tasks.  
