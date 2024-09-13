@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1799 AWS Certification & gzip Command
+
+Today working in a Linux server, I will need to clean disk space, looking for techniques to compress files to reduce their size, I found the `gzip` tool, with the gzip tool I can compress a big text file 1.5 GB into a smaller file only 200MB, this was an amazing reduction, next with the zcat command I can read the file compressed without uncompressed. In other topic I continue studying for my AWS certification, this time with the authentication services like Security token services and Active Directory.
+
 ### Day 1798 Continue with AWS
 
-Today I continue studying for my AWS certification, the billing and cost management part is very boring for me but it's an important part of the AWS cloud. 
+Today I continue studying for my AWS certification, the billing and cost management part is very boring for me but it's an important part of the AWS cloud.
 
 ### Day 1797 Airflow and DAGs
 
@@ -25,7 +29,7 @@ Today I studied more AWS services focused in compliance and monitoring activitie
 
 ### Day 1793 Web Crawling and Software Engineering at Google
 
-Today I began to create a WebCrawler to extract article information from a platform like Amazon. My idea is to create a dataset with product information and this dataset can be used for any purpose. I continue reading the Software Engineering at Google book is amazing how Google manage some software aspects in the company. 
+Today I began to create a WebCrawler to extract article information from a platform like Amazon. My idea is to create a dataset with product information and this dataset can be used for any purpose. I continue reading the Software Engineering at Google book is amazing how Google manage some software aspects in the company.
 
 ### Day 1792 AWS Integration
 
