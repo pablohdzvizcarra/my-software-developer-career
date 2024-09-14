@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1800 Airflow High Resources Consumption
+
+Today I installed and execute Apache airflow in my machine in a container, the problem with this approach is running Airflow in a container require high resources and my MacBook with 8GB of ram is working very slowly while Apache airflow is executing. I will need to test to execute Airflow only with Pypi maybe in this way don't consume higher resources.
+For the moment I am learning the basic of Airflow and understand how to work with the Airflow web UI.
+
 ### Day 1799 AWS Certification & gzip Command
 
 Today working in a Linux server, I will need to clean disk space, looking for techniques to compress files to reduce their size, I found the `gzip` tool, with the gzip tool I can compress a big text file 1.5 GB into a smaller file only 200MB, this was an amazing reduction, next with the zcat command I can read the file compressed without uncompressed. In other topic I continue studying for my AWS certification, this time with the authentication services like Security token services and Active Directory.
