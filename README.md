@@ -7,6 +7,12 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1802 DAGs, Task, PythonOperator in Airflow
+
+Today I continue studying Apache Airflow, I continue learning about how to create DAGs creating some basic examples to make simple data pipelines, A DAG in Airflow contains N number of tasks, this task needs to be executed in a step order and also a task can't have a dependency with a previous task. in Airflow if you have a DAg with 10 task you can execute only one task standalone with the CLI, this is a good way to test the execution of a task.
+PythonOperator in airflow is a way to execute a python function as a task, two main arguments are necessary to create a PythonOperator, task_id and python_callable, task_id is the name of the task in airflow and python_callable is the function that you want to execute as a task.
+My first impressions about airflow are very good, I am developing a data pipeline to extract financial stock data from Yahoo Finance using web scraping and next upload the extracted data into a Database for the moment I don't know if use a SQL or NoSQL database to store the information.
+
 ### Day 1801 Continue with AWS Certification
 
 Today I continue studying for the AWS Cloud Practitioner certification. I studied some AWS service like Application Migration Service, DataSync, Step functions, Ground station, Migration Hub, etc.
