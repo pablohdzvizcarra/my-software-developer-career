@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1803-04 Docker Operator and Astro
+
+I learned and executed a task inside a Docker container. Airflow has a DockerOperator that allows you to run a task inside a Docker container, this feature is very useful to execute task in an isolated environment and avoid install dependencies to Airflow only to be used one time. I am working into load a CSV file in a Minio bucket to a PostgresSQL database with the astro library, I am having some problems attempting to connect to the Minio bucket to download the file. I am going to continue working on this task tomorrow.
+
 ### Day 1802 DAGs, Task, PythonOperator in Airflow
 
 Today I continue studying Apache Airflow, I continue learning about how to create DAGs creating some basic examples to make simple data pipelines, A DAG in Airflow contains N number of tasks, this task needs to be executed in a step order and also a task can't have a dependency with a previous task. in Airflow if you have a DAg with 10 task you can execute only one task standalone with the CLI, this is a good way to test the execution of a task.
