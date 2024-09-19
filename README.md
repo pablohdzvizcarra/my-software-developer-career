@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1805 Visualizing Data in Metabase
+
+Today I fixed the issue when loading the data from a Minio bucket to a PostgreSQL database, I configured wrong the connection in the Airflow connections section. When I upload the data to PostgreSQL I used Metabase to visualize the data, Metabase is a powerful tool to visualize data in a simple way, I created a dashboard to visualize the data that I uploaded to the database. I configured to visualize the historical data of the stock price of IBM company and also the current price for the stock.
+
 ### Day 1803-04 Docker Operator and Astro
 
 I learned and executed a task inside a Docker container. Airflow has a DockerOperator that allows you to run a task inside a Docker container, this feature is very useful to execute task in an isolated environment and avoid install dependencies to Airflow only to be used one time. I am working into load a CSV file in a Minio bucket to a PostgresSQL database with the astro library, I am having some problems attempting to connect to the Minio bucket to download the file. I am going to continue working on this task tomorrow.
