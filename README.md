@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1806 Backfill dagruns in Apache Airflow & Hugging Face
+
+Today I studied how to execute a DAG in Apache Airflow for a specific date, this process is calling backfilling. Imagine that you change your DAG and you want to execute your old DAG executions with these new features, well with backfill you can rerun the DAG for a specific date. Also I was looking the Hugging Face website, I want to create a dataset to store the stock information about the FAANG companies.
+
 ### Day 1805 Visualizing Data in Metabase
 
 Today I fixed the issue when loading the data from a Minio bucket to a PostgreSQL database, I configured wrong the connection in the Airflow connections section. When I upload the data to PostgreSQL I used Metabase to visualize the data, Metabase is a powerful tool to visualize data in a simple way, I created a dashboard to visualize the data that I uploaded to the database. I configured to visualize the historical data of the stock price of IBM company and also the current price for the stock.
