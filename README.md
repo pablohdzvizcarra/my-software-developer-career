@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1807-08 Setup Airflow and Spark
+
+I have been installing, setup and configuring Apache Airflow and Spark in my personal server to start developing DAGs in a production environment. I installed Airflow and Spark following the official documentations with Docker, really was hard configured both applications to be able to use in my Ubuntu server. I am going to start some data pipelines to create datasets and publish them in Hugging Face. 
+
 ### Day 1806 Backfill dagruns in Apache Airflow & Hugging Face
 
 Today I studied how to execute a DAG in Apache Airflow for a specific date, this process is calling backfilling. Imagine that you change your DAG and you want to execute your old DAG executions with these new features, well with backfill you can rerun the DAG for a specific date. Also I was looking the Hugging Face website, I want to create a dataset to store the stock information about the FAANG companies.
