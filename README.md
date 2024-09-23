@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1809 Studying Apache Airflow
+
+Today I continue studying about Apache Airflow. I spend some time setup an Airflow environment in my MackBook only with pip and using the Airflow pip package, running Airflow in this way works at the first time, but starts to fail with the time and I don't know why, investigating more about the issues I discovered that configure an Airflow environment with pip is not recommended and complicated, well at the end I continue executing Airflow in my local machine using the astro CLI tool from Astronomer. I completed the [Astronomer Get started wih Airflow tutorial]("https://www.astronomer.io/docs/learn/get-started-with-airflow") in which I learned how to configure the local environment very easy with the astro CLI tool and also learn some new concepts about Airflow.
+
 ### Day 1807-08 Setup Airflow and Spark
 
 I have been installing, setup and configuring Apache Airflow and Spark in my personal server to start developing DAGs in a production environment. I installed Airflow and Spark following the official documentations with Docker, really was hard configured both applications to be able to use in my Ubuntu server. I am going to start some data pipelines to create datasets and publish them in Hugging Face. 
