@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1810 Another DAG
+
+Today I created a Airflow DAG to extract some JSON data from an open API using the HTTP operator, also I created a another DAG to monitor the pull request created into a  GitHub repository, if the commit messages have some pattern, the DAG is executed and print some elements in the console. Building these basics DAGs is helping me to understand Airflow concepts and practicing Python and Airflow.
+
 ### Day 1809 Studying Apache Airflow
 
 Today I continue studying about Apache Airflow. I spend some time setup an Airflow environment in my MackBook only with pip and using the Airflow pip package, running Airflow in this way works at the first time, but starts to fail with the time and I don't know why, investigating more about the issues I discovered that configure an Airflow environment with pip is not recommended and complicated, well at the end I continue executing Airflow in my local machine using the astro CLI tool from Astronomer. I completed the [Astronomer Get started wih Airflow tutorial]("https://www.astronomer.io/docs/learn/get-started-with-airflow") in which I learned how to configure the local environment very easy with the astro CLI tool and also learn some new concepts about Airflow.
