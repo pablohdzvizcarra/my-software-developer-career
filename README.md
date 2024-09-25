@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1811 Working with Spark in Airflow
+
+Today I can't create a Spark session from an Airflow DAG to my local Spark cluster, I have various problems with this approach related with my Airflow cluster is working in a container environment, and my Apache Spark is installed locally in my machine. In the Udemy course that I did last week, I learned how to run a task with the Docker operator in a container environment, and running the task in a container environment is a good way, the problem with this approach is that we can't share data between the tasks in this way.
+Well, I will have to continue investigating how to solve this problem and learn different ways to work with Spark and Airflow.
+
 ### Day 1810 Another DAG
 
 Today I created a Airflow DAG to extract some JSON data from an open API using the HTTP operator, also I created a another DAG to monitor the pull request created into a  GitHub repository, if the commit messages have some pattern, the DAG is executed and print some elements in the console. Building these basics DAGs is helping me to understand Airflow concepts and practicing Python and Airflow.
@@ -17,7 +22,7 @@ Today I continue studying about Apache Airflow. I spend some time setup an Airfl
 
 ### Day 1807-08 Setup Airflow and Spark
 
-I have been installing, setup and configuring Apache Airflow and Spark in my personal server to start developing DAGs in a production environment. I installed Airflow and Spark following the official documentations with Docker, really was hard configured both applications to be able to use in my Ubuntu server. I am going to start some data pipelines to create datasets and publish them in Hugging Face. 
+I have been installing, setup and configuring Apache Airflow and Spark in my personal server to start developing DAGs in a production environment. I installed Airflow and Spark following the official documentations with Docker, really was hard configured both applications to be able to use in my Ubuntu server. I am going to start some data pipelines to create datasets and publish them in Hugging Face.
 
 ### Day 1806 Backfill dagruns in Apache Airflow & Hugging Face
 
