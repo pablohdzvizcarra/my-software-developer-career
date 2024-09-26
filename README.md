@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1812 Continue with Airflow DAG
+
+Today I continue working on my Airflow DAG, most of my time today was used to read some blogs from Netflix and also watch some youtube videos about data engineering. I am looking for an alternative to Airflow but to work with Java code, Python is great but is consuming a lof of my compute resources.
+
 ### Day 1811 Working with Spark in Airflow
 
 Today I can't create a Spark session from an Airflow DAG to my local Spark cluster, I have various problems with this approach related with my Airflow cluster is working in a container environment, and my Apache Spark is installed locally in my machine. In the Udemy course that I did last week, I learned how to run a task with the Docker operator in a container environment, and running the task in a container environment is a good way, the problem with this approach is that we can't share data between the tasks in this way.
