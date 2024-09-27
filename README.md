@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1813 Learning Other Data Processes Tools
+
+Today I was investigating other data processing tools like Beam and Flink. Working with Airflow is good, but the problem is require a lot of resources to setup and run an local Airflow environment with Docker, so I am looking for alternatives like creating my pipeline with Apache Beam and package into a container to be executed in my Kubernetes cluster as a cronjob with Java obviously, also I want to learn Data Engineering with Java, I know Python is good but Java is better (my personal opinion).
+
 ### Day 1812 Continue with Airflow DAG
 
 Today I continue working on my Airflow DAG, most of my time today was used to read some blogs from Netflix and also watch some youtube videos about data engineering. I am looking for an alternative to Airflow but to work with Java code, Python is great but is consuming a lof of my compute resources.
