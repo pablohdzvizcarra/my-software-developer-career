@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1814 Reading Software Engineering at Google book
+
+Today I continued reading the software engineering at google book. I learned about how google measure the productivity using the GSM (Goal, Signal and Metric) methodology. A goal can be improve security in the code, the signal can be how much vulnerabilities are detected in the code and reduce the number of code vulnerabilities introduced in the new code, how do you when the goal was completed? well get a setup and review if the expected metric was achieved. It's interesting how Google some really ambiguous problems with good methodologies and achieve great results.
+
 ### Day 1813 Learning Other Data Processes Tools
 
 Today I was investigating other data processing tools like Beam and Flink. Working with Airflow is good, but the problem is require a lot of resources to setup and run an local Airflow environment with Docker, so I am looking for alternatives like creating my pipeline with Apache Beam and package into a container to be executed in my Kubernetes cluster as a cronjob with Java obviously, also I want to learn Data Engineering with Java, I know Python is good but Java is better (my personal opinion).
