@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1815-16 Continue with AWS Certification
+
+Over the weekend, I continued studying for the AWS Cloud Practitioner certification. I'm working on the final parts of the course to prepare for the exam. Today, I studied the AWS Well-Architected Framework, which helps create a cloud environment that follows enterprise and best practices. AWS has many cloud services, which can be frustrating as it's hard to grasp the basics of each one.
+
 ### Day 1814 Reading Software Engineering at Google book
 
 Today I continued reading the software engineering at google book. I learned about how google measure the productivity using the GSM (Goal, Signal and Metric) methodology. A goal can be improve security in the code, the signal can be how much vulnerabilities are detected in the code and reduce the number of code vulnerabilities introduced in the new code, how do you when the goal was completed? well get a setup and review if the expected metric was achieved. It's interesting how Google some really ambiguous problems with good methodologies and achieve great results.
