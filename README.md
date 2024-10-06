@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1817-18-19-20-21-22 Completed Udemy AWS Course
+
+During these days I completed the Udemy Ultimate AWS Certified Cloud Practitioner CLF-C02 course. I continue working on my AWS Cloud Practitioner certification and learning about Cloud Computing in general. Also I learned the NIST definition about what is Cloud Computing, the Essentials characteristics, the service model and deployment models.
+
 ### Day 1815-16 Continue with AWS Certification
 
 Over the weekend, I continued studying for the AWS Cloud Practitioner certification. I'm working on the final parts of the course to prepare for the exam. Today, I studied the AWS Well-Architected Framework, which helps create a cloud environment that follows enterprise and best practices. AWS has many cloud services, which can be frustrating as it's hard to grasp the basics of each one.
