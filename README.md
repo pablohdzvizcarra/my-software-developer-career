@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1823-24 Continue with AWS Certification and Scheduling my Life
+
+I continue working in the AWS Cloud Practitioner Essentials course from Amazon. This course is to complement my knowledge in AWS and
+continue learning and practicing more. In other topics, during this month also I will need to work in an University onboarding course.
+
 ### Day 1817-18-19-20-21-22 Completed Udemy AWS Course
 
 During these days I completed the Udemy Ultimate AWS Certified Cloud Practitioner CLF-C02 course. I continue working on my AWS Cloud Practitioner certification and learning about Cloud Computing in general. Also I learned the NIST definition about what is Cloud Computing, the Essentials characteristics, the service model and deployment models.
