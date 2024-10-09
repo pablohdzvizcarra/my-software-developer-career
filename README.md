@@ -7,6 +7,12 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1825 EC2, AutoScaling Group and ELB
+
+Today I studied these AWS services and learning multiple things about them related with AutoScaling and Availability.
+ELB is an amazing service to automatically scale up or down another services like Amazon EC2, normally ELB is used with the Auto Scaling service
+to automatically apply scalability to an EC2 instance like applying the same technique in Kubernetes with a pod with three replicas.
+
 ### Day 1823-24 Continue with AWS Certification and Scheduling my Life
 
 I continue working in the AWS Cloud Practitioner Essentials course from Amazon. This course is to complement my knowledge in AWS and
