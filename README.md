@@ -7,6 +7,12 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1826 Certificates and RabbitMQ
+
+Today I worked in a hard task, I worked into renew some certificates for a RabbitMQ server, was amazing because I needed to generate
+the certificates multiples times because sometimes was wrong generated. For me work with certificates and things related with security
+is funny and interesting but my knowledge on these topics is little.
+
 ### Day 1825 EC2, AutoScaling Group and ELB
 
 Today I studied these AWS services and learning multiple things about them related with AutoScaling and Availability.
