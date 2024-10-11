@@ -7,6 +7,12 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1827 Java Code Issues
+
+Today I worked into modify some Java code to change the way in which Deserialize some JSON data into a Java Objects.
+The code use Google gson for the deserialization process, the code changes was fast, but the problem was the testing phase,
+the application don't have unit testing, so the unique way to test the code changes is running the application entirely.
+
 ### Day 1826 Certificates and RabbitMQ
 
 Today I worked in a hard task, I worked into renew some certificates for a RabbitMQ server, was amazing because I needed to generate
