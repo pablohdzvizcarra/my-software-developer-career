@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1828 Big Data Foundations
+
+Today I did a little course (3 hours) to learn some Data concepts, the course teach you Big Data concepts like what is big data, the 5Vs' in big data velocity, veracity, variety, volume and value. I learned interesting things about big data and data engineering like the Map Reduce operations, how a HDFS works.
+
 ### Day 1827 Java Code Issues
 
 Today I worked into modify some Java code to change the way in which Deserialize some JSON data into a Java Objects.
