@@ -7,6 +7,12 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1829 Ubuntu Server Maintenance
+
+Today, I performed maintenance activities on my Oracle server running Ubuntu, upgrading it from 20.04 to 22.04 Jammy Jellyfish via SSH. During the process, I cleaned up cache, removed conflicting repositories, upgraded packages, and optimized my Docker environment.
+
+I also set up a PostgreSQL database in Docker to practice SQL commands. While doing so, I noticed that my server was outdated and cluttered with unnecessary files, prompting a thorough cleanup. It was satisfying to get everything back in order!
+
 ### Day 1828 Big Data Foundations
 
 Today I did a little course (3 hours) to learn some Data concepts, the course teach you Big Data concepts like what is big data, the 5Vs' in big data velocity, veracity, variety, volume and value. I learned interesting things about big data and data engineering like the Map Reduce operations, how a HDFS works.
@@ -20,8 +26,7 @@ the application don't have unit testing, so the unique way to test the code chan
 ### Day 1826 Certificates and RabbitMQ
 
 Today I worked in a hard task, I worked into renew some certificates for a RabbitMQ server, was amazing because I needed to generate
-the certificates multiples times because sometimes was wrong generated. For me work with certificates and things related with security
-is funny and interesting but my knowledge on these topics is little.
+the certificates multiples times because sometimes was wrong generated. For me work with certificates and things related with security is funny and interesting but my knowledge on these topics is little.
 
 ### Day 1825 EC2, AutoScaling Group and ELB
 
