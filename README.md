@@ -7,6 +7,22 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1830-31 Studying Java Best Practices for SQL
+
+I completed a short tutorial on best practices in SQL for Java Developers: [SQL Best Practices Every Java Engineer Must Know](https://foojay.io/today/sql-best-practices-every-java-engineer-must-know/).
+
+While reading the Baeldung weekly issue, I found it to be a great resource for staying updated on the most relevant Java topics each week—it's an excellent option for Java Developers to review regularly.
+
+I've been practicing a lot with SQL, including:
+
+- Creating tables
+- Inserting records
+- Working with joins
+- Learning about best practices for `GROUP BY`
+- Using CTEs (Common Table Expressions)
+- Working with subqueries
+- Understanding the `EXPLAIN` statement
+
 ### Day 1829 Ubuntu Server Maintenance
 
 Today, I performed maintenance activities on my Oracle server running Ubuntu, upgrading it from 20.04 to 22.04 Jammy Jellyfish via SSH. During the process, I cleaned up cache, removed conflicting repositories, upgraded packages, and optimized my Docker environment.
