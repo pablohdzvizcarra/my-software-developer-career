@@ -7,6 +7,12 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1832-33-34-35-36-37 Back from Being Sick
+
+I am back from sick, during the last week I was very sick, unable to code due to bad bronchitis and I had to take rest in bed. I don't want to be sick because my wife forbid me to use my computer to code, but well at least I could finish reading the Everything is Fucked book, an amazing book in my opinion.
+
+In other topics today I retake my AWS study, I studied services related to networking like VPN, Security Groups, Subnets, ACLs, Internet Gateway, etc.. Also I can make some progress in my Airflow DAG, I want to create a DAG to process some data, extract some keywords from this data and update a SQL database with the found keywords.
+
 ### Day 1830-31 Studying Java Best Practices for SQL
 
 I completed a short tutorial on best practices in SQL for Java Developers: [SQL Best Practices Every Java Engineer Must Know](https://foojay.io/today/sql-best-practices-every-java-engineer-must-know/).
