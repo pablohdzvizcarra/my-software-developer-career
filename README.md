@@ -7,6 +7,12 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1830-31-32-33-34-35-36-37: Back from Being Sick
+
+I am back after being sick. During the last week, I had a severe bronchitis and couldn't code, so I needed to rest in bed. I didn't want to be sick, especially since my wife prohibited me from using my computer to code (to be able to rest). At least I finish to read the Everything is Fcked* book, which I found to be an amazing book.
+
+On another note, today I resumed my AWS studies. I focused on networking services like VPN, Security Groups, Subnets, ACLs, Internet Gateway, and more. I also made some progress on my Airflow DAG. My goal is to create a DAG to process data, extract keywords from it, and update a SQL database with the extracted keywords.
+
 ### Day 1829 Ubuntu Server Maintenance
 
 Today, I performed maintenance activities on my Oracle server running Ubuntu, upgrading it from 20.04 to 22.04 Jammy Jellyfish via SSH. During the process, I cleaned up cache, removed conflicting repositories, upgraded packages, and optimized my Docker environment.
