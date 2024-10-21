@@ -7,7 +7,7 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
-### Day 1830-31-32-33-34-35-36-37: Back from Being Sick
+### Day 1830-31-32-33-34-35-36-37 Back from Being Sick
 
 I am back after being sick. During the last week, I had a severe bronchitis and couldn't code, so I needed to rest in bed. I didn't want to be sick, especially since my wife prohibited me from using my computer to code (to be able to rest). At least I finish to read the Everything is Fcked* book, which I found to be an amazing book.
 
