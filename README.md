@@ -7,11 +7,21 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
-### Day 1830-31-32-33-34-35-36-37 Back from Being Sick
+### Day 1830-31 Studying Java Best Practices for SQL
 
-I am back after being sick. During the last week, I had a severe bronchitis and couldn't code, so I needed to rest in bed. I didn't want to be sick, especially since my wife prohibited me from using my computer to code (to be able to rest). At least I finish to read the Everything is Fcked* book, which I found to be an amazing book.
+I completed a short tutorial on best practices in SQL for Java Developers: [SQL Best Practices Every Java Engineer Must Know](https://foojay.io/today/sql-best-practices-every-java-engineer-must-know/).
 
-On another note, today I resumed my AWS studies. I focused on networking services like VPN, Security Groups, Subnets, ACLs, Internet Gateway, and more. I also made some progress on my Airflow DAG. My goal is to create a DAG to process data, extract keywords from it, and update a SQL database with the extracted keywords.
+While reading the Baeldung weekly issue, I found it to be a great resource for staying updated on the most relevant Java topics each week—it's an excellent option for Java Developers to review regularly.
+
+I've been practicing a lot with SQL, including:
+
+- Creating tables
+- Inserting records
+- Working with joins
+- Learning about best practices for `GROUP BY`
+- Using CTEs (Common Table Expressions)
+- Working with subqueries
+- Understanding the `EXPLAIN` statement
 
 ### Day 1829 Ubuntu Server Maintenance
 
