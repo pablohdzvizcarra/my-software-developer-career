@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1838-39 Continue Studying About AWS
+
+During these days I continue to studying about AWS services, I studied services related with Networking like VPN, Security Groups, ACLs, CloudFront, Route 53, etc.
+The part to understand how is composed a VPN in AWS was a little tired, a ACLS in an AWS VPN controls income and output networking traffic, the VPN works in an Stateful way this means each request is treated like unknown. EC2 instance have another layer of security called Security Group, security groups works as virtual firewalls with the same purpose controls income and outcome traffic.
+
 ### Day 1832-33-34-35-36-37 Back from Being Sick
 
 I am back from sick, during the last week I was very sick, unable to code due to bad bronchitis and I had to take rest in bed. I don't want to be sick because my wife forbid me to use my computer to code, but well at least I could finish reading the Everything is Fucked book, an amazing book in my opinion.
