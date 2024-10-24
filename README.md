@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1840 AWS and Template Metaprogramming
+
+Today I studied the S3, EBS, EFS abd Block Storage AWS services, these services are designed to store files one in blocks and another like a traditional file system. Reading the Software Engineering at Google book I learned a new concept called template metaprogramming, this concept is related with C++, a C++ ability to write code that generates another code during compilation, looks like that the Java Template Factory pattern in which you create objects in runtime.
+
 ### Day 1838-39 Continue Studying About AWS
 
 During these days I continue to studying about AWS services, I studied services related with Networking like VPN, Security Groups, ACLs, CloudFront, Route 53, etc.
