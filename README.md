@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My **Life**
 
+### Day 1842 Continue with AWS
+
+Today I completed the module 5 for the AWS course about Storage and Databases, I remember some specific databases by AWS like DocumentDB (NoSQL database compatible with MongoDB), Neptune (Graph database), Quantum Ledger Database QLDB (for audit tasks because this database in immutable). AWS have a good range of database for specific purposes to fill the user requirements. Tomorrow I have the plan to code something, really I need to code something maybe an Airflow Dag or anything else. 
+
 ### Day 1841 AWS, yapf and error-prone
 
 Today I continue studying for my AWS certification, today I studied about Database services like Amazon RDS, Aurora and DynamoDB. I learned the difference between a one instance database and a cluster of databases. Reading the Software Engineer at google book I discovered two amazing tools, one static analysis tool to detect errors in Java called **error-prone** and **yapf** a Python tool to format Python code. Tomorrow I have the plan to investigate more about these two tools and consider if start to use in my daily activities will be benefit.  
