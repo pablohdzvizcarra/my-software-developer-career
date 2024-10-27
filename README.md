@@ -5,11 +5,15 @@ Maintaining a record of our progress is invaluable.
 When I first embarked on my programming journey, I envisioned a way to reflect on my past decisions.
 This repository stands as a testament to that vision, a chronicle of my growth in the world of software engineering.
 
-## Programming Changes My **Life**
+## Programming Changes My Life
+
+### Day 1843 Data Engineering and Airflow
+
+Today I studied some Data Engineering topics, I begin to read the Fundamentals of Data Engineering book, this book for the moment is teaching to me the fundamentals concepts of data engineering and the role of a data engineer within a company. I practice today creating an Airflow dag, I want to build a test DAG for practice.
 
 ### Day 1842 Continue with AWS
 
-Today I completed the module 5 for the AWS course about Storage and Databases, I remember some specific databases by AWS like DocumentDB (NoSQL database compatible with MongoDB), Neptune (Graph database), Quantum Ledger Database QLDB (for audit tasks because this database in immutable). AWS have a good range of database for specific purposes to fill the user requirements. Tomorrow I have the plan to code something, really I need to code something maybe an Airflow Dag or anything else. 
+Today I completed the module 5 for the AWS course about Storage and Databases, I remember some specific databases by AWS like DocumentDB (NoSQL database compatible with MongoDB), Neptune (Graph database), Quantum Ledger Database QLDB (for audit tasks because this database in immutable). AWS have a good range of database for specific purposes to fill the user requirements. Tomorrow I have the plan to code something, really I need to code something maybe an Airflow Dag or anything else.
 
 ### Day 1841 AWS, yapf and error-prone
 
