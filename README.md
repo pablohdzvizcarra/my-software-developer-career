@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1845 Python and SQL
+
+Today I created a Python script application to analyze a SQL Table, the idea was find in a table all the columns that always have NULL values in all the rows. I am working to learn more about SQL, Python, Scala and Spark to work on Data Engineering tasks.
+
 ### Day 1844 Reading
 
 Today I only read the Fundamentals of Data Engineering book a little. I learned the roles that interact with a data engineer, first the upstream data producers: Software engineer, data architects and DevOps and SREs, next the downstream data consumers: Data analysts, data scientist and machine learning engineers. Data engineering is am amazing field requires skills for variuos categories and work with my favorite language Java, also Scala is good to know.  
