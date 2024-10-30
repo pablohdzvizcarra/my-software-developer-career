@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1846 Continue with AWS and Learning More About SQL
+
+Today I have been studying for my AWS certification, this time I studied about Compliance and Security service like Artifact, GuarDuty, WAF, Inspector, etc. In other topics I practiced with SQL executing SQL queries and modifying database schemas.
+
 ### Day 1845 Python and SQL
 
 Today I created a Python script application to analyze a SQL Table, the idea was find in a table all the columns that always have NULL values in all the rows. I am working to learn more about SQL, Python, Scala and Spark to work on Data Engineering tasks.
