@@ -7,7 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
-### Day 1848 AWs Billing and Pricing
+### Day 1849 SQL Expressions
+
+Today working in Spark I will need to perform an operation to create a new column and fill with the return of a SQL-like expression for example in base of the value of a another colum, parse this value to something and fill the new column. Also I studied more about this SQL-like expressions in Spark, an SQL expression is a combination of values, variables, operators and keywords to perform an action like a function in a programming language. In Computer Science an expression is like an SQL expression, a combination of values, variables, operators and functions call that return a value.
+
+### Day 1848 AWS Billing and Pricing
 
 Today I studied some AWS Billing and Pricing AWS services, services like AWS Cost Explorer, AWS Budgets, Support plans (Basic, Developer, Business, Enterprise On-Ramp and Enterprise). AWS offers a variety of service to know how much money are spending over your entire AWS account and also to predict the money that you will spend during the next days/month. Some definitions are:
 
