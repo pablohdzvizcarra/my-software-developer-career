@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1850 AWS Practice Exams and Airflow 101
+
+Today I made some AWS practice exams, in the first practice exam 30 questions only I achieve an approbatory calcification to pass the exam, but I fail in the second 65 questions exams. Some of the example questions are very tricky and you need to know a basic one line definition for the recommended AWS services. In other topics I obtain a coupon to take the Airflow Fundamentals certification by Astronomer free, the problem is I only have 30 days to study for the exam and present the exam if not my free try will be expire. I am in a rush to obtain my AWS and Airflow certifications.  
+
 ### Day 1849 SQL Expressions
 
 Today working in Spark I will need to perform an operation to create a new column and fill with the return of a SQL-like expression for example in base of the value of a another colum, parse this value to something and fill the new column. Also I studied more about this SQL-like expressions in Spark, an SQL expression is a combination of values, variables, operators and keywords to perform an action like a function in a programming language. In Computer Science an expression is like an SQL expression, a combination of values, variables, operators and functions call that return a value.
