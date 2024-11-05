@@ -7,6 +7,12 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1852 Studying for AWS Cloud Practitioner Exam
+
+Today I continue working in the 6 Practice Exam | AWS Certified Cloud Practitioner Udemy course. I completed two of the six practice test.
+The first was completed with 82% grade and the second with 72% grade. The minimum to pas the exam is 70%, really this exam is a little crazy, AWS have a lot of services to Studying
+the idea is study the most important services and have luck like a coding interview in which you know how to solve a good number of problems waiting for find that problems in your coding interview.
+
 ### Day 1851 Continue with AWS and Reading
 
 During this day I only studied a brief time for my AWS certification, for the moment I am only focusing on solving example exams to practice for the real, I completed the required courses. I have been reading the Software Engineering at Google book, for the moment in chapter 10. Documentation.
