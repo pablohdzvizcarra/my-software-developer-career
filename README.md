@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1853 Code Documentation
+
+Today reading the Software Engineer at Google book, I review an important topic in software engineering Documentation. Documentation focusing on software products and code
+is one of the most important aspect of good code, when you write good documentation for your API code, is easy for a user understand how your code works and the things that the code do.
+
 ### Day 1852 Studying for AWS Cloud Practitioner Exam
 
 Today I continue working in the 6 Practice Exam | AWS Certified Cloud Practitioner Udemy course. I completed two of the six practice test.
