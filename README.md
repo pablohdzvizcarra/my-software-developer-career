@@ -7,7 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
-### Day 1853 Code Documentation
+### Day 1854: Working on the Udemy Practice Exams Course
+
+Today, I continued working through the Udemy course and completed practice test number 3. Unfortunately, I didn’t pass, scoring 61% (the minimum passing score is 70%). I struggled particularly with questions related to Billing & Pricing and Cloud Concepts. The challenge with AWS is that it has so many services, making it difficult to remember all of them. Since I don’t work with AWS services in my daily activities, it’s harder for me to recall the most common service usages and descriptions. I’ll need to keep practicing and studying to feel fully prepared for the exam.
+
+### Day 1853: Code Documentation
 
 Today reading the Software Engineer at Google book, I review an important topic in software engineering Documentation. Documentation focusing on software products and code
 is one of the most important aspect of good code, when you write good documentation for your API code, is easy for a user understand how your code works and the things that the code do.
