@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1855: Airflow, Google Testing Blog and Beyonce Rule
+
+Today I discovered some amazing things reading the Software Engineering at Google book, I have been reading the chapter of testing at google, looks like testing in google is a mature process and is required that any engineer working on Google work with a test methodology. I discover the Google Testing Blog a good place to find useful information about testing, also I learned the Beyonce rule for testing `If you liked it, then you shoulda put a test on it`, this rule is amazing xD. In other words I continue with my DAG development in Airflow.
+
 ### Day 1854: Working on the Udemy Practice Exams Course
 
 Today, I continued working through the Udemy course and completed practice test number 3. Unfortunately, I didn’t pass, scoring 61% (the minimum passing score is 70%). I struggled particularly with questions related to Billing & Pricing and Cloud Concepts. The challenge with AWS is that it has so many services, making it difficult to remember all of them. Since I don’t work with AWS services in my daily activities, it’s harder for me to recall the most common service usages and descriptions. I’ll need to keep practicing and studying to feel fully prepared for the exam.
