@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1856: Airflow DAG and Continue With AWS Practice Exams
+
+Today I continue working on my Udemy course about practice exams by the AWS Certified Cloud Practitioner exam. Also I was working into my Airflow DAG, for the moment I am configuring the DAG to load the extracted data into a PostgreSQL database. 
+
 ### Day 1855: Airflow, Google Testing Blog and Beyonce Rule
 
 Today I discovered some amazing things reading the Software Engineering at Google book, I have been reading the chapter of testing at google, looks like testing in google is a mature process and is required that any engineer working on Google work with a test methodology. I discover the Google Testing Blog a good place to find useful information about testing, also I learned the Beyonce rule for testing `If you liked it, then you shoulda put a test on it`, this rule is amazing xD. In other words I continue with my DAG development in Airflow.
