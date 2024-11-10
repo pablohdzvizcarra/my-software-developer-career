@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1857: Setting Up PostgreSQL Database and Airflow DAG Development
+
+Today I worked into setting up a PostgreSQL database with Docker. I create a docker compose to deploy a PostgreSQL with special configurations, I was learning about the best ways to deploy and manage this database within a container, with configurations for performance, security and health checks. I created and configure the PostgreSQL database to save some data from my Airflow DAG into the database.
+
 ### Day 1856: Airflow DAG and Continue With AWS Practice Exams
 
 Today I continue working on my Udemy course about practice exams by the AWS Certified Cloud Practitioner exam. Also I was working into my Airflow DAG, for the moment I am configuring the DAG to load the extracted data into a PostgreSQL database. 
