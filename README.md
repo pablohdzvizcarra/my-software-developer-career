@@ -1,11 +1,14 @@
 # My Journey to Becoming a Software Engineer
 
-Within this repository, I will document my evolution as a software engineer.
-Maintaining a record of our progress is invaluable.
+Within this repository, I will document my evolution as a software engineer. Maintaining a record of our progress is invaluable.
 When I first embarked on my programming journey, I envisioned a way to reflect on my past decisions.
 This repository stands as a testament to that vision, a chronicle of my growth in the world of software engineering.
 
 ## Programming Changes My Life
+
+### Day 1858: Creating a new Repository and Continue with PostgreSQL
+
+Today I created a new GitHub repository to store my Dockerfile and docker-compose files. The idea behind this repository is to have all my container files in one place because I have several Dockerfiles in my personal computer and my two Linux servers. I love to work with Docker and set up my own resources like databases, message brokers, etc., in containerized environments. You can find the repository in the next [link]("https://github.com/pablohdzvizcarra/personal-docker-library"). Also, I continued working on configuring my PostgreSQL database. I was working on setting up a separate container to create a backup of my database every day and store the backup in my server’s disk drive.
 
 ### Day 1857: Setting Up PostgreSQL Database and Airflow DAG Development
 
@@ -13,7 +16,7 @@ Today I worked into setting up a PostgreSQL database with Docker. I create a doc
 
 ### Day 1856: Airflow DAG and Continue With AWS Practice Exams
 
-Today I continue working on my Udemy course about practice exams by the AWS Certified Cloud Practitioner exam. Also I was working into my Airflow DAG, for the moment I am configuring the DAG to load the extracted data into a PostgreSQL database. 
+Today I continue working on my Udemy course about practice exams by the AWS Certified Cloud Practitioner exam. Also I was working into my Airflow DAG, for the moment I am configuring the DAG to load the extracted data into a PostgreSQL database.
 
 ### Day 1855: Airflow, Google Testing Blog and Beyonce Rule
 
