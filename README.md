@@ -6,6 +6,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1859: AWS and Testing Techniques
+
+Today I continue with the AWS practice exams, for the moment I am getting better exam results, the key is to memorize the service definitions to match a use case with a definition.
+For the Software Engineering at Google book I continue reading the testing book part, the book have 4 chapters dedicated to testing, looks like Google loves good software tested.
+
 ### Day 1858: Creating a new Repository and Continue with PostgreSQL
 
 Today I created a new GitHub repository to store my Dockerfile and docker-compose files. The idea behind this repository is to have all my container files in one place because I have several Dockerfiles in my personal computer and my two Linux servers. I love to work with Docker and set up my own resources like databases, message brokers, etc., in containerized environments. You can find the repository in the next [link]("https://github.com/pablohdzvizcarra/personal-docker-library"). Also, I continued working on configuring my PostgreSQL database. I was working on setting up a separate container to create a backup of my database every day and store the backup in my server’s disk drive.
