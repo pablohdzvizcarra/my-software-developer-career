@@ -6,6 +6,12 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1860: Airflow
+
+Today I continue studying about Airflow, I am working in the next Airflow [course]("https://academy.astronomer.io/path/airflow-101").
+I obtained the Airflow Fundamentals Exam free with a promotion, so I am studying Airflow to get the **Airflow Fundamentals Certification**.
+I will need to pause my other current certifications because this promotion has a 30-days expiration time, so I only have 30 days to study and prepare for the exam.
+  
 ### Day 1859: AWS and Testing Techniques
 
 Today I continue with the AWS practice exams, for the moment I am getting better exam results, the key is to memorize the service definitions to match a use case with a definition.
