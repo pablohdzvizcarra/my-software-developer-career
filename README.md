@@ -6,6 +6,19 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1861: IBM Cloud Advocate Certification
+
+Today, I continued studying for the IBM Cloud Advocate certification. At the moment, I am focusing on answering quizzes for this certification. I needed to revisit this study because the exam is scheduled for the last days of November or the first days of December.
+
+I feel tired—why? Because I am working on achieving four certifications simultaneously:
+
+1. IBM Cloud Advocate  
+2. AWS Cloud Practitioner  
+3. [Airflow Fundamentals](https://academy.astronomer.io/astronomer-certified-apache-airflow-core-exam)  
+4. [Airflow DAG Authoring](https://academy.astronomer.io/astronomer-certification-apache-airflow-dag-authoring)  
+
+The last two were not originally planned in my schedule, but I received a coupon to take both for free (with a 30-day expiration). I have organized a schedule to study for these certifications on specific days to avoid burnout and as a study technique. I’ll share more details in the future if this strategy proves effective. But please avoid work in multiple software certifications 😅.
+
 ### Day 1860: Airflow
 
 Today I continue studying about Airflow, I am working in the next Airflow [course]("https://academy.astronomer.io/path/airflow-101").
