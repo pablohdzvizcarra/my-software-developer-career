@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1862: Continue with AWS Practice Exams and Creating a Bash Script
+
+Today, I continued doing practice exam for the AWS certification, in other topics I write a bash script to perform an action every ten minutes in an infinite while loop, the idea was avoid execute the command that triggers another process every time when the process is completed, with this way the script attempts every ten minutes execute the process.
+
 ### Day 1861: IBM Cloud Advocate Certification
 
 Today, I continued studying for the IBM Cloud Advocate certification. At the moment, I am focusing on answering quizzes for this certification. I needed to revisit this study because the exam is scheduled for the last days of November or the first days of December.
