@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1863: Dag Development in Airflow
+
+Today, I continued studying more about Airflow. I refresh my knowledge in Airflow concepts like a DAG run is the instance of a entire DAG that was executed and a Task Instance is an instance of a Task that was executed, remember a DAG can be composed from one or more Tasks. Tomorrow I have the plan to continue studying my Airflow course and finish the prerequisite course to start with the exam.
+
 ### Day 1862: Continue with AWS Practice Exams and Creating a Bash Script
 
 Today, I continued doing practice exam for the AWS certification, in other topics I write a bash script to perform an action every ten minutes in an infinite while loop, the idea was avoid execute the command that triggers another process every time when the process is completed, with this way the script attempts every ten minutes execute the process.
