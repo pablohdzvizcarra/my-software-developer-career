@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1864: BashOperator in Airflow and Building DAGs
+
+Today I learned how the Bash operator works in Airflow. The BashOperator is used to execute Bash commands or scripts on the host machine where Airflow is installed, this means maybe you want to save the content of a HTTP request in a file on disk, with the BashOperator you can create a script to do this action and save the file in the /tmp directory as an example. I also created a DAG to understand how the BashOperator works. My first task is to execute a bash script to make an HTTP request and get a JSON file, the second task is to debug if the file was saved correctly, and the third and final task is to upload the content of the JSON file into a MongoDB collection. I could not configure MongoDB with the Mongo provider, I will have to continue configuring the connection tomorrow.
+
 ### Day 1863: Dag Development in Airflow
 
 Today, I continued studying more about Airflow. I refresh my knowledge in Airflow concepts like a DAG run is the instance of a entire DAG that was executed and a Task Instance is an instance of a Task that was executed, remember a DAG can be composed from one or more Tasks. Tomorrow I have the plan to continue studying my Airflow course and finish the prerequisite course to start with the exam.
