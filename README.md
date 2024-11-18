@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1865: Problems Between Airflow Environments
+
+I am having problems maintaining synchronized my two Airflow environments. I execute Airflow with pip in my development environment (Personal Laptop), and I execute Airflow with Docker in my server, for an unknown reason when I configured a Git repository to have my two environments sync, I have problems with the docker environment. I am going to debug the issue tomorrow and maybe consider execute both environments in the same way.
+
 ### Day 1864: BashOperator in Airflow and Building DAGs
 
 Today I learned how the Bash operator works in Airflow. The BashOperator is used to execute Bash commands or scripts on the host machine where Airflow is installed, this means maybe you want to save the content of a HTTP request in a file on disk, with the BashOperator you can create a script to do this action and save the file in the /tmp directory as an example. I also created a DAG to understand how the BashOperator works. My first task is to execute a bash script to make an HTTP request and get a JSON file, the second task is to debug if the file was saved correctly, and the third and final task is to upload the content of the JSON file into a MongoDB collection. I could not configure MongoDB with the Mongo provider, I will have to continue configuring the connection tomorrow.
