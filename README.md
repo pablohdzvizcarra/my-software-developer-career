@@ -6,6 +6,12 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1866-67: Creating DAGs and IBM Cloud Advocate
+
+On Monday I finished a DAG that generates a random user every 5 minutes and save the user in a PostgreSQL database, for the moment the database have 31920 records,
+I have the plan to save the records in a CSV file and upload the file in hugging face to share the data. In other topics I completed 5 practice tests for the IBM Cloud Advocate Certification
+achieving a general score 90%, I am happy with my current knowledge about IBM cloud. 
+
 ### Day 1865: Problems Between Airflow Environments
 
 I am having problems maintaining synchronized my two Airflow environments. I execute Airflow with pip in my development environment (Personal Laptop), and I execute Airflow with Docker in my server, for an unknown reason when I configured a Git repository to have my two environments sync, I have problems with the docker environment. I am going to debug the issue tomorrow and maybe consider execute both environments in the same way.
