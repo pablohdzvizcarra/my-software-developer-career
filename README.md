@@ -6,11 +6,19 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1868: JOIN left_anti in Spark and Airflow
+
+Today I learned how the **left anti** join works in SQL and Spark. I needed to clean some data within a Spark dataframe using
+a JOIN, I needed to use a JOIN because for filter a dataframe I need to use another DF to know the ID records to clean.
+I have problems to understand how the left anti join works, but with practice and drawing I can complete the task
+[spark-tutorial]("https://sparktpoint.com/spark-sql-left-anti-join/").  In other topics I continue working on my
+Airflow certification today.
+
 ### Day 1866-67: Creating DAGs and IBM Cloud Advocate
 
 On Monday I finished a DAG that generates a random user every 5 minutes and save the user in a PostgreSQL database, for the moment the database have 31920 records,
 I have the plan to save the records in a CSV file and upload the file in hugging face to share the data. In other topics I completed 5 practice tests for the IBM Cloud Advocate Certification
-achieving a general score 90%, I am happy with my current knowledge about IBM cloud. 
+achieving a general score 90%, I am happy with my current knowledge about IBM cloud.
 
 ### Day 1865: Problems Between Airflow Environments
 
