@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1869: Filtering Parquet Files and AWS
+
+Today I practice multiple ways to filter a DataFrame with PySpark and Python. I needed to do this because I need to remove from a DataFrame some not desired records, I learned how to filter using pyspark operations like `where` and `filter` using pyspark functions like `col`, `equal`, etc, also I create a temp view in Spark to apply the filter using SQL syntax, I discovered later that if you use `df.filter()`, you can pass the SQL query in string format as argument for the `filter` method. The pyspark flexibility to perform this operations is good but having multiples ways to do the same operation sometimes is a challenge because you are always looking for new ways to do their operations.
+
 ### Day 1868: JOIN left_anti in Spark and Airflow
 
 Today I learned how the **left anti** join works in SQL and Spark. I needed to clean some data within a Spark dataframe using
