@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1870: Airflow XCOM Values Sharing Data Between Tasks
+
+Today I learned how to share data between tasks in Airflow using XCOMs. XCOMs values are like having two functions and function B uses the returned value from function A. XCOMs values is a good way to share data between tasks, but is not recommended for share large amounts of data. Depending of the database you are using as a meta-database is the maximum size of the XCOMs values, for example if you are using SQLite you can share values with 2gb of size. Also the values shared by as XCOMs needs to be JSON serializable. 
+
 ### Day 1869: Filtering Parquet Files and AWS
 
 Today I practice multiple ways to filter a DataFrame with PySpark and Python. I needed to do this because I need to remove from a DataFrame some not desired records, I learned how to filter using pyspark operations like `where` and `filter` using pyspark functions like `col`, `equal`, etc, also I create a temp view in Spark to apply the filter using SQL syntax, I discovered later that if you use `df.filter()`, you can pass the SQL query in string format as argument for the `filter` method. The pyspark flexibility to perform this operations is good but having multiples ways to do the same operation sometimes is a challenge because you are always looking for new ways to do their operations.
