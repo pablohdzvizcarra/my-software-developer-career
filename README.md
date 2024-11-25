@@ -6,6 +6,14 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1871-72: Airflow Sensors & Debugging
+
+On Saturday I continue studying the Airflow 101 course, I learned about how works Airflow sensors, sensors are a way to wait for a condition
+to be true before continue with the next execution task, is like waiting that something happens before continue with the work, for example:
+wait for a file to be created in a directory, wait for a HTTP request to return a 200 status code, etc.
+I also I learned some debugging DAG techniques for the most common problems in Airflow, like the DAG is not running because the scheduler is not running or in busy
+processing other tasks, the DAG is not running because the start date is in the future, the DAG is not running because the schedule interval is not correct, etc. 
+
 ### Day 1870: Airflow XCOM Values Sharing Data Between Tasks
 
 Today I learned how to share data between tasks in Airflow using XCOMs. XCOMs values are like having two functions and function B uses the returned value from function A. XCOMs values is a good way to share data between tasks, but is not recommended for share large amounts of data. Depending of the database you are using as a meta-database is the maximum size of the XCOMs values, for example if you are using SQLite you can share values with 2gb of size. Also the values shared by as XCOMs needs to be JSON serializable. 
