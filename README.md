@@ -6,6 +6,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1873: Continue with Airflow Sensors
+
+Today I continue studying about Airflow [Sensors](https://airflow.apache.org/docs/apache-airflow/stable/_modules/airflow/sensors/base.html#BaseSensorOperator). I created examples DAGs to test the sensor functionality.
+I learned that by default sensors have a timeout of 7 days to wait for the condition to be true, this can be a problem for some use cases,
+also the poke_interval by default is 60 seconds. Sensors are a good feature to wait that something happen to perform another action. I want to create a pipeline
+that implements sensors but for the moment I don't have an idea about what can I do with sensors.
+
 ### Day 1871-72: Airflow Sensors & Debugging
 
 On Saturday I continue studying the Airflow 101 course, I learned about how works Airflow sensors, sensors are a way to wait for a condition
