@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1874: Completed Airflow 101 Course
+
+Today I completed the [Airflow 101 Learning Path](https://academy.astronomer.io/path/airflow-101). I completed this course to prepare for the Airflow Fundamentals exam. I learned the basic of Airflow and some advances concepts, I think that I am ready for the exam, and I will take the exam in the next days.
+
 ### Day 1873: Continue with Airflow Sensors
 
 Today I continue studying about Airflow [Sensors](https://airflow.apache.org/docs/apache-airflow/stable/_modules/airflow/sensors/base.html#BaseSensorOperator). I created examples DAGs to test the sensor functionality.
