@@ -6,7 +6,7 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
-### Day Spark Issues with Parallelism
+### Day 1875: Spark Issues with Parallelism
 
 Today I ws working on a Spark issue related with parallelism. I was working with a data pipeline that reads the data from a parquet file, next apply some modifications to this data to finally save the data into the same location with overwrite mode. The problem was an error happens while saving the data into the location, the reason error was Spark while spark is reading the data from the file another workers are removing and saving the data in the same location like a race condition. The solution was create a cache for the RDD and next from that cache saved the data to the location. This issue was very crazy because I have been working on that for more than 6 days.
 
