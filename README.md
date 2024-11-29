@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1876: Airflow Certification
+
+Today in the morning I presented the exam to get my [Airflow Fundamentals certification](https://www.credly.com/badges/a9a175e6-e7c0-45ea-8628-cf932d729a55). The exam was good, I passed with a 84% score, I am very happy because I studied a lot about Airflow to pass the exam, I feel very tired because I decide to take this certification due to the free opportunity to take the exam while studying for another two cloud certifications (AWS and IBM). I don't want to be in the same situation again, the next I think twice before take three certifications at the same time 😅. Now I am more relax and I can focus on continue developing some DAGs and my other studies topics.
+
 ### Day 1875: Spark Issues with Parallelism
 
 Today I ws working on a Spark issue related with parallelism. I was working with a data pipeline that reads the data from a parquet file, next apply some modifications to this data to finally save the data into the same location with overwrite mode. The problem was an error happens while saving the data into the location, the reason error was Spark while spark is reading the data from the file another workers are removing and saving the data in the same location like a race condition. The solution was create a cache for the RDD and next from that cache saved the data to the location. This issue was very crazy because I have been working on that for more than 6 days.
