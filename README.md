@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1877: Unit Testing Good Practices
+
+Today, I read the Software Engineering at Google book. I learned about some interesting unit testing practices like Behavior Test Driven Development (BTDD). This approach focuses on testing the behaviors of the system rather than implementation details. In the past, I always thought that a method/function equaled unit tests. I now agree that testing this way causes brittle tests and many errors when the code changes. Another good practice is to create complete and concise tests. This means the test needs to have a good name and be comprehensive. You might think about creating objects in a separate method, but sometimes this is a bad practice because it hides the test complexity. The book has four chapters dedicated to testing. Google really loves testing in software.
+
 ### Day 1876: Airflow Certification
 
 Today in the morning I presented the exam to get my [Airflow Fundamentals certification](https://www.credly.com/badges/a9a175e6-e7c0-45ea-8628-cf932d729a55). The exam was good, I passed with a 84% score, I am very happy because I studied a lot about Airflow to pass the exam, I feel very tired because I decide to take this certification due to the free opportunity to take the exam while studying for another two cloud certifications (AWS and IBM). I don't want to be in the same situation again, the next I think twice before take three certifications at the same time 😅. Now I am more relax and I can focus on continue developing some DAGs and my other studies topics.
@@ -109,7 +113,7 @@ Today I continue working on my Udemy course about practice exams by the AWS Cert
 
 ### Day 1855: Airflow, Google Testing Blog and Beyonce Rule
 
-Today I discovered some amazing things reading the Software Engineering at Google book, I have been reading the chapter of testing at google, looks like testing in google is a mature process and is required that any engineer working on Google work with a test methodology. I discover the Google Testing Blog a good place to find useful information about testing, also I learned the Beyonce rule for testing `If you liked it, then you shoulda put a test on it`, this rule is amazing xD. In other words I continue with my DAG development in Airflow.
+Today I discovered some amazing things reading the Software Engineering at Google book, I have been reading the chapter of testing at google, looks like testing in google is a mature process and is required that any engineer working on Google work with a test methodology. I discover the Google Testing Blog a good place to find useful information about testing, also I learned the Beyonce rule for testing `If you liked it, then you § put a test on it`, this rule is amazing xD. In other words I continue with my DAG development in Airflow.
 
 ### Day 1854: Working on the Udemy Practice Exams Course
 
