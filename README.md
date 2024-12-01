@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1878: Test Doubles, Stubs and Mocks
+
+Today I studied testing techniques used to create unit tests that have external code dependencies. Test doubles are objects used to replace real objects implementations, a test double needs to follow the same API and have a similar behavior to the real object. Stubs most of the time are created with test libraries like Mockito for Java, create a unit test with stubs is very easy and fast. The trade-off about stubs is cause brittle tests and most of the times are not good to test behavior because if the code behavior changes, you will need to change the tests to mimic the new behavior. Finally, Mocks is normally used when you don't want to have a test double or code a real object. You can mock any object following dependency injection pattern. Be aware of these testing techniques is a good tool for any developer, testing is an important part in Software Engineering.
+
 ### Day 1877: Unit Testing Good Practices
 
 Today, I read the Software Engineering at Google book. I learned about some interesting unit testing practices like Behavior Test Driven Development (BTDD). This approach focuses on testing the behaviors of the system rather than implementation details. In the past, I always thought that a method/function equaled unit tests. I now agree that testing this way causes brittle tests and many errors when the code changes. Another good practice is to create complete and concise tests. This means the test needs to have a good name and be comprehensive. You might think about creating objects in a separate method, but sometimes this is a bad practice because it hides the test complexity. The book has four chapters dedicated to testing. Google really loves testing in software.
