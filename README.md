@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1879-80 Larger Tests
+
+Today I learned for Google what is a larger tests, for Google a larger test is a test in which many components interacts, a component can be a backend server, web server, database, etc. The idea of a larger test is to test the system as a whole, having the same dependencies like the production environment. Larger testing for Microservices can be a challenge depending of the number of Microservices involved because for each Microservice added to the application, the tests can increase exponentially. Is interesting how google require unit testing, integration testing and larger testing for any software developed, testing in Google is a must to do for any write code.
+
 ### Day 1878: Test Doubles, Stubs and Mocks
 
 Today I studied testing techniques used to create unit tests that have external code dependencies. Test doubles are objects used to replace real objects implementations, a test double needs to follow the same API and have a similar behavior to the real object. Stubs most of the time are created with test libraries like Mockito for Java, create a unit test with stubs is very easy and fast. The trade-off about stubs is cause brittle tests and most of the times are not good to test behavior because if the code behavior changes, you will need to change the tests to mimic the new behavior. Finally, Mocks is normally used when you don't want to have a test double or code a real object. You can mock any object following dependency injection pattern. Be aware of these testing techniques is a good tool for any developer, testing is an important part in Software Engineering.
