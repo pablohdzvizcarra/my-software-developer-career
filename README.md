@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1881: Reading and Regression Testing
+
+Today I learned about Regression testing. Regression testing involves executing tests to ensure the system continues to work after changes, such as bug fixes or new features, are applied. The problem with regression testing is when it’s manual, manual regression testing is time-consuming, the time is linear depending on the number of features/components to test and the journeys (the scenarios to test like adding a new user, buying a product, etc). We can express the human time required with the next formula: T = k * S * J, where k = the required time to test a journey, for example, 1 hour, S the number of components like 10, and J the number of journeys like 20. Using that example, we can say that testing a system with 10 components and 3 journeys for every component with a duration of 10 minutes per journey, we require 300 minutes to test the system. This is a lot of time and for this reason, automated testing is better. I continue reading the Software Engineering at Google book, reading the test part for me is very interesting.
+
 ### Day 1879-80: Larger Tests
 
 Today I learned for Google what is a larger tests, for Google a larger test is a test in which many components interacts, a component can be a backend server, web server, database, etc. The idea of a larger test is to test the system as a whole, having the same dependencies like the production environment. Larger testing for Microservices can be a challenge depending of the number of Microservices involved because for each Microservice added to the application, the tests can increase exponentially. Is interesting how google require unit testing, integration testing and larger testing for any software developed, testing in Google is a must to do for any write code.
