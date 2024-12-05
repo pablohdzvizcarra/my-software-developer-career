@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1882: Continue Reading and LLMs
+
+Today I continue reading the Software Engineering at Google book, I completed the testing part and started with the Deprecation section. Also in the work I attended some class room sessions related with AI and LLMs, I learned about the RAG concept explained by other amazing developers, I love learning listening to other developers, I think that is a good way to learn and share knowledge.
+
 ### Day 1881: Reading and Regression Testing
 
 Today I learned about Regression testing. Regression testing involves executing tests to ensure the system continues to work after changes, such as bug fixes or new features, are applied. The problem with regression testing is when it’s manual, manual regression testing is time-consuming, the time is linear depending on the number of features/components to test and the journeys (the scenarios to test like adding a new user, buying a product, etc). We can express the human time required with the next formula: T = k * S * J, where k = the required time to test a journey, for example, 1 hour, S the number of components like 10, and J the number of journeys like 20. Using that example, we can say that testing a system with 10 components and 3 journeys for every component with a duration of 10 minutes per journey, we require 300 minutes to test the system. This is a lot of time and for this reason, automated testing is better. I continue reading the Software Engineering at Google book, reading the test part for me is very interesting.
