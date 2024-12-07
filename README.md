@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1884: Data Quality
+
+Today I work on an strange issue, for an unknown reason a parquet file loss a lot of data let me give you more explanation. We have some data in a parquet file more than 6+ million records and there is something wrong in the data pipeline that is filtering maybe the data or a bad behavior because we lose 6.9 million records from the file, the pipeline is very complex, extract the data from an API, split that data into 9 dataframe, apply multiple modifications to each dataset to finally upload the data into a parquet file. Working on this issue is very hard because I need to review the entire pipeline to find the issue, I think that the issue is in the data split process, I will continue working on this issue tomorrow.
+
 ### Day 1883: Deprecation
 
 Today I read the Software Engineering at Google deprecation chapter. This chapter is about how to deprecate a feature or an entire software product. Google have a clear view that if you don't deprecate a system two things can happened, the system will be expensive in maintenance and the system will be forgotten. In my work currently we are working into deprecate some applications for a new one, the process is not easy and requires a lot of time and effort.
