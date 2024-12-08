@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1885: Reading and Learning Data Science with Python - 2024/12/07 
+
+Today I continue reading the Software Engineering at Google book, I am reading the chapter about the **Code Search** internal google tool, this tool is used to search code in the entire google codebase is a web UI application. Reading about the tool I did some experiments with Python, I have a big text file with more than 1 million words, I created two algorithm implementations to search a word in the file, the first implementation is basically a for loop with an O(N) complexity, the second implementation uses an index to search the word in the file with a O(1) complexity, but you will need to first create a separate file with the index. Also I studied a little about Data Science creating some fake sales data, next I created basic statistics graphs like the quantity of products sell by month, know the max product sell, etc. For my Data Science is a curiosity topic, I don't have a lot of experience in this field but I am learning.
+
 ### Day 1884: Data Quality
 
 Today I work on an strange issue, for an unknown reason a parquet file loss a lot of data let me give you more explanation. We have some data in a parquet file more than 6+ million records and there is something wrong in the data pipeline that is filtering maybe the data or a bad behavior because we lose 6.9 million records from the file, the pipeline is very complex, extract the data from an API, split that data into 9 dataframe, apply multiple modifications to each dataset to finally upload the data into a parquet file. Working on this issue is very hard because I need to review the entire pipeline to find the issue, I think that the issue is in the data split process, I will continue working on this issue tomorrow.
