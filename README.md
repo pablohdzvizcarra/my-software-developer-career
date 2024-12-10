@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1886-87: Reading and Custom Implementations - 2024/12/09
+
+I continue reading the Software Engineering at Google book, I am reading the Build Systems and Build Philosophy section. In my work I am facing an interesting issue with some data integrity, the problem is the issue is not complicated but we are using a declarative implementation of Airflow pipelines, in this implementation we use YAML syntax to build the pipelines and Airflow do the magic in the background with Python parsing the syntax in to Python code. The problem is create the logic in this YAML syntax, with code this problem can be solved easily but with a custom implementation is a little hard. You will need to replicate the code with any weird implementation. I will continue working on this issue tomorrow.
+
 ### Day 1885: Reading and Learning Data Science with Python - 2024/12/07 
 
 Today I continue reading the Software Engineering at Google book, I am reading the chapter about the **Code Search** internal google tool, this tool is used to search code in the entire google codebase is a web UI application. Reading about the tool I did some experiments with Python, I have a big text file with more than 1 million words, I created two algorithm implementations to search a word in the file, the first implementation is basically a for loop with an O(N) complexity, the second implementation uses an index to search the word in the file with a O(1) complexity, but you will need to first create a separate file with the index. Also I studied a little about Data Science creating some fake sales data, next I created basic statistics graphs like the quantity of products sell by month, know the max product sell, etc. For my Data Science is a curiosity topic, I don't have a lot of experience in this field but I am learning.
