@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1888: Big Data - 2024/12/10
+
+Today I learned some data engineering advices to work with big quantity of data, in data engineering terminology a delta file, it's only a file in which we have the differences from a file to be appended to the Historical data.  
+
 ### Day 1886-87: Reading and Custom Implementations - 2024/12/09
 
 I continue reading the Software Engineering at Google book, I am reading the Build Systems and Build Philosophy section. In my work I am facing an interesting issue with some data integrity, the problem is the issue is not complicated but we are using a declarative implementation of Airflow pipelines, in this implementation we use YAML syntax to build the pipelines and Airflow do the magic in the background with Python parsing the syntax in to Python code. The problem is create the logic in this YAML syntax, with code this problem can be solved easily but with a custom implementation is a little hard. You will need to replicate the code with any weird implementation. I will continue working on this issue tomorrow.
