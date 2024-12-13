@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1890: PySpark and Reding - 2024/12/12
+
+Today I continue reading the Software Engineering at google book. I read the Code Review and Code Analysis sections in the book, learned about thw Critique and Tricorder tools. I write some Python code with PySpark to find duplicate elements in a parquet file.
+
 ### Day 1889: Predicting Data with Linear Regression - 2024/12/11
 
 Today I learned how to predict data with linear regression. (Linear regression)[https://www.ibm.com/topics/linear-regression] is a statistics model to predict a variable based on the value of another variable. 
