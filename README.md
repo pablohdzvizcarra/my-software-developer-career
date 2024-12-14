@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1891: Java and Reading - 2024/12/13
+
+Today reading the Software Engineering at Google book I understand that Google manages external dependencies with much caution. Always external dependencies are a risk for any software project, because you are not in control of the code, you don't have control about if a new vulnerability appears you will need to wait until the dependency provider release a fix. Maybe you start a project and with the time the dependency maintainers will no longer continue maintaining the dependency and you end with a big issue in your application. I practiced some Java code, creating a simple project with two internal modules, the idea was divide the project in modules and manage the project with Gradle. The main application needs to use the module create in the project, I only did this exercise for fun. 
+
 ### Day 1890: PySpark and Reding - 2024/12/12
 
 Today I continue reading the Software Engineering at google book. I read the Code Review and Code Analysis sections in the book, learned about thw Critique and Tricorder tools. I write some Python code with PySpark to find duplicate elements in a parquet file.
@@ -92,9 +96,7 @@ Today I practice multiple ways to filter a DataFrame with PySpark and Python. I 
 
 ### Day 1868: JOIN left_anti in Spark and Airflow
 
-Today I learned how the **left anti** join works in SQL and Spark. I needed to clean some data within a Spark dataframe using
-a JOIN, I needed to use a JOIN because for filter a dataframe I need to use another DF to know the ID records to clean.
-I have problems to understand how the left anti join works, but with practice and drawing I can complete the task
+Today I learned how the **left anti** join works in SQL and Spark. I needed to clean some data within a Spark dataframe using a JOIN, I needed to use a JOIN because for filter a dataframe I need to use another DF to know the ID records to clean. I have problems to understand how the left anti join works, but with practice and drawing I can complete the task
 [spark-tutorial]("https://sparktpoint.com/spark-sql-left-anti-join/").  In other topics I continue working on my
 Airflow certification today.
 
