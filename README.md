@@ -6,28 +6,32 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
-### Day 1891: Java and Reading - 2024/12/13
+### Day 1892: SQL Tables
+
+Today I designed how to create two SQL tables to store data as a reference data. The idea is to have in a SQL table data that is not planned to be modified only as a reference and in another table add the updates for that data like this event happens on data in the another table. I will continue working on this tomorrow.
+
+### Day 1891: Java and Reading
 
 Today reading the Software Engineering at Google book I understand that Google manages external dependencies with much caution. Always external dependencies are a risk for any software project, because you are not in control of the code, you don't have control about if a new vulnerability appears you will need to wait until the dependency provider release a fix. Maybe you start a project and with the time the dependency maintainers will no longer continue maintaining the dependency and you end with a big issue in your application. I practiced some Java code, creating a simple project with two internal modules, the idea was divide the project in modules and manage the project with Gradle. The main application needs to use the module create in the project, I only did this exercise for fun. 
 
-### Day 1890: PySpark and Reding - 2024/12/12
+### Day 1890: PySpark and Reding
 
 Today I continue reading the Software Engineering at google book. I read the Code Review and Code Analysis sections in the book, learned about thw Critique and Tricorder tools. I write some Python code with PySpark to find duplicate elements in a parquet file.
 
-### Day 1889: Predicting Data with Linear Regression - 2024/12/11
+### Day 1889: Predicting Data with Linear Regression
 
 Today I learned how to predict data with linear regression. (Linear regression)[https://www.ibm.com/topics/linear-regression] is a statistics model to predict a variable based on the value of another variable. 
 I used this model only to predict how a data grows over time because we have an issue with a data pipeline that ingest to a parquet file the data from an API, and I want to know if the daily data is correct becaus we lose a lot of data in the parquet file the other time. With the values predicted I can check fast if the data is correct or not. The linear regression model is very simple to implement, you only need to have the data in a DataFrame and apply the model to the data. The model returns the slope and the intercept of the line, with this values you can predict the next value of the data. I learned new data science things today, but I am not a data scientist, I am a software engineer. I love to write code and solve problems with code, I think that is my passion. Data science is great but I don't know, for me is better create classes and objects to create amazing software products. 
 
-### Day 1888: Big Data - 2024/12/10
+### Day 1888: Big Data
 
 Today I learned some data engineering advices to work with big quantity of data, in data engineering terminology a delta file, it's only a file in which we have the differences from a file to be appended to the Historical data.  
 
-### Day 1886-87: Reading and Custom Implementations - 2024/12/09
+### Day 1886-87: Reading and Custom Implementations
 
 I continue reading the Software Engineering at Google book, I am reading the Build Systems and Build Philosophy section. In my work I am facing an interesting issue with some data integrity, the problem is the issue is not complicated but we are using a declarative implementation of Airflow pipelines, in this implementation we use YAML syntax to build the pipelines and Airflow do the magic in the background with Python parsing the syntax in to Python code. The problem is create the logic in this YAML syntax, with code this problem can be solved easily but with a custom implementation is a little hard. You will need to replicate the code with any weird implementation. I will continue working on this issue tomorrow.
 
-### Day 1885: Reading and Learning Data Science with Python - 2024/12/07 
+### Day 1885: Reading and Learning Data Science with Python
 
 Today I continue reading the Software Engineering at Google book, I am reading the chapter about the **Code Search** internal google tool, this tool is used to search code in the entire google codebase is a web UI application. Reading about the tool I did some experiments with Python, I have a big text file with more than 1 million words, I created two algorithm implementations to search a word in the file, the first implementation is basically a for loop with an O(N) complexity, the second implementation uses an index to search the word in the file with a O(1) complexity, but you will need to first create a separate file with the index. Also I studied a little about Data Science creating some fake sales data, next I created basic statistics graphs like the quantity of products sell by month, know the max product sell, etc. For my Data Science is a curiosity topic, I don't have a lot of experience in this field but I am learning.
 
