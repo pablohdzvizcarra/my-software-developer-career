@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1893-94: Clojure Application
+
+During the weekend I started a Clojure application only for fun. I wanted to learn a new programming paradigm, and functional programming is a good way to start. I created a simple HTTP server application that receives input from the user, parse the request body into JSON, save the JSON into a file, and finally save some data in a SQL table. Clojure is a very interesting language, you can do multiple things with a few lines of code, but the syntax is very strange. Well I practiced and enjoyed the time creating the application.
+
 ### Day 1892: SQL Tables
 
 Today I designed how to create two SQL tables to store data as a reference data. The idea is to have in a SQL table data that is not planned to be modified only as a reference and in another table add the updates for that data like this event happens on data in the another table. I will continue working on this tomorrow.
