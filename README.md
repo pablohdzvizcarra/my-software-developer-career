@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1895: Haunted Graveyards
+
+Today reading the Software Engineering at Google book, I read about the haunted graveyards concept. At Google a haunted graveyard is a software system that anyone wants to work on it. Most of the times these software systems growths over the time and becomes a big problem to maintain, the software is not documented, the software is not tested, the software is not maintained, etc. Google discover that not writing unite tests is the first signal that the software system becomes a graveyard with the time.
+
 ### Day 1893-94: Clojure Application
 
 During the weekend I started a Clojure application only for fun. I wanted to learn a new programming paradigm, and functional programming is a good way to start. I created a simple HTTP server application that receives input from the user, parse the request body into JSON, save the JSON into a file, and finally save some data in a SQL table. Clojure is a very interesting language, you can do multiple things with a few lines of code, but the syntax is very strange. Well I practiced and enjoyed the time creating the application.
