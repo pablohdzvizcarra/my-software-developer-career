@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1896: API Errors
+
+Today I faced an issue with an API. For an unknown reason I am calling an API following the official documentation, but I the response of the call is an error. I don't like very generic errors in APIs like `{"message": "API Error"}`, I remember when I wrote some Web APIs in one of my works, I always attempt to create good response messages with code errors, a common error name and a good description. For me is very bad that a big API with a lot of users have these non-good error messages.
+
 ### Day 1895: Haunted Graveyards
 
 Today reading the Software Engineering at Google book, I read about the haunted graveyards concept. At Google a haunted graveyard is a software system that anyone wants to work on it. Most of the times these software systems growths over the time and becomes a big problem to maintain, the software is not documented, the software is not tested, the software is not maintained, etc. Google discover that not writing unite tests is the first signal that the software system becomes a graveyard with the time.
