@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1897: Using Spark for Filter Operations
+
+Today I worked in an intelligent way. I needed to filter a JSON file to look if some elements meet some criteria, my first approach was, well I can create a Python script to do this process with code and avoid the human interaction, but later I think, hey I can use Spark to read the JSON file into a Dataframe, next filter the dataframe to finally get the desired results, was a very good moment. Spark is a very good tool for this types of tasks, you can easily read a CSV, Parquet, JSON, or other file formats into a Dataframe and next apply transformations and filters to this files.
+
 ### Day 1896: API Errors
 
 Today I faced an issue with an API. For an unknown reason I am calling an API following the official documentation, but I the response of the call is an error. I don't like very generic errors in APIs like `{"message": "API Error"}`, I remember when I wrote some Web APIs in one of my works, I always attempt to create good response messages with code errors, a common error name and a good description. For me is very bad that a big API with a lot of users have these non-good error messages.
