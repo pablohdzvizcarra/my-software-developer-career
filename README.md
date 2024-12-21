@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1898: JSON Data
+
+Today I needed to work on a curious issue. I needed to look how a JSON is serialized into a Java object, we use Gson to serialize the JSON into a Java object, and we use some custom Gson features to customize how we serialize some specific fields into object properties. The problem was due to this complex serialization customizations we don't know where some fields comes like the JSON field name is called username and in the Java object is called ownerName, you needed to review the source code to understand this. I think that is a bad practice to have this type of customizations in the serialization process, I think that is better to have the same name in the JSON and in the Java object, this is more clear and easy to understand.
+
 ### Day 1897: Using Spark for Filter Operations
 
 Today I worked in an intelligent way. I needed to filter a JSON file to look if some elements meet some criteria, my first approach was, well I can create a Python script to do this process with code and avoid the human interaction, but later I think, hey I can use Spark to read the JSON file into a Dataframe, next filter the dataframe to finally get the desired results, was a very good moment. Spark is a very good tool for this types of tasks, you can easily read a CSV, Parquet, JSON, or other file formats into a Dataframe and next apply transformations and filters to this files.
