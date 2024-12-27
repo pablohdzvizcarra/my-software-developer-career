@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1901-02-03-04: Christmas Break, Book Completed and LeetCode
+
+I take a Christmas break to rest and enjoy the time with the family. However, I could not relax without learning something new. I completed the Software Engineering at Google book, finally I completed it, after three months reading this book. Also I started to retake LeetCode problems, the next year I want to focus on Data Structures and Algorithms and my University degree. 
+
 ### Day 1899-1900: Vert.x with Java
 
 During the weekend I learned the Vert.x tool kit in Java. Vert.x is a toolkit to create scalable, efficiency, and high-performance applications. Vert.x is a reactive toolkit, this means that you can create non-blocking applications with a few lines of code. One of the main concepts on Vert.x is a `Verticle`, a Verticle is like an instance of some process within a Vert.x application, imagine that your Vert.x application is a big box and you can add things inside the box, these things can't communicate to each other directly, they need to communicate using a message bus. This message bus works with a **publish/subscribe** pattern, you can publish a message to a specific address and any Verticle that is subscribed to that address will receive the message. Another important concept is the *event loop* in Vert.x, the event loop is a single thread that is responsible for executing the Verticles code, this means that you can have multiple Verticles running in the same thread, this is a good way to create non-blocking applications. I created a simple HTTP server using Vert.x with an endpoint to receive JSON data in the response and then save that data into a database everything in a `non-blocking/asynchronous` way. Vert.x is a beautiful tool, created this type of application with pure Java will be a great effort only to manage the threads and the non-blocking operations.
