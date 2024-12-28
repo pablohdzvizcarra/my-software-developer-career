@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1905: Manipulating Dataframes with PySpark
+
+Today I worked in a task related with modify a column value in a PySpark dataframe, first I filter the dataframe to get the rows that I need to modify, next I crated some logic to modify the value of a specific column, I have some problems at the start because the column have a string value with a date format and I want o to modify the value applying a logic to update the column values with a timestamp greater than X date. I needed to think how to do this, for the moment I have problems to write clean code related with this little task, because with a few lines of code with Python and PySpark you can do a lot of things, but you need to think how to do this.
+
 ### Day 1901-02-03-04: Christmas Break, Book Completed and LeetCode
 
 I take a Christmas break to rest and enjoy the time with the family. However, I could not relax without learning something new. I completed the Software Engineering at Google book, finally I completed it, after three months reading this book. Also I started to retake LeetCode problems, the next year I want to focus on Data Structures and Algorithms and my University degree. 
