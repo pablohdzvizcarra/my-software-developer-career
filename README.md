@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1911 Factory Method Design Pattern and Data Types
+
+Today I worked into refactor some Python code implementing the Factory Method Design Pattern. I notice that my code have some if statements, statements that can be refactored because with the value of a variable, the code behaves in different ways, like work calling this API, but with this value call this other API. I refactored the code using the Factory Method Pattern now my client code don't need to worry about how call the API for a given value, the code needs to call one object method and get the API result. Also reading my new algorithm book, I begin to study DSA in deep, for the moment I learned the two main Data Types: System-defined and User-defined Data Types. A data type in programming language is a set of data with predefined values, like `integers`, `strings`, etc. We now that for an `integer` data type, we only can store integer values. System-defined data types are those that are defined by the programming language itself and the user-defined data types are those that are defined by the user like `Classes` in Java or `structs` in Go.
+
 ### Day 1906-07-08-09-10: Break, Reading and Practicing DSA
 
 I take a little new years break, at the end of the year I only relax during the day and start again to practice DSA. I know that DSA is a must-have skill for a Software Engineer is like English, if you want to work on big tech companies (Netflix here we go), you need to have a good DSA skills. One of my goals for this year is focus in DSA and start to apply to other big tech companies like Microsoft, Amazon or Oracle. I solved some Easy and Medium problems in GeekForGeeks, GeekForGeeks is a good platform to practice and learn DSA, I have the plan to continue studying, learning and practicing DSA in this platform for the moment.
