@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1912: Continue studying DSA
+
+Today I studied some interesting topics about DSA like Analysis of Algorithms, Rate Growth, Asymptotic Notation, and Big-O notation. I am doing deep dive on these topics to build a good knowledge.
+
 ### Day 1911 Factory Method Design Pattern and Data Types
 
 Today I worked into refactor some Python code implementing the Factory Method Design Pattern. I notice that my code have some if statements, statements that can be refactored because with the value of a variable, the code behaves in different ways, like work calling this API, but with this value call this other API. I refactored the code using the Factory Method Pattern now my client code don't need to worry about how call the API for a given value, the code needs to call one object method and get the API result. Also reading my new algorithm book, I begin to study DSA in deep, for the moment I learned the two main Data Types: System-defined and User-defined Data Types. A data type in programming language is a set of data with predefined values, like `integers`, `strings`, etc. We now that for an `integer` data type, we only can store integer values. System-defined data types are those that are defined by the programming language itself and the user-defined data types are those that are defined by the user like `Classes` in Java or `structs` in Go.
