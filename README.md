@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1914: Reading and DSA
+
+Today I read a Substack article about how to growth from a mid-level software engineer to Senior (Article)[https://newsletter.eng-leadership.com/p/how-to-grow-from-mid-level-to-senior?utm_source=publication-search]. The Article was very good, I want this year be promoted in my current company, so I am looking for ways to grow and be a better software engineer. Also I started with the `Plus One` problem, I know that this problem is an Easy question, but well LeetCode says that I answered this problem 1 year ago, but at this moment I don't remember how to solve it, so I started to solve it again. The problem is very simple, you have an array of integers that represent a number, you need to add one to this number and return the result as an array. I will need to continue practicing DSA.
+
 ### Day 1913: DSA and Python Layered Architecture App
 
 Today I continue studying DSA, in the morning I continue reading my book and studying more about DSA, also I solve an algorithm to reverse an Array in place, I remember that this algorithm in the past was very difficult, but today looks easy. In the afternoon I created a Python project for fun, to learn Software Architecture, I practiced creating a REST API Python application with a layered architecture, the project includes the Presentation, Service(Business), Data Access (Repository) and Database layers.
