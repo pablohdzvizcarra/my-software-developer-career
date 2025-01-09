@@ -6,6 +6,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1917: Spark Write Modes
+
+Today I learned the different ways to save a dataframe into a physical file like CSV, JSON, Parquet into disk with Spark.
+Spark manages the next write modes: `overwrite`, `error`, `ignore` and `append`. The default write mode is error, that means if you try to save a dataframe into a file that already exists you will get an error, ignore is like *save if not exists*, overwrite is to replace the current file with the new dataframe and last append is used to add the new dataframe to the file, like combine these two DF into one final version.
+
 ### Day 1916: DSA and Amortized Analysis
 
 Today I learned what is the **Amortized Analysis**. Amortized analysis is a technique use to discover if the cost of a expensive operation like sorting an array `n(nlogn)` leaves the data structure in a way that the next operations are cheaper. This technique I think that is useful when you need to sort and array and next you can use the sorted array to do some operations that are cheaper and less expensive, compared to perform the same operations with the original array. Tomorrow I have the plan to look for some algorithms in which apply this technique is a good choice.
