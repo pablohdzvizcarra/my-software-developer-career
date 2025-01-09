@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1916: DSA and Amortized Analysis
+
+Today I learned what is the **Amortized Analysis**. Amortized analysis is a technique use to discover if the cost of a expensive operation like sorting an array `n(nlogn)` leaves the data structure in a way that the next operations are cheaper. This technique I think that is useful when you need to sort and array and next you can use the sorted array to do some operations that are cheaper and less expensive, compared to perform the same operations with the original array. Tomorrow I have the plan to look for some algorithms in which apply this technique is a good choice.
+
 ### Day 1915: Array Problems
 
 Today I solved the One plus problem that I started yesterday. Although it was an easy question, I had some difficulties solving it. The main idea is to check if we still have a `carry = 1` after iterating over the entire array. If we do, we need to add a 1 at the start of the list. I also worked on other array problems. Unfortunately, I couldn't read my algorithm book today because my morning study time was replaced by commute time as I had to go to the office again.
