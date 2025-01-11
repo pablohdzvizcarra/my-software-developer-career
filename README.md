@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1919: Creating a Python AI Application
+
+Today I experiment with something new, I created a Python Chat AI application the user can interacts with the Granite, Llama and Mixtral LLM models to talk. The application have a basic web app interface with Flask and HTML, the user can write a message and the AI model will respond with a message. I learned some interesting prompts properties like special Tokens to indicate the model where the conversation starts, the role that the model will play in the conversation. I enjoyed creating this application. 
+
 ### Day 1918: DSA and Data Backup Strategies
 
 Today I continue reading my book about DSA, I am in the part in which we review the Array Data Structure, its amazing how when you read and practice something again, you can learn new things also I practice with some array problems. In other topics I started to study about Data Backup Strategies, I am working in a project in which sometimes we lose data from our parquet files, I think that the data lost is related with some Spark errors when writing the content of the Dataframe into a file in disk. I hate to guess the things,but for the moment I don't have a clear idea about what is happening, so for the moment the idea is perform frequent backups while working into investigate the issue.  
