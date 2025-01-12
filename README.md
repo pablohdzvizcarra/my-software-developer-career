@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1920-21: Continue with Data Structures and Algorithms
+
+Today I continue studying DSA, I was studying again how the time complexities differs from a normal array and a ordered array. I created an implementation of a function that inserts a value within an sorted and maintain the sorted property. I also started to study the `Binary Search` algorithm, I remember that this algorithm is very useful when you need to find a value in a sorted array, the time complexity of this algorithm is `O(log n)`, I will continue studying this algorithm tomorrow. This time I am studying slowly and deeply this concepts and techniques, really I want to understand how the algorithms works and how to implement them.
+
 ### Day 1919: Creating a Python AI Application
 
 Today I experiment with something new, I created a Python Chat AI application the user can interacts with the Granite, Llama and Mixtral LLM models to talk. The application have a basic web app interface with Flask and HTML, the user can write a message and the AI model will respond with a message. I learned some interesting prompts properties like special Tokens to indicate the model where the conversation starts, the role that the model will play in the conversation. I enjoyed creating this application. 
