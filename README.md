@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1922: Solving LeetCode Problems
+
+Today I have continue solving some LeetCode problems related with arrays and use Map to lookup faster for elements. I continue reading my DSA book, for the moment I completed the book part about the Binary search algorithm, and how is more efficient to look for an element in an ordered array rather than a normal array. For the moment I fell good with my progress, I want to continue studying DSA and solving problems in LeetCode and GeekForGeeks. 
+
 ### Day 1920-21: Continue with Data Structures and Algorithms
 
 Today I continue studying DSA, I was studying again how the time complexities differs from a normal array and a ordered array. I created an implementation of a function that inserts a value within an sorted and maintain the sorted property. I also started to study the `Binary Search` algorithm, I remember that this algorithm is very useful when you need to find a value in a sorted array, the time complexity of this algorithm is `O(log n)`, I will continue studying this algorithm tomorrow. This time I am studying slowly and deeply this concepts and techniques, really I want to understand how the algorithms works and how to implement them.
