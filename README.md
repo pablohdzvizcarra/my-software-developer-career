@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1924: Data Integrity with Spark
+
+Today I spend some time analyzing data integrity in some parquet files. The problem is we lose some information from the files processing the files with Spark for an unknown reason. I am following a backup approach for the moment to backup daily the data and if the issue happens again, I have a fresh copy of the data. I am investigating the possible ways in which the data is lost with Spark and Spark leave the files with less data but with a non-corrupt state.
+
 ### Day 1923: Partition Keys
 
 Today I learned about partitions keys, I needed to do a little research about what are partitions keys and how works. I am working in a Data Engineering in which I see an example of a usage of a partition key in a parquet file, we use a parquet file to storage data and this data is modified frequently, so we need to backup this data weekly to have a copy of the data in case of a failure or our parquet finish in a corrupt state. One strategy that a team follows is have the data backup in an another parquet file and they use a partition key to store the data in a way that is easy to query and retrieve the data. So this parquet backup data contains partitions of weekly backups, so if you need to retrieve the data from a specific week, you only need to query the partition key with the week that you need to retrieve the data. I think that this is a good strategy to backup data, the trade-off is the storage required. Storage in these days is cheap. 
