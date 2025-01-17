@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1925: Bubble Sort
+
+Today I studied the Bubble Sort algorithm. I implemented it in JavaScript and used Jest for unit testing. I only needed to read the algorithm description to figure out the implementation. When my tests passed, I felt very good. It was a great moment for me. I am in the book part in which we study this sorting algorithm and we review the quadratic time complexity. I am happy with my progress. I will continue studying DSA and solving problems in LeetCode and GeekForGeeks.
+
 ### Day 1924: Data Integrity with Spark
 
 Today I spend some time analyzing data integrity in some parquet files. The problem is we lose some information from the files processing the files with Spark for an unknown reason. I am following a backup approach for the moment to backup daily the data and if the issue happens again, I have a fresh copy of the data. I am investigating the possible ways in which the data is lost with Spark and Spark leave the files with less data but with a non-corrupt state.
