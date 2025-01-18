@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1926: Looking for Duplicate Data with Spark
+
+Today I was discovered how to detect duplicate data in a Spark parquet file, the problem is we extract data from an API and sometimes the API returns duplicated data, so we need to detect this duplicated data and remove it from the response to avoid add it to the parquet file. The problem is we store the data in a parquet file if we store the data in a SQL database like PostgreSQL, detecting the data will be a simple query, but with Spark, we need to do some transformations to detect the duplicated data. I have the plan to continue learning more techniques to remove duplicate data from a parquet file.
+
 ### Day 1925: Bubble Sort
 
 Today I studied the Bubble Sort algorithm. I implemented it in JavaScript and used Jest for unit testing. I only needed to read the algorithm description to figure out the implementation. When my tests passed, I felt very good. It was a great moment for me. I am in the book part in which we study this sorting algorithm and we review the quadratic time complexity. I am happy with my progress. I will continue studying DSA and solving problems in LeetCode and GeekForGeeks.
