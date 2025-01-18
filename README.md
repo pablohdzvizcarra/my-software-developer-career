@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1927: GitHub Software Engineering Skills DAG
+
+Today I started a new project. The main is to create a DAG that every day looks in this repository to check the last commit, if the last commit have the format dayXXXX, the DAG will extract the README.md file information and next serialize the README.md file in a Python object format, the idea is extract the last day skills learned entry like this entry and use a LLM to extract the skills learned that day. I want to storage the entries in a SQL database to know which technologies I learned that day. My goal is to continue learning Data Engineering, Airflow, DAG development and AI. You can see the general idea of the project in the next link: https://github.com/user-attachments/assets/ff3312e6-e9f9-46c3-979d-a50aa717a850  
+
 ### Day 1926: Looking for Duplicate Data with Spark
 
 Today I was discovered how to detect duplicate data in a Spark parquet file, the problem is we extract data from an API and sometimes the API returns duplicated data, so we need to detect this duplicated data and remove it from the response to avoid add it to the parquet file. The problem is we store the data in a parquet file if we store the data in a SQL database like PostgreSQL, detecting the data will be a simple query, but with Spark, we need to do some transformations to detect the duplicated data. I have the plan to continue learning more techniques to remove duplicate data from a parquet file.
