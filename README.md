@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1928: Airflow Project Folder Structure
+
+Today I learned techniques to structure an Airflow project. I am developing an Airflow DAG so I need to learn where is the best place to put the files with functions and classes to use in the DAG. For example where we need to add the files like helper functions? Well, I found a StackOverflow post that explains the best practices to structure an Airflow project.
+
 ### Day 1927: GitHub Software Engineering Skills DAG
 
 Today I started a new project. The main is to create a DAG that every day looks in this repository to check the last commit, if the last commit have the format dayXXXX, the DAG will extract the README.md file information and next serialize the README.md file in a Python object format, the idea is extract the last day skills learned entry like this entry and use a LLM to extract the skills learned that day. I want to storage the entries in a SQL database to know which technologies I learned that day. My goal is to continue learning Data Engineering, Airflow, DAG development and AI. You can see the general idea of the project in the next link: https://github.com/user-attachments/assets/ff3312e6-e9f9-46c3-979d-a50aa717a850  
