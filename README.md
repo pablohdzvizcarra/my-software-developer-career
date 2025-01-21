@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Dau 1929: Insertion Sort Algorithm
+
+Today I have been studying the Insertion Sort algorithm. I am reading the chapter in the book that talks about consider the non-worse cases scenarios for algorithm. Maybe you have two algorithms with a O(N^2) but one of them can be twice faster than the other. I started with the code implementation of the insertion sort algorithm, however I cannot completed it. I am having problems to translate the algorithm description into code. I will continue tomorrow with the code implementation.
+
 ### Day 1928: Airflow Project Folder Structure
 
 Today I learned techniques to structure an Airflow project. I am developing an Airflow DAG so I need to learn where is the best place to put the files with functions and classes to use in the DAG. For example where we need to add the files like helper functions? Well, I found a StackOverflow post that explains the best practices to structure an Airflow project.
