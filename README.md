@@ -6,7 +6,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
-### Dau 1929: Insertion Sort Algorithm
+### Day 1930: Data Completeness and Completed Insertion Sort Algorithm
+
+Today I learned about data completeness. Data completeness is a data quality metric that measures that the there are no missing data in a dataset, for example if we extract data from an API and the API returns a JSON with 100 elements, we need to store the exact 100 elements in our dataset to have the data completed. Sometimes when transforming and loading data to the target system, we can miss data and if we don't have a way to know how much elements we get in the extraction phase and compare with the loading phase we can lose data. In other topics, I completed the Insertion Sort algorithm implementation in JavaScript, really sometimes I feel that I cannot complete id but I take the approach to solve the entire algorithm in small steps, like first ensure the inner while loop is working as expected. Breaking the problem into small steps helps me to complete the algorithm. Tomorrow I will continue reading my DSA book.
+
+### Day 1929: Insertion Sort Algorithm
 
 Today I have been studying the Insertion Sort algorithm. I am reading the chapter in the book that talks about consider the non-worse cases scenarios for algorithm. Maybe you have two algorithms with a O(N^2) but one of them can be twice faster than the other. I started with the code implementation of the insertion sort algorithm, however I cannot completed it. I am having problems to translate the algorithm description into code. I will continue tomorrow with the code implementation.
 
