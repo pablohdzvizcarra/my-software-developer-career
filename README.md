@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1932: Big O in Everyday Code
+
+Today I practice with some common algorithms that we use in our daily activities, the idea is measure the code efficiency with Big O for common algorithms like look for an user within a list of elements. When you think about every piece of code that you write to solve a problem is an algorithm and also you can measure the efficiency of this code with Big O it's a good moment in your developer career. I think that is a good practice to measure the efficiency of your code, because you can know if your code is efficient or not. Also it's funny well, for me is funny. 
+
 ### Day 1931: Studying the Average Case Time Complexity
 
 Today reading the DSA book, I learned about the average case time complexity. We know that Big O only consider the worst-case scenario to determinate the time complexity, but most of the times the worst-case scenario is not the common scenario. It's more common to have the average scenario in daily code implementations, so maybe you have two algorithms that have a `N^2` complexity but one of them have a `N^2 / 2` complexity in the average case.
