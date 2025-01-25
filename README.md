@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1933: Hash Table
+
+Today reading my DAS book, I started the part in which we study the Hash Table. A Hash Table data structure is a data structure in which the data is stored in key-value pairs, the main idea is you can get a value with a key from the Hash Map. The Hash Map uses a hash function to convert the key into a number, this process of converting something to a number is called hashing. An important thing about the has function is always needs to return the same number for the same key.
+
 ### Day 1932: Big O in Everyday Code
 
 Today I practice with some common algorithms that we use in our daily activities, the idea is measure the code efficiency with Big O for common algorithms like look for an user within a list of elements. When you think about every piece of code that you write to solve a problem is an algorithm and also you can measure the efficiency of this code with Big O it's a good moment in your developer career. I think that is a good practice to measure the efficiency of your code, because you can know if your code is efficient or not. Also it's funny well, for me is funny. 
