@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1934: Software Engineering Skills DAG
+
+Today I continue with the development of the Airflow DAG that looks for the last commit in this repository and extracts the skills learned that day. I completed the task that extract the README.md file from the code repository, and started the task that parse the extracted README.md file into a personalized data structure. The idea behind create a data structure to represent the data is to have easy access to the data. I created a method called get_last_entry that get the last entry journal in a dict format. Tomorrow if I have some free time I will need to fix an issue with Airflow related with use some modules in the DAG file. 
+
 ### Day 1933: Hash Table
 
 Today reading my DAS book, I started the part in which we study the Hash Table. A Hash Table data structure is a data structure in which the data is stored in key-value pairs, the main idea is you can get a value with a key from the Hash Map. The Hash Map uses a hash function to convert the key into a number, this process of converting something to a number is called hashing. An important thing about the has function is always needs to return the same number for the same key.
