@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1936: Hash Map and Bubble Sort
+
+Today I have been studying about Hash Maps, I am reading the book chapter about the Hash Map/Hash table data structure. I want to review how a Hash Map is designed and build with Java because there are some interesting things to consider to design a good Hash Map, like a relationship with how many cells or memory the hash mp will have considering the number of elements storage on it. In another topics I studied again the bubble sort algorithm.
+
 ### Day 1935: Fixing Airflow Issue and Configuring GitHub Action
 
 Today I fixed the Airflow issue about configure a directory as a module to be used in Airflow. I needed to setup a environment variable within the container to configure the directory path. In other topics I created a GitHub action to execute my unit test everything I create a pull request to the main branch. I am using a GitHub project to manage the development of my Airflow DAG, the idea in this project is to create task for new features. next create a separate branch to develop that feature and at the end merge that branch to the main branch and close the task, I want to follow this basic development workflow to continue practicing this skill and also I can measure how much time I require to complete X feature.  
