@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1935: Fixing Airflow Issue and Configuring GitHub Action
+
+Today I fixed the Airflow issue about configure a directory as a module to be used in Airflow. I needed to setup a environment variable within the container to configure the directory path. In other topics I created a GitHub action to execute my unit test everything I create a pull request to the main branch. I am using a GitHub project to manage the development of my Airflow DAG, the idea in this project is to create task for new features. next create a separate branch to develop that feature and at the end merge that branch to the main branch and close the task, I want to follow this basic development workflow to continue practicing this skill and also I can measure how much time I require to complete X feature.  
+
 ### Day 1934: Software Engineering Skills DAG
 
 Today I continue with the development of the Airflow DAG that looks for the last commit in this repository and extracts the skills learned that day. I completed the task that extract the README.md file from the code repository, and started the task that parse the extracted README.md file into a personalized data structure. The idea behind create a data structure to represent the data is to have easy access to the data. I created a method called get_last_entry that get the last entry journal in a dict format. Tomorrow if I have some free time I will need to fix an issue with Airflow related with use some modules in the DAG file. 
