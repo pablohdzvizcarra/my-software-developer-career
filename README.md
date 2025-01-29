@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1937: Continue Reading and Doing Exercises
+
+Today I continue reading my DSA book, I completed the chapter 8 and I did the code exercises, for the moment I am doing the code exercises following a test-driven development methodology, I want to continue improving my TDD and testing skills.
+
 ### Day 1936: Hash Map and Bubble Sort
 
 Today I have been studying about Hash Maps, I am reading the book chapter about the Hash Map/Hash table data structure. I want to review how a Hash Map is designed and build with Java because there are some interesting things to consider to design a good Hash Map, like a relationship with how many cells or memory the hash mp will have considering the number of elements storage on it. In another topics I studied again the bubble sort algorithm.
