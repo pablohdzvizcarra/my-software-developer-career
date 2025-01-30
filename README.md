@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1938: Building A Javascript Linter Logic
+
+Today I started to work into create a function that checks if a string is a valid javascript code, the general idea is to review the opening and closing braces like `()[]{}` and validates if there are a correct order and number of braces. I am using a Stack to manage the curly braces order. I will need to continue working into this algorithm tomorrow. 
+
 ### Day 1937: Continue Reading and Doing Exercises
 
 Today I continue reading my DSA book, I completed the chapter 8 and I did the code exercises, for the moment I am doing the code exercises following a test-driven development methodology, I want to continue improving my TDD and testing skills.
