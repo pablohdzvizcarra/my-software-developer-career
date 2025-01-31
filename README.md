@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1939: Recursion
+
+Today I started to study recursion again. I am reading the book chapters about Recursion for the moment I did some basic exercises to practice how to write and read recursion code.
+
 ### Day 1938: Building A Javascript Linter Logic
 
 Today I started to work into create a function that checks if a string is a valid javascript code, the general idea is to review the opening and closing braces like `()[]{}` and validates if there are a correct order and number of braces. I am using a Stack to manage the curly braces order. I will need to continue working into this algorithm tomorrow. 
