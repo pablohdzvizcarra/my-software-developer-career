@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1940: Continue with DAG Development
+
+Today I have been working on my Airflow DAG to extract from this entry journals the skills learned related with Computer Science and Software Engineering. I started the task to process the entry journal with the Azure AI service using the Python SDK to interact with LLMs, I created the Python logic and some algorithms to achieve this task. One of the problems that I am facing right now is to write unit test for the Python code because there are many levels of abstraction in the code, I need to think how to test the code in a way that I can ensure that the code works as expected while mocking the external dependencies like the Azure AI service. I will continue working into this task tomorrow.
+
 ### Day 1939: Recursion
 
 Today I started to study recursion again. I am reading the book chapters about Recursion for the moment I did some basic exercises to practice how to write and read recursion code.
