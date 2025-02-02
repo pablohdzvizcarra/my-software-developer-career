@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1941: Continue with DAG Development and Ubuntu Server Upgrade
+
+Today I upgraded my ubuntu server from 22.4 to 24.04.1, in this server I had my Airflow environment configured and some applications running in Containers. Also I continue worked on my Airflow DAG about processing the entry journals to extract the skills learned that day. I write some python code to extract the skills and completed the Azure AI service integration. I am following the practice to measure the time complexity of the code that I wrote, to practice my DSA and algorithms skills.
+
 ### Day 1940: Continue with DAG Development
 
 Today I have been working on my Airflow DAG to extract from this entry journals the skills learned related with Computer Science and Software Engineering. I started the task to process the entry journal with the Azure AI service using the Python SDK to interact with LLMs, I created the Python logic and some algorithms to achieve this task. One of the problems that I am facing right now is to write unit test for the Python code because there are many levels of abstraction in the code, I need to think how to test the code in a way that I can ensure that the code works as expected while mocking the external dependencies like the Azure AI service. I will continue working into this task tomorrow.
