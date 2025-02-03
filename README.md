@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1942: Issues in my Ubuntu Server
+
+Today I had an interesting issue in my Ubuntu server. For an unknown reason, there were no internet connection for external sources inside the server, for example I can't access to my Airflow instance from my laptop and download python packages from pypi to my server. I needed to investigate the issue, I started to check the network configuration, the virtual public network configured in my cloud provider but everything looks fine. Investigating more I found that sometimes after upgrade the Ubuntu server, you will problems with the ufw firewall and the ip-tables, I needed to restart the server, restore and configure the iptables to finally activate the ufw firewall. After this the server works fine. Networking issues always are a nightmare for developers, specially if you don't much knowledge about networking.
+
 ### Day 1941: Continue with DAG Development and Ubuntu Server Upgrade
 
 Today I upgraded my ubuntu server from 22.4 to 24.04.1, in this server I had my Airflow environment configured and some applications running in Containers. Also I continue worked on my Airflow DAG about processing the entry journals to extract the skills learned that day. I write some python code to extract the skills and completed the Azure AI service integration. I am following the practice to measure the time complexity of the code that I wrote, to practice my DSA and algorithms skills.
