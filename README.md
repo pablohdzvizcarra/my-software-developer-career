@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1943: DAG Development and Stateful Sequential Processing
+
+Today I continue working on my Airflow DAG to process my entry journals in this repository to extract the skills learned every day. I completed the regular DAG, now I am working in the reload DAG to process the old entries. I am working in the logic to process 130 entries daily because the Azure AI service has a day limit of 150 HTTP request. In other thing I learned about the **Stateful Sequential Processing** technique/design, I will need use this technique to process the entire dataset with all the entries.
+
 ### Day 1942: Issues in my Ubuntu Server
 
 Today I had an interesting issue in my Ubuntu server. For an unknown reason, there were no internet connection for external sources inside the server, for example I can't access to my Airflow instance from my laptop and download python packages from pypi to my server. I needed to investigate the issue, I started to check the network configuration, the virtual public network configured in my cloud provider but everything looks fine. Investigating more I found that sometimes after upgrade the Ubuntu server, you will problems with the ufw firewall and the ip-tables, I needed to restart the server, restore and configure the iptables to finally activate the ufw firewall. After this the server works fine. Networking issues always are a nightmare for developers, specially if you don't much knowledge about networking.
