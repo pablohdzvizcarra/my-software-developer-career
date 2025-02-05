@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1944: Reading DSA Book and Stack Data Structure
+
+Today I continue reading my DSA book, I completed the chapter 10 exercises about **Recursion**. In this chapter I did some exercises to practice how to read and write recursive code, for the moment I want to understand how **Recursion** works again and also practice more the *divider and conquer* technique to solve problems. I completed some algorithms exercises in GeekForGeeks about Stack, the last chapter of the book was about stacks and queues so I needed to practice with the stack data structure. I prefer GeekForGeeks rather than LeetCode, I know that LeetCode is better but in GeekForGeeks you can found better explanations of the Data Structures and Algorithms for free, LeetCode also have some good courses about this but most of them are paid.
+
 ### Day 1943: DAG Development and Stateful Sequential Processing
 
 Today I continue working on my Airflow DAG to process my entry journals in this repository to extract the skills learned every day. I completed the regular DAG, now I am working in the reload DAG to process the old entries. I am working in the logic to process 130 entries daily because the Azure AI service has a day limit of 150 HTTP request. In other thing I learned about the **Stateful Sequential Processing** technique/design, I will need use this technique to process the entire dataset with all the entries.
