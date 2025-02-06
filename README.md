@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1945: Practice LeetCode Problems
+
+Today I have been practicing solving leetCode problems, currently I am working into implement the Binary Search algorithm [link](https://leetcode.com/problems/, binary-search/) for the moment I am stuck about how to implement them, in the past I remember I implement this algorithm following a tutorial but now I want to solve the problem by myself. I will continue working into this problem tomorrow.
+
 ### Day 1944: Reading DSA Book and Stack Data Structure
 
 Today I continue reading my DSA book, I completed the chapter 10 exercises about **Recursion**. In this chapter I did some exercises to practice how to read and write recursive code, for the moment I want to understand how **Recursion** works again and also practice more the *divider and conquer* technique to solve problems. I completed some algorithms exercises in GeekForGeeks about Stack, the last chapter of the book was about stacks and queues so I needed to practice with the stack data structure. I prefer GeekForGeeks rather than LeetCode, I know that LeetCode is better but in GeekForGeeks you can found better explanations of the Data Structures and Algorithms for free, LeetCode also have some good courses about this but most of them are paid.
