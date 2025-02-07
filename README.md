@@ -8,7 +8,7 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ### Day 1945: Practice LeetCode Problems
 
-Today I have been practicing solving leetCode problems, currently I am working into implement the Binary Search algorithm [link](https://leetcode.com/problems/, binary-search/) for the moment I am stuck about how to implement them, in the past I remember I implement this algorithm following a tutorial but now I want to solve the problem by myself. I will continue working into this problem tomorrow.
+Today I have been practicing solving leetCode problems, currently I am working into implement the Binary Search algorithm https://leetcode.com/problems/binary-search/ for the moment I am stuck about how to implement them, in the past I remember I implement this algorithm following a tutorial but now I want to solve the problem by myself. I will continue working into this problem tomorrow.
 
 ### Day 1944: Reading DSA Book and Stack Data Structure
 
