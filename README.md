@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1946: Continue with Algorithms
+
+Today I begun my day solving LeetCode questions. I solved some problems related with two pointers, sliding window, a min stack problem about build a Stack that support the operation to `getMin()` value with a `O(1)` time complexity. I also solved the yesterday problem about implement the binary search algorithm. I discover a new list of problems to solve called [Grind 75](https://www.techinterviewhandbook.org/grind75/) looks like this list of problems is very acceptable by the community.
+
 ### Day 1945: Practice LeetCode Problems
 
 Today I have been practicing solving leetCode problems, currently I am working into implement the Binary Search algorithm https://leetcode.com/problems/binary-search/ for the moment I am stuck about how to implement them, in the past I remember I implement this algorithm following a tutorial but now I want to solve the problem by myself. I will continue working into this problem tomorrow.
