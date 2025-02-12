@@ -6,6 +6,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1947, 48, 49, 50, 51: Sick, IBM Cloud Advocate and Recursion in Binary Trees
+
+These days were bad. I was sick since Friday and I could not code anything, I had a very bad headache and I was very tired. I was out for four days.
+The good news are today I approved the IBM Cloud Advocate certification exam, I am very happy with this achievement. I started to practice and study Recursion focusing on Binary Trees, today I have a lot of problems to print the value of the Node with the corresponding level of depth in the Tree. 
+
 ### Day 1946: Continue with Algorithms
 
 Today I begun my day solving LeetCode questions. I solved some problems related with two pointers, sliding window, a min stack problem about build a Stack that support the operation to `getMin()` value with a `O(1)` time complexity. I also solved the yesterday problem about implement the binary search algorithm. I discover a new list of problems to solve called [Grind 75](https://www.techinterviewhandbook.org/grind75/) looks like this list of problems is very acceptable by the community.
