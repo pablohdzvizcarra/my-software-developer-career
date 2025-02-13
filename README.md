@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1952: Recursion Repeatedly Execute
+
+Today while studying recursion, I learned that recursion functions can be categorized in some categories. The idea about identify the category of a recursion function is to know how to read it and write it. The **Repeatedly Execute** is a recursion function in which in each function call a task is performed, maybe you want to print something into console, increment a counter or any type of other things.
+
 ### Day 1947, 48, 49, 50, 51: Sick, IBM Cloud Advocate and Recursion in Binary Trees
 
 These days were bad. I was sick since Friday and I could not code anything, I had a very bad headache and I was very tired. I was out for four days.
