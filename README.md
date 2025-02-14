@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1953: Top Down Recursion
+
+Today I learned and practiced about the top-down recursion technique. This technique looks like magic to me, the idea is to start with the final solution and divide the problem into smaller sub-problems. Sounds crazy think about the function is already written and you only need to implement the sub-problems. I did some code exercises t practice this Recursion technique, I will need to continue practicing this technique tomorrow because continues looks like a magic thing for me. 
+
 ### Day 1952: Recursion Repeatedly Execute
 
 Today while studying recursion, I learned that recursion functions can be categorized in some categories. The idea about identify the category of a recursion function is to know how to read it and write it. The **Repeatedly Execute** is a recursion function in which in each function call a task is performed, maybe you want to print something into console, increment a counter or any type of other things.
