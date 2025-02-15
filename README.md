@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1954: Debugging Recursion
+
+Today I spend most of my time debugging Recursion functions. I am using the VSC debugger to understand how the recursion works, One of my main current recursion problems is understand how the results are build in the recursion stack, the top-bottom approach is easier to understand rather than the bottom-up approach. Also the concept about solve sub-problems and combine the results to get the final solution is a little bit difficult to understand. 
+
 ### Day 1953: Top Down Recursion
 
 Today I learned and practiced about the top-down recursion technique. This technique looks like magic to me, the idea is to start with the final solution and divide the problem into smaller sub-problems. Sounds crazy think about the function is already written and you only need to implement the sub-problems. I did some code exercises t practice this Recursion technique, I will need to continue practicing this technique tomorrow because continues looks like a magic thing for me. 
