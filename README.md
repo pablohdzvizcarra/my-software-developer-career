@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1955 & 56: Recursion Functions that Generates Values
+
+Over the weekend I practiced recursion, focusing on recursive functions that generate a result like a list and then add items to that list in consequence executions. Yes, I continue with not understanding this type of functions well, I continue with problems about how to merge the return in a recursive function with the next executions, especially when the recursive function returns more than one value, is very strange to me, looks like some dark magic. But the good news is that with every day of practice it looks less complicated. Practice == mastery. 
+
 ### Day 1954: Debugging Recursion
 
 Today I spend most of my time debugging Recursion functions. I am using the VSC debugger to understand how the recursion works, One of my main current recursion problems is understand how the results are build in the recursion stack, the top-bottom approach is easier to understand rather than the bottom-up approach. Also the concept about solve sub-problems and combine the results to get the final solution is a little bit difficult to understand. 
