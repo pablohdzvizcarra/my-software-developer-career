@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1957: Continue Practicing Recursion
+
+Today I learned one of foundations recursion principles. The principe is if your functions needs to return a value, you need to return a value in the base case and in any return statement within the function. I discover this while writing the flatten nested arrays function. I needed to return an `[]` in the base case and in the another return statements concatenate the result of the previous function call with the current value. Also It's very important to return always the same type of element in non-static coding languages like JavaScript, because if you return a `number` in the base case and a `string` in another return statement, you will get an error. I want to continue practicing recursion for more some time because I feel that I need to practice more to understand how recursion works.  
+
 ### Day 1955 & 56: Recursion Functions that Generates Values
 
 Over the weekend I practiced recursion, focusing on recursive functions that generate a result like a list and then add items to that list in consequence executions. Yes, I continue with not understanding this type of functions well, I continue with problems about how to merge the return in a recursive function with the next executions, especially when the recursive function returns more than one value, is very strange to me, looks like some dark magic. But the good news is that with every day of practice it looks less complicated. Practice == mastery. 
