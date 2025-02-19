@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1958: Why Recursion is So Hard?
+
+Today I continued practicing recursion with some exercises. I completed the unique paths problem, I can discover the base case and start the algorithm but to completed it, I needed some help from Google. The main problem with this recursion problems is that the function needs to call itself multiple times, with multiple parameters and the return value of the function is the result of one of the previous function. This is very difficult to understand for me, but well my approach to continue learning recursion is more practice, I will need to continue solving more problems, creating recursion algorithms to master this skill.
+
 ### Day 1957: Continue Practicing Recursion
 
 Today I learned one of foundations recursion principles. The principe is if your functions needs to return a value, you need to return a value in the base case and in any return statement within the function. I discover this while writing the flatten nested arrays function. I needed to return an `[]` in the base case and in the another return statements concatenate the result of the previous function call with the current value. Also It's very important to return always the same type of element in non-static coding languages like JavaScript, because if you return a `number` in the base case and a `string` in another return statement, you will get an error. I want to continue practicing recursion for more some time because I feel that I need to practice more to understand how recursion works.  
