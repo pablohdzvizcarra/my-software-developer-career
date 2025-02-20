@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1959: RAID Virtualization Technology
+
+Today I learned about RAID Virtualization Technology. RAId is a technology that allows to combine multiple flash-drives or HDDs into one logical disk. Imagine that you have 10 SDDs disk and you want to combine them into one disk, so using RAId you can combine them into 1 disk and the host system like a PC or server looks only one disk. RAID offers another important features and have some different configurations like `RAID 0`, `RAID 1`, `RAID 5`, `RAID 6` and `RAID 10`(I don't know yet if a configuration is the correct word). These different configurations offers different features and have different performance capabilities. If you want to have data replication you can use `RAID 1`, if you want to have faster write/read operations you cna use `RAID 0`, all these things are new for me are interesting because is more focused on computer science topics and not learn a new framework to build something.
+
 ### Day 1958: Why Recursion is So Hard?
 
 Today I continued practicing recursion with some exercises. I completed the unique paths problem, I can discover the base case and start the algorithm but to completed it, I needed some help from Google. The main problem with this recursion problems is that the function needs to call itself multiple times, with multiple parameters and the return value of the function is the result of one of the previous function. This is very difficult to understand for me, but well my approach to continue learning recursion is more practice, I will need to continue solving more problems, creating recursion algorithms to master this skill.
