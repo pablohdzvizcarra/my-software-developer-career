@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1960: Dynamic Programming
+
+Today I studied one of the hardest concepts in computer science that is **Dynamic Programming**. Dynamic Programming is a technique to solve problems by breaking them into smaller sub-problems and storing the results of these sub-problems to avoid solving them multiple times. The main idea is to solve the problem dividing this problem into sub-problems and store the results of the sub-problems in some place to avoid call the same sub-problem multiple times. Memoization is a common technique in dynamic problem to memorize the sub-problems results. I did some code exercises to refactor recursion functions and apply DP to improve the algorithm efficiency.
+
 ### Day 1959: RAID Virtualization Technology
 
 Today I learned about RAID Virtualization Technology. RAId is a technology that allows to combine multiple flash-drives or HDDs into one logical disk. Imagine that you have 10 SDDs disk and you want to combine them into one disk, so using RAId you can combine them into 1 disk and the host system like a PC or server looks only one disk. RAID offers another important features and have some different configurations like `RAID 0`, `RAID 1`, `RAID 5`, `RAID 6` and `RAID 10`(I don't know yet if a configuration is the correct word). These different configurations offers different features and have different performance capabilities. If you want to have data replication you can use `RAID 1`, if you want to have faster write/read operations you cna use `RAID 0`, all these things are new for me are interesting because is more focused on computer science topics and not learn a new framework to build something.
