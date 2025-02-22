@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1961: Recursion and Dynamic Programming Exercises
+
+Today I practiced recursion and dynamic programming solving some exercises. For the moment these way of solve problems using recursion and Dynamic programming is not making click in my head. Sometimes is really difficult to understand how recursion works, how the functions calls are storage in the stack call and how these function calls are called, and well how the result is build in the stack call. I will need to continue practicing more these techniques.
+
 ### Day 1960: Dynamic Programming
 
 Today I studied one of the hardest concepts in computer science that is **Dynamic Programming**. Dynamic Programming is a technique to solve problems by breaking them into smaller sub-problems and storing the results of these sub-problems to avoid solving them multiple times. The main idea is to solve the problem dividing this problem into sub-problems and store the results of the sub-problems in some place to avoid call the same sub-problem multiple times. Memoization is a common technique in dynamic problem to memorize the sub-problems results. I did some code exercises to refactor recursion functions and apply DP to improve the algorithm efficiency.
