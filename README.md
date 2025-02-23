@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1962: DSA and Java SE 17 Test
+
+Today I continue studying my DSA book, I am learning how implement the QuickSort algorithm, for the moment I am not understanding much because this algorithm is divided into three different main steps, first step is to find the **pivot** in the array to be sorted, second is divide the array by the half and use recursion to sort this half of the array and divide by the half again the same same and is the same for the other half of the original array. Really this algorithm is confuse at the start. In other topics I did the Java SE 17 Skill IQ from PluralSight to measure my Java 17 skills, I got an average score, so that means I have good knowledge about how to work with Java 17 but I will need to improve to reach the  **over average** or **expert** score.
+
 ### Day 1961: Recursion and Dynamic Programming Exercises
 
 Today I practiced recursion and dynamic programming solving some exercises. For the moment these way of solve problems using recursion and Dynamic programming is not making click in my head. Sometimes is really difficult to understand how recursion works, how the functions calls are storage in the stack call and how these function calls are called, and well how the result is build in the stack call. I will need to continue practicing more these techniques.
