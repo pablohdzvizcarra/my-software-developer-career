@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1963: Storage Virtualization RAID 0
+
+Today I studied about the RAID storage virtualization technique creating Java code to simulate the RAID 0 configuration. For the moment I have an issue while the code is attempting to read the metadata file with the file from information. I am using an approach about storage the file metadata in a physical file using a Java `Serialization` class, but I am having problems at the moment to deserialize the file into a Java object.  
+
 ### Day 1962: DSA and Java SE 17 Test
 
 Today I continue studying my DSA book, I am learning how implement the QuickSort algorithm, for the moment I am not understanding much because this algorithm is divided into three different main steps, first step is to find the **pivot** in the array to be sorted, second is divide the array by the half and use recursion to sort this half of the array and divide by the half again the same same and is the same for the other half of the original array. Really this algorithm is confuse at the start. In other topics I did the Java SE 17 Skill IQ from PluralSight to measure my Java 17 skills, I got an average score, so that means I have good knowledge about how to work with Java 17 but I will need to improve to reach the  **over average** or **expert** score.
