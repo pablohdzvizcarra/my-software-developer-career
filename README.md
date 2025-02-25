@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1964: QuickSort and QuickSelect
+
+Today I studied the QuickSort and QuickSelect algorithms. I started to study the logic behind the two algorithms an next implement them with Java code, the problem is I could not understand in a good way both algorithms. Recursion is a problem for me because write and read recursion code continues be a hard task for me. I will need to continue practicing these algorithms to understand how they work.
+
 ### Day 1963: Storage Virtualization RAID 0
 
 Today I studied about the RAID storage virtualization technique creating Java code to simulate the RAID 0 configuration. For the moment I have an issue while the code is attempting to read the metadata file with the file from information. I am using an approach about storage the file metadata in a physical file using a Java `Serialization` class, but I am having problems at the moment to deserialize the file into a Java object.  
