@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1965: Continue Studying DSA
+
+Today I continued studying DSA reading the book. I solve some exercises in which we first sort an array and next we need to perform some action in the sorted array, which this technique I could to solve the problems with a `O(n log N)` time complexity. I also used a Greedy approach to solve some problems, the Greedy approach is a technique to solve problems in which we make the best choice at the moment, without thinking about the future.
+
 ### Day 1964: QuickSort and QuickSelect
 
 Today I studied the QuickSort and QuickSelect algorithms. I started to study the logic behind the two algorithms an next implement them with Java code, the problem is I could not understand in a good way both algorithms. Recursion is a problem for me because write and read recursion code continues be a hard task for me. I will need to continue practicing these algorithms to understand how they work.
