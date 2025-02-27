@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1966: Linked List
+
+Today I started to study about Linked List in my DSA book. This time I am doing a different approach about write the Linked List operations like read, search and insert from myself. I want to to build these stuff from myself to understand how to manipulate a Linked List. For the moment I wrote the `read` and `search` operations, but I am having some problems to understand how to write the `insert` operation.
+
 ### Day 1965: Continue Studying DSA
 
 Today I continued studying DSA reading the book. I solve some exercises in which we first sort an array and next we need to perform some action in the sorted array, which this technique I could to solve the problems with a `O(n log N)` time complexity. I also used a Greedy approach to solve some problems, the Greedy approach is a technique to solve problems in which we make the best choice at the moment, without thinking about the future.
