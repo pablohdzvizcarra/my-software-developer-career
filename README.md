@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1967: Double Linked List
+
+Today continue studying the Linked List data structure, I started to study the **Double Linked List**. This data structure is a good choice when you need to delete and insert elements frequently because offers a `O(1)` time complexity for insert an elements in the start and end to the list and for delete an element requires a `O(N)` steps. I will continue studying this data structure tomorrow.
+
 ### Day 1966: Linked List
 
 Today I started to study about Linked List in my DSA book. This time I am doing a different approach about write the Linked List operations like read, search and insert from myself. I want to to build these stuff from myself to understand how to manipulate a Linked List. For the moment I wrote the `read` and `search` operations, but I am having some problems to understand how to write the `insert` operation.
