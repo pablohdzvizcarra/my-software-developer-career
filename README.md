@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1968: Linked List Code Exercises
+
+Today I continue developing some common linked list operations like print all the values in a list, reverse a linked list, get the last node of a linked list, etc. These exercises are a very good way to practice with the Linked List and Doubly Linked list data structures, I had some problems to understand the logic behind the reverse a linked list algorithm, but after some time I could understand how it works. I will continue practicing with these exercises tomorrow.
+
 ### Day 1967: Double Linked List
 
 Today continue studying the Linked List data structure, I started to study the **Double Linked List**. This data structure is a good choice when you need to delete and insert elements frequently because offers a `O(1)` time complexity for insert an elements in the start and end to the list and for delete an element requires a `O(N)` steps. I will continue studying this data structure tomorrow.
