@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1969: Java Threads, Concurrency and Sockets
+
+Today I practiced creating a Java application that listen for incoming connections through a `Socket` connection. The project idea was easy, created a Java application server that listen for incoming client connections, each client connections needs to be operated in a separate thread to avoid block the main thread, when the client send a message to the server, the server process this message and send it to a `Priority Queue`, next the message will be send to different clients connected. Work with threads and concurrency in Java is a little bit difficult, for the moment I am having problems to understand how to create concurrent code like this because I am not familiar with this type of code.
+
 ### Day 1968: Linked List Code Exercises
 
 Today I continue developing some common linked list operations like print all the values in a list, reverse a linked list, get the last node of a linked list, etc. These exercises are a very good way to practice with the Linked List and Doubly Linked list data structures, I had some problems to understand the logic behind the reverse a linked list algorithm, but after some time I could understand how it works. I will continue practicing with these exercises tomorrow.
