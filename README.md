@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1970: Continue learning about Concurrency
+
+Today I continue with my study of concurrency with Java. For the moment I am practicing with execute some Java processes in separated threads, accepting connections from multiple clients to my application and learning how to manage these clients concurrently. 
+
 ### Day 1969: Java Threads, Concurrency and Sockets
 
 Today I practiced creating a Java application that listen for incoming connections through a `Socket` connection. The project idea was easy, created a Java application server that listen for incoming client connections, each client connections needs to be operated in a separate thread to avoid block the main thread, when the client send a message to the server, the server process this message and send it to a `Priority Queue`, next the message will be send to different clients connected. Work with threads and concurrency in Java is a little bit difficult, for the moment I am having problems to understand how to create concurrent code like this because I am not familiar with this type of code.
