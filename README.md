@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1972: Practicing Linked List Algorithms
+
+Today I practiced solving some Linked List problems. I started the part of the book in which we review the Binary Search Tree but before start to review it, I want to solve some problems with the first Node-based data structure learned in the book. 
+
 ### Day 1971: Java `wait()` and `notify()`
 
 Today I studied this two Java methods to execute concurrent code. The `wait()` method blocks the current thread execution until another thread calls `notify()` in the same object. The `notify()` method wakes up the first thread that called `wait()` in the same object. Imagine that you are waiting to receive some data from a server, you start to read the data in a separate thread to avoid block the main application thread, but the data is not available yet, so you trigger `wait()` to tell the current thread to wait until the data is available, when the data is available the server thread calls `notify()` to wake up the thread that is waiting for the data. I read that these technique used in Java is very old, but in my work we use this technique with concurrent code.
