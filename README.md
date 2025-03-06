@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1973: Binary Search Tree
+
+Today I started to study this data structure in my DSA book. I am happy with my progress, I could implement the search and insertion operations from scratch only reading the logic steps from the book. Really practice is the key to master DSA, recursion, algorithms and all these complicated stuff. Tomorrow I have the plan to continue working with the Binary Search Tree currently I am stuck to write the method to `print` all the node values by level.
+
 ### Day 1972: Practicing Linked List Algorithms
 
 Today I practiced solving some Linked List problems. I started the part of the book in which we review the Binary Search Tree but before start to review it, I want to solve some problems with the first Node-based data structure learned in the book. 
