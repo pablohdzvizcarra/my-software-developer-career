@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1974: Writing Deletion Operation for Binary Search Tree
+
+Today I started to study and implement the deletion operation for the Binary Search Tree. For the moment I am having problems to understand how the operation works, the operation is very complex because we need to consider multiple scenarios to delete a node from the tree. I will need to continue studying this operation tomorrow.
+
 ### Day 1973: Binary Search Tree
 
 Today I started to study this data structure in my DSA book. I am happy with my progress, I could implement the search and insertion operations from scratch only reading the logic steps from the book. Really practice is the key to master DSA, recursion, algorithms and all these complicated stuff. Tomorrow I have the plan to continue working with the Binary Search Tree currently I am stuck to write the method to `print` all the node values by level.
