@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1976: Code Exercises and Java Question of the Week
+
+Today I continue solving code exercises related with Binary Search Trees, in other topics I answer the question of the week about how can we read the content of a file in Java. Answering these questions is a good exercises to learn and master concepts, maybe you think that well I know how to read a file in JKava, but you are not aware about the performance implications of the different ways to read that file.
+
 ### Day 1975: Continue with Binary Search Tree
 
 Today I continue studying Binary Search Trees. I solved some problems related with data structure and also I completed the book chapter about that. Tomorrow I have the plan to create a blog post about Java.
@@ -20,7 +24,7 @@ Today I started to study this data structure in my DSA book. I am happy with my 
 
 ### Day 1972: Practicing Linked List Algorithms
 
-Today I practiced solving some Linked List problems. I started the part of the book in which we review the Binary Search Tree but before start to review it, I want to solve some problems with the first Node-based data structure learned in the book. 
+Today I practiced solving some Linked List problems. I started the part of the book in which we review the Binary Search Tree but before start to review it, I want to solve some problems with the first Node-based data structure learned in the book.
 
 ### Day 1971: Java `wait()` and `notify()`
 
@@ -28,7 +32,7 @@ Today I studied this two Java methods to execute concurrent code. The `wait()` m
 
 ### Day 1970: Continue learning about Concurrency
 
-Today I continue with my study of concurrency with Java. For the moment I am practicing with execute some Java processes in separated threads, accepting connections from multiple clients to my application and learning how to manage these clients concurrently. 
+Today I continue with my study of concurrency with Java. For the moment I am practicing with execute some Java processes in separated threads, accepting connections from multiple clients to my application and learning how to manage these clients concurrently.
 
 ### Day 1969: Java Threads, Concurrency and Sockets
 
@@ -84,15 +88,15 @@ Today I learned one of foundations recursion principles. The principe is if your
 
 ### Day 1955 & 56: Recursion Functions that Generates Values
 
-Over the weekend I practiced recursion, focusing on recursive functions that generate a result like a list and then add items to that list in consequence executions. Yes, I continue with not understanding this type of functions well, I continue with problems about how to merge the return in a recursive function with the next executions, especially when the recursive function returns more than one value, is very strange to me, looks like some dark magic. But the good news is that with every day of practice it looks less complicated. Practice == mastery. 
+Over the weekend I practiced recursion, focusing on recursive functions that generate a result like a list and then add items to that list in consequence executions. Yes, I continue with not understanding this type of functions well, I continue with problems about how to merge the return in a recursive function with the next executions, especially when the recursive function returns more than one value, is very strange to me, looks like some dark magic. But the good news is that with every day of practice it looks less complicated. Practice == mastery.
 
 ### Day 1954: Debugging Recursion
 
-Today I spend most of my time debugging Recursion functions. I am using the VSC debugger to understand how the recursion works, One of my main current recursion problems is understand how the results are build in the recursion stack, the top-bottom approach is easier to understand rather than the bottom-up approach. Also the concept about solve sub-problems and combine the results to get the final solution is a little bit difficult to understand. 
+Today I spend most of my time debugging Recursion functions. I am using the VSC debugger to understand how the recursion works, One of my main current recursion problems is understand how the results are build in the recursion stack, the top-bottom approach is easier to understand rather than the bottom-up approach. Also the concept about solve sub-problems and combine the results to get the final solution is a little bit difficult to understand.
 
 ### Day 1953: Top Down Recursion
 
-Today I learned and practiced about the top-down recursion technique. This technique looks like magic to me, the idea is to start with the final solution and divide the problem into smaller sub-problems. Sounds crazy think about the function is already written and you only need to implement the sub-problems. I did some code exercises t practice this Recursion technique, I will need to continue practicing this technique tomorrow because continues looks like a magic thing for me. 
+Today I learned and practiced about the top-down recursion technique. This technique looks like magic to me, the idea is to start with the final solution and divide the problem into smaller sub-problems. Sounds crazy think about the function is already written and you only need to implement the sub-problems. I did some code exercises t practice this Recursion technique, I will need to continue practicing this technique tomorrow because continues looks like a magic thing for me.
 
 ### Day 1952: Recursion Repeatedly Execute
 
@@ -101,7 +105,7 @@ Today while studying recursion, I learned that recursion functions can be catego
 ### Day 1947, 48, 49, 50, 51: Sick, IBM Cloud Advocate and Recursion in Binary Trees
 
 These days were bad. I was sick since Friday and I could not code anything, I had a very bad headache and I was very tired. I was out for four days.
-The good news are today I approved the IBM Cloud Advocate certification exam, I am very happy with this achievement. I started to practice and study Recursion focusing on Binary Trees, today I have a lot of problems to print the value of the Node with the corresponding level of depth in the Tree. 
+The good news are today I approved the IBM Cloud Advocate certification exam, I am very happy with this achievement. I started to practice and study Recursion focusing on Binary Trees, today I have a lot of problems to print the value of the Node with the corresponding level of depth in the Tree.
 
 ### Day 1946: Continue with Algorithms
 
@@ -109,7 +113,7 @@ Today I begun my day solving LeetCode questions. I solved some problems related 
 
 ### Day 1945: Practice LeetCode Problems
 
-Today I have been practicing solving leetCode problems, currently I am working into implement the Binary Search algorithm https://leetcode.com/problems/binary-search/ for the moment I am stuck about how to implement them, in the past I remember I implement this algorithm following a tutorial but now I want to solve the problem by myself. I will continue working into this problem tomorrow.
+Today I have been practicing solving leetCode problems, currently I am working into implement the Binary Search algorithm <https://leetcode.com/problems/binary-search/> for the moment I am stuck about how to implement them, in the past I remember I implement this algorithm following a tutorial but now I want to solve the problem by myself. I will continue working into this problem tomorrow.
 
 ### Day 1944: Reading DSA Book and Stack Data Structure
 
@@ -137,7 +141,7 @@ Today I started to study recursion again. I am reading the book chapters about R
 
 ### Day 1938: Building A Javascript Linter Logic
 
-Today I started to work into create a function that checks if a string is a valid javascript code, the general idea is to review the opening and closing braces like `()[]{}` and validates if there are a correct order and number of braces. I am using a Stack to manage the curly braces order. I will need to continue working into this algorithm tomorrow. 
+Today I started to work into create a function that checks if a string is a valid javascript code, the general idea is to review the opening and closing braces like `()[]{}` and validates if there are a correct order and number of braces. I am using a Stack to manage the curly braces order. I will need to continue working into this algorithm tomorrow.
 
 ### Day 1937: Continue Reading and Doing Exercises
 
@@ -153,7 +157,7 @@ Today I fixed the Airflow issue about configure a directory as a module to be us
 
 ### Day 1934: Software Engineering Skills DAG
 
-Today I continue with the development of the Airflow DAG that looks for the last commit in this repository and extracts the skills learned that day. I completed the task that extract the README.md file from the code repository, and started the task that parse the extracted README.md file into a personalized data structure. The idea behind create a data structure to represent the data is to have easy access to the data. I created a method called get_last_entry that get the last entry journal in a dict format. Tomorrow if I have some free time I will need to fix an issue with Airflow related with use some modules in the DAG file. 
+Today I continue with the development of the Airflow DAG that looks for the last commit in this repository and extracts the skills learned that day. I completed the task that extract the README.md file from the code repository, and started the task that parse the extracted README.md file into a personalized data structure. The idea behind create a data structure to represent the data is to have easy access to the data. I created a method called get_last_entry that get the last entry journal in a dict format. Tomorrow if I have some free time I will need to fix an issue with Airflow related with use some modules in the DAG file.
 
 ### Day 1933: Hash Table
 
@@ -161,7 +165,7 @@ Today reading my DAS book, I started the part in which we study the Hash Table. 
 
 ### Day 1932: Big O in Everyday Code
 
-Today I practice with some common algorithms that we use in our daily activities, the idea is measure the code efficiency with Big O for common algorithms like look for an user within a list of elements. When you think about every piece of code that you write to solve a problem is an algorithm and also you can measure the efficiency of this code with Big O it's a good moment in your developer career. I think that is a good practice to measure the efficiency of your code, because you can know if your code is efficient or not. Also it's funny well, for me is funny. 
+Today I practice with some common algorithms that we use in our daily activities, the idea is measure the code efficiency with Big O for common algorithms like look for an user within a list of elements. When you think about every piece of code that you write to solve a problem is an algorithm and also you can measure the efficiency of this code with Big O it's a good moment in your developer career. I think that is a good practice to measure the efficiency of your code, because you can know if your code is efficient or not. Also it's funny well, for me is funny.
 
 ### Day 1931: Studying the Average Case Time Complexity
 
@@ -181,7 +185,7 @@ Today I learned techniques to structure an Airflow project. I am developing an A
 
 ### Day 1927: GitHub Software Engineering Skills DAG
 
-Today I started a new project. The main is to create a DAG that every day looks in this repository to check the last commit, if the last commit have the format dayXXXX, the DAG will extract the README.md file information and next serialize the README.md file in a Python object format, the idea is extract the last day skills learned entry like this entry and use a LLM to extract the skills learned that day. I want to storage the entries in a SQL database to know which technologies I learned that day. My goal is to continue learning Data Engineering, Airflow, DAG development and AI. You can see the general idea of the project in the next link: https://github.com/user-attachments/assets/ff3312e6-e9f9-46c3-979d-a50aa717a850  
+Today I started a new project. The main is to create a DAG that every day looks in this repository to check the last commit, if the last commit have the format dayXXXX, the DAG will extract the README.md file information and next serialize the README.md file in a Python object format, the idea is extract the last day skills learned entry like this entry and use a LLM to extract the skills learned that day. I want to storage the entries in a SQL database to know which technologies I learned that day. My goal is to continue learning Data Engineering, Airflow, DAG development and AI. You can see the general idea of the project in the next link: <https://github.com/user-attachments/assets/ff3312e6-e9f9-46c3-979d-a50aa717a850>  
 
 ### Day 1926: Looking for Duplicate Data with Spark
 
@@ -197,11 +201,11 @@ Today I spend some time analyzing data integrity in some parquet files. The prob
 
 ### Day 1923: Partition Keys
 
-Today I learned about partitions keys, I needed to do a little research about what are partitions keys and how works. I am working in a Data Engineering in which I see an example of a usage of a partition key in a parquet file, we use a parquet file to storage data and this data is modified frequently, so we need to backup this data weekly to have a copy of the data in case of a failure or our parquet finish in a corrupt state. One strategy that a team follows is have the data backup in an another parquet file and they use a partition key to store the data in a way that is easy to query and retrieve the data. So this parquet backup data contains partitions of weekly backups, so if you need to retrieve the data from a specific week, you only need to query the partition key with the week that you need to retrieve the data. I think that this is a good strategy to backup data, the trade-off is the storage required. Storage in these days is cheap. 
+Today I learned about partitions keys, I needed to do a little research about what are partitions keys and how works. I am working in a Data Engineering in which I see an example of a usage of a partition key in a parquet file, we use a parquet file to storage data and this data is modified frequently, so we need to backup this data weekly to have a copy of the data in case of a failure or our parquet finish in a corrupt state. One strategy that a team follows is have the data backup in an another parquet file and they use a partition key to store the data in a way that is easy to query and retrieve the data. So this parquet backup data contains partitions of weekly backups, so if you need to retrieve the data from a specific week, you only need to query the partition key with the week that you need to retrieve the data. I think that this is a good strategy to backup data, the trade-off is the storage required. Storage in these days is cheap.
 
 ### Day 1922: Solving LeetCode Problems
 
-Today I have continue solving some LeetCode problems related with arrays and use Map to lookup faster for elements. I continue reading my DSA book, for the moment I completed the book part about the Binary search algorithm, and how is more efficient to look for an element in an ordered array rather than a normal array. For the moment I fell good with my progress, I want to continue studying DSA and solving problems in LeetCode and GeekForGeeks. 
+Today I have continue solving some LeetCode problems related with arrays and use Map to lookup faster for elements. I continue reading my DSA book, for the moment I completed the book part about the Binary search algorithm, and how is more efficient to look for an element in an ordered array rather than a normal array. For the moment I fell good with my progress, I want to continue studying DSA and solving problems in LeetCode and GeekForGeeks.
 
 ### Day 1920-21: Continue with Data Structures and Algorithms
 
@@ -209,7 +213,7 @@ Today I continue studying DSA, I was studying again how the time complexities di
 
 ### Day 1919: Creating a Python AI Application
 
-Today I experiment with something new, I created a Python Chat AI application the user can interacts with the Granite, Llama and Mixtral LLM models to talk. The application have a basic web app interface with Flask and HTML, the user can write a message and the AI model will respond with a message. I learned some interesting prompts properties like special Tokens to indicate the model where the conversation starts, the role that the model will play in the conversation. I enjoyed creating this application. 
+Today I experiment with something new, I created a Python Chat AI application the user can interacts with the Granite, Llama and Mixtral LLM models to talk. The application have a basic web app interface with Flask and HTML, the user can write a message and the AI model will respond with a message. I learned some interesting prompts properties like special Tokens to indicate the model where the conversation starts, the role that the model will play in the conversation. I enjoyed creating this application.
 
 ### Day 1918: DSA and Data Backup Strategies
 
@@ -230,7 +234,7 @@ Today I solved the One plus problem that I started yesterday. Although it was an
 
 ### Day 1914: Reading and DSA
 
-Today I read a Substack article about how to growth from a mid-level software engineer to Senior (Article)[https://newsletter.eng-leadership.com/p/how-to-grow-from-mid-level-to-senior?utm_source=publication-search]. The Article was very good, I want this year be promoted in my current company, so I am looking for ways to grow and be a better software engineer. Also I started with the `Plus One` problem, I know that this problem is an Easy question, but well LeetCode says that I answered this problem 1 year ago, but at this moment I don't remember how to solve it, so I started to solve it again. The problem is very simple, you have an array of integers that represent a number, you need to add one to this number and return the result as an array. I will need to continue practicing DSA.
+Today I read a Substack article about how to growth from a mid-level software engineer to Senior [Article](https://newsletter.eng-leadership.com/p/how-to-grow-from-mid-level-to-senior?utm_source=publication-search). The Article was very good, I want this year be promoted in my current company, so I am looking for ways to grow and be a better software engineer. Also I started with the `Plus One` problem, I know that this problem is an Easy question, but well LeetCode says that I answered this problem 1 year ago, but at this moment I don't remember how to solve it, so I started to solve it again. The problem is very simple, you have an array of integers that represent a number, you need to add one to this number and return the result as an array. I will need to continue practicing DSA.
 
 ### Day 1913: DSA and Python Layered Architecture App
 
@@ -254,8 +258,7 @@ Today I worked in a task related with modify a column value in a PySpark datafra
 
 ### Day 1901-02-03-04: Christmas Break, Book Completed and LeetCode
 
-I take a Christmas break to rest and enjoy the time with the family. However, I could not relax without learning something new. I completed the Software Engineering at Google book, finally I completed it, after three months reading this book. Also I started to retake LeetCode problems, the next year I want to focus on Data Structures and Algorithms and my University degree. 
-
+I take a Christmas break to rest and enjoy the time with the family. However, I could not relax without learning something new. I completed the Software Engineering at Google book, finally I completed it, after three months reading this book. Also I started to retake LeetCode problems, the next year I want to focus on Data Structures and Algorithms and my University degree.
 
 **Day 1 - 50 HTML - CSS - Javascript** [here](./day0-500/day0-50.md)</br>
 **Day 51 - 100 Javascript** [here](./day0-500/day51-100.md)</br>
