@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1977-78: Studying and Break
+
+Yesterday I took a break from coding, I just read a few pages from the Tidy First book. Today I practiced with a Binary Search Tree code exercise. I had problems to solve the problem by myself, in the end I had to look for the code solution after several failed attempts. I need to practice more with recursion and trees.
+
 ### Day 1976: Code Exercises and Java Question of the Week
 
 Today I continue solving code exercises related with Binary Search Trees, in other topics I answer the question of the week about how can we read the content of a file in Java. Answering these questions is a good exercises to learn and master concepts, maybe you think that well I know how to read a file in JKava, but you are not aware about the performance implications of the different ways to read that file.
