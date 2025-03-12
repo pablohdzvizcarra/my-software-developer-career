@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1979: Heap Binary Trees
+
+Today I studied about the Heap Binary Tree data structure. First I read the theory of this data structure behind the insertion and deletion operations, I learned that this two operations have a `O(log N)` time complexity. Looks like that Heap trees are a good choice when you need to execute for example some operations or have the as a first element the element with the highest priority, also I read about *The last node problem* and how the binary tree trust on this operation to implement the others. Tomorrow I will continue studying this DS, Tress and recursion comes together and I have low knowledge with both concepts.
+
 ### Day 1977-78: Studying and Break
 
 Yesterday I took a break from coding, I just read a few pages from the Tidy First book. Today I practiced with a Binary Search Tree code exercise. I had problems to solve the problem by myself, in the end I had to look for the code solution after several failed attempts. I need to practice more with recursion and trees.
