@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1980: Importance of the Last Node Problem in Heap Trees
+
+Today studying about Heaps, I understand why the Last Node is very important for heaps and why an array is the best data structure to implement it. The last node of the heap is crucial for operations like deletion and insertion, for deletion we always move the last node as the new heap root and for insertion we always add the new node as the last node. The last node is very important to meet the heap property.
+
 ### Day 1979: Heap Binary Trees
 
 Today I studied about the Heap Binary Tree data structure. First I read the theory of this data structure behind the insertion and deletion operations, I learned that this two operations have a `O(log N)` time complexity. Looks like that Heap trees are a good choice when you need to execute for example some operations or have the as a first element the element with the highest priority, also I read about *The last node problem* and how the binary tree trust on this operation to implement the others. Tomorrow I will continue studying this DS, Tress and recursion comes together and I have low knowledge with both concepts.
