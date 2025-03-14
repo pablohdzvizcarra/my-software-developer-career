@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1981: Java Reflection
+
+Today I started to study and refresh my Java Reflection knowledge. In my current project we have a lot of reflection code and also Reflection is a lot used on the project, I feel a little lost when read this code, and also lost while I attempt to understand how the code works, for that reason I started a Udemy course about Reflection in Java.
+
 ### Day 1980: Importance of the Last Node Problem in Heap Trees
 
 Today studying about Heaps, I understand why the Last Node is very important for heaps and why an array is the best data structure to implement it. The last node of the heap is crucial for operations like deletion and insertion, for deletion we always move the last node as the new heap root and for insertion we always add the new node as the last node. The last node is very important to meet the heap property.
