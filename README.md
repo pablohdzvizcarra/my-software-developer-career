@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1982: Continue with Reflection
+
+Today I continue studying about Reflection. I created a Java application that analyze any object that you send as a parameter, from this object I extract the type, name, package name and also if the objects implements n number of interfaces, also I discovered that some IDE plugins use Reflection to show to the user the `Class` information when hover a class name, is interesting how Reflection in Java is used for a lot of tasks.
+
 ### Day 1981: Java Reflection
 
 Today I started to study and refresh my Java Reflection knowledge. In my current project we have a lot of reflection code and also Reflection is a lot used on the project, I feel a little lost when read this code, and also lost while I attempt to understand how the code works, for that reason I started a Udemy course about Reflection in Java.
