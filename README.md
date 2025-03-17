@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1984: Reading Class Fields with Reflection
+
+Today I learned and practice how to read the fields of a class using Reflection. With Reflection we can read the declared fields of a class in Runtime with their current values, I discovered that the JVM generates some special fields called **Synthetic** fields for internal class purposes, for example when we have a nested class, that class will have a synthetic field that points to the outer class. I also discovered that the JVM generates a field called `this$0` that points to the outer class, this field is used to access the outer class fields from the inner class. 
+
 ### Day 1983: Reflection & Dependency Injection
 
 Today I practice Reflection creating a little program that instantiate a class using Reflection, the class have as a dependencies multiple classes added as parameters and also that parameter classes can have other dependencies, so the idea was use Reflection and recursion to create an object for that class with all their dependencies. I am in the 1983 day learning computer science, please listen the next song called **1983** really is called like that https://www.youtube.com/watch?v=j51LRUjIdnE
