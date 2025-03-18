@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1985: JSON Serializer and Calculate Space Object
+
+Today I continue learning and practicing Reflection with two exercises, one was to create a JSON serializer algorithm that takes any `Object` and serialize into a JSON. The algorithm is simple, and works with primitives values like `int`, `boolean`, `char`, `short`, etc. Also I work into another exercise in which I calculate the memory that an object consumes in `bytes` in memory using Reflection. Sometimes I feel a little bored about Reflection, but I know that I need to know it for my current project.
+
 ### Day 1984: Reading Class Fields with Reflection
 
 Today I learned and practice how to read the fields of a class using Reflection. With Reflection we can read the declared fields of a class in Runtime with their current values, I discovered that the JVM generates some special fields called **Synthetic** fields for internal class purposes, for example when we have a nested class, that class will have a synthetic field that points to the outer class. I also discovered that the JVM generates a field called `this$0` that points to the outer class, this field is used to access the outer class fields from the inner class. 
