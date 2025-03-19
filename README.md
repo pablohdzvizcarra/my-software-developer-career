@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1986: Arrays and Reflection
+
+Today I learned how to detect if a `Field` from a `Class` is an array, also I implemented some code to read the values from the array one-by-one and at the end create a string JSON representation of the array. We can review if a `Field` is an array with the next code: `field.getType().isArray()`.
+
 ### Day 1985: JSON Serializer and Calculate Space Object
 
 Today I continue learning and practicing Reflection with two exercises, one was to create a JSON serializer algorithm that takes any `Object` and serialize into a JSON. The algorithm is simple, and works with primitives values like `int`, `boolean`, `char`, `short`, etc. Also I work into another exercise in which I calculate the memory that an object consumes in `bytes` in memory using Reflection. Sometimes I feel a little bored about Reflection, but I know that I need to know it for my current project.
