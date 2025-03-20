@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1987: Reflection Exercise
+
+Today I continue studying reflection with a code exercise. I needed to add the logic to serialize an array of objects into a JSON string. I liked the final result because I could reuse the previous code created to serialize a single object into a JSON string.
+
 ### Day 1986: Arrays and Reflection
 
 Today I learned how to detect if a `Field` from a `Class` is an array, also I implemented some code to read the values from the array one-by-one and at the end create a string JSON representation of the array. We can review if a `Field` is an array with the next code: `field.getType().isArray()`.
