@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1988: Configuration File Parser
+
+Today I did a little code exercise in which I create a `ConfigurationCreator` class with one method to create a config object from a file. The idea is to read a .cfg file, next use reflection to create a Java object with the .cfg file information. I used a Java `Scanner` to read the file information, also I created some unit tests to validate the code.
+
 ### Day 1987: Reflection Exercise
 
 Today I continue studying reflection with a code exercise. I needed to add the logic to serialize an array of objects into a JSON string. I liked the final result because I could reuse the previous code created to serialize a single object into a JSON string.
