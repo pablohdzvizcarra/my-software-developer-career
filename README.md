@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1989: Learning to Analyze Methods with Reflection
+
+Today I learned how to analyze the method from a X class using reflection. The Java reflection API allows us to analyze the methods from a class with a good interface, for example with the `Class.getMethods()` method we can get all the methods from a class, with the `Method.getName()` we can get the method name. I created a basic code logic to validate if a data class (A class that needs to have only getters methods for the class fields) is correct every field have a getter method, with the code logic: `String getterName = "get" + field.getName().substring(0, 1).toUpperCase() + field.getName().substring(1);` we can build the getter method name for a field.
+
 ### Day 1988: Configuration File Parser
 
 Today I did a little code exercise in which I create a `ConfigurationCreator` class with one method to create a config object from a file. The idea is to read a .cfg file, next use reflection to create a Java object with the .cfg file information. I used a Java `Scanner` to read the file information, also I created some unit tests to validate the code.
