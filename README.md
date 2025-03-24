@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1990-91: Continue with Reflection
+
+Over the Weekend I continue studying Reflection in Java. This time I created an implementation of a test framework, with some basic functionalities like analyzing all the methods declared in a Test class. First the test framework review all the methods declared in the class, every method that starts with a prefix `test` is considered a test method, and also the framework supports others test specified methods like `beforeClass`, `beforeEach` and `afterClass`. I have fun implementing this framework and know I understand how testing frameworks like `Jupyter` works.   
+
 ### Day 1989: Learning to Analyze Methods with Reflection
 
 Today I learned how to analyze the method from a X class using reflection. The Java reflection API allows us to analyze the methods from a class with a good interface, for example with the `Class.getMethods()` method we can get all the methods from a class, with the `Method.getName()` we can get the method name. I created a basic code logic to validate if a data class (A class that needs to have only getters methods for the class fields) is correct every field have a getter method, with the code logic: `String getterName = "get" + field.getName().substring(0, 1).toUpperCase() + field.getName().substring(1);` we can build the getter method name for a field.
