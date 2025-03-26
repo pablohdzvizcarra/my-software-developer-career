@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1992-93: Reading Java Annotations with Reflection
+
+During these two days I continue learning about Reflection. This I am learning how to read annotations from `Fields`, `Methods` and `Class` using reflection. I started to work on a code exercises in which I analyze all the classes inside a X java package to find which classes and methods are noted with some special Annotations, the idea is when a Class and Method have X annotation, we execute the method from the class with Reflection. The last technique is very useful when you want to initialize something in your code automatically like database connections, create caches, create a server connection, etc. I am having issues with this code exercises because the code cannot parse correctly a package name in String to a valid Java `URI` object. 
+
 ### Day 1990-91: Continue with Reflection
 
 Over the Weekend I continue studying Reflection in Java. This time I created an implementation of a test framework, with some basic functionalities like analyzing all the methods declared in a Test class. First the test framework review all the methods declared in the class, every method that starts with a prefix `test` is considered a test method, and also the framework supports others test specified methods like `beforeClass`, `beforeEach` and `afterClass`. I have fun implementing this framework and know I understand how testing frameworks like `Jupyter` works.   
