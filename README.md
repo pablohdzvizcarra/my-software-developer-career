@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1994: Implementing Retry Method Feature With Reflection
+
+Today I created an annotation called `RetryOperation`, this annotation can be used in methods that you want to retry their execution if an exception occurs in the method execution. The annotation have some annotation elements that you can customize to increase the number of retries or the delay between the retries, the main is annotate a method this annotation and with Java reflection, read the annotation elements, create code logic for the retry in case of an error and invoke the method with Reflection. 
+
 ### Day 1992-93: Reading Java Annotations with Reflection
 
 During these two days I continue learning about Reflection. This I am learning how to read annotations from `Fields`, `Methods` and `Class` using reflection. I started to work on a code exercises in which I analyze all the classes inside a X java package to find which classes and methods are noted with some special Annotations, the idea is when a Class and Method have X annotation, we execute the method from the class with Reflection. The last technique is very useful when you want to initialize something in your code automatically like database connections, create caches, create a server connection, etc. I am having issues with this code exercises because the code cannot parse correctly a package name in String to a valid Java `URI` object. 
