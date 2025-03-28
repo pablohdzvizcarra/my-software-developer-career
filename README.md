@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1995: Continue with Reflection and C Code
+
+Today I continue studying reflection, this time I build an application that read the parameter methods `Annotations` and execute the method with their parameters with Reflection like building a dependency graph, for example you have a method A that takes the result of method B as a parameter, so with Reflection and Annotations you can generate a dependency graph and execute a method, next pass the result method as a parameter of other method with Reflection. This is very useful when you want to execute N numbers of tasks in some order and you want to avoid calling directly it. In other topics I created a basic C program to list all my current local network address from my Mac. I started to lean C because I want to understand low-level concepts like working and manipulate bytes. 
+
 ### Day 1994: Implementing Retry Method Feature With Reflection
 
 Today I created an annotation called `RetryOperation`, this annotation can be used in methods that you want to retry their execution if an exception occurs in the method execution. The annotation have some annotation elements that you can customize to increase the number of retries or the delay between the retries, the main is annotate a method this annotation and with Java reflection, read the annotation elements, create code logic for the retry in case of an error and invoke the method with Reflection. 
