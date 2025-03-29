@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1996: Reding Fields Java Annotations
+
+Today I learned and practice how to know if a Field is marked with some annotation and how to read the annotation for the Field. This pattern of mark fields from a class with an annotation and next execute some specific behavior if the fields has X annotation is frequently used in mappers and builders, for example when you want to serialize/deserialize a JSON into a Java object or when you want to build a SQL query from a Java object. Also I continue learning C.
+
 ### Day 1995: Continue with Reflection and C Code
 
 Today I continue studying reflection, this time I build an application that read the parameter methods `Annotations` and execute the method with their parameters with Reflection like building a dependency graph, for example you have a method A that takes the result of method B as a parameter, so with Reflection and Annotations you can generate a dependency graph and execute a method, next pass the result method as a parameter of other method with Reflection. This is very useful when you want to execute N numbers of tasks in some order and you want to avoid calling directly it. In other topics I created a basic C program to list all my current local network address from my Mac. I started to lean C because I want to understand low-level concepts like working and manipulate bytes. 
