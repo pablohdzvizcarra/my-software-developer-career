@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1998: Reading
+
+Today I completed to read the **Tidy First** book. This lecture was good, I learned some tips and tricks to write better code and also I understand a little more why most of the times the company does not care of their code bases and why is most important for the company write fast code to deliver to the market that write good quality code.
+
 ### Day 1997: Reading Multiple Annotations
 
 Today I learned how to mark a method with multiple annotations of the same type. To read all the annotations from a method, you can use the `getAnnotationsByType` method; this method returns an array of annotations or an empty array if there are no annotations. One example of having the same annotation multiple times in a method is when you want to schedule the method execution at some different frequencies.
