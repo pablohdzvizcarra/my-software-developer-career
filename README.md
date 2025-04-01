@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 1999: Java Reflection Proxy
+
+Today I learned how to implement the `Proxy` pattern in Java. A proxy object is like a wrapper that adds some extra functionality like logging, caching, etc., operations to a class without modifying the class itself. The main proxy idea is to have a class that contains an instance of another class by composition. Next, when the proxy class receives a request, it executes the extra functionality and then delegates the execution to the real object. Proxy + Reflection is a powerful technique. You can easily wrap any type of class with a proxy and reflection.
+
 ### Day 1998: Reading
 
 Today I completed to read the **Tidy First** book. This lecture was good, I learned some tips and tricks to write better code and also I understand a little more why most of the times the company does not care of their code bases and why is most important for the company write fast code to deliver to the market that write good quality code.
