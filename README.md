@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2000: 2 Thousand Days of Code
+
+Today I achieved 2000 days of coding. Really, this is a big milestone for me. This has been a good and large travel, but it is only the start of the journey. Amazing things are coming like C, Storage Systems, Java Advanced Topics, Concurrency, Networking, Test-Driven Development, Performance, and more fun. 
+
 ### Day 1999: Java Reflection Proxy
 
 Today I learned how to implement the `Proxy` pattern in Java. A proxy object is like a wrapper that adds some extra functionality like logging, caching, etc., operations to a class without modifying the class itself. The main proxy idea is to have a class that contains an instance of another class by composition. Next, when the proxy class receives a request, it executes the extra functionality and then delegates the execution to the real object. Proxy + Reflection is a powerful technique. You can easily wrap any type of class with a proxy and reflection.
