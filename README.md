@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2001: Completed Reflection Course
+
+Today I completed my Java advance Reflection course. Really I learned a lot of things working on this course, the last part of the course was about best scenarios to implement Reflection, common errors implementing reflection like not create Reflection generic code and some security considerations.
+
 ### Day 2000: 2 Thousand Days of Code
 
 Today I achieved 2000 days of coding. Really, this is a big milestone for me. This has been a good and large travel, but it is only the start of the journey. Amazing things are coming like C, Storage Systems, Java Advanced Topics, Concurrency, Networking, Test-Driven Development, Performance, and more fun. 
