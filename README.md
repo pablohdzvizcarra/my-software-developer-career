@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2002: Sockets & C
+
+Today I continue working on my little C project, for the moment I am doing a research about how to handle a socket client connection into a separate thread, my code now is following an approach about open a client connection -> receive the message from the client -> send a response to client -> close the socket. The problem with this approach is we need to open/close the socket connection to send and receive only a single message, and I want to only open the connection and maintains active after the client or server closes it.
+
 ### Day 2001: Completed Reflection Course
 
 Today I completed my Java advance Reflection course. Really I learned a lot of things working on this course, the last part of the course was about best scenarios to implement Reflection, common errors implementing reflection like not create Reflection generic code and some security considerations.
