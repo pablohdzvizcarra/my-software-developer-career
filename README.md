@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2003: Coding and TDD
+
+Today I worked in a code algorithm to deserialize a `byte[]` into a Java object. The interesting thing on this deserialization process is I am manipulating the byte[] by indexes, for example to extract the name value from the byte array, I will need to extract the 23-40 bytes, and next pase these bytes into a String. For me work on this code is an interesting thing because I never worked with bytes offsets in the past. I am following TDD for this code algorithm because the code have a lot of logic, TDD looks like a great option for create a good algorithm and made future code changes without break existing functionalities. 
+
 ### Day 2002: Sockets & C
 
 Today I continue working on my little C project, for the moment I am doing a research about how to handle a socket client connection into a separate thread, my code now is following an approach about open a client connection -> receive the message from the client -> send a response to client -> close the socket. The problem with this approach is we need to open/close the socket connection to send and receive only a single message, and I want to only open the connection and maintains active after the client or server closes it.
