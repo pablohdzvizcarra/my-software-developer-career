@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2004: Low-Level Concepts
+
+Today I studied some low-level things like bit, bytes, 16-bits, 32-bits, 64-bits and review the Java types available to represent numbers. A `bit` is the smallest unit of digital information and can be only 0 or 1, a `byte` is composed for 6 bits and can contain a value between `-128` to `127`, next we have the 16-bits that is only 16 bits grouped together that represent some value between `0 to 65,535`, also we have other types of bits groups like 32 and 64 bits, these quantity of bits are used to represent larger values like 1_000_000 million. Remember that computers only understand 0 and 1, so if you want to execute a instruction, you will need to send only bits as information, the compiler or the interpreter is the responsible to parse the numbers, strings, boolean etc into their bit representation.
+
 ### Day 2003: Coding and TDD
 
 Today I worked in a code algorithm to deserialize a `byte[]` into a Java object. The interesting thing on this deserialization process is I am manipulating the byte[] by indexes, for example to extract the name value from the byte array, I will need to extract the 23-40 bytes, and next pase these bytes into a String. For me work on this code is an interesting thing because I never worked with bytes offsets in the past. I am following TDD for this code algorithm because the code have a lot of logic, TDD looks like a great option for create a good algorithm and made future code changes without break existing functionalities. 
