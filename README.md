@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2006: Trie Data Structure
+
+Today I continue studying the `Trie` data structure. I created the insert and search functionalities only reading the steps to create those algorithms, I feel very good because I can understand the algorithm steps and next implement them with Java code. Also I am very happy because I am following TDD while writing code, so for me my code practice is working good good because my code is tested. Tomorrow I will continue working on an algorithm to collect all the words of a `Trie` that starts with X prefix.  
+
 ### Day 2005: Organizing Goals
 
 Today I studied in the morning some C code, this time I started to create an application to review my current processes running in my ubuntu server. As a feature I printed in console the number of the process in bit representation. Also I did a review to my current 2025 goals and also my career goals, I completed to organize my April goals, on this month I want to focus on completed my DSA book, advance in my English course, learning more things required for my job and continue reding software engineering books.
