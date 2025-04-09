@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2007: Complete `collectAllWords` algorithm
+
+Today I continue developing he algorithm to collect all the words from a `Trie` that starts with X prefix. I created one method that receives a prefix and returns a `List<String>` with all the words that start with that prefix. The algorithm use recursion to review the N number of nodes that start with the prefix.
+
 ### Day 2006: Trie Data Structure
 
 Today I continue studying the `Trie` data structure. I created the insert and search functionalities only reading the steps to create those algorithms, I feel very good because I can understand the algorithm steps and next implement them with Java code. Also I am very happy because I am following TDD while writing code, so for me my code practice is working good good because my code is tested. Tomorrow I will continue working on an algorithm to collect all the words of a `Trie` that starts with X prefix.  
