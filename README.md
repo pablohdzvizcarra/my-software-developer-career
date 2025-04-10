@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2008: Building autocorrect Feature
+
+Today I completed a algorithm for an aucorrect feature for my `Trie`. The general idea was developer an autocorrect feature that fix a word with a typo issue like workong needs to be changed by working. The algorithm follow basic steps, first we iterate over each character of the prefix argument, next we look if the character is present as a key for a node and if it's present we continue with the next character if it is not present, we choice the first replacemenet node for that key and continue working the word from that node. At the end we finish with a complete word. I feel good because I completed this algorithm from myself, I only read the steps and I figure out how to make the algorithm and code.
+
 ### Day 2007: Complete `collectAllWords` algorithm
 
 Today I continue developing he algorithm to collect all the words from a `Trie` that starts with X prefix. I created one method that receives a prefix and returns a `List<String>` with all the words that start with that prefix. The algorithm use recursion to review the N number of nodes that start with the prefix.
