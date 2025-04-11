@@ -5,6 +5,9 @@ When I first embarked on my programming journey, I envisioned a way to reflect o
 This repository stands as a testament to that vision, a chronicle of my growth in the world of software engineering.
 
 ## Programming Changes My Life
+### Day 2009: Graph Data Structure
+
+Today I started to study about Grpah data structure. I started with the theory about how is represented a Graph. A `Graph` can contains N numbers of vertex, vertex is like a node in a Tree. This Vertices are connected by edges and when two vertices are connected to each other are called that the two vertics are adjacent to each other. Graph theory is interesting and in my current project we use it in some algorithms. 
 
 ### Day 2008: Building autocorrect Feature
 
