@@ -5,13 +5,18 @@ When I first embarked on my programming journey, I envisioned a way to reflect o
 This repository stands as a testament to that vision, a chronicle of my growth in the world of software engineering.
 
 ## Programming Changes My Life
+
+### Day 2010: BFS Breadth-First Search
+
+Today I studied the BFS algorithm to traverse all nodes within a Graph DS. The core of BFS is traverse the Graph node by node using recursion. The first step is to review if the node is already placed in another DS (normally a Map) to maintain a registry if the node was visited. If the node was not visited we add the node to the Map and use recursion to visit the adjacent nodes, the general idea about have a Map DS is to avoid visit again nodes because remember in a Graph the nodes can have cycles. During the weekend I want to build a C project for fun and learning. 
+
 ### Day 2009: Graph Data Structure
 
-Today I started to study about Grpah data structure. I started with the theory about how is represented a Graph. A `Graph` can contains N numbers of vertex, vertex is like a node in a Tree. This Vertices are connected by edges and when two vertices are connected to each other are called that the two vertics are adjacent to each other. Graph theory is interesting and in my current project we use it in some algorithms. 
+Today I started to study about Graph data structure. I started with the theory about how is represented a Graph. A `Graph` can contains N numbers of vertex, vertex is like a node in a Tree. This Vertices are connected by edges and when two vertices are connected to each other are called that the two vertices are adjacent to each other. Graph theory is interesting and in my current project we use it in some algorithms. 
 
 ### Day 2008: Building autocorrect Feature
 
-Today I completed a algorithm for an aucorrect feature for my `Trie`. The general idea was developer an autocorrect feature that fix a word with a typo issue like workong needs to be changed by working. The algorithm follow basic steps, first we iterate over each character of the prefix argument, next we look if the character is present as a key for a node and if it's present we continue with the next character if it is not present, we choice the first replacemenet node for that key and continue working the word from that node. At the end we finish with a complete word. I feel good because I completed this algorithm from myself, I only read the steps and I figure out how to make the algorithm and code.
+Today I completed a algorithm for an autocorrect feature for my `Trie`. The general idea was developer an autocorrect feature that fix a word with a typo issue like working needs to be changed by working. The algorithm follow basic steps, first we iterate over each character of the prefix argument, next we look if the character is present as a key for a node and if it's present we continue with the next character if it is not present, we choice the first replacement node for that key and continue working the word from that node. At the end we finish with a complete word. I feel good because I completed this algorithm from myself, I only read the steps and I figure out how to make the algorithm and code.
 
 ### Day 2007: Complete `collectAllWords` algorithm
 
