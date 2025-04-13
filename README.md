@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2011: C Project
+
+Today I worked on a C project. I am creating a Chat application in C with a basic client-server communication sending and receiving messages.
+
 ### Day 2010: BFS Breadth-First Search
 
 Today I studied the BFS algorithm to traverse all nodes within a Graph DS. The core of BFS is traverse the Graph node by node using recursion. The first step is to review if the node is already placed in another DS (normally a Map) to maintain a registry if the node was visited. If the node was not visited we add the node to the Map and use recursion to visit the adjacent nodes, the general idea about have a Map DS is to avoid visit again nodes because remember in a Graph the nodes can have cycles. During the weekend I want to build a C project for fun and learning. 
