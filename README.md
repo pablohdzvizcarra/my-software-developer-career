@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2012: Dealing with Segmentation Fault C Errors
+
+Today I continue working on my project about designing my own protocol over TCP for a client-server communication. Working on the feature to encode the message to hexadecimal values in the client before send the message to the server I face some C issues related with the memory usage. Working with C is difficult at the start because you will need to allocate to memory every array and also you are responsible to free the memory after used it.
+
 ### Day 2011: C Project
 
 Today I worked on a C project. I am creating a Chat application in C with a basic client-server communication sending and receiving messages.
