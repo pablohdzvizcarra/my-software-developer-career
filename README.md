@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2013: Graphs Time Complexity
+
+Today I continue reading and studying my DSA book. I continue reading the chapter dedicated to the Graph data structure, for the moment I implemented the two algorithms most used to search for an element within Graph Breadth-first search and Deep-first search. Also I remember that a Graph have a `O(V + E)` time complexity that means V for the number of vertices and E for the number of Edges within the Graph. I have the plan to continue studying this DS for some days more.
+
 ### Day 2012: Dealing with Segmentation Fault C Errors
 
 Today I continue working on my project about designing my own protocol over TCP for a client-server communication. Working on the feature to encode the message to hexadecimal values in the client before send the message to the server I face some C issues related with the memory usage. Working with C is difficult at the start because you will need to allocate to memory every array and also you are responsible to free the memory after used it.
