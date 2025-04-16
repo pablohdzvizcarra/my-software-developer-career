@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2014: Dijkstra Algorithm
+
+Today I studied the Dijkstra algorithm. This algorithm is used to know the shortest path in a Weighted Graph, for the moment the algorithm is hard to understand for me because I am figure out how the algorithm use backtracking to save the responses from previous executions and combine with the new executions to get the result. Tomorrow I will continue studying this.
+
 ### Day 2013: Graphs Time Complexity
 
 Today I continue reading and studying my DSA book. I continue reading the chapter dedicated to the Graph data structure, for the moment I implemented the two algorithms most used to search for an element within Graph Breadth-first search and Deep-first search. Also I remember that a Graph have a `O(V + E)` time complexity that means V for the number of vertices and E for the number of Edges within the Graph. I have the plan to continue studying this DS for some days more.
