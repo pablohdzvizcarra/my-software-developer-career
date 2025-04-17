@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2015: Continue Learning DSA
+
+Today I continue studying the Dijkstra algorithm, I study the algorithm logic ot solve this problem and for the moment the logic is very complicated, I think that is one of the most complicated algorithm that I studied while reading the book. I am working into implement it with Java code.
+
 ### Day 2014: Dijkstra Algorithm
 
 Today I studied the Dijkstra algorithm. This algorithm is used to know the shortest path in a Weighted Graph, for the moment the algorithm is hard to understand for me because I am figure out how the algorithm use backtracking to save the responses from previous executions and combine with the new executions to get the result. Tomorrow I will continue studying this.
