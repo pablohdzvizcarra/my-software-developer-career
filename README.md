@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2016-17: Completed to read DSA Book
+
+During these days I completed to read the DSA book. When I finished to read the book I went to GeekForGeeks to solve some random problems. I feel very good working on the book exercises because most of them I can solved it without my current knowledge. My next step for my DSA journey now is continue solving problems in GeekForGeeks and solving some algorithms list about the most common problems like the [Blind 75 list](https://www.geeksforgeeks.org/most-asked-75-coding-problems/).
+
 ### Day 2015: Continue Learning DSA
 
 Today I continue studying the Dijkstra algorithm, I study the algorithm logic ot solve this problem and for the moment the logic is very complicated, I think that is one of the most complicated algorithm that I studied while reading the book. I am working into implement it with Java code.
