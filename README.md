@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2018: Organizing Goals and C Code
+
+Today I organize and updated my goals for the next months. I continue studying C programming language for fun and also I am choosing a new book to start to read. For the C learning I am doing a Udemy course and reinforce my learning with writing unit test for the code and extending the code provided in the course. For the moment I am learning the purpose of the `h` files in C and algo how to compile the code using the `gcc` compiler with Make files.
+
 ### Day 2016-17: Completed to read DSA Book
 
 During these days I completed to read the DSA book. When I finished to read the book I went to GeekForGeeks to solve some random problems. I feel very good working on the book exercises because most of them I can solved it without my current knowledge. My next step for my DSA journey now is continue solving problems in GeekForGeeks and solving some algorithms list about the most common problems like the [Blind 75 list](https://www.geeksforgeeks.org/most-asked-75-coding-problems/).
