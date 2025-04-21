@@ -6,6 +6,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2019: Unit Testing in C
+
+Today I learned how to create and execute unit tests with C. I found an excellent Medium tutorial about how to configure, create and execute Unit Test in C using the Unity framework [here](https://medium.com/@kasra_mp/introduction-to-c-unit-testing-with-the-unity-framework-15903823ce8a). I am doing an Udemy course about C and the course does not have unit test for the code that tutorial code (I believe that 95% of the programming courses don't have unit tests.) and to make the tutorial more challenge and feel that really I am learning something I am writing unit test for the code and also extending the code provided by the tutorial.  For me is good learn on this way, learning by practice.
+
+
 ### Day 2018: Organizing Goals and C Code
 
 Today I organize and updated my goals for the next months. I continue studying C programming language for fun and also I am choosing a new book to start to read. For the C learning I am doing a Udemy course and reinforce my learning with writing unit test for the code and extending the code provided in the course. For the moment I am learning the purpose of the `h` files in C and algo how to compile the code using the `gcc` compiler with Make files.
