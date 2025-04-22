@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2020: Errors with Unit Testing and Makefiles in C
+
+Today I attempted to fix some errors in my make tasks that executes all my unit tests inside a folder using the C unity library. Working with Makefiles is like working with the terminal, the instructions are some unix commands and a lot of pattern matching for the path files. Really configuring my C project to execute all my unit tests to work in a TDD methodology in C is becoming a nightmare. Well, I believe that tomorrow I continue working on this.
+
 ### Day 2019: Unit Testing in C
 
 Today I learned how to create and execute unit tests with C. I found an excellent Medium tutorial about how to configure, create and execute Unit Test in C using the Unity framework [here](https://medium.com/@kasra_mp/introduction-to-c-unit-testing-with-the-unity-framework-15903823ce8a). I am doing an Udemy course about C and the course does not have unit test for the code that tutorial code (I believe that 95% of the programming courses don't have unit tests.) and to make the tutorial more challenge and feel that really I am learning something I am writing unit test for the code and also extending the code provided by the tutorial.  For me is good learn on this way, learning by practice.
