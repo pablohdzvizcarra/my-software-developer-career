@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2021: Global Variables in C
+
+Today I learned that in C you can create a global variable when you simple declare the variable in the file outside of any other function, normally you want to declare the global variables at the top of the file. To be able to use that variable in another module you will need to use the `extern` keyword before the variable type and name like `extern int counter`, this line of code is like saying use the counter variable with type int from any other module. You will need to have caution because if you declare two global variables with the same name in different modules, you had a compilation error.
+
 ### Day 2020: Errors with Unit Testing and Makefiles in C
 
 Today I attempted to fix some errors in my make tasks that executes all my unit tests inside a folder using the C unity library. Working with Makefiles is like working with the terminal, the instructions are some unix commands and a lot of pattern matching for the path files. Really configuring my C project to execute all my unit tests to work in a TDD methodology in C is becoming a nightmare. Well, I believe that tomorrow I continue working on this.
