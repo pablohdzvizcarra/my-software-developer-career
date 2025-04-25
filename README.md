@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2022-23 Studying Virtualization Logical Concepts
+
+Today I studied some virtualization logical concepts for a storage system. One of the most abstract logical concepts is the logical volume. Think in a logical volume that you have a HDDs with 1TB of storage and you want to split that HDD in 5 X 200G parts and to achieve that you build 200G logical volume from tha physical HDD. A modern alternative to create a logical volume from a physical volume is use extents, an extent is another logical layer that you can use to divide a physical volume into fixe-sized chunks and you can allocate that chunks into a logical volume using an extent pool. I know there is a lot of stuff here but I want to understand more Storage virtualization technologies and storage systems.
+
 ### Day 2021: Global Variables in C
 
 Today I learned that in C you can create a global variable when you simple declare the variable in the file outside of any other function, normally you want to declare the global variables at the top of the file. To be able to use that variable in another module you will need to use the `extern` keyword before the variable type and name like `extern int counter`, this line of code is like saying use the counter variable with type int from any other module. You will need to have caution because if you declare two global variables with the same name in different modules, you had a compilation error.
