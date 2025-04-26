@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2024 Continue Studying About Virtualization Storage
+
+Today I will continue to study storage virtualization techniques. To organize logical volumes for easy management and copy services functions, these volumes are grouped into Logical Subsystems, a logical subsystem can have up to 256 logical volumes, but all these logical volumes must have the same format, an example a logical volume can be a fixed block or CKD (Content Key Data) type. Grouping logical volumes into LSS is convenient for some operations, another concept is that we can group LSS into address group and each address group can have 16 LSS. There is a lot of technical stuff left to learn about storage virtualization techniques for me. Well, tomorrow I want to learn some new things about Java.
+
 ### Day 2022-23 Studying Virtualization Logical Concepts
 
 Today I studied some virtualization logical concepts for a storage system. One of the most abstract logical concepts is the logical volume. Think in a logical volume that you have a HDDs with 1TB of storage and you want to split that HDD in 5 X 200G parts and to achieve that you build 200G logical volume from tha physical HDD. A modern alternative to create a logical volume from a physical volume is use extents, an extent is another logical layer that you can use to divide a physical volume into fixe-sized chunks and you can allocate that chunks into a logical volume using an extent pool. I know there is a lot of stuff here but I want to understand more Storage virtualization technologies and storage systems.
