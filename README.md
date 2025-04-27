@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2025: Studying Sockets & Java Compatibility
+
+Today I was developing some code to study about Socket connections. I reviewed the source Java code for the ServerSocket and Socket classes to understand how Java manage the socket creations. I want to understand deeply how the sockets are created and managed because in my work we rely on Socket connections and sometimes these connections fails with disconnected status of other type of errors randomly. Also I did a little research about one questions that was sounding in my head the entire week "*Java code compiled with 8 version and running in a JVM 17, can utilize all the new features for a Java 17 version?*", I utilized **Gemini** to create a research paper about this topic, and the result was great the research paper created is very good and works for my purposes, also if you have doubts about if the AI is making hallucinations, you can easily review the reference section with all the sources used to create the document, if you have curiosity please review the next link to read the document: [PDF Document](resources/java-8-compiled-code-running-in-jvm-17.pdf). Also is amazing 2025 coding days and the current year is the 2025 I believe that I will not see this happens again.
+
 ### Day 2024 Continue Studying About Virtualization Storage
 
 Today I will continue to study storage virtualization techniques. To organize logical volumes for easy management and copy services functions, these volumes are grouped into Logical Subsystems, a logical subsystem can have up to 256 logical volumes, but all these logical volumes must have the same format, an example a logical volume can be a fixed block or CKD (Content Key Data) type. Grouping logical volumes into LSS is convenient for some operations, another concept is that we can group LSS into address group and each address group can have 16 LSS. There is a lot of technical stuff left to learn about storage virtualization techniques for me. Well, tomorrow I want to learn some new things about Java.
