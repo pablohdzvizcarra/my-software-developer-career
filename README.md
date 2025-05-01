@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2028-29: Bit, Bytes and Bitwise Operations in Java
+
+Today I was working on reading and deserializing some bytes to Java objects. The challenge of this task was I am not very good with bytes, bit, bitwise operations and low-level code things. So I had to learn how to check if a bit withint a byte, for example check if the bit 6 has a value of 1 to perform some action, or perform some other action. Really my brain hurt for some time, but well I continue working, learning and remembering several things related with these code operations and at the end I can complete the task. I want to continue practicing these topics during the week and weekend to gain more skills.
+
 ### Day 2026-27: Just Java
 
 Today I had some problems to understand the hierarchy of a Java class and how the class wsa designed. The class is an implementation of an interface and depending of the implementation class the interface method behavior changes, the class follow the Builder pattern. The problem was difficult because the main method of this class returns and object of X type, but the result also is an interface and their implementation is placed in a separate module and having an interface and 10 implementations sometimes is difficult to know which object the method is returning when a client call it. When the code is running and you have the ability to execute the program easily add a break point is a fast way to understand the problem, but if you could not configure a break point in the IDE to debug the code, good luck.
