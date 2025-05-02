@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2030: Java Bit Server Socket 
+
+Today I practiced building a Java application that creates a server socket and accepts incoming connections from clients. The different thing was that I designed the socket server to interpret the incomming client messages by reading the bits of X byte. The idea was to practice bitwise operations in Java, for example, if the first byte on the received message has 1 in the 7-index, do something specific with the message, if not, do this other thing. Practicing bitwise operations was great for me because I loved to lean about the low-level concepts in computer science. 
+
 ### Day 2028-29: Bit, Bytes and Bitwise Operations in Java
 
 Today I was working on reading and deserializing some bytes to Java objects. The challenge of this task was I am not very good with bytes, bit, bitwise operations and low-level code things. So I had to learn how to check if a bit withint a byte, for example check if the bit 6 has a value of 1 to perform some action, or perform some other action. Really my brain hurt for some time, but well I continue working, learning and remembering several things related with these code operations and at the end I can complete the task. I want to continue practicing these topics during the week and weekend to gain more skills.
