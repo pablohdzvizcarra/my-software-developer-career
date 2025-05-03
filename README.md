@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2031: Setting my Goals
+
+Today I reviewed my professional and personal goals as a Software Developer. I refactor my current sheet that I use to track my goals and progress, adding and removing one of them and also I used AI to build a more focused plan and review if my current goals are achievable considering my free time.
+
 ### Day 2030: Java Bit Server Socket 
 
 Today I practiced building a Java application that creates a server socket and accepts incoming connections from clients. The different thing was that I designed the socket server to interpret the incomming client messages by reading the bits of X byte. The idea was to practice bitwise operations in Java, for example, if the first byte on the received message has 1 in the 7-index, do something specific with the message, if not, do this other thing. Practicing bitwise operations was great for me because I loved to lean about the low-level concepts in computer science. 
