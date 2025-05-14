@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2042: Java Threads
+
+Today I started the Java Multithreading, Concurrency & Performance Optimization [Udemy course](https://ibm-learning.udemy.com/course/java-multithreading-concurrency-performance-optimization). I have created a goal to learn Java advance concepts and Multi-threading applications, concurrency and performance are one of them. For the moment the course looks good, I have a refresh about how the operating systems uses threads to execute multiple tasks at the same time (Concurrency). I learned again the Context Switch problem when creatig multiple threads and the OS does not have the necessary resources to manage it, this causes long times and bad responsiveness for the application. 
+
 ### Day 2041: Mediator Pattern
 
 Today, I reviewed the Mediator design pattern. I worked on understanding a storage feature called a channel connection volume. This channel connection volume is like an interface that clients use to send data to device volumes. I applied this concept to the Mediator design pattern. You can think of this feature as middleware between the client and the end destination. It's merely a pipe through which requests travel. It looks like Design Patterns can be used to represent multiple things or to understand other technologies.
