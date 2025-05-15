@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2043: Working with Bit and Bytes
+
+Today I was working into create some code logic to fill a Java `byte[]` array with some specific to build an entire bitmap with a length of `255` elements. The general idea was create the bitmap that contains 255 bits and for example 1 means the element is present and 0 means the element is not present. This exercise was very useful to learn how to manipulate bits and bytes directly with Java, and how to use bitwise operations like `>>`, `&`, etc.
+
 ### Day 2042: Java Threads
 
 Today I started the Java Multithreading, Concurrency & Performance Optimization [Udemy course](https://ibm-learning.udemy.com/course/java-multithreading-concurrency-performance-optimization). I have created a goal to learn Java advance concepts and Multi-threading applications, concurrency and performance are one of them. For the moment the course looks good, I have a refresh about how the operating systems uses threads to execute multiple tasks at the same time (Concurrency). I learned again the Context Switch problem when creatig multiple threads and the OS does not have the necessary resources to manage it, this causes long times and bad responsiveness for the application. 
