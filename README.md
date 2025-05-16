@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2044: Continue with Bytes and Bitwise Operators
+
+Today I have been studying about bit manipulation in Java using Bitwise operators. I studied the `AND` (`&`) operator, this operator is useful if you wany to check if a specific bit is 1 in a mask. This operator creates a result with bit setuo to 1 in the bit position in which both bits were 1 in the operands. I will continue working with these bitwise operators because I want to understand good these low-level concepts.  
+
 ### Day 2043: Working with Bit and Bytes
 
 Today I was working into create some code logic to fill a Java `byte[]` array with some specific to build an entire bitmap with a length of `255` elements. The general idea was create the bitmap that contains 255 bits and for example 1 means the element is present and 0 means the element is not present. This exercise was very useful to learn how to manipulate bits and bytes directly with Java, and how to use bitwise operations like `>>`, `&`, etc.
