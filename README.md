@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2045: Java Threading and Bitwise
+
+Today I have been studying Java Threading and Bitwise operations. I remember how to work with the `join` method in a Thread, how to execute some code and wait until all the code logic inside a `Runnable` implementation is executed. Also, I reviewed what a Daemon thread is. A Daemon thread is a Thread that runs in the background within the main application execution. If the daemon thread is running, we can terminate the application without waiting for the thread completion. Daemon threads are useful when you want to execute a process in parallel in your main application, and this process can be interrupted at any time. 
+
 ### Day 2044: Continue with Bytes and Bitwise Operators
 
 Today I have been studying about bit manipulation in Java using Bitwise operators. I studied the `AND` (`&`) operator, this operator is useful if you wany to check if a specific bit is 1 in a mask. This operator creates a result with bit setuo to 1 in the bit position in which both bits were 1 in the operands. I will continue working with these bitwise operators because I want to understand good these low-level concepts.  
