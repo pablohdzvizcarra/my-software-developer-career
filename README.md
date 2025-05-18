@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2046: Continue with Threads and Bit/Byte Manipulation 
+
+Today I continue learning about Threads and byte manipulation. I worked on an application to change the color of an image, manipulating the pixels individually, modifying their RGB colors. This exercise was great, but I had a problem because the code looks good, but for an unknown reason, the final image finally finishes with a corrupt state. The idea is to create two versions of the application: one version runs in a single thread, and the other runs on multiple threads, executing the task in parallel.
+
 ### Day 2045: Java Threading and Bitwise
 
 Today I have been studying Java Threading and Bitwise operations. I remember how to work with the `join` method in a Thread, how to execute some code and wait until all the code logic inside a `Runnable` implementation is executed. Also, I reviewed what a Daemon thread is. A Daemon thread is a Thread that runs in the background within the main application execution. If the daemon thread is running, we can terminate the application without waiting for the thread completion. Daemon threads are useful when you want to execute a process in parallel in your main application, and this process can be interrupted at any time. 
