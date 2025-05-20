@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2047: Throughput, Threads and Concurrency
+
+Today I continue with my Java course about Multithreading and performance in Java. Today I created an HTTP application that has an endpoint in which the user sends a word like `word=dog` and the application looks for all the dog words in a file in .txt format. The interesting part of this example is that we executed a loading test with JMeter to measure the throughput of the system. If we increase the application threads, the application has a better throughput improvement. Tomorrow I will continue studying these topics because they are very interesting.
+
 ### Day 2046: Continue with Threads and Bit/Byte Manipulation 
 
 Today I continue learning about Threads and byte manipulation. I worked on an application to change the color of an image, manipulating the pixels individually, modifying their RGB colors. This exercise was great, but I had a problem because the code looks good, but for an unknown reason, the final image finally finishes with a corrupt state. The idea is to create two versions of the application: one version runs in a single thread, and the other runs on multiple threads, executing the task in parallel.
