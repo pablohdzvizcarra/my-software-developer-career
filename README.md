@@ -6,6 +6,12 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2048: Concurrency Issues and Ubuntu Server Dead
+
+Today, while studying common concurrency issues when accessing shared resources by multiple threads, such as race conditions, I delved deeper into the Java synchronized mechanism. Java provides a synchronization mechanism to effectively manage multiple threads within an application. The `synchronized` keyword is used to create a lock on a resource, preventing race conditions and other issues. Interestingly, every class in Java has an intrinsic lock mechanism, and this mechanism can be utilized with the `synchronized` keyword.
+
+On a different note, after upgrading some packages on my Ubuntu server and restarting it, I noticed that the server was looping in the restart process. I’m not sure why this is happening, but I’ll have to investigate further on the weekend. 
+
 ### Day 2047: Throughput, Threads and Concurrency
 
 Today I continue with my Java course about Multithreading and performance in Java. Today I created an HTTP application that has an endpoint in which the user sends a word like `word=dog` and the application looks for all the dog words in a file in .txt format. The interesting part of this example is that we executed a loading test with JMeter to measure the throughput of the system. If we increase the application threads, the application has a better throughput improvement. Tomorrow I will continue studying these topics because they are very interesting.
