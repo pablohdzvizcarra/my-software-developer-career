@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2049: Java Feature Toggles
+
+Today, I worked on implementing a new feature with a **feature toggle** functionality for a software product. We need to develop a new feature for one of our clients who also requires the old code functionality. I investigated software architecture patterns to achieve this behavior and found the feature toggle pattern. Imagine this pattern as an on/off button. When the button is on, you have the new behavior, and when the button is off, you have the old behavior. We can configure the on/off button with an environment variable, a configuration file, or a basic touch file.
+
 ### Day 2048: Concurrency Issues and Ubuntu Server Dead
 
 Today, while studying common concurrency issues when accessing shared resources by multiple threads, such as race conditions, I delved deeper into the Java synchronized mechanism. Java provides a synchronization mechanism to effectively manage multiple threads within an application. The `synchronized` keyword is used to create a lock on a resource, preventing race conditions and other issues. Interestingly, every class in Java has an intrinsic lock mechanism, and this mechanism can be utilized with the `synchronized` keyword.
