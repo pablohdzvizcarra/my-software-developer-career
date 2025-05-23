@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2050: Working with Bytes
+
+Today, I worked into create a byte[] in which I will need to concatenate `N` number of responses inside it. The general idea was wrap the byte[] into a Java object and create an API for the clients, like creating a `Facade` design pattern to offers a simple API with complex calculations. Some of the features were, provide a `getNextResponse()` like a linked list method to get the next response element between the `byte[]`, also a has method for the same functionallity, some methods to split the raw array byte into chunks, etc. I feel good while working on this code implementation. 
+
 ### Day 2049: Java Feature Toggles
 
 Today, I worked on implementing a new feature with a **feature toggle** functionality for a software product. We need to develop a new feature for one of our clients who also requires the old code functionality. I investigated software architecture patterns to achieve this behavior and found the feature toggle pattern. Imagine this pattern as an on/off button. When the button is on, you have the new behavior, and when the button is off, you have the old behavior. We can configure the on/off button with an environment variable, a configuration file, or a basic touch file.
