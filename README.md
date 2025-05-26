@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2051-52-53: Watchdog
+
+During that time, I continued working on the Java Multithreading and Concurrency course on Udemy. One of the main things I learned was the watchdog mechanism, which monitors systems and detects lockdowns or dead systems. I had never used this concept before, but I will implement it with Java code in my current project to detect when the system is down or when there are deadlocked threads. I created a basic implementation of the system using Java code to simulate deadlock states in some threads, leaving the watchdog to detect those threads and recreate or destroy them. I have completed 60% of the course, and I will continue working on it in the coming days.
+
 ### Day 2050: Working with Bytes
 
 Today, I worked into create a byte[] in which I will need to concatenate `N` number of responses inside it. The general idea was wrap the byte[] into a Java object and create an API for the clients, like creating a `Facade` design pattern to offers a simple API with complex calculations. Some of the features were, provide a `getNextResponse()` like a linked list method to get the next response element between the `byte[]`, also a has method for the same functionallity, some methods to split the raw array byte into chunks, etc. I feel good while working on this code implementation. 
