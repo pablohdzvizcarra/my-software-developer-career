@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2054: Ansible & Docker
+
+Today I dockerized an Ansible workflow within a container running on RedHat UBI image. My general idea was create a container environment to execute some Ansible playbooks, these playbooks requires a specific Ansible, Python and Paramiko version to work properly and to avoid dependencies issues in my machine and install a specific old version of a dependecy I decided to execute the Ansible playbooks inside a Container. The final result was good, I can execute the plabooks within the container and I learned multiple things about RedHat UBI images.
+
 ### Day 2051-52-53: Watchdog
 
 During that time, I continued working on the Java Multithreading and Concurrency course on Udemy. One of the main things I learned was the watchdog mechanism, which monitors systems and detects lockdowns or dead systems. I had never used this concept before, but I will implement it with Java code in my current project to detect when the system is down or when there are deadlocked threads. I created a basic implementation of the system using Java code to simulate deadlock states in some threads, leaving the watchdog to detect those threads and recreate or destroy them. I have completed 60% of the course, and I will continue working on it in the coming days.
