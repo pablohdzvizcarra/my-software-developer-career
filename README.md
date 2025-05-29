@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2055-56: Multithreading & Kubernetes Architecture
+
+I continued studying about Java Multithreading. This time, I studied the Java `Semaphore` class. With the `Semaphore`, we can create multithreading applications easily. One of the most common usages of this pattern is in a producer-consumer architecture. We have N number of producers, and maybe we can wait until a consumer reads a message from a queue. So, we can use the `Semaphore.acquire()` method like a sleep until some condition is met. In this case, the condition is another thread executing the `Semaphore.release()` method. Looking for a real example in which this technique is applied, I discovered that Kubernetes uses this pattern when updating some objects using events that come from an API with a Bounded Blocking Work Queue. I am working on a code implementation of this pattern for learning purposes.  
+
 ### Day 2054: Ansible & Docker
 
 Today I dockerized an Ansible workflow within a container running on RedHat UBI image. My general idea was create a container environment to execute some Ansible playbooks, these playbooks requires a specific Ansible, Python and Paramiko version to work properly and to avoid dependencies issues in my machine and install a specific old version of a dependecy I decided to execute the Ansible playbooks inside a Container. The final result was good, I can execute the plabooks within the container and I learned multiple things about RedHat UBI images.
