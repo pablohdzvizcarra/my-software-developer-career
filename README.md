@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2057: Failover Issues
+
+Today, I debugged an application issue. When something went wrong with Worker A, we needed to fail over to Worker B. For an unknown reason, Worker B could not successfully execute the request. This issue is strange because the two workers should work equally, and at any time, either worker can have the role of the main worker depending on the workload. Tomorrow, I will continue investigating this pattern/architecture to better understand common problems with this design.
+
 ### Day 2055-56: Multithreading & Kubernetes Architecture
 
 I continued studying about Java Multithreading. This time, I studied the Java `Semaphore` class. With the `Semaphore`, we can create multithreading applications easily. One of the most common usages of this pattern is in a producer-consumer architecture. We have N number of producers, and maybe we can wait until a consumer reads a message from a queue. So, we can use the `Semaphore.acquire()` method like a sleep until some condition is met. In this case, the condition is another thread executing the `Semaphore.release()` method. Looking for a real example in which this technique is applied, I discovered that Kubernetes uses this pattern when updating some objects using events that come from an API with a Bounded Blocking Work Queue. I am working on a code implementation of this pattern for learning purposes.  
