@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2058: Back Pressure
+
+Today I learned the **back pressure** concept in software design. This concept is used to describe when we have a producer pushing messages to a queue and the queue has a consumer that is reading the message, but for example, the producer pushes 10/s messages and the consumer reads 2/s. In this scenario, the queue grows to a good size to handle all the messages. To avoid this bad design, we need to apply a limit to the queue and stop the producer for some time after the consumers leave the queue empty. Learning about Java multithreading will be good and hard at the same time.
+
 ### Day 2057: Failover Issues
 
 Today, I debugged an application issue. When something went wrong with Worker A, we needed to fail over to Worker B. For an unknown reason, Worker B could not successfully execute the request. This issue is strange because the two workers should work equally, and at any time, either worker can have the role of the main worker depending on the workload. Tomorrow, I will continue investigating this pattern/architecture to better understand common problems with this design.
