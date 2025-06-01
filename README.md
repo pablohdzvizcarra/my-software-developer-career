@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2059: Studying Kubernetes Architecture
+
+Today I studied the Kubernetes concurrency and multithreading architecture. I completed the Java concurrency & Multithreading section 8 course learning about some concurrency and patterns and common issues working in multithreading environments. I learned two interesting concepts. The first is how Kubernetes manages a Controller-Manager pattern, that is, we have a manager and this manager needs to sleep until a number of controllers are ready to work, like the Services and Node controller. To be able to use this pattern with Java, we can use the `wait()`, `notify()`, and `notifyAll()` methods. The second pattern was the Slow Critical Section issues working with multiple threads, that is, when you have a block to some shared resource, but for example, thread A requires 2 minutes to complete the action, and another thread needs to wait until thread A completes its process. We can fix this issue isolating and reducing the code that is inside the block in Java. Learning about the Kubernetes architecture is opening my mind in a new way.
+
 ### Day 2058: Back Pressure
 
 Today I learned the **back pressure** concept in software design. This concept is used to describe when we have a producer pushing messages to a queue and the queue has a consumer that is reading the message, but for example, the producer pushes 10/s messages and the consumer reads 2/s. In this scenario, the queue grows to a good size to handle all the messages. To avoid this bad design, we need to apply a limit to the queue and stop the producer for some time after the consumers leave the queue empty. Learning about Java multithreading will be good and hard at the same time.
