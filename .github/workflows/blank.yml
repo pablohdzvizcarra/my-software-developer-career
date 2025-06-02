@@ -37,5 +37,5 @@ jobs:
             **/*.txt
           alex: true
           write-good: true
-          markdown-spellschek: true
+          markdown-spellcheck: true
 
