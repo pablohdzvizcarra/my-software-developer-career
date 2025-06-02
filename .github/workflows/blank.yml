@@ -31,6 +31,6 @@ jobs:
 
       - uses: matheus23/md-spellcheck-action@v4.2.2
         with:
-          files-to-check: "*.md"
+          files-to-check: "**/*.md"
           files-to-exclude: "LICENSE.md"
 
