@@ -31,7 +31,7 @@ jobs:
 
       - uses: wow-actions/spell-checker@v1
         with:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          GITHUB_TOKEN: ${{secrets.SUPER_TOKEN}}
           include: |
             **/*.md
             **/*.txt
