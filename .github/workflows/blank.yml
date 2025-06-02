@@ -29,13 +29,8 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world! This is working
 
-      - uses: wow-actions/spell-checker@v1
+      - uses: matheus23/md-spellcheck-action@v4.2.2
         with:
-          GITHUB_TOKEN: ${{secrets.SUPER_TOKEN}}
-          include: |
-            **/*.md
-            **/*.txt
-          alex: true
-          write-good: true
-          markdown-spellcheck: true
+          files-to-check: "*.md"
+          files-to-exclude: "LICENSE.md"
 
