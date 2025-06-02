@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2060: Back to Jetbrains IDEs
+
+Today I apply refactoring to this code repository. I had my history entries in the bottom of the file in a basic format; to have a better look, I organize them in a table with four columns. Organizing my history entries, I felt good with my progress over the years studying and working as a Software Engineer. It is a pleasure to see your hard work generates incredible results.
+
 ### Day 2059: Studying Kubernetes Architecture
 
 Today I studied the Kubernetes concurrency and multithreading architecture. I completed the Java concurrency & Multithreading section 8 course learning about some concurrency and patterns and common issues working in multithreading environments. I learned two interesting concepts. The first is how Kubernetes manages a Controller-Manager pattern, that is, we have a manager and this manager needs to sleep until a number of controllers are ready to work, like the Services and Node controller. To be able to use this pattern with Java, we can use the `wait()`, `notify()`, and `notifyAll()` methods. The second pattern was the Slow Critical Section issues working with multiple threads. When you have a block to some shared resource, but for example, thread A needs 2 minutes to complete the action, and another thread needs to wait until thread A completes its process. We can fix this issue by isolating and reducing the code that is inside the block in Java. Learning about the Kubernetes architecture is opening my mind in a new way.
