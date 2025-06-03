@@ -6,9 +6,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2061: Networking Communication by Peers
+
+Today I studied the Peer concept in networking. A peer in just one of the elements in a network connection, for example, you have more than 1 TCP sockets that are sending messages between them by the network; each TCP socket is Peer in the network connection. Most of the time when you need to ensure that all the messages were sent to the other peers, you use an `Acknowledge` mechanism, and to know who is the peer that send that message you use a Peer ID, this Peer ID is the way to you know which TCP socket sends the message and also what message do you want to validate. Studying all these concepts is very confused sometimes, there are a lot of things to learn in networking. 
+
 ### Day 2060: Back to Jetbrains IDEs
 
-Today I apply refactoring to this code repository. I had my history entries in the bottom of the file in a basic format; to have a better look, I organize them in a table with four columns. Organizing my history entries, I felt good with my progress over the years studying and working as a Software Engineer. It is a pleasure to see your hard work generates incredible results.
+Today I apply refactoring to this code repository. I had my history entries in the bottom of the file in a basic format; to have a better look, I organize them in a table with four columns. Organizing my history entries, I felt good with my progress over the years studying and working as a Software Engineer. It is a pleasure to see your hard work generate incredible results.
 
 ### Day 2059: Studying Kubernetes Architecture
 
