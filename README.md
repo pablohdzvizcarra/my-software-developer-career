@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2062: Thread-Per-Task/Response Pattern
+
+Today I studied the `Thread-Per-Task` concurrency pattern. This pattern is used when you want to execute multiple tasks concurrently to avoid having Clients waiting for a long time because maybe your application needs to execute an IO operation. IO operations are expensive to be executed, and most of the time you want to process multiple requests for an IO operation at the same time. The `Thread-Per-Task` pattern is used to execute a task in a separate thread, the rule is you needed to use the same number of threads equal to the same number of available cores in the host. You can create `N` number of threads you want depending on your computer resources, if you create a lot of threads and your computer can't support them, you will get a Memory exception. Sometimes if you create a lot of threads, your application performance will be bad rather than having only one thread executing all the tasks; this is for the context switch problem.       
+
 ### Day 2061: Networking Communication by Peers
 
 Today I studied the Peer concept in networking. A peer in just one of the elements in a network connection, for example, you have more than 1 TCP sockets that are sending messages between them by the network; each TCP socket is Peer in the network connection. Most of the time when you need to ensure that all the messages were sent to the other peers, you use an `Acknowledge` mechanism, and to know who is the peer that send that message you use a Peer ID, this Peer ID is the way to you know which TCP socket sends the message and also what message do you want to validate. Studying all these concepts is very confused sometimes, there are a lot of things to learn in networking. 
