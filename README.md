@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2063: Message Order
+
+Today I worked in a interesting issue. The main problem of the issue is the code expects to receive some messages in a specific order, for example, the first message with a wrong response, the second is correct and the third is wrong, what happens if the code only waits until receive two responses, the normal flow is first wrong, second correct, but if the third message is received as a second? The code ends up with an issue due to this bad logic. I am investigating architectures that fixes this problem, maybe validating if the messages are correct rather than skip of configure the code wait for more responses. 
+
 ### Day 2062: Thread-Per-Task/Response Pattern
 
 Today I studied the `Thread-Per-Task` concurrency pattern. This pattern is used when you want to execute multiple tasks concurrently to avoid having Clients waiting for a long time because maybe your application needs to execute an IO operation. IO operations are expensive to be executed, and most of the time you want to process multiple requests for an IO operation at the same time. The `Thread-Per-Task` pattern is used to execute a task in a separate thread, the rule is you needed to use the same number of threads equal to the same number of available cores in the host. You can create `N` number of threads you want depending on your computer resources, if you create a lot of threads and your computer can't support them, you will get a Memory exception. Sometimes if you create a lot of threads, your application performance will be bad rather than having only one thread executing all the tasks; this is for the context switch problem.       
