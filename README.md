@@ -6,9 +6,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2064: Making Simple Mistakes
+
+Today while debugging an issue in an application, I made the basic mistake that connects to a different server by SSH and start with the debugging; this cause me to lose sometime because I don't understand why I don't see the application logs if was connected to the correct server, so please next time that you need to connect to a server, ensure that the server is the correct. In other topics I learned the trade-offs about Non-Blocking IO operations in software, and the biggest trade-off is the code maintenance. One of the most common issues with the Callbacks is the `Callback Hell`, when you have multiple callbacks and the next callback depends on the answer of the previous and so on. Multithreading applications are arduous to debug and sometimes to read, and a Multithreading application that uses Reflection is doubly the hard to read and understand.
+
 ### Day 2063: Message Order
 
-Today I worked in a interesting issue. The main problem of the issue is the code expects to receive some messages in a specific order, for example, the first message with a wrong response, the second is correct and the third is wrong, what happens if the code only waits until receive two responses, the normal flow is first wrong, second correct, but if the third message is received as a second? The code ends up with an issue due to this bad logic. I am investigating architectures that fixes this problem, maybe validating if the messages are correct rather than skip of configure the code wait for more responses. 
+Today I worked on an interesting issue. The main problem of the issue is the code expects to receive some messages in a specific order. For example, the first message with a wrong response, the second is correct and the third is wrong, what happens if the code only waits until receive two responses, the normal flow is first wrong, second correct, but if the third message is received as a second? The code ends up with an issue due to this bad logic. I am investigating architectures that fixes this problem, maybe validating if the messages are correct rather than skip of configure the code wait for more responses. 
 
 ### Day 2062: Thread-Per-Task/Response Pattern
 
