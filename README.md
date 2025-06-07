@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2065: Completed Java Concurrency and Multithreading Course
+
+Today I completed the **Java Multithreading, Concurrency, and Performance** Udemy course. This course was good, and you need to have a Java Intermediate-Advanced level for the coding exercises because some of them are very technical. During the course, I learned a lot of things related to the JVM tools that we have to create multithreading and performance applications. I learned what virtual threads are, how to work with them, and the differences between a normal OS thread and a virtual thread. At this moment, I never work with virtual threads in my work. I have the plan to continue investigating more concurrency and multithreading patterns that Kubernetes uses and create applications following those patterns to practice the concepts learned on the weekend. You can found the course link in the [Courses Completed](./courses-completed.md) file, I have the plan to register my future learning activities in separate markdown files.
+
 ### Day 2064: Making Simple Mistakes
 
 Today while debugging an issue in an application, I made the basic mistake that connects to a different server by SSH and start with the debugging; this cause me to lose sometime because I don't understand why I don't see the application logs if was connected to the correct server, so please next time that you need to connect to a server, ensure that the server is the correct. In other topics I learned the trade-offs about Non-Blocking IO operations in software, and the biggest trade-off is the code maintenance. One of the most common issues with the Callbacks is the `Callback Hell`, when you have multiple callbacks and the next callback depends on the answer of the previous and so on. Multithreading applications are arduous to debug and sometimes to read, and a Multithreading application that uses Reflection is doubly the hard to read and understand.
@@ -53,7 +57,7 @@ During that time, I continued working on the Java Multithreading and Concurrency
 ## History
 
 | Days      | Main Topics / Technologies                                                                                  | Highlights                                   | Link                                   |
-|-----------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------|
+| --------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------- | -------------------------------------- |
 | 1-50      | HTML, CSS, JavaScript                                                                                       |                                              | [View](./day0-500/day0-50.md)          |
 | 51-100    | JavaScript                                                                                                  |                                              | [View](./day0-500/day51-100.md)        |
 | 101-150   | JavaScript                                                                                                  |                                              | [View](./day0-500/day101-150.md)       |
