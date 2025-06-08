@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2066: How to Group Objects
+
+Today I learned multiple logical configurations techniques to group `Objects` that represent Physical Drives in a Storage System. In an Storage System or Software you can have `N` number of physical or virtual disks to save data, these disks needs to be grouped into logical representations for better administration of them. We an group these disks in fixed groups like 16 elements, 32, and so on. With Java we can multiple options to store elements in Data Structures like Arrays, Queues, Stacks, Trees, Map, etc.
+
 ### Day 2065: Completed Java Concurrency and Multithreading Course
 
 Today I completed the **Java Multithreading, Concurrency, and Performance** Udemy course. This course was good, and you need to have a Java Intermediate-Advanced level for the coding exercises because some of them are very technical. During the course, I learned a lot of things related to the JVM tools that we have to create multithreading and performance applications. I learned what virtual threads are, how to work with them, and the differences between a normal OS thread and a virtual thread. At this moment, I never work with virtual threads in my work. I have the plan to continue investigating more concurrency and multithreading patterns that Kubernetes uses and create applications following those patterns to practice the concepts learned on the weekend. You can found the course link in the [Courses Completed](./courses-completed.md) file, I have the plan to register my future learning activities in separate markdown files.
