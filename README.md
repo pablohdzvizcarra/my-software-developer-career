@@ -6,9 +6,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2067–68: Starting a new Project
+
+I decide to take a rest from Java, Concurrency, and Multithreading to build a project for fun. I am working into create a Shell that accepts commands like `echo`, `cat`, etc with Go. The shell needs to work like a REPL program and execute the provided commands with buildin instructions or delegate the command execution to the operating system.  
+
 ### Day 2066: How to Group Objects
 
-Today I learned multiple logical configurations techniques to group `Objects` that represent Physical Drives in a Storage System. In an Storage System or Software you can have `N` number of physical or virtual disks to save data, these disks needs to be grouped into logical representations for better administration of them. We an group these disks in fixed groups like 16 elements, 32, and so on. With Java we can multiple options to store elements in Data Structures like Arrays, Queues, Stacks, Trees, Map, etc.
+Today I learned multiple logical configurations techniques to group `Objects` that represent Physical Drives in a Storage System. In a Storage System or Software you can have `N` number of physical or virtual disks to save data, these disks need to be grouped into logical representations for better administration of them. We group these disks in fixed groups like 16 elements, 32, and so on. With Java, we can have multiply options to store elements in Data Structures like Arrays, Queues, Stacks, Trees, Map, etc.
 
 ### Day 2065: Completed Java Concurrency and Multithreading Course
 
@@ -52,7 +56,7 @@ I continued studying about Java Multithreading. This time, I studied the Java `S
 
 ### Day 2054: Ansible & Docker
 
-Today I dockerized an Ansible workflow within a container running on RedHat UBI image. My general idea was to create a container environment to execute some Ansible playbooks; these playbooks require a specific Ansible, Python and Paramiko version to work properly. To avoid dependency issues in my machine and install a specific old version of a dependency, I decided to execute the Ansible playbooks inside a Container. The final result was good, I can execute the playbooks within the container, and I learned multiple things about RedHat UBI images.
+Today I dockerized an Ansible workflow within a container running on RedHat UBI image. My general idea was to create a container environment to execute some Ansible playbooks; these playbooks require a specific Ansible, Python, and Paramiko version to work properly. To avoid dependency issues in my machine and install a specific old version of a dependency, I decided to execute the Ansible playbooks inside a Container. The final result was good, I can execute the playbooks within the container, and I learned multiple things about RedHat UBI images.
 
 ### Day 2051-52-53: Watchdog
 
