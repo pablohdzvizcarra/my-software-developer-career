@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2069: Building type and Redirect Command Execution to OS Binaries
+
+Today I completed the `type` command in my custom shell. For the moment if the user inserts something like `type curl` commands, my shell look if one of the directories in the `PATH` contains a binary that can be executed, fi the binary exists my shell sends to the user the output like `curl is /usr/bin/curl`. Also, I worked into implement the feature to delegate the command execution to the OS binaries using the `exec.Command` golang function.   
+
 ### Day 2067–68: Starting a new Project
 
 I decide to take a rest from Java, Concurrency, and Multithreading to build a project for fun. I am working into create a Shell that accepts commands like `echo`, `cat`, etc with Go. The shell needs to work like a REPL program and execute the provided commands with buildin instructions or delegate the command execution to the operating system.  
