@@ -7,6 +7,15 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2071: Support PWD Command in Shell
+
+Today I completed the support for the PWD command in my shell project. The `pwd` can be very tricky to implement because
+in your PATH directory you can have the `pwd` executable and if you don't manage the pwd command as a builtin, you can
+delegate the functionality to the executable. Creating the `pwd` functionality in your shell can be straightforward 
+because you only need to read the current working directory and send the absolute path to the stout to be consumed
+by the client. Alos I learned that **builtin** commands are executed by the shell, the shell is responsible for the 
+commands behavior. 
+
 ### Day 2070: Completed Redirect Commands to Executables
 
 Today I completed the feature in which the use inserts a command to the shell, and the shell validates if there is an
@@ -57,12 +66,13 @@ server is the correct. In other topics I learned the trade-offs about Non-Blocki
 biggest trade-off is the code maintenance. One of the most common issues with the Callbacks is the `Callback Hell`, when
 you have multiple callbacks and the next callback depends on the answer of the previous and so on. Multithreading
 applications are arduous to debug and sometimes to read, and a Multithreading application that uses Reflection is doubly
- hard to read and understand.
+hard to read and understand.
 
 ### Day 2063: Message Order
 
 Today I worked on an interesting issue. The main problem of the issue is the code expects to receive some messages in a
-specific order. For example, the first message with a wrong response, the second is correct, and the third is wrong, what
+specific order. For example, the first message with a wrong response, the second is correct, and the third is wrong,
+what
 happens if the code only waits until receive two responses. The normal flow is first wrong, second correct, but if the
 third message is received as a second? The code ends up with an issue due to this bad logic. I am investigating
 architectures that fix this problem, maybe validating if the messages are correct rather than skip of configure the
