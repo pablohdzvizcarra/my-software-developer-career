@@ -7,14 +7,23 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2072: Supporting CD and Relative Paths
+
+Today I added the support for the `cd` command in my own shell, HOME path and relative paths. To implement the `cd`
+command I used the `os.Chdir` function, with this golang function you can easily support the command in your shell. 
+This command also supports relative paths, so you need little effort to add this feature. Supporting the `PATH` took 
+more steps, first you will need to read the PATH value from te operating systems. Second when you read the value you 
+also can use the `os.Chdir` function to move to the destination dir. Also I refactored my unit tests following the 
+Table-Driven Test pattern, following this pattern is very, very great, you can add a new test easily and fast.
+
 ### Day 2071: Support PWD Command in Shell
 
 Today I completed the support for the PWD command in my shell project. The `pwd` can be very tricky to implement because
 in your PATH directory you can have the `pwd` executable and if you don't manage the pwd command as a builtin, you can
-delegate the functionality to the executable. Creating the `pwd` functionality in your shell can be straightforward 
+delegate the functionality to the executable. Creating the `pwd` functionality in your shell can be straightforward
 because you only need to read the current working directory and send the absolute path to the stout to be consumed
-by the client. Alos I learned that **builtin** commands are executed by the shell, the shell is responsible for the 
-commands behavior. 
+by the client. Also, I learned that **builtin** commands are executed by the shell, the shell is responsible for the
+command behavior.
 
 ### Day 2070: Completed Redirect Commands to Executables
 
