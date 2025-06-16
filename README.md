@@ -7,13 +7,23 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2073–74: Building a Lexer for my Shell Project
+
+During the weekend I started to build a Lexer for my shell project. I started with the coding part for the lexer, for 
+the moment I support parse basic strings into command and argument like `echo hello`, supporting this behavior was some 
+easy because I only needed to a logic to first get the command from the string and second read the argument or 
+arguments and because I am following TDD while writing the code, was very easy refactor the usage of the Golang 
+`strings` package for my Lexer. Supporting the Literal string values like echo 'hello    world' was more complicated 
+and make my brain in pain for some time, but in the end I can implement the feature without using AI to write the code.
+I am feeling with my progress because I am using only AI (Gemini) for basic code Golang tasks.
+
 ### Day 2072: Supporting CD and Relative Paths
 
 Today I added the support for the `cd` command in my own shell, HOME path and relative paths. To implement the `cd`
-command I used the `os.Chdir` function, with this golang function you can easily support the command in your shell. 
+command I used the `os.Chdir` function, with this golang function you can support the command in your shell. 
 This command also supports relative paths, so you need little effort to add this feature. Supporting the `PATH` took 
 more steps, first you will need to read the PATH value from te operating systems. Second when you read the value you 
-also can use the `os.Chdir` function to move to the destination dir. Also I refactored my unit tests following the 
+also can use the `os.Chdir` function to move to the destination dir. Also, I refactored my unit tests following the 
 Table-Driven Test pattern, following this pattern is very, very great, you can add a new test easily and fast.
 
 ### Day 2071: Support PWD Command in Shell
