@@ -7,6 +7,15 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2075: Supporting Single Quotes and Literal Strings
+
+Today I supported the usage of single quotes inside the input string in the shell. Working on this feature was 
+complicated because I needed to refactor my `Lexer.Tokenizer` function to detect when the user input contains a single 
+quote. For example, a user sent as input a string like: `echo hello 'world  friends'`, for the previous user input, the
+lexer needs to read the first chunk using whitespace as delimiter. The left elements after the command are known as the
+arguments, and the Lexer logic needs to create two arguments, one is `hello` and the seconds is `world  friends`. 
+For the moment my `Tokenize` function returns a struct that only contains a `Command string` and `Arguments string[]`.  
+
 ### Day 2073–74: Building a Lexer for my Shell Project
 
 During the weekend I started to build a Lexer for my shell project. I started with the coding part for the lexer, for 
