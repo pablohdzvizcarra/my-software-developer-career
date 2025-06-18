@@ -7,6 +7,15 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2076: Issues While Supporting Escape Characters in Shell Project
+
+Today I had a lot of issues adding the support to escape characters in my shell project. The problem is in the lexer 
+logic you need to add some rules to detect when the user inserts an escape character in any part of the input string.
+If the user inserts the escape character `\` outside quotes, the character needs to be ignored, but if the user inserts
+between single or double quotes, you will need to include it in the final result. Imagine the problem when you have a 
+command like the next: `echo \java\ "is the \best programming 'language' in the \world"`, you will need to have good 
+state rules to parse the user input into a valid command.
+
 ### Day 2075: Supporting Single Quotes and Literal Strings
 
 Today I supported the usage of single quotes inside the input string in the shell. Working on this feature was 
