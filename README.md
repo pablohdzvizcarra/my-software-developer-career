@@ -7,6 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2077: Continue with Issues in Lexer
+
+Today I continue fixing some issue sin my Lexer. For the moment if the user inserts a strange string input like
+`"echo /tmp/data/f'/'89 /tmp/dog/f'88"`, my Lexer logic is having problems to parse the `/tmp/data/f'/'89` chunk,
+I fixed this issue adding another `if` statement in the logic, but I continue with issues when the user input have
+multiple escape characters, single and double quotes, backslashes, etc.
+
 ### Day 2076: Issues While Supporting Escape Characters in Shell Project
 
 Today I had a lot of issues adding the support to escape characters in my shell project. The problem is in the lexer 
