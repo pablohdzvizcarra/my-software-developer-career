@@ -7,6 +7,14 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2078: Completed Quoting in Lexer
+
+Today I completed the quoting logic in my Lexer. The Lexer now supports single quotes, double quotes, escape
+characters, and backslashes. I don't know why but when I completed the third section, the remainder 3 sections
+works with the same code logic. I am learning a lot about how a shell works internally, how a Lexer works, and how
+to parse a string and split a string into a command and arguments. Tomorrow I will continue with the shell project,
+the next module to be implemented is the redirection of the command output to a file.
+
 ### Day 2077: Continue with Issues in Lexer
 
 Today I continue fixing some issue sin my Lexer. For the moment if the user inserts a strange string input like
@@ -16,39 +24,39 @@ multiple escape characters, single and double quotes, backslashes, etc.
 
 ### Day 2076: Issues While Supporting Escape Characters in Shell Project
 
-Today I had a lot of issues adding the support to escape characters in my shell project. The problem is in the lexer 
+Today I had a lot of issues adding the support to escape characters in my shell project. The problem is in the lexer
 logic you need to add some rules to detect when the user inserts an escape character in any part of the input string.
 If the user inserts the escape character `\` outside quotes, the character needs to be ignored, but if the user inserts
-between single or double quotes, you will need to include it in the final result. Imagine the problem when you have a 
-command like the next: `echo \java\ "is the \best programming 'language' in the \world"`, you will need to have good 
+between single or double quotes, you will need to include it in the final result. Imagine the problem when you have a
+command like the next: `echo \java\ "is the \best programming 'language' in the \world"`, you will need to have good
 state rules to parse the user input into a valid command.
 
 ### Day 2075: Supporting Single Quotes and Literal Strings
 
-Today I supported the usage of single quotes inside the input string in the shell. Working on this feature was 
-complicated because I needed to refactor my `Lexer.Tokenizer` function to detect when the user input contains a single 
+Today I supported the usage of single quotes inside the input string in the shell. Working on this feature was
+complicated because I needed to refactor my `Lexer.Tokenizer` function to detect when the user input contains a single
 quote. For example, a user sent as input a string like: `echo hello 'world  friends'`, for the previous user input, the
 lexer needs to read the first chunk using whitespace as delimiter. The left elements after the command are known as the
-arguments, and the Lexer logic needs to create two arguments, one is `hello` and the seconds is `world  friends`. 
+arguments, and the Lexer logic needs to create two arguments, one is `hello` and the seconds is `world  friends`.
 For the moment my `Tokenize` function returns a struct that only contains a `Command string` and `Arguments string[]`.  
 
 ### Day 2073–74: Building a Lexer for my Shell Project
 
-During the weekend I started to build a Lexer for my shell project. I started with the coding part for the lexer, for 
-the moment I support parse basic strings into command and argument like `echo hello`, supporting this behavior was some 
-easy because I only needed to a logic to first get the command from the string and second read the argument or 
-arguments and because I am following TDD while writing the code, was very easy refactor the usage of the Golang 
-`strings` package for my Lexer. Supporting the Literal string values like echo 'hello    world' was more complicated 
+During the weekend I started to build a Lexer for my shell project. I started with the coding part for the lexer, for
+the moment I support parse basic strings into command and argument like `echo hello`, supporting this behavior was some
+easy because I only needed to a logic to first get the command from the string and second read the argument or
+arguments and because I am following TDD while writing the code, was very easy refactor the usage of the Golang
+`strings` package for my Lexer. Supporting the Literal string values like echo 'hello    world' was more complicated
 and make my brain in pain for some time, but in the end I can implement the feature without using AI to write the code.
 I am feeling with my progress because I am using only AI (Gemini) for basic code Golang tasks.
 
 ### Day 2072: Supporting CD and Relative Paths
 
 Today I added the support for the `cd` command in my own shell, HOME path and relative paths. To implement the `cd`
-command I used the `os.Chdir` function, with this golang function you can support the command in your shell. 
-This command also supports relative paths, so you need little effort to add this feature. Supporting the `PATH` took 
-more steps, first you will need to read the PATH value from te operating systems. Second when you read the value you 
-also can use the `os.Chdir` function to move to the destination dir. Also, I refactored my unit tests following the 
+command I used the `os.Chdir` function, with this golang function you can support the command in your shell.
+This command also supports relative paths, so you need little effort to add this feature. Supporting the `PATH` took
+more steps, first you will need to read the PATH value from te operating systems. Second when you read the value you
+also can use the `os.Chdir` function to move to the destination dir. Also, I refactored my unit tests following the
 Table-Driven Test pattern, following this pattern is very, very great, you can add a new test easily and fast.
 
 ### Day 2071: Support PWD Command in Shell
@@ -207,7 +215,7 @@ of the course, and I will continue working on it in the coming days.
 ## History
 
 | Days      | Main Topics / Technologies                                                                                  | Highlights                                   | Link                                   |
-|-----------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------|
+| --------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------- | -------------------------------------- |
 | 1-50      | HTML, CSS, JavaScript                                                                                       |                                              | [View](./day0-500/day0-50.md)          |
 | 51-100    | JavaScript                                                                                                  |                                              | [View](./day0-500/day51-100.md)        |
 | 101-150   | JavaScript                                                                                                  |                                              | [View](./day0-500/day101-150.md)       |
@@ -248,4 +256,3 @@ of the course, and I will continue working on it in the coming days.
 | 1900-1950 | IBM Cloud, Parquet Files, DSA, Python, Java, SQL, Spark, Airflow                                            | IBM Cloud Practitioner Certification         | [View](./day1501-2000/day1900-1950.md) |
 | 1951-2000 | Java, DSA, Java Reflection, Concurrency, OOP, Networking, Storage Systems, Unit Testing                     | New Project and Team                         | [View](./day1501-2000/day1951-2000.md) |
 | 2001-2050 | Java, Byte/Bit Manipulation, DSA, Concurrency, Multithreading, TDD, C, Networking, Makefiles, Sockets & TCP | Study Computer Science & Java Advance Topics | [View](./day2001-2500/day2001-2050.md) |
-
