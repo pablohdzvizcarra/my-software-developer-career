@@ -7,6 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2079: Learning How to Work With Files in Golang
+
+Today I learned how to work with files in Go. I needed to start with the implementation of the redirection operations in my shell project.
+I am doing TDD, so I needed how to design my code to be testable. I learned basic operations like create a file, check if a file exists,
+and write an string to a file. I begin to work on the `>` operator, for the moment this operator is the easiest to implement because
+it only needs to redirect the output of a command to a file.
+
 ### Day 2078: Completed Quoting in Lexer
 
 Today I completed the quoting logic in my Lexer. The Lexer now supports single quotes, double quotes, escape
