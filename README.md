@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2081: Understanding Distributed Systems
+
+To learn more about working with distributed systems, I started reading the book Understanding Distributed Systems today. I love how complex it is because there's always something new to learn: a new pattern, architectural design, bug, interesting decision, or obscure code. The downside is that it's sometimes difficult to understand how things work, and it's impossible for me to maintain a mental model of each component in a distributed environment. Most of the time, I create a diagram to understand a big, complex system like Kubernetes.
+
 ### Day 2080: This Doesn't Work
 
 Today, I will continue working on my shell project. I'm facing a strange issue that's preventing me from continuing to develop the shell. I don't know why, but the environment in which I'm testing my shell is not functioning properly. The course provider manages this environment, and the problem is that the unit tests are not working properly. I am creating my shell using Test-Driven Development. My shell project is fully tested in my local environment, and the test case that fails in the course environment passes without issue. Today, I tried many times to get it to work, but was unsuccessful. I will spend more time on it tomorrow. Maybe I can fix the test case. If not, then maybe I will leave the course. I don't know yet. I just want to say that this sucks.
