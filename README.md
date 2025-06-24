@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2082: Network
+
+Today, I began learning about networking by reading the Understanding Distributed Systems book. In the past, networking was one of those things I tried to avoid because understanding some of the concepts requires time and effort. Learning a new framework is more fun than learning what a TCP packet is, what the packet headers are, and how two applications can communicate through the TCP protocol. Now, I understand that these concepts are very useful, especially in my current team.
+
 ### Day 2081: Understanding Distributed Systems
 
 To learn more about working with distributed systems, I started reading the book Understanding Distributed Systems today. I love how complex it is because there's always something new to learn: a new pattern, architectural design, bug, interesting decision, or obscure code. The downside is that it's sometimes difficult to understand how things work, and it's impossible for me to maintain a mental model of each component in a distributed environment. Most of the time, I create a diagram to understand a big, complex system like Kubernetes.
