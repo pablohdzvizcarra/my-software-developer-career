@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2083: Congestion Window
+
+Today reading the Understanding distributed systems book, I found an interesting concept that was hard to learn: the Congestion Window.
+The `Congestion Window` is a TCP concept that defines how many bytes can be in flight at a given time. Bytes be in flight means how many bytes we can send to the receiver without receive an acknowledgment from the receiver. There are some magic things to understand about the `Congestion Window`. The congestion window size is calculated dynamically depending of how many bytes the receiver is acknowledging to the server, if the receiver is acknowledging a lot of bytes, the congestion window size will increase, but if the receiver is not acknowledging the bytes, the congestion window size will decrease. The primary functionality of the congestion window is avoid the network congestion.
+
 ### Day 2082: Network
 
 Today, I began learning about networking by reading the Understanding Distributed Systems book. In the past, networking was one of those things I tried to avoid because understanding some of the concepts requires time and effort. Learning a new framework is more fun than learning what a TCP packet is, what the packet headers are, and how two applications can communicate through the TCP protocol. Now, I understand that these concepts are very useful, especially in my current team.
