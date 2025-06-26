@@ -7,6 +7,12 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2084: Domain Name System (DNS)
+
+Today I studied the Domain Name System (DNS) reading the Understanding Distributed Systems book. The DNS is a distributed system
+that translates URLs into IP addresses. Do you know what happens when you type a URL in your browser like `https://www.google.com`?
+The browser needs to know the IP address of the server that host the website. To get the correct IP address, there are multiple steps involved, from the browser site only it's a call to the DNS server, and next the DNS needs to make multiple recursive calls to other systems to get the correct IP address. A normal flow can be like this: [Browser] -> [DNS Server] -> [Root DNS Server] -> [TLD DNS Server] -> [Authoritative DNS Server]. I know there is a lot of stuff to learn here, but is really interesting.
+
 ### Day 2083: Congestion Window
 
 Today reading the Understanding distributed systems book, I found an interesting concept that was hard to learn: the Congestion Window.
