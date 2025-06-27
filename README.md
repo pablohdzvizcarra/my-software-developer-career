@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2085: TCP, TLS, UDP, DNS, HTTP
+
+Today I completed to read the first chapters of the book that covers the basics of networking and the TCP, TLS, UDP, DNS and HTTP protocols. There is a lot of stuff to learn about networking, after fours years working as a Software Engineer, I can say that I am beginning to understand what happens with a simple request like `https://www.google.com`. Also the next time that I see a Socket connection error or exception I think again about what demons is happening now.
+
 ### Day 2084: Domain Name System (DNS)
 
 Today I studied the Domain Name System (DNS) reading the Understanding Distributed Systems book. The DNS is a distributed system
