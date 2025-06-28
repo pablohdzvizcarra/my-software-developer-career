@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2086: Coordination
+
+Today I started with the study about the Coordination in distributed systems. One important thing in distributed system is the system model. System model is a way to describe how the systems behaves in the processes, communication links and timings.
+One of the communication link models is: **Reliable link model**, this model guarantees that the message between two nodes always reach their destination. If an error occurred an one Node don't receive the message, the message needs to be retransmitted until it is acknowledge. Process Fault models: **Crash recovery model** is a model designed to restart the node when something wrong happens, the Node crash but have the ability to restart itself. Timing models: the **Synchronous** model manage the communication between the Nodes directly and in a synchronous way, that means if Node A sends a request to Node B, Node A wait until Node B response. For me the general idea about theses models is describe how your system behaves, what you can expect of the system, and because any system is trade-offs free, you will need to choice how model is better for your system. For example in a video game the **Reliable Link Model** could not be good, because if some package is lost is better to process the next packages rather than attempts to process stale packages.
+
 ### Day 2085: TCP, TLS, UDP, DNS, HTTP
 
 Today I completed to read the first chapters of the book that covers the basics of networking and the TCP, TLS, UDP, DNS and HTTP protocols. There is a lot of stuff to learn about networking, after fours years working as a Software Engineer, I can say that I am beginning to understand what happens with a simple request like `https://www.google.com`. Also the next time that I see a Socket connection error or exception I think again about what demons is happening now.
