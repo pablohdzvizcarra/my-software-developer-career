@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2087: Writing C Code
+
+Today I practice writing some C code. I learned how to get information from my operating system with C like my computer architecture, the current linux version, the kernel, etc. C offers some libraries to get this information from the OS, in the past I never need to know something about the host that is running my application to execute my code in some way, but working with low-level concepts I discovered that this is sometimes normal. I am feeling good working with bytes, low-level concepts, concurrency, multithreading and Sockets with Java.
+
 ### Day 2086: Coordination
 
 Today I started with the study about the Coordination in distributed systems. One important thing in distributed system is the system model. System model is a way to describe how the systems behaves in the processes, communication links and timings.
