@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2088: BitTorrent Protocol
+
+Today I learned that BitTorrent is a network protocol like TCP and UDP. I began a new project to create a BitTorrent client to download torrent files with Go. The BitTorrent protocol is a binary protocol, that means the entire communication is in a binary format. BitTorrent is very interesting is a peer-to-peer communication that means the communication is between two peers over the network. These peers can act like server and clients, something we want to download the data from the other server and sometimes a client can connect to our server. For the moment I am not understanding he majority of the concepts. I am writing the code and at the same time learning all the concepts and stuff. I don't know why but this type of software projects will be interesting for me. I have the plan to make deep dive into binary protocols. 
+
 ### Day 2087: Writing C Code
 
 Today I practice writing some C code. I learned how to get information from my operating system with C like my computer architecture, the current linux version, the kernel, etc. C offers some libraries to get this information from the OS, in the past I never need to know something about the host that is running my application to execute my code in some way, but working with low-level concepts I discovered that this is sometimes normal. I am feeling good working with bytes, low-level concepts, concurrency, multithreading and Sockets with Java.
