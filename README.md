@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2089: Binary Messages
+
+Today I continue working on my BitTorrent client with Golang. I am working in the parser logic to parse messages into binary format to talk with the BitTorrent server. If you think binary protocols are easier but at the same time very complicated, to send a message to a server or client, you only need to send a `[]byte` array with the message content, the problem is this `[]byte` needs to contain the information/bytes in a specific order, and the server always response with other `[]byte` array, and also the problem is the reader logic. Working with bytes directly is hard for me yet because I am not familiar with this bitwise operations or byte manipulation, but at the same time is very interesting.
+
 ### Day 2088: BitTorrent Protocol
 
 Today I learned that BitTorrent is a network protocol like TCP and UDP. I began a new project to create a BitTorrent client to download torrent files with Go. The BitTorrent protocol is a binary protocol, that means the entire communication is in a binary format. BitTorrent is very interesting is a peer-to-peer communication that means the communication is between two peers over the network. These peers can act like server and clients, something we want to download the data from the other server and sometimes a client can connect to our server. For the moment I am not understanding he majority of the concepts. I am writing the code and at the same time learning all the concepts and stuff. I don't know why but this type of software projects will be interesting for me. I have the plan to make deep dive into binary protocols.
