@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2090: Continue with the Message Parser
+
+Today I continue working on the message parser. I complete the logic to deserialize and serialize Have and Piece messages into a Golang struct for easy manipulation. For the moment this logic was easy to implement, the hard part was create this logic following TDD.
+
 ### Day 2089: Binary Messages
 
 Today I continue working on my BitTorrent client with Golang. I am working in the parser logic to parse messages into binary format to talk with the BitTorrent server. If you think binary protocols are easier but at the same time very complicated, to send a message to a server or client, you only need to send a `[]byte` array with the message content, the problem is this `[]byte` needs to contain the information/bytes in a specific order, and the server always response with other `[]byte` array, and also the problem is the reader logic. Working with bytes directly is hard for me yet because I am not familiar with this bitwise operations or byte manipulation, but at the same time is very interesting.
