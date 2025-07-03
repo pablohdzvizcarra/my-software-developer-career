@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2091: Complete the Message module
+
+Today I completed to code the message module for my BitTorrent protocol project. The message module contains a Message struct with some methods to serialize and deserialize messages following the BitTorrent protocol. I continue with problems to understand how works internally the BitTorrent protocol, is very different from HTTP sending and receiving JSON. For example most of the times in the first 4 bytes, you will need to send the length of the message, the 5 byte represents the message ID and the rest of the bytes are the message payload, you will need to implement multiple rules to validate that a message was good serialized or deserialized.
+
 ### Day 2090: Continue with the Message Parser
 
 Today I continue working on the message parser. I complete the logic to deserialize and serialize Have and Piece messages into a Golang struct for easy manipulation. For the moment this logic was easy to implement, the hard part was create this logic following TDD.
