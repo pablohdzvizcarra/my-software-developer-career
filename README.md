@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2092: Handshake
+
+Today I completed the Handshake functionality for my BitTorrent client project. The handshake is the first message that is send when two peers wants to create a TCP connection between them. The handshake in the BitTorrent protocol is composed by Protocol String (BitTorrent protocol), 8 reserved bytes, N bytes represent the has content and N bytes that represents the Peer ID. Also I discovered that Go has a http test module for unit testing purposes, this feature is amazing because you can create unit test easy without create mocks. 
+
 ### Day 2091: Complete the Message module
 
 Today I completed to code the message module for my BitTorrent protocol project. The message module contains a Message struct with some methods to serialize and deserialize messages following the BitTorrent protocol. I continue with problems to understand how works internally the BitTorrent protocol, is very different from HTTP sending and receiving JSON. For example most of the times in the first 4 bytes, you will need to send the length of the message, the 5 byte represents the message ID and the rest of the bytes are the message payload, you will need to implement multiple rules to validate that a message was good serialized or deserialized.
