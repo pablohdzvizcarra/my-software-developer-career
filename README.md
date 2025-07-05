@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2093: Continue with BitTorrent project
+
+Today I continue working on my BitTorrent project. I am coding the part of the code in which the client connects with the other Peers over the network to start to download the file. Using channels in Golang is a good way to create some workers to execute a process concurrently like creating 20 Peers connections to download a Piece of a torrent file concurrently. I have the plan to continue investigating channels and multithreading in Golang.
+
 ### Day 2092: Handshake
 
-Today I completed the Handshake functionality for my BitTorrent client project. The handshake is the first message that is send when two peers wants to create a TCP connection between them. The handshake in the BitTorrent protocol is composed by Protocol String (BitTorrent protocol), 8 reserved bytes, N bytes represent the has content and N bytes that represents the Peer ID. Also I discovered that Go has a http test module for unit testing purposes, this feature is amazing because you can create unit test easy without create mocks. 
+Today I completed the Handshake functionality for my BitTorrent client project. The handshake is the first message that is send when two peers wants to create a TCP connection between them. The handshake in the BitTorrent protocol is composed by Protocol String (BitTorrent protocol), 8 reserved bytes, N bytes represent the has content and N bytes that represents the Peer ID. Also I discovered that Go has a http test module for unit testing purposes, this feature is amazing because you can create unit test easy without create mocks.
 
 ### Day 2091: Complete the Message module
 
