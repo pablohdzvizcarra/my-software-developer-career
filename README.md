@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2094: JVM Study
+
+Today I studied some topics related with Java applications and the JVM. I discovered the `jps`, `jconsole` and `jstack` tools.
+The `jps` is a tool to show the current Java application that are running on the machine, with the `jps -l` argument you can have a detailed list. The `jconsole` is an amazing tool like `visualvm`, is used to see in a graphical way some statistics for a running Java application like Memory heap, garbage collections, threads, etc. Finally the `jstack` tool is used to capture a thread dump of a running Java application. A thread dump is a file in which you capture a snapshot of the threads state that are running in Java application. Also I practice how to create a build a Java project with Ant.
+
 ### Day 2093: Continue with BitTorrent project
 
 Today I continue working on my BitTorrent project. I am coding the part of the code in which the client connects with the other Peers over the network to start to download the file. Using channels in Golang is a good way to create some workers to execute a process concurrently like creating 20 Peers connections to download a Piece of a torrent file concurrently. I have the plan to continue investigating channels and multithreading in Golang.
