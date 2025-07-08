@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2096: Study JNI
+
+Today I studied the Java Native Interface (JNI). The Java native interface is used to create Java code that is able to interact with C code. Maybe you want to use a native library from your operating system and that library is available only with C code, so you can create the Java code and create a C function tat use that library, with the `javac` compiler you can link and compile your Java code to execute the C function and receive the C function output in the Java code. For the moment working with the JNI was hard for me, I don't have much experience with C code and also to work with the JNI you will need to use JNI functions to interact with Java objects inside the C code. The following snippet is used to get the length of a Java array in C: `(*env)->GetArrayLength(env, originalArray)`.
+
 ### Day 2095: Java Dumps
 
 Today I studied about what are a heap, thread and core Java dumps and how to generate them with the JDK tools. A `Thread Dump` is a snapshot of the threads in a Java application, this file contains information about the thread state, call stack, etc. A `Heap Dump` is a snapshot of the heap memory for a Java application, with a heap dump you can have an overview about how is working the memory in the application and how much memory is consuming, this is very useful when you want to know more about your application. The last is the `Core Dump`, this core dump is created when the Java application or the JVM crash, some new JVM versions generates a core dump by default, but you can explicitly declare the JVM to generate the file with the `-XX:+CreateCoredumpOnCrash` JVM argument. At this moment I don't know if we can create a `core dump` using a JDK tools on demand, I will need to continue investigate this and also learn how to analyze and understand this dump file.
