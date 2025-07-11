@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2099: Crashing Java Application
+
+I am running a Java application that receives 10 messages by a socket connection from a Client and add the message to a internal in memory Queue. The purpose of this application is to throws a OutOfMemoryError and generate a `Core Dump` when this happens to get a detailed view of the JVM state before the crash for debugging purpose. The Java application is a basic Server Socket that listen for Client connections with a predefined size of 20MB of memory. I started with this experiment since Saturday and for the moment when the application crash does not create the dump. I will need to modify the Server app to accepts multiple Client connections, because for the moment only accepts one client connection. I am running the process that `poll` messages from the queue in a separate thread, the curious thing is that when the application crash and the Socket connections is closed, the thread continues reading message from the queue. Multithreading and Java continues be a interesting thing to learn.
+
 ### Day 2098: LDAP Authentication
 
 Today I studied the Lightweight Directory Access Protocol (LDAP). LDAP is an authentication protocol in which the user insert their credentials like username and password. These credentials are validated in a centralized directory to check if the user is a registered user, if the user exists in the directory, will be authenticated in the application through an LDAP client. For the moment I know that LDAP manage Authentication, not sure if LDAP also have the capabilities to manage Authorization, I will need to review this on the weekend.
