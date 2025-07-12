@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2100: Analyzing Core Dump
+
+Today finally I can generate a `core dump` when my Java application crash with a OutOfMemoryError. The problem was my application is throwing the OutOFMemoryError exception but is not crashing because I have another thread in the application doing some work. You will need to add the `-XX:+ExitOnOutOfMemoryError` JVM argument when you run the application to crash when the app have a OutOfMemoryError. When you run your application with this argument, automatically a `.hprof` file is generated in the application directory, this file contains the core dump information. Tomorrow I will continue learning more about Java and C.  
+
 ### Day 2099: Crashing Java Application
 
 I am running a Java application that receives 10 messages by a socket connection from a Client and add the message to a internal in memory Queue. The purpose of this application is to throws a OutOfMemoryError and generate a `Core Dump` when this happens to get a detailed view of the JVM state before the crash for debugging purpose. The Java application is a basic Server Socket that listen for Client connections with a predefined size of 20MB of memory. I started with this experiment since Saturday and for the moment when the application crash does not create the dump. I will need to modify the Server app to accepts multiple Client connections, because for the moment only accepts one client connection. I am running the process that `poll` messages from the queue in a separate thread, the curious thing is that when the application crash and the Socket connections is closed, the thread continues reading message from the queue. Multithreading and Java continues be a interesting thing to learn.
