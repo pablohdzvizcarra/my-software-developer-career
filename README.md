@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2101: Memory Addresses and Pointers
+
+Today while coding in C I learned something interesting. Working with strings in C can be a little tricky, for example if you have a string and you use that string to create a copy into another variable like: `char *new_data = old_data;`, that works but the `old_data` and `new_data` variables points to the same memory address, and if you clean up the `old_data` variable like `free(old_data);` you end having a `new_data` variable with a empty value, that was surprised for me because the compiler and the application continues working without issues with this behavior. I know that changing the value of a variable like in java `String data = null;` its possible but well I will need to learn the differences and how the C manage the objects in the stack and memory. For the moment I continue learning C and coding more stuff.
+
 ### Day 2100: Analyzing Core Dump
 
 Today finally I can generate a `core dump` when my Java application crash with a OutOfMemoryError. The problem was my application is throwing the OutOFMemoryError exception but is not crashing because I have another thread in the application doing some work. You will need to add the `-XX:+ExitOnOutOfMemoryError` JVM argument when you run the application to crash when the app have a OutOfMemoryError. When you run your application with this argument, automatically a `.hprof` file is generated in the application directory, this file contains the core dump information. Tomorrow I will continue learning more about Java and C.  
