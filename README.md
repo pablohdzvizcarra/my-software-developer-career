@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2102: Free Code Day
+
+Today I take a free code date. I want to take a free date because my brain needs some rest from code and software engineering topics. I watched some parts of the LexFridman podcast with DHH (creator of ruby on rails) one of the best programmers in the world for me and also a father of three like me.
+
 ### Day 2101: Memory Addresses and Pointers
 
 Today while coding in C I learned something interesting. Working with strings in C can be a little tricky, for example if you have a string and you use that string to create a copy into another variable like: `char *new_data = old_data;`, that works but the `old_data` and `new_data` variables points to the same memory address, and if you clean up the `old_data` variable like `free(old_data);` you end having a `new_data` variable with a empty value, that was surprised for me because the compiler and the application continues working without issues with this behavior. I know that changing the value of a variable like in java `String data = null;` its possible but well I will need to learn the differences and how the C manage the objects in the stack and memory. For the moment I continue learning C and coding more stuff.
