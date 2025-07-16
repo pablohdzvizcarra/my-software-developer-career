@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2104: Transactions in Distributed Systems
+
+Today I studied about transactions in distributed systems. A transaction is a group of operations that needs to performed together to ensure data consistency. The most common example is you have an operation to add 50 dollars to a bank account and you will need to execute another operation for the same account to withdraw 100 hundred dollars from the same bank account, what happens if the account balance is 80 dollars, and for an error the 50 dollars operation does not happens-before the withdraw? The user could not withdraw the money. Most of the databases offers a set of properties know as `ACID` to ensure a transaction is executed in the correct order and were executed at least one time. `ACID` means, Atomicity, Consistency, Isolation and Durability. There are a lot of theory behind the `ACID` properties. Another important concept is `Concurrency Control`. Concurrency control are a set of protocols that ensure the data is good in a concurrency environment when multiple services can execute multiple transactions at the same time using the same target data.
+
 ### Day 2103: Read Repair and Replicate Synchronization
 
 Today I studied the `Read Repair` and `Replicate Synchronization` models for replication in distributed systems. The Read repair is used when a manager request to read some data from a node, when the data arrives the manager send again that data to all nodes, the nodes next to review if the data state is equal for the copy they have, if the data is not equal the nodes can replace with the correct data version, this pattern is very interesting because work in a reactive way, nodes review their data state only when a Client ask for that data. In the other hand the Replicate Synchronization model works like a cron job, that sends the data state to all other nodes every N number of seconds, minutes and hours. Each of these models have their trade-offs and benefits.
