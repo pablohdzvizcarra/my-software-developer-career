@@ -9,7 +9,7 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ### Day 2105: Sharding & Graceful Degradation
 
-Today I studied the concept of Sharding in system design. This distributed system design is used to split something into little pieces called Shards. Imagine that you have a big database maybe to improve the TPS in your entire system, you use `Sharding` in your database and divide the entire database into 10 smaller databases, with this technique your database will have better response times because you reduce the work that a single database needs to do like having more workers to do the job. We use this technique to have two instances of a service and divide the load that the client sends to these two services.
+Today I studied the concept of `Sharding` in system design. This distributed system design is used to split something into little pieces called Shards. Imagine that you have a big database maybe to improve the TPS in your entire system, you use `Sharding` in your database and divide the entire database into 10 smaller databases, with this technique your database will have better response times because you reduce the work that a single database needs to do like having more workers to do the job. We use this technique to have two instances of a service and divide the load that the client sends to these two services.
 
 ### Day 2104: Transactions in Distributed Systems
 
