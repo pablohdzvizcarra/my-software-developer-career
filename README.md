@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2105: Sharding & Graceful Degradation
+
+Today I studied the concept of Sharding in system design. This distributed system design is used to split something into little pieces called Shards. Imagine that you have a big database maybe to improve the TPS in your entire system, you use `Sharding` in your database and divide the entire database into 10 smaller databases, with this technique your database will have better response times because you reduce the work that a single database needs to do like having more workers to do the job. We use this technique to have two instances of a service and divide the load that the client sends to these two services.
+
 ### Day 2104: Transactions in Distributed Systems
 
 Today I studied about transactions in distributed systems. A transaction is a group of operations that needs to performed together to ensure data consistency. The most common example is you have an operation to add 50 dollars to a bank account and you will need to execute another operation for the same account to withdraw 100 hundred dollars from the same bank account, what happens if the account balance is 80 dollars, and for an error the 50 dollars operation does not happens-before the withdraw? The user could not withdraw the money. Most of the databases offers a set of properties know as `ACID` to ensure a transaction is executed in the correct order and were executed at least one time. `ACID` means, Atomicity, Consistency, Isolation and Durability. There are a lot of theory behind the `ACID` properties. Another important concept is `Concurrency Control`. Concurrency control are a set of protocols that ensure the data is good in a concurrency environment when multiple services can execute multiple transactions at the same time using the same target data.
