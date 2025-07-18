@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2106: Java Class Path
+
+Today I continue studying more about how works the class path in Java. I continue with my Java project to learn how to configure the classpath for a Java application with Apache Ant and Java only using the command line to execute and build a Java application. It is interesting how platforms like Maven and Gradle automate all this stuff, but when you have to manually do some operations using only the CLI for compile and execute a Java application like a JAR or a class with a main method if you only have experience creating and running Java applications with these tools you will have some problems to understand some concepts and how is builded and executed a Java app.
+
 ### Day 2105: Sharding & Graceful Degradation
 
 Today I studied the concept of `Sharding` in system design. This distributed system design is used to split something into little pieces called Shards. Imagine that you have a big database maybe to improve the TPS in your entire system, you use `Sharding` in your database and divide the entire database into 10 smaller databases, with this technique your database will have better response times because you reduce the work that a single database needs to do like having more workers to do the job. We use this technique to have two instances of a service and divide the load that the client sends to these two services.
