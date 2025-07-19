@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2107: Application with Low Performance
+
+Today, I investigated a software issue in which the `client` sends a number of requests to a `server`. These requests have a timeout of only 120 seconds (two minutes). The problem is that the server requires more time to process them, but it manages 32 TPS for that type of request. It looks like something strange is happening within the server that is degrading its performance and requiring more time to process the requests. My initial assumption was that the server was overwhelmed with many different requests and was unable to process the additional requests within the required time frame. I will continue investigating this issue.
+
 ### Day 2106: Java Class Path
 
 Today I continue studying more about how works the class path in Java. I continue with my Java project to learn how to configure the classpath for a Java application with Apache Ant and Java only using the command line to execute and build a Java application. It is interesting how platforms like Maven and Gradle automate all this stuff, but when you have to manually do some operations using only the CLI for compile and execute a Java application like a JAR or a class with a main method if you only have experience creating and running Java applications with these tools you will have some problems to understand some concepts and how is builded and executed a Java app.
