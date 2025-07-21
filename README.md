@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2108-09: Write-Ahead Log
+
+During the weekend, I studied the `Write-Ahead Log pattern`, which is most commonly used in databases to apply atomicity operations. The write-ahead log pattern ensures that the database has a copy of the data in case of an error when the client sends the data to be saved and an internal error occurs within the database. The process is as follows: `Client --> Database --> (Issues)--> Data saved on disk`. The write-ahead log pattern first saves the data in a file or data structure called a log. Next, when the data has been saved to the log file, it can be saved as a real record or the real data can be updated. The general idea of having a log file containing client operations is that it can be used as a backup for the original data because it makes it easy to perform redo or undo operations in the database. Currently, I am reading the 'Atomicity' chapter of the book and plan to spend some time on this chapter, preferring to learn one concept per day rather than a set number of pages.
+
 ### Day 2107: Application with Low Performance
 
 Today, I investigated a software issue in which the `client` sends a number of requests to a `server`. These requests have a timeout of only 120 seconds (two minutes). The problem is that the server requires more time to process them, but it manages 32 TPS for that type of request. It looks like something strange is happening within the server that is degrading its performance and requiring more time to process the requests. My initial assumption was that the server was overwhelmed with many different requests and was unable to process the additional requests within the required time frame. I will continue investigating this issue.
