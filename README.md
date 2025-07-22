@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2110: Two-Phase Commit Protocol
+
+Today I studied the `Two-Phase Commit`, this protocol is used to ensure that a transaction can be performed by multiple components.  In the two-phase commit protocol we have a coordinator component called the `Actor` and other components called `Participants`. First the actor sends a `prepare` message to all participants to know if they are ready to perform the operation, if all participants are ready the Actor continues with the next step that is send the `Transaction` to the participants to commit it. If only one participant is not ready to process the transaction, this transaction will be aborted. I am doing a code exercise to apply this protocol in practice.
+
 ### Day 2108-09: Write-Ahead Log
 
 During the weekend, I studied the `Write-Ahead Log pattern`, which is most commonly used in databases to apply atomicity operations. The write-ahead log pattern ensures that the database has a copy of the data in case of an error when the client sends the data to be saved and an internal error occurs within the database. The process is as follows: `Client --> Database --> (Issues)--> Data saved on disk`. The write-ahead log pattern first saves the data in a file or data structure called a log. Next, when the data has been saved to the log file, it can be saved as a real record or the real data can be updated. The general idea of having a log file containing client operations is that it can be used as a backup for the original data because it makes it easy to perform redo or undo operations in the database. Currently, I am reading the 'Atomicity' chapter of the book and plan to spend some time on this chapter, preferring to learn one concept per day rather than a set number of pages.
