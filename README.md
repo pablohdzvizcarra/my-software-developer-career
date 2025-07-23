@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2111: Bash Scripts
+
+Today I worked into modify some bash scripts. This scripts are used to initialize an application, the scripts contains multiple validations to review if the binary used to install the application exists in the machine, validate the application version and depending of the application version, the application needs to be initialized in some specific way. Working with these type of bash scripts are frustrating for me because I don't work with bash frequently.
+
 ### Day 2110: Two-Phase Commit Protocol
 
 Today I studied the `Two-Phase Commit`, this protocol is used to ensure that a transaction can be performed by multiple components.  In the two-phase commit protocol we have a coordinator component called the `Actor` and other components called `Participants`. First the actor sends a `prepare` message to all participants to know if they are ready to perform the operation, if all participants are ready the Actor continues with the next step that is send the `Transaction` to the participants to commit it. If only one participant is not ready to process the transaction, this transaction will be aborted. I am doing a code exercise to apply this protocol in practice.
