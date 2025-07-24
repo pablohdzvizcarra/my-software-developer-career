@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2112: Configuring Linux
+
+Today I modified my `.bashrc` file to display only the current directory in my terminal rather than show the entire path in terminal.
+This configuration was necessary because I was working in a directory in which due to the large path, the terminal requires an entire row to show the path. I am fascinating about how in Linux you can configure anything.
+
 ### Day 2111: Bash Scripts
 
 Today I worked into modify some bash scripts. This scripts are used to initialize an application, the scripts contains multiple validations to review if the binary used to install the application exists in the machine, validate the application version and depending of the application version, the application needs to be initialized in some specific way. Working with these type of bash scripts are frustrating for me because I don't work with bash frequently.
