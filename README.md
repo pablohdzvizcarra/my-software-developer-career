@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2113: Multi-Version Concurrency Control (MVCC)
+
+Today I studied that the Multi-Version Concurrency Control is a technique used in database to create high available databases to ensure read-only transactions are lock-free. The database design is very interesting, you have multiple version of the data and for each version of that data you have a timestamp. When the client send a read transaction, the database assigns a timestamp to that transaction, the database next select the appropriate version of the data based on the timestamp and returns to the client. If you have a old read transaction thanks to the timestamp you can also read a old version of the data, if you think this is a very interesting solution for this problem. I will continue investigating more this technique because is great.
+
 ### Day 2112: Configuring Linux
 
 Today I modified my `.bashrc` file to display only the current directory in my terminal rather than show the entire path in terminal.
