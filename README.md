@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2114: Outbox Pattern
+
+Today I studied the `Outbox Pattern` used to replicate transactions to multiple data stores or services in an asynchronous way achieving `eventual consistency`. The outbox pattern is easy to understand, you have a service that needs to replicate the transactions to other services and you don't want to use a `Two-Phase Commit` protocol because is a blocking operation. First you save the record in the database, next in the same database you create a table/connection that normally is called the outbox. Another service called `Relay Service` detects that a new record was saved in the outbox table and process the record sending it to the end service. If you think this pattern is like a state machine because at the end you end with a set of services with the same state, you can see the outbox table as the log.
+
 ### Day 2113: Multi-Version Concurrency Control (MVCC)
 
 Today I studied that the Multi-Version Concurrency Control is a technique used in database to create high available databases to ensure read-only transactions are lock-free. The database design is very interesting, you have multiple version of the data and for each version of that data you have a timestamp. When the client send a read transaction, the database assigns a timestamp to that transaction, the database next select the appropriate version of the data based on the timestamp and returns to the client. If you have a old read transaction thanks to the timestamp you can also read a old version of the data, if you think this is a very interesting solution for this problem. I will continue investigating more this technique because is great.
