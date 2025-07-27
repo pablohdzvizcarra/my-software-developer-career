@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2115: Partitioning & Sharding
+
+Today I studied why partitioning is important on distributed systems. I studied the Range partitioning and Sharing partitioning. Range partitioning is when you split the data into `Shards` for a range of elements, like the half of the alphabet in `Node A` and the other half on `Node B`. Hash Partitioning is a technique in which you apply a hash to a key, and based on the result of the hashing you assign the element into Node. Partitioning is very important in distributed systems to ensure high availability, fault tolerance, reliance and scalability. Imaging having all the YouTube videos into a single machine? that was very expensive on hardware and also you have performance issues.
+
 ### Day 2114: Outbox Pattern
 
 Today I studied the `Outbox Pattern` used to replicate transactions to multiple data stores or services in an asynchronous way achieving `eventual consistency`. The outbox pattern is easy to understand, you have a service that needs to replicate the transactions to other services and you don't want to use a `Two-Phase Commit` protocol because is a blocking operation. First you save the record in the database, next in the same database you create a table/connection that normally is called the outbox. Another service called `Relay Service` detects that a new record was saved in the outbox table and process the record sending it to the end service. If you think this pattern is like a state machine because at the end you end with a set of services with the same state, you can see the outbox table as the log.
