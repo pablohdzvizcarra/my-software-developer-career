@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2116: Goals As a Living Document
+
+Today I learned about how to organize my career and personal goals as a live document. The idea is to have all your career in my case software engineering and life goals into a document, this document can be a word document, text, notion or markdown file. I have configured 10, 5, 1 years goals and also some little goals maybe monthly to be completed. For the moment I scheduled some weekly goals to be completed this week, so I want to continue be focus on the important things.
+
 ### Day 2115: Partitioning & Sharding
 
 Today I studied why partitioning is important on distributed systems. I studied the Range partitioning and Sharing partitioning. Range partitioning is when you split the data into `Shards` for a range of elements, like the half of the alphabet in `Node A` and the other half on `Node B`. Hash Partitioning is a technique in which you apply a hash to a key, and based on the result of the hashing you assign the element into Node. Partitioning is very important in distributed systems to ensure high availability, fault tolerance, reliance and scalability. Imaging having all the YouTube videos into a single machine? that was very expensive on hardware and also you have performance issues.
