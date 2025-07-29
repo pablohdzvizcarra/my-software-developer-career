@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2117: Studying File Storage Architecture
+
+Today I studied the architecture of the Azure Storage service. This storage service is used like Amazon S3, you can save static files with high redundancy, availability, resilient, etc. The Azure Storage service have a global DNS service, to access to a file the URL of the file is composed by the account name and the name of the file. Another component called Stream Manager is the control plane that manage communication between the high level code and the low-level code. When you want to save a file in the storage system, this file is saved into a logical construct called `Stream`, a stream is only a logical piece that is composed by data chunks that are called `Extent`, and extent is a chunk of the original file, imagine that for save a a file with 1GB of size, you split this file into 4 256MB chunks. Each of this chunks is replicated into multiple nodes using `Chain Replication`. It is interesting study this type of architectures, maybe tomorrow I work on a basic code example. 
+
 ### Day 2116: Goals As a Living Document
 
 Today I learned about how to organize my career and personal goals as a live document. The idea is to have all your career in my case software engineering and life goals into a document, this document can be a word document, text, notion or markdown file. I have configured 10, 5, 1 years goals and also some little goals maybe monthly to be completed. For the moment I scheduled some weekly goals to be completed this week, so I want to continue be focus on the important things.
