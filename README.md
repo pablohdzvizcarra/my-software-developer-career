@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2119: Studying the Copy-on-Write Technique
+
+Today I started to study the `Copy-on-Write` resource management technique. This technique is used to create a copy-on-time between two storage systems like virtual volumes. The technique requires a source volume (the volume with the information that wants to copy) and a target volume (the destination volume to store the information). I am doing a code example with Golang just to understand more this technology.
+
 ### Day 2118: Networking Stuff
 
 Today I studied the DNS load balancing, Transport Layer load balancing and the Application layer load balancing. The DNS load balancing is a load balancer that works at the CDN level, you can have a pool servers configured and waiting for incoming connections, the CDN manages this load balancer, one of the most common problems with the DNS load balancing is needs to add or remove servers from the list. `Transport Layer Load Balancing` works at the Layer 4 on TCP, this is the most faster of the three because works in a low layer, but the problem is perform operations different from load balancing the traffic is hard and sometimes impossible. `Application Layer Load Balancing` is one of the most popular, this load balancer offers some techniques like redirect the traffic to non-busy servers, TLS termination, Rate limits, etc. I want to code a basic example of these load balancer to practice and understand more.
