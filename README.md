@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2121: How Works Block Storage
+
+Today I studied how the `Block Storage` technology works while doing some Golang code to start with the `write` operation. The general idea of the block storage technology is save any type of file into chunks, a file is divided into N number of chunks, next these chunks are saved into the underlying hardware like an SSD, HDD, etc. I implemented the write function to accept any type of file, next split these file into 256 kilobytes chunks, to finally save the chunks into a folder concurrently. For the moment I am using a simple .json file to store a basic implementation of metadata, the metadata for the moment is only the filename and their list of chunks location. Tomorrow I will continue working on this amazing project.
+
 ### Day 2120: Over-Engineering in Code
 
 Today I was working on a Java code base in which I think that is a classic example of over engineering in software engineering. The code base have multiple interfaces as a services, but these interfaces only have one implementation, I don't know why people like to create interfaces and their implementation if they only create one implementation, I understand that it is necessary with unit testing, but the project does not have any unit tests. Other example the service class, have another class with composition and this class is the responsible to execute the logic, the service only works as a wrapper for the other class with the business logic, but the service does not offer any other functionality, only delegates the method call to another method. This is one of the most common problems that I see as a Java developer.
