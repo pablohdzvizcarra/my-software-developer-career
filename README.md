@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2122: Continue with Block Storage Project
+
+Today I continue working on my Block Storage project. I added a TCP server to accept connections from clients, the idea is N number of clients can connect to the block storage application to write and read data. For the moment the project supports Client connections and I am working into develop the `Binary Protocol` to communicate with the block storage application. I am doing the project following TDD, I am happy coding with Golang and this type of complicated projects.
+
 ### Day 2121: How Works Block Storage
 
 Today I studied how the `Block Storage` technology works while doing some Golang code to start with the `write` operation. The general idea of the block storage technology is save any type of file into chunks, a file is divided into N number of chunks, next these chunks are saved into the underlying hardware like an SSD, HDD, etc. I implemented the write function to accept any type of file, next split these file into 256 kilobytes chunks, to finally save the chunks into a folder concurrently. For the moment I am using a simple .json file to store a basic implementation of metadata, the metadata for the moment is only the filename and their list of chunks location. Tomorrow I will continue working on this amazing project.
