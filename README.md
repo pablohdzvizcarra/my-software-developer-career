@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2123: Developing the Parse Logic
+
+Today I continue working on my `Object Storage` application. I fixed some unit tests that broken after apply some modifications and adding more validations in my parse logic. The parse logic is responsible to serialize the `[]byte` with the client request into a Message object.
+
 ### Day 2122: Continue with Block Storage Project
 
 Today I continue working on my Block Storage project. I added a TCP server to accept connections from clients, the idea is N number of clients can connect to the block storage application to write and read data. For the moment the project supports Client connections and I am working into develop the `Binary Protocol` to communicate with the block storage application. I am doing the project following TDD, I am happy coding with Golang and this type of complicated projects.
