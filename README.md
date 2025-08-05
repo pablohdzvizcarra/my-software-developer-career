@@ -7,7 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
-### Day 2123: Developing the Parse Logic
+### Day 2124: Working on Handle WRITE Messages
+
+Today I worked on the `handler` module for my block storage product. The handler module has the responsibility of handle the client messages and dispatch to the appropriate storage function like handle a WRITE message and dispatch to the storage function that write the file from the WRITE message into a volume as a block. Working on this module I found and issue with the logic that load the metadata object from the disk, the problem was the code to load/write the metadata object was not thread-safe and we can have race conditions issues with this code. I fixed the issue adding a `Mutex` to the code that load/write the metadata object.
+
+### Day 2123: Developing the Parse **Logic**
 
 Today I continue working on my `Object Storage` application. I fixed some unit tests that broken after apply some modifications and adding more validations in my parse logic. The parse logic is responsible to serialize the `[]byte` with the client request into a Message object.
 
