@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2125: Unit Testing
+
+Today I was working into create some unit tests to understand how. code logic works. I could not create an entire unit test for the class because it is impossible to instantiate the class because have a lot of dependencies and some of these are static classes. The approach that I follow was create a unit tests and copy-paste the individual functions that I want to test into the test class and next in the unit test class call the functions like the original class. This approach is not the best but for the moment I want to understand how the code works and create some unit tests to validate the logic of the functions.
+
 ### Day 2124: Working on Handle WRITE Messages
 
 Today I worked on the `handler` module for my block storage product. The handler module has the responsibility of handle the client messages and dispatch to the appropriate storage function like handle a WRITE message and dispatch to the storage function that write the file from the WRITE message into a volume as a block. Working on this module I found and issue with the logic that load the metadata object from the disk, the problem was the code to load/write the metadata object was not thread-safe and we can have race conditions issues with this code. I fixed the issue adding a `Mutex` to the code that load/write the metadata object.
