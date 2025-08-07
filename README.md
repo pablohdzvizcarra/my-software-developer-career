@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2126: Logging in Golang
+
+Today I worked into refactor my code logs to the standard `log/slog` package. The `log/slog` package in Golang is a the new version of the `log` package, this package is used to create structured logs in Golang applications. We can add key-values pairs to the logs, to print in the console any value from a variable and also supports INFO, DEBUG, WARN and ERROR tags for each log. I am continue working on my block storage Golang project, for the moment I am working into after save the file into disk, send back a response to the client to indicates everything was good.
+
 ### Day 2125: Unit Testing
 
 Today I was working into create some unit tests to understand how. code logic works. I could not create an entire unit test for the class because it is impossible to instantiate the class because have a lot of dependencies and some of these are static classes. The approach that I follow was create a unit tests and copy-paste the individual functions that I want to test into the test class and next in the unit test class call the functions like the original class. This approach is not the best but for the moment I want to understand how the code works and create some unit tests to validate the logic of the functions.
