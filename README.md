@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2127: Client Response & Partitioning
+
+Today I continue working on my Block Storage project developing the feature to send a response to the client when a WRITE operation is completed in the application. I needed to design the Client response in my binary protocol, I am using 7 bytes header with the following structure: `[status 1 byte][errorCode 2 bytes][payload length 4 bytes][paylod]`. I learned a lot of things working on this project, I am thinking into continue or maybe finished when completes the READ operation. In other topics I will also study about Partitioning in distributed system to increase the service availability and performance focusing on how NoSQL databases follow this pattern.
+
 ### Day 2126: Logging in Golang
 
 Today I worked into refactor my code logs to the standard `log/slog` package. The `log/slog` package in Golang is a the new version of the `log` package, this package is used to create structured logs in Golang applications. We can add key-values pairs to the logs, to print in the console any value from a variable and also supports INFO, DEBUG, WARN and ERROR tags for each log. I am continue working on my block storage Golang project, for the moment I am working into after save the file into disk, send back a response to the client to indicates everything was good.
