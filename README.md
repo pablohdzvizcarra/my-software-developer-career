@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2128: Studying Caching & Continue with Project
+
+Today I studied cache techniques and cache policies. Also I continue working in my `Block Storage` golang application.
+I want to work tomorrow into implement the READ functionality in my block storage app. For the moment my app support WRITE operations to save files as blocks in folders, but I have the plan to create volumes and in that volumes store the blocks like in a real application.
+
 ### Day 2127: Client Response & Partitioning
 
 Today I continue working on my Block Storage project developing the feature to send a response to the client when a WRITE operation is completed in the application. I needed to design the Client response in my binary protocol, I am using 7 bytes header with the following structure: `[status 1 byte][errorCode 2 bytes][payload length 4 bytes][paylod]`. I learned a lot of things working on this project, I am thinking into continue or maybe finished when completes the READ operation. In other topics I will also study about Partitioning in distributed system to increase the service availability and performance focusing on how NoSQL databases follow this pattern.
