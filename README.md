@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2129: Supporting Read Message in Project
+
+Today I worked into support READ messages in my block storage project. My project for the moment support Write and Read message from clients. A client can connect to the application and start to save and read files using the binary protocol. I am thinking into implement a handshake between the Client and Server because for the moment the server does not verify if the client that is attempting to create the connection talk the same protocol.
+
 ### Day 2128: Studying Caching & Continue with Project
 
 Today I studied cache techniques and cache policies. Also I continue working in my `Block Storage` golang application.
