@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2131: Integration Tests for Read Message Feature
+
+Today I wrote the integration tests for the Read message feature in my stgblock object storage in Go. I created a test client with the Golang testing library to connect to my server to send a message, and I verified that the server response with the expected payload. Unit testing in Golang are very good, I love how golang integrate the unit tests library in the `testing` package and the integration that have with the Golang ecosystem.
+
 ### Day 2130: Organizing Goals
 
 Today I just took some time organize my goals and plan my tasks for the upcoming month. I want to code today but I avoid it because I want to take some free coding activities time. Like watching TV, reading books and spend time with my family.
