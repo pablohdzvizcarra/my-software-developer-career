@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2132: Configuring Threshold
+
+Today I was working in a coding tasks that involves setup a threshold in a counter when a condition is meet. A threshold is a value that serves as a limit or boundary in applications, if the application is working below the threshold, that means the application is not exceeding expectations. The general idea was configure the threshold with some condition, and when we receive N number of errors greater than the threshold, we trigger an action. I needed to do some Java and Bash code to implement this feature.
+
 ### Day 2131: Integration Tests for Read Message Feature
 
 Today I wrote the integration tests for the Read message feature in my stgblock object storage in Go. I created a test client with the Golang testing library to connect to my server to send a message, and I verified that the server response with the expected payload. Unit testing in Golang are very good, I love how golang integrate the unit tests library in the `testing` package and the integration that have with the Golang ecosystem.
