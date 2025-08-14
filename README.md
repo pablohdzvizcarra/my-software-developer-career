@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2133: Developing Delete Operation in STGBlock
+
+Today I started to work on support the deleted operation in my block storage application. For the moment I define the design of the `DELETE` operation, which will allow clients to remove files from the storage. I write the design in my binary protocol docs and start to implement id in code.
+
 ### Day 2132: Configuring Threshold
 
 Today I was working in a coding tasks that involves setup a threshold in a counter when a condition is meet. A threshold is a value that serves as a limit or boundary in applications, if the application is working below the threshold, that means the application is not exceeding expectations. The general idea was configure the threshold with some condition, and when we receive N number of errors greater than the threshold, we trigger an action. I needed to do some Java and Bash code to implement this feature.
