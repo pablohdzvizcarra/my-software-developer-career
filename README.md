@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2134: Problems Supporting Delete Operation
+
+Today I was working into a code issue related about the logic to parse the `[]byte` frame into a delete message operation. The problem is the code is validating boundaries using and offset(index) and the total length of the frame, but sometimes my logic cause fail positives or negatives, it is complicated developing the protocol and clients be able to send a frame with the correct structure, clients can write their own sending logic. Tomorrow I will need to continue checking the logic and thinking more about these problems. 
+
 ### Day 2133: Developing Delete Operation in STGBlock
 
 Today I started to work on support the deleted operation in my block storage application. For the moment I define the design of the `DELETE` operation, which will allow clients to remove files from the storage. I write the design in my binary protocol docs and start to implement id in code.
