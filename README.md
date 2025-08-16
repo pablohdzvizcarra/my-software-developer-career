@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2135: Golang Channels
+
+Today I studied how works Golang channels to catch errors that can be happen inside a Goroutine. Channels are a powerful Golang feature to share data between Goroutine, you can send data to a channel in a Goroutine and receive it in another Goroutine. 
+
 ### Day 2134: Problems Supporting Delete Operation
 
 Today I was working into a code issue related about the logic to parse the `[]byte` frame into a delete message operation. The problem is the code is validating boundaries using and offset(index) and the total length of the frame, but sometimes my logic cause fail positives or negatives, it is complicated developing the protocol and clients be able to send a frame with the correct structure, clients can write their own sending logic. Tomorrow I will need to continue checking the logic and thinking more about these problems. 
