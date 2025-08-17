@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2136: Complete Delete Feature
+
+Today I completed the delete feature in my block storage application. When a client wants to delete a file that exists, first the application validates that the files already exists, get the blocks addresses from the metadata file, to finally delete all the blocks for that file. I develop the code for this feature following TDD methodology. Also I return a status error and error code when the client wants to delete a file that does not exists.
+
 ### Day 2135: Golang Channels
 
 Today I studied how works Golang channels to catch errors that can be happen inside a Goroutine. Channels are a powerful Golang feature to share data between Goroutine, you can send data to a channel in a Goroutine and receive it in another Goroutine. 
