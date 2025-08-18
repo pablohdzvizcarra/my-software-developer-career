@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2137: Organizing Goals & Free Time
+
+Today I organized my monthly goals as a software engineer. I refactor some goals and setup target dates for the rest of the month, I want to continue focusing on my Block Storage project and learning more about distributed systems.
+
 ### Day 2136: Complete Delete Feature
 
 Today I completed the delete feature in my block storage application. When a client wants to delete a file that exists, first the application validates that the files already exists, get the blocks addresses from the metadata file, to finally delete all the blocks for that file. I develop the code for this feature following TDD methodology. Also I return a status error and error code when the client wants to delete a file that does not exists.
