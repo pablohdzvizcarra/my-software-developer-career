@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2138: Software Common Failures
+
+Today I read the *Common Failure Cases* book chapter. On this chapter I learned the most common errors that can happen in a software application like Configuration, Resource Leaks and load pressure errors. Configuration errors are one of the most common type of errors and if you look in the internet you will find multiple examples that an easy task like configure a certificate can cause a lot of issues and problems for an error. The resource leak error is also another error that I found working as a software engineer, I remember the time when we have a non-limit backlog for a Kafka topic and this backlog growths until use the entire server disk space. I believe that reading post-mortem documents and RCA are one of the bst ways to learn from this errors.  
+
 ### Day 2137: Organizing Goals & Free Time
 
 Today I organized my monthly goals as a software engineer. I refactor some goals and setup target dates for the rest of the month, I want to continue focusing on my Block Storage project and learning more about distributed systems.
