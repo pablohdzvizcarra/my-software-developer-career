@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2139: Designing Protocol Handshake
+
+Today I begin to work on design the protocol handshake for my binary protocol used in my Block Storage application. For the moment the protocol structure is: 3 bytes as the magic protocol number, 1 byte for the protocol version, 8 reserver bytes for the moment setup to zeros, 1 byte for the client ID length, I am not sure the size of the client id yet, the client ID and finally the termination character `0x0A`. I added the protocol design to my protocol docs and start to code the logic to parse the client handshake into a Golang struct for easy manipulation.
+
 ### Day 2138: Software Common Failures
 
 Today I read the *Common Failure Cases* book chapter. On this chapter I learned the most common errors that can happen in a software application like Configuration, Resource Leaks and load pressure errors. Configuration errors are one of the most common type of errors and if you look in the internet you will find multiple examples that an easy task like configure a certificate can cause a lot of issues and problems for an error. The resource leak error is also another error that I found working as a software engineer, I remember the time when we have a non-limit backlog for a Kafka topic and this backlog growths until use the entire server disk space. I believe that reading post-mortem documents and RCA are one of the bst ways to learn from this errors.  
