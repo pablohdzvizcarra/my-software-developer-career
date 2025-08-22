@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2140-41: Peer Registry & Handshake
+
+These days I continue working implementing the protocol handshake for my Block Storage system. After start to receive messages for write/delete/read files, the application first needs to execute a handshake with the client to validate that both the client and server talks the same binary protocol, if the client handshake messages is not sent correct to the server, the server returns a bad response with format like: status(1 bute) - code error (2 bytes) - endChar(1 byte). I implemented the server handshake validation and created unit test for the feature.
+
 ### Day 2139: Designing Protocol Handshake
 
 Today I begin to work on design the protocol handshake for my binary protocol used in my Block Storage application. For the moment the protocol structure is: 3 bytes as the magic protocol number, 1 byte for the protocol version, 8 reserver bytes for the moment setup to zeros, 1 byte for the client ID length, I am not sure the size of the client id yet, the client ID and finally the termination character `0x0A`. I added the protocol design to my protocol docs and start to code the logic to parse the client handshake into a Golang struct for easy manipulation.
