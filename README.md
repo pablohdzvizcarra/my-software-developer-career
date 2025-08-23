@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2142: Client Connections
+
+Today I refactored how my Block Storage application manage the client connections. I created a Client registry in which every client that connects to my server is registered, for the moment the registry only supports client registration and maintain a list with all clients connected with basic information like Address, Connection time and Client ID. In the future I have the plan to add more functionalities like rate limit for clients, security, authorization, etc. 
+
 ### Day 2140-41: Peer Registry & Handshake
 
 These days I continue working implementing the protocol handshake for my Block Storage system. After start to receive messages for write/delete/read files, the application first needs to execute a handshake with the client to validate that both the client and server talks the same binary protocol, if the client handshake messages is not sent correct to the server, the server returns a bad response with format like: status(1 bute) - code error (2 bytes) - endChar(1 byte). I implemented the server handshake validation and created unit test for the feature.
