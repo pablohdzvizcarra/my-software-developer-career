@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2143: Update Message
+
+Today I started to code the logic for my Block Storage application to support UPDATE messages. The UPDATe message logic looks like similar to the WRITE logic, the unique difference is first we need to delete the old blocks with the data and next write the new locks. Tomorrow I will need to investigate if rather than delete the entire blocks, I can only update with the new ones. A delta update something like that.
+
 ### Day 2142: Client Connections
 
-Today I refactored how my Block Storage application manage the client connections. I created a Client registry in which every client that connects to my server is registered, for the moment the registry only supports client registration and maintain a list with all clients connected with basic information like Address, Connection time and Client ID. In the future I have the plan to add more functionalities like rate limit for clients, security, authorization, etc. 
+Today I refactored how my Block Storage application manage the client connections. I created a Client registry in which every client that connects to my server is registered, for the moment the registry only supports client registration and maintain a list with all clients connected with basic information like Address, Connection time and Client ID. In the future I have the plan to add more functionalities like rate limit for clients, security, authorization, etc.
 
 ### Day 2140-41: Peer Registry & Handshake
 
@@ -33,11 +37,11 @@ Today I completed the delete feature in my block storage application. When a cli
 
 ### Day 2135: Golang Channels
 
-Today I studied how works Golang channels to catch errors that can be happen inside a Goroutine. Channels are a powerful Golang feature to share data between Goroutine, you can send data to a channel in a Goroutine and receive it in another Goroutine. 
+Today I studied how works Golang channels to catch errors that can be happen inside a Goroutine. Channels are a powerful Golang feature to share data between Goroutine, you can send data to a channel in a Goroutine and receive it in another Goroutine.
 
 ### Day 2134: Problems Supporting Delete Operation
 
-Today I was working into a code issue related about the logic to parse the `[]byte` frame into a delete message operation. The problem is the code is validating boundaries using and offset(index) and the total length of the frame, but sometimes my logic cause fail positives or negatives, it is complicated developing the protocol and clients be able to send a frame with the correct structure, clients can write their own sending logic. Tomorrow I will need to continue checking the logic and thinking more about these problems. 
+Today I was working into a code issue related about the logic to parse the `[]byte` frame into a delete message operation. The problem is the code is validating boundaries using and offset(index) and the total length of the frame, but sometimes my logic cause fail positives or negatives, it is complicated developing the protocol and clients be able to send a frame with the correct structure, clients can write their own sending logic. Tomorrow I will need to continue checking the logic and thinking more about these problems.
 
 ### Day 2133: Developing Delete Operation in STGBlock
 
