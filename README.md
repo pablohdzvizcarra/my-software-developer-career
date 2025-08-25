@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2144: Rest & Reading
+
+Today I only read some Medium blog posts about software engineering and personal development. I free my mind from my work and code activities for the last week.
+
 ### Day 2143: Update Message
 
 Today I started to code the logic for my Block Storage application to support UPDATE messages. The UPDATe message logic looks like similar to the WRITE logic, the unique difference is first we need to delete the old blocks with the data and next write the new locks. Tomorrow I will need to investigate if rather than delete the entire blocks, I can only update with the new ones. A delta update something like that.
