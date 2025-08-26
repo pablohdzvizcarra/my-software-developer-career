@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2145: Update Operation
+
+Today I continue working on support the Update operation in my block storage application. For the moment I am writing the code without follow good practices, I have some duplicated logic in the WRITE and UPDATE storage functions. The code is working I am able to update the blocks for a file on disk and returns to the clients the updated data. I will need to continue working on the Update operation tomorrow. 
+
 ### Day 2144: Rest & Reading
 
 Today I only read some Medium blog posts about software engineering and personal development. I free my mind from my work and code activities for the last week.
