@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2146: Complete Update Operation
+
+Today I completed to implement the update operation in my Block Storage project. Now clients can connect to the server and send update messages following the binary specification to update files in the storage. The update operation logic is easy, first delete all blocks for the file saved on disk, and next write the file again into disk partitioning the file into blocks. Maybe I will refactor this logic in the future to only update the required blocks rather than update the entire file, but I am not sure if this is possible and if it is possible I don't know how to implement with code.
+
 ### Day 2145: Update Operation
 
-Today I continue working on support the Update operation in my block storage application. For the moment I am writing the code without follow good practices, I have some duplicated logic in the WRITE and UPDATE storage functions. The code is working I am able to update the blocks for a file on disk and returns to the clients the updated data. I will need to continue working on the Update operation tomorrow. 
+Today I continue working on support the Update operation in my block storage application. For the moment I am writing the code without follow good practices, I have some duplicated logic in the WRITE and UPDATE storage functions. The code is working I am able to update the blocks for a file on disk and returns to the clients the updated data. I will need to continue working on the Update operation tomorrow.
 
 ### Day 2144: Rest & Reading
 
