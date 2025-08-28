@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2147: Write Commit Emit Pattern
+
+Today I studied the `write -> commit -> emit` pattern in software engineering to ensure a transaction is processed at-least one delivery and exactly-one processing. I am working in a code issue in which we send some transactions to an external component, but sometimes this component does not return the transaction request, because the transaction is divided into multiple sub transactions and if only one fails, the full transaction is marked with error. The problem here is we don't have a registry or log to record that the transaction was processed or not, and due to this we are not sure if our code or the other component is failing.
+
 ### Day 2146: Complete Update Operation
 
 Today I completed to implement the update operation in my Block Storage project. Now clients can connect to the server and send update messages following the binary specification to update files in the storage. The update operation logic is easy, first delete all blocks for the file saved on disk, and next write the file again into disk partitioning the file into blocks. Maybe I will refactor this logic in the future to only update the required blocks rather than update the entire file, but I am not sure if this is possible and if it is possible I don't know how to implement with code.
