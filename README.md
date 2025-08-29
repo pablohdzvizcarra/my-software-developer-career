@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2148: Message Framing
+
+Today I changed the delimiter character logic in the binary protocol for my Block Storage application. I used a `\n` character delimiter to read bytes from the client connection to know when the message ends, the problem with this approach is if you have a `\n` inside the payload content, you will end up reading a message incomplete. Take the same frame message as example with a length of 16: `[0x00, 0x01, 0x0A, 0x09, 0x08, 0x0A]`, the problem if you use a `0x0A` as delimiter to know when to terminate to read bytes from the connection, you read the frame incomplete. To solve this issue I am changing my protocol logic to first send a header messages to the server to know how much bytes need to read from the connection in the next step, with this technique the code only server only reads the necessary bytes from the client connection.
+
 ### Day 2147: Write Commit Emit Pattern
 
 Today I studied the `write -> commit -> emit` pattern in software engineering to ensure a transaction is processed at-least one delivery and exactly-one processing. I am working in a code issue in which we send some transactions to an external component, but sometimes this component does not return the transaction request, because the transaction is divided into multiple sub transactions and if only one fails, the full transaction is marked with error. The problem here is we don't have a registry or log to record that the transaction was processed or not, and due to this we are not sure if our code or the other component is failing.
