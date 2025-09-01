@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2150: Header and Payload Client Response
+
+Today I changed how I send a response to the clients connected to my Block Storage application. When a client sends a message to perform a WRITE, READ, DELETE AND UPDATE operation in my block storage app, the past binary protocol design was send a response that ends with a `\n` as a character delimiter, the clients read bytes from the connection until receives the `\n` character, but this design was not good because I could not send any `\n` character as body in the response. I changed the design to first the server sends a header message, in the header message I send as a `4-byte` the length of the payload response and if the number > 0, the client needs to read `N` bytes from the connection. This design is the most common used on software products that the one I am building.  
+
 ### Day 2149: Events
 
 I am working in a code feature to listen for a specific event to do an action when the event is fired. The general idea is when a property of the system changes, an event needs to be generated, we need to receive that event in our listener logic, and trigger an update action when the event is received. Currently we have a `Polling` pattern and we want to remove this to be replaced for an event-driven implementation.
