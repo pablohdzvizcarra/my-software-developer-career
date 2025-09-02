@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2152: Monitoring
+
+Today I read the Building distributed systems Monitoring chapter. The monitoring chapter describes the most common industry techniques to monitor the health of a software application, to have a healthy application you need to configure a mix of some features like Metrics, Service-level indicators, service-level objectives, alerts and dashboards. The chapter is focused on the importance of setup these features and the importance of automate the most possible actions to fix an unhealthy system.
+
 ### Day 2151: Completed 50 days
 
 Today I created the table entry that contains the skills leader and practicing in the last 50 days. I feel good with my progress during these days I dedicated most of my time to build an application to learn new skills. This application is hard and the technical level is very good, is not a basic CRUD or a simple HTTP server.
