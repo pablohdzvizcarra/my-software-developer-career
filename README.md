@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2153: Protocol Symmetry
+
+Today I changed how my binary protocol creates and send the responses to the clients to follow protocol symmetry also I learned what is this principle in binary protocols.
+Protocol Symmetry is when your binary protocol have the same design for request and responses, for example for request client, first my protocol requires that clients sends a header integer (4 bytes) to know how many bytes the server needs to read next to read the full request. The same happens for responses, the server needs to send a header and clients needs to read the exact number of bytes as the header value. Modifying my protocol to have meet this principle it is being difficult because I am also fixing my current integration and unit tests. 
+
 ### Day 2152: Monitoring
 
 Today I read the Building distributed systems Monitoring chapter. The monitoring chapter describes the most common industry techniques to monitor the health of a software application, to have a healthy application you need to configure a mix of some features like Metrics, Service-level indicators, service-level objectives, alerts and dashboards. The chapter is focused on the importance of setup these features and the importance of automate the most possible actions to fix an unhealthy system.
