@@ -7,10 +7,14 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2154: Fixing Protocol Logic
+
+Today I was working into fix my code for support the WRITE message the problem was with the protocol design change to send first 4 bytes as a header that indicates the message length, I will need to change multiple files in my Block Storage application to change the Decode and Encode logic. The good news are thanks that I had unit tests this fix is easy to apply and validates that the logic is working. I estimate that it will take me three more days to fix the code to support the new protocol design.
+
 ### Day 2153: Protocol Symmetry
 
 Today I changed how my binary protocol creates and send the responses to the clients to follow protocol symmetry also I learned what is this principle in binary protocols.
-Protocol Symmetry is when your binary protocol have the same design for request and responses, for example for request client, first my protocol requires that clients sends a header integer (4 bytes) to know how many bytes the server needs to read next to read the full request. The same happens for responses, the server needs to send a header and clients needs to read the exact number of bytes as the header value. Modifying my protocol to have meet this principle it is being difficult because I am also fixing my current integration and unit tests. 
+Protocol Symmetry is when your binary protocol have the same design for request and responses, for example for request client, first my protocol requires that clients sends a header integer (4 bytes) to know how many bytes the server needs to read next to read the full request. The same happens for responses, the server needs to send a header and clients needs to read the exact number of bytes as the header value. Modifying my protocol to have meet this principle it is being difficult because I am also fixing my current integration and unit tests.
 
 ### Day 2152: Monitoring
 
