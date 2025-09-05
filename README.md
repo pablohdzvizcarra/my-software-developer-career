@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2155: Fix Read and Update Logic
+
+Today I fixed the Read logic on my binary protocol for my Block storage application. Now when the server process a Read request, first response with a header byte that contains the length og the following Read response, with this change my client know how much bytes needs to read from the connection to get the Read response. I am working into standardize my request and response frame and also refactor the properties names to achieve consistency and symmetry in the protocol design. Tomorrow I will need to continue working on the Update logic. 
+
 ### Day 2154: Fixing Protocol Logic
 
 Today I was working into fix my code for support the WRITE message the problem was with the protocol design change to send first 4 bytes as a header that indicates the message length, I will need to change multiple files in my Block Storage application to change the Decode and Encode logic. The good news are thanks that I had unit tests this fix is easy to apply and validates that the logic is working. I estimate that it will take me three more days to fix the code to support the new protocol design.
