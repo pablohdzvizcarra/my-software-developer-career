@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2156: Continue Working on Block Storage Project
+
+Today I continue working into fix the things that were broken when I change my binary protocol design. I completed to fix the UPDATE client message and the created unit tests to test that feature. Maybe during the weekend I will take some free time out of my project to code something with C and learn some pending concepts.
+
 ### Day 2155: Fix Read and Update Logic
 
-Today I fixed the Read logic on my binary protocol for my Block storage application. Now when the server process a Read request, first response with a header byte that contains the length og the following Read response, with this change my client know how much bytes needs to read from the connection to get the Read response. I am working into standardize my request and response frame and also refactor the properties names to achieve consistency and symmetry in the protocol design. Tomorrow I will need to continue working on the Update logic. 
+Today I fixed the Read logic on my binary protocol for my Block storage application. Now when the server process a Read request, first response with a header byte that contains the length og the following Read response, with this change my client know how much bytes needs to read from the connection to get the Read response. I am working into standardize my request and response frame and also refactor the properties names to achieve consistency and symmetry in the protocol design. Tomorrow I will need to continue working on the Update logic.
 
 ### Day 2154: Fixing Protocol Logic
 
