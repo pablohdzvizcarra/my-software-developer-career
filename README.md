@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2158: Goals Review
+
+Today I reviewed my current monthly/year goals as a software engineer. I organized my current goals and change the priority of one of them due to some unexpect events that happened during the week, it is interesting how health conditions can modify your goals and how you will need to reschedule your planned dates. During the rest of the year I will focus in two main concepts, `Distributed Systems` and `Storage Virtualization Technologies with Java, JNI and C`.
+
 ### Day 2157: Alignment & Padding in C
 
 Today I studied the Alignment and Padding concepts on C. Alignment was a new concept for me because in Java, Python and Go I remember that I never needed to learn this concept. In a C `struct` the alignment concept refers that the members of a struct needs to have then same length like the largest member, for example if we have 2 members one is a char short and the other one is an int, the C compiler by default append 2 unused bytes to the short element to have the size equals between the members. In C the member order affects how the compiler compile the other members. I read that for modern compilers is faster to read data from the memory when it is allocated with the same size like 2-bytes due to this the C compiler optimize the memory allocation. Padding elements are the unused bytes inserted by the compiler.
