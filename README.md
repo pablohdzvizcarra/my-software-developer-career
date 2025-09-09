@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2159: Understanding Distributed Systems
+
+Today I completed to read the Understanding Distributed Systems books. This book was very great and although I complete to read it, I have some pending homework. I will need to read the Research Papers mentioned in the book also. The author recommends to read the papers to build the habit of read technical documentation and Research papers to learn new things or make deep dive into concepts. Also the author recommend two more books to read related with these concepts. Learning about Distributed systems to understand some concepts in my work and build amazing applications will be amazing.
+
 ### Day 2158: Goals Review
 
 Today I reviewed my current monthly/year goals as a software engineer. I organized my current goals and change the priority of one of them due to some unexpect events that happened during the week, it is interesting how health conditions can modify your goals and how you will need to reschedule your planned dates. During the rest of the year I will focus in two main concepts, `Distributed Systems` and `Storage Virtualization Technologies with Java, JNI and C`.
