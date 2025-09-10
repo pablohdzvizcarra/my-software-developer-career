@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2160: Complete DELETE Operation
+
+Today I completed to fix the `DELETE` operation on my binary protocol. After change the protocol design to be a length-prefixed, I will need to modify how the client sends messages to the server and how the server send response to include a header value that indicates how many a bytes the server/client needs to read in the next call. Now I am practicing networking programming like TCP sockets and Binary protocols with C and C++.
+
 ### Day 2159: Understanding Distributed Systems
 
 Today I completed to read the Understanding Distributed Systems books. This book was very great and although I complete to read it, I have some pending homework. I will need to read the Research Papers mentioned in the book also. The author recommends to read the papers to build the habit of read technical documentation and Research papers to learn new things or make deep dive into concepts. Also the author recommend two more books to read related with these concepts. Learning about Distributed systems to understand some concepts in my work and build amazing applications will be amazing.
