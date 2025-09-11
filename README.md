@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2161: Socket and Client App
+
+Today I started a basic exercise to write a Client-Server application that sends bytes over a socket connection with C and C++ code.
+It is interesting how in C/C++ open a single Socket connection and read/send bytes is sometimes complicated. You will need to setup some things manually like the variables/structures to hold the data, I am following the basic standard that is send a 4byte header first with the size of the payload and next send the payload to the client, one of the main problems in C is when you use `write` or `read` system calls there is no guarantee that all the bytes will be write/receive through the connection, you will need to ad a mechanism that handle this. 
+
 ### Day 2160: Complete DELETE Operation
 
 Today I completed to fix the `DELETE` operation on my binary protocol. After change the protocol design to be a length-prefixed, I will need to modify how the client sends messages to the server and how the server send response to include a header value that indicates how many a bytes the server/client needs to read in the next call. Now I am practicing networking programming like TCP sockets and Binary protocols with C and C++.
