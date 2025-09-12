@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2162: Manipulating Bytes with C
+
+Today I was learning how to manipulate bytes with C. How to create an struct with C and next insert the struct values into a buffer. It is really amazing how in C you manipulate bytes directly rather than just using Objects or String like in Java. I am learning multiple low-level topics and I will continue practicing with this in the following days.
+
 ### Day 2161: Socket and Client App
 
 Today I started a basic exercise to write a Client-Server application that sends bytes over a socket connection with C and C++ code.
