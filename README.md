@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2163: Ansible
+
+Today I begin to build an Ansible playbook to execute some test in a server. I am trying to review some metrics from the server using Ansible and if the metrics reach a threshold execute some action.  It is interesting how Ansible can automate these types of tasks and also literally you can create any thing that you imagine. 
+
 ### Day 2162: Manipulating Bytes with C
 
 Today I was learning how to manipulate bytes with C. How to create an struct with C and next insert the struct values into a buffer. It is really amazing how in C you manipulate bytes directly rather than just using Objects or String like in Java. I am learning multiple low-level topics and I will continue practicing with this in the following days.
@@ -14,7 +18,7 @@ Today I was learning how to manipulate bytes with C. How to create an struct wit
 ### Day 2161: Socket and Client App
 
 Today I started a basic exercise to write a Client-Server application that sends bytes over a socket connection with C and C++ code.
-It is interesting how in C/C++ open a single Socket connection and read/send bytes is sometimes complicated. You will need to setup some things manually like the variables/structures to hold the data, I am following the basic standard that is send a 4byte header first with the size of the payload and next send the payload to the client, one of the main problems in C is when you use `write` or `read` system calls there is no guarantee that all the bytes will be write/receive through the connection, you will need to ad a mechanism that handle this. 
+It is interesting how in C/C++ open a single Socket connection and read/send bytes is sometimes complicated. You will need to setup some things manually like the variables/structures to hold the data, I am following the basic standard that is send a 4byte header first with the size of the payload and next send the payload to the client, one of the main problems in C is when you use `write` or `read` system calls there is no guarantee that all the bytes will be write/receive through the connection, you will need to ad a mechanism that handle this.
 
 ### Day 2160: Complete DELETE Operation
 
