@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2164: C Book
+
+Today I begin to read the Effective C book. I want to read this book to acquire the skill to read and understand C code, to learn how to manipulate bytes, how works bitwise operations and many other low-level concepts. 
+
 ### Day 2163: Ansible
 
-Today I begin to build an Ansible playbook to execute some test in a server. I am trying to review some metrics from the server using Ansible and if the metrics reach a threshold execute some action.  It is interesting how Ansible can automate these types of tasks and also literally you can create any thing that you imagine. 
+Today I begin to build an Ansible playbook to execute some test in a server. I am trying to review some metrics from the server using Ansible and if the metrics reach a threshold execute some action.  It is interesting how Ansible can automate these types of tasks and also literally you can create any thing that you imagine.
 
 ### Day 2162: Manipulating Bytes with C
 
