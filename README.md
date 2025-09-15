@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2165: C Object Types
+
+Today I studied some of the available Object types available in C. In C everything that needs to hold a value is an object, and we have different types to represent the objects. I studied the `Character`, `Arithmetic`, `Enum`, `Floating`, and `Void` types. The character type is used to represent letters, like simple tokens `a`, `b`, etc. Arithmetic types are used to represent numbers like integer and longs. It is curious how in C we have a lot of types and subtypes to represent values.  
+
 ### Day 2164: C Book
 
-Today I begin to read the Effective C book. I want to read this book to acquire the skill to read and understand C code, to learn how to manipulate bytes, how works bitwise operations and many other low-level concepts. 
+Today I begin to read the Effective C book. I want to read this book to acquire the skill to read and understand C code, to learn how to manipulate bytes, how works bitwise operations and many other low-level concepts.
 
 ### Day 2163: Ansible
 
