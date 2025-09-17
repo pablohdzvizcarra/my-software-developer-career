@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2166-67: Rest & Reding
+
+I had a long weekend thanks to a holiday. During my long weekend I took some rest of programming and only read a few pages of a Distributed Systems book. I will continue studying distributed systems for the rest of the year and maybe work on my block storage project.
+
 ### Day 2165: C Object Types
 
 Today I studied some of the available Object types available in C. In C everything that needs to hold a value is an object, and we have different types to represent the objects. I studied the `Character`, `Arithmetic`, `Enum`, `Floating`, and `Void` types. The character type is used to represent letters, like simple tokens `a`, `b`, etc. Arithmetic types are used to represent numbers like integer and longs. It is curious how in C we have a lot of types and subtypes to represent values.  
