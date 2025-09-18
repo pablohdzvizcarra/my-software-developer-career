@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2168: Code Refactoring
+
+Today I was working into refactor some Java code. I only did little refactors like change the name of some functions and their parameters to better names, improve the logging of the application for some features and removing non-used imports in the code.
+
 ### Day 2166-67: Rest & Reding
 
 I had a long weekend thanks to a holiday. During my long weekend I took some rest of programming and only read a few pages of a Distributed Systems book. I will continue studying distributed systems for the rest of the year and maybe work on my block storage project.
