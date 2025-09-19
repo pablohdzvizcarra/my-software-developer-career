@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2169: Changing for a New Book
+
+Today I decided to stop to read the C book and start to read the `Patterns of Distributed Systems` book. I felt bored and useless while reading the C book, I work with C in my work, but most of the time we only need to read and understand the C code and modifying it is not a common task. In the other part distributed systems and software architecture, is my daily problems. Really of problems arise when you have a distributed system, complex issues, complex flows to understand, debugging is hard and if you are talking with technical people, mots of the times they use technical definitions to say something like we need to improve the consensus algorithm to have a better election. I am excited for this new book it is very interesting.
+
 ### Day 2168: Code Refactoring
 
 Today I was working into refactor some Java code. I only did little refactors like change the name of some functions and their parameters to better names, improve the logging of the application for some features and removing non-used imports in the code.
