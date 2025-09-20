@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2170: Business Logic and Data Layer Application Separation
+
+Today I have been studying the Business Logic and Data Layer application separation to achieve reliability and fault tolerance in an application through replication and data partitioning. If you create an application in which the business logic is stateless, you can create N number of replicates of the application, having replicates is a common technique to have the application working in the presence of failures and achieve scalability because when the workload is increased, you can add more application replicates. Adding replicates of an application is an example of Horizontal Scalability. The data layer (database) also can be divided into multiple replicates if it is necessary because the data growths and having all the data in one server is very expensive. To be able to have N replicates of the data layer, the common approach is to partition the data in shards, a shard is only a portion of the full data. I am working in a Java code example to practice these concepts, I will create a blog posts with my code example after complete it.
+
 ### Day 2169: Changing for a New Book
 
 Today I decided to stop to read the C book and start to read the `Patterns of Distributed Systems` book. I felt bored and useless while reading the C book, I work with C in my work, but most of the time we only need to read and understand the C code and modifying it is not a common task. In the other part distributed systems and software architecture, is my daily problems. Really of problems arise when you have a distributed system, complex issues, complex flows to understand, debugging is hard and if you are talking with technical people, mots of the times they use technical definitions to say something like we need to improve the consensus algorithm to have a better election. I am excited for this new book it is very interesting.
