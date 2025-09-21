@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2171: Coding Business Logic and DAta Layer App
+
+Today I continue working on my application that implements the business logic and data layer into two separate applications. I started to work on the code logic to create the application that wll work as the load balancer, for the moment I am having problems to coordinate how the clients sends heartbeat messages to the server to maintain the connection active.
+
 ### Day 2170: Business Logic and Data Layer Application Separation
 
 Today I have been studying the Business Logic and Data Layer application separation to achieve reliability and fault tolerance in an application through replication and data partitioning. If you create an application in which the business logic is stateless, you can create N number of replicates of the application, having replicates is a common technique to have the application working in the presence of failures and achieve scalability because when the workload is increased, you can add more application replicates. Adding replicates of an application is an example of Horizontal Scalability. The data layer (database) also can be divided into multiple replicates if it is necessary because the data growths and having all the data in one server is very expensive. To be able to have N replicates of the data layer, the common approach is to partition the data in shards, a shard is only a portion of the full data. I am working in a Java code example to practice these concepts, I will create a blog posts with my code example after complete it.
