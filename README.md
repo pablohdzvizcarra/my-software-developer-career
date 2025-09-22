@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2172: Rest and Reading
+
+During the weekend I took some rest from my coding activities, and I only continue reading the Distributed systems book.
+
 ### Day 2171: Coding Business Logic and DAta Layer App
 
 Today I continue working on my application that implements the business logic and data layer into two separate applications. I started to work on the code logic to create the application that wll work as the load balancer, for the moment I am having problems to coordinate how the clients sends heartbeat messages to the server to maintain the connection active.
