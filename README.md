@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2173: Java Socket Issues
+
+Today I had some issues with my Java application that is working as a load balancer, the main issue is I had the following exception when the code is reading and Object from the socket connection: `invalid type code: AC`, Investigating more looks like this is an issue related to have multiple instances of a `ObjectOutputStream` or `ObjectInputStream` from the same socket connection. Tomorrow I will continue checking this strange issue to know how to fix it.
+
 ### Day 2172: Rest and Reading
 
 During the weekend I took some rest from my coding activities, and I only continue reading the Distributed systems book.
