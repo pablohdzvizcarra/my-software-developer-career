@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2174: Fix ObjectOutStream Issue
+
+Today I understand and fixed the issue that was happening when I write an object through an ObjectOutputStream. After understand the root cause of the issue, I discovered that was a code issue related about how I have the code logic, the main problem was I was creating multiple instances of the output stream from the same socket connection, due to this I had the exception. I redesign my code and fixed the error, for the moment I am working into refactor my code continue working on the next features. 
+
 ### Day 2173: Java Socket Issues
 
 Today I had some issues with my Java application that is working as a load balancer, the main issue is I had the following exception when the code is reading and Object from the socket connection: `invalid type code: AC`, Investigating more looks like this is an issue related to have multiple instances of a `ObjectOutputStream` or `ObjectInputStream` from the same socket connection. Tomorrow I will continue checking this strange issue to know how to fix it.
