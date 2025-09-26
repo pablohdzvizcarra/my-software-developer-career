@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2176: File Operations on C
+
+Today I learned how to perform basic file operations in C. I practice and learned how to open and close files in C to perform operations like write, read and append. To read the content of a file in C, first we need to use the `fopen` and having the FILE* pointer, we can use the `fread` function to read characters from the file. It is interesting how in C to do some basic file operations you will need to do the steps one-by-one rather than Java in which you have multiple abstractions to perform this operations faster.
+
 ### Day 2175: Start to Work on Heartbeat Mechanism
 
 Today I started to code the logic to send heartbeat messages to the server when a connection is established between a client-server. For the moment in the server side I am using a basic example, have a separate thread that review each client connected to the server, and review if the client sends a heartbeat message in a threshold time, if the client is not sending a heartbeat message, we will need to close the socket connection and show a log indicating the error. My design is the server every 30 seconds validates the client connections. 
