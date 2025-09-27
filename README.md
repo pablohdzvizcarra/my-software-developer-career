@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2177: Working on File Sender Project
+
+Today I started a C project to learn and practice how to work with Sockets and file operations. The general idea is to build a server application that receive client connections, when a client is connected to the server, the server receives a file to be saved into disk in the server side. For the client side, the client application can send any file from the PC to the remote server. I am building the server in my Oracle server and building the client in my MacBook, I want to complete this tiny project over the weekend.
+
 ### Day 2176: File Operations on C
 
 Today I learned how to perform basic file operations in C. I practice and learned how to open and close files in C to perform operations like write, read and append. To read the content of a file in C, first we need to use the `fopen` and having the FILE* pointer, we can use the `fread` function to read characters from the file. It is interesting how in C to do some basic file operations you will need to do the steps one-by-one rather than Java in which you have multiple abstractions to perform this operations faster.
