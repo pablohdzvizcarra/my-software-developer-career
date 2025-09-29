@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2178-79: Continue Working on File Sender Project
+
+I have been working on my C file sender application, the client is able to create connections to the server and send the filename for the file to be storage in the server side. I am having problems to send a header to the server that indicates the length of the file to be processed, this header length is required because the TCP server needs to know how many bytes read from the client connection.
+
 ### Day 2177: Working on File Sender Project
 
 Today I started a C project to learn and practice how to work with Sockets and file operations. The general idea is to build a server application that receive client connections, when a client is connected to the server, the server receives a file to be saved into disk in the server side. For the client side, the client application can send any file from the PC to the remote server. I am building the server in my Oracle server and building the client in my MacBook, I want to complete this tiny project over the weekend.
@@ -17,11 +21,11 @@ Today I learned how to perform basic file operations in C. I practice and learne
 
 ### Day 2175: Start to Work on Heartbeat Mechanism
 
-Today I started to code the logic to send heartbeat messages to the server when a connection is established between a client-server. For the moment in the server side I am using a basic example, have a separate thread that review each client connected to the server, and review if the client sends a heartbeat message in a threshold time, if the client is not sending a heartbeat message, we will need to close the socket connection and show a log indicating the error. My design is the server every 30 seconds validates the client connections. 
+Today I started to code the logic to send heartbeat messages to the server when a connection is established between a client-server. For the moment in the server side I am using a basic example, have a separate thread that review each client connected to the server, and review if the client sends a heartbeat message in a threshold time, if the client is not sending a heartbeat message, we will need to close the socket connection and show a log indicating the error. My design is the server every 30 seconds validates the client connections.
 
 ### Day 2174: Fix ObjectOutStream Issue
 
-Today I understand and fixed the issue that was happening when I write an object through an ObjectOutputStream. After understand the root cause of the issue, I discovered that was a code issue related about how I have the code logic, the main problem was I was creating multiple instances of the output stream from the same socket connection, due to this I had the exception. I redesign my code and fixed the error, for the moment I am working into refactor my code continue working on the next features. 
+Today I understand and fixed the issue that was happening when I write an object through an ObjectOutputStream. After understand the root cause of the issue, I discovered that was a code issue related about how I have the code logic, the main problem was I was creating multiple instances of the output stream from the same socket connection, due to this I had the exception. I redesign my code and fixed the error, for the moment I am working into refactor my code continue working on the next features.
 
 ### Day 2173: Java Socket Issues
 
