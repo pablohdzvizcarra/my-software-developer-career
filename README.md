@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2180: Sending a Big File in Chunks
+
+Today I start to work on the code logic to send a big file in chunks to the server using the Socket connection. For the code logic I am reading chunks with a 1024 bytes length, the idea is to read these limited chunks and send through the socket one-by-one until the whole file was sent, for the client side I am working in the logic to read the chunks and save them into a physical file on disk. This approach is the recommend and most used in programming for sending big files through socket connection.
+
 ### Day 2178-79: Continue Working on File Sender Project
 
 I have been working on my C file sender application, the client is able to create connections to the server and send the filename for the file to be storage in the server side. I am having problems to send a header to the server that indicates the length of the file to be processed, this header length is required because the TCP server needs to know how many bytes read from the client connection.
