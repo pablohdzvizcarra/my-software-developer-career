@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2181: Firewall Rules and Ingress/Egress Traffic
+
+Today I had some problems when attempting to deploy my C file-receiver application in my Oracle server. For an unknown reason my server is not allow to receive public TCP connections, inclusively I could not use the `ping` command to check if the server is live. I have been troubleshooting this error for some time without success, I am following the Oracle documentation to configure and allow the traffic for my virtual network, but this is not working.  
+
 ### Day 2180: Sending a Big File in Chunks
 
 Today I start to work on the code logic to send a big file in chunks to the server using the Socket connection. For the code logic I am reading chunks with a 1024 bytes length, the idea is to read these limited chunks and send through the socket one-by-one until the whole file was sent, for the client side I am working in the logic to read the chunks and save them into a physical file on disk. This approach is the recommend and most used in programming for sending big files through socket connection.
