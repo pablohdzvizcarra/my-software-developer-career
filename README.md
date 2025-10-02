@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2182: Segmented Log
+
+Today I studied and create a code example about how works the segmented log pattern on distributes systems to avoid maintain one big log file that contains all the applications logs in one place. With the segmented log technique, we split the application logs into N number of log files, we need to establish a max segment size that indicates how many bytes can store the log file and when the log file exceeds this limit, we need to create a new log file. I see this pattern in some application in my past, but I don't know all the context and the reasons behind this until today.
+
 ### Day 2181: Firewall Rules and Ingress/Egress Traffic
 
 Today I had some problems when attempting to deploy my C file-receiver application in my Oracle server. For an unknown reason my server is not allow to receive public TCP connections, inclusively I could not use the `ping` command to check if the server is live. I have been troubleshooting this error for some time without success, I am following the Oracle documentation to configure and allow the traffic for my virtual network, but this is not working.  
