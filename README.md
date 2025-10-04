@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2184: Cycle Buffer
+
+Today I learned about the cycle buffer or circular buffer logging technique. This technique involves writing data to a file and when the file is reach their max size, replace the oldest entries, with the new ones. To achieve the circular buffer technique you will need to have two pointers, a head and a tail, when the buffer is full the oldest entry is deleted to be replaced with the new one, this ensure that the file never growths more than their limit.
+
 ### Day 2183: Continue With Log Rotation Techniques
 
 Today I will continue learning about log segmentation and how to create a snapshot of a log file to clean up the file to continue adding more entries. One of the main problems with log into a file is in some point the file growths and having all the logs in the same file is not scalable, for this reason we apply the log segmentation technique to create smaller files but also in some point this smaller files growths indefinitely if we do not take attention to the file. The most used technique is create a snapshot of the entire file, and next clean up the source file. Low-Water mark is a technique to clean up log entries from a file when they are not needed.
