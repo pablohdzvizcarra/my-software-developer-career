@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2185-86: Continue Studying Distributed Systems
+
+Today, I will continue reading books on distributed systems. I learned that leader election algorithms, such as Raft and Paxos, are useful when you have a cluster with only a few nodes, such as 2-5. I also learned about the single queue update code pattern. In this pattern, we have a non-blocking queue to which multiple clients can send messages. The queue has one thread that polls and processes the messages. With this pattern, multiple threads can write to the queue, and the order of consumption is maintained. This queue is ideal for asynchronous environments where processing order is important.
+
 ### Day 2184: Cycle Buffer
 
 Today I learned about the cycle buffer or circular buffer logging technique. This technique involves writing data to a file and when the file is reach their max size, replace the oldest entries, with the new ones. To achieve the circular buffer technique you will need to have two pointers, a head and a tail, when the buffer is full the oldest entry is deleted to be replaced with the new one, this ensure that the file never growths more than their limit.
