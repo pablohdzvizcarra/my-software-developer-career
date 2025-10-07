@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2187: Majority Quorum & Generation Clock
+
+Today I studied the `Majority Quorum` and `Generation Clock` patterns. The majority quorum is used to determine how many nodes in a cluster needs to confirm that the request was processed to be successful, for example having a cluster of 5 nodes, we can say that the quorum is equal to 3 `Q = N / 2 + 1`, it is important to configure a correct quorum in a distributed system and also understand that a trade off for a high quorum is the application throughput, because if we setup a higher quorum a request require more time to be completed with success. The `Generation Clock` pattern is used to setup a correct events sequence, in a distributed system you could not rely on a digital or wall clock, you will need to ensure that the events needs to be processed in some sequence.
+
 ### Day 2185-86: Continue Studying Distributed Systems
 
 Today, I will continue reading books on distributed systems. I learned that leader election algorithms, such as Raft and Paxos, are useful when you have a cluster with only a few nodes, such as 2-5. I also learned about the single queue update code pattern. In this pattern, we have a non-blocking queue to which multiple clients can send messages. The queue has one thread that polls and processes the messages. With this pattern, multiple threads can write to the queue, and the order of consumption is maintained. This queue is ideal for asynchronous environments where processing order is important.
