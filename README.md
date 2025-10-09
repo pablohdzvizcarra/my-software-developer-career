@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2189: Paxos Consensus Protocol
+
+Today I studied the `Paxos Consensus Protocol`, used to achieve agreement in a distributed system, ensuring consistency and fault tolerance. Paxos it is very complicated to understand, the book explain how works the paxos protocol with multiple diagrams and examples. Paxos have different implementations that differ from the original, the protocol evolved during the time to continue adapting to the changes in the industry.
+
 ### Day 2188: High-Water Mark Pattern
 
 Today I studied the `High-Water Mark` pattern used on distributed systems to know the last entry that was successful write to the Write-ahead log and was committed by the leader and the followers. This technique is used to after a node crash for any reason, when the cluster select a new leader, clients continue receiving valid responses because the nodes uses the last high-water mark index to know after each point the entries in their WAL file are valid.  
