@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2190: Replicated Log
+
+Today I studied the `Replicated Log` technique used on distributed systems to ensure consistency in a cluster with N nodes. One of the main problems in distributed systems is that all the nodes that are part of the cluster, needs to have the same state, so any node can process client requests. Having a Log in which all the request are saved in the correct order, is a good way to have the same state for the nodes, but problems happens when the leader node fails and the new leader needs to ensure that the general state is the same in the remainder nodes, Paxos and Raft algorithms are a good solution for these problems. The replicated log technique is used to have a unique Log that is equal between all the nodes, so any node can use this log to terminate in the same state.
+
 ### Day 2189: Paxos Consensus Protocol
 
 Today I studied the `Paxos Consensus Protocol`, used to achieve agreement in a distributed system, ensuring consistency and fault tolerance. Paxos it is very complicated to understand, the book explain how works the paxos protocol with multiple diagrams and examples. Paxos have different implementations that differ from the original, the protocol evolved during the time to continue adapting to the changes in the industry.
