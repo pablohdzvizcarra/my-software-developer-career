@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2193: New C Project
+
+Today I started a new C project, I have the plan to build a basic SQL database like SQLite in C. I founded the following [tutorial](https://cstack.github.io/db_tutorial/) in which we build a SQLite database with basic features, I am having some problems to understand the code because I am not a good C programmer, buy at the sme time I feel like I am learning the Computer Science fundamentals while writing C code, memory allocation, pointers, bytes and other stuff are great.
+
 ### Day 2192: Reading Book
 
 Today, I spent some time continuing to read the Patterns of Distributed Systems book. I reread the section on the Singular Update Queue pattern, which involves multiple producers adding messages to a queue and a single thread reading and processing those messages. This pattern ensures that messages added to the queue are executed in the order they were added.
