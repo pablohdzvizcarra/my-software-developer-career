@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2194: Do You Want Hard Things? Code Something on C
+
+Today, I will continue working on my tutorial for building a SQLite clone in C. Most of the time, I have trouble understanding what the code is doing. C is a beautiful but difficult programming language. It's beautiful because you learn computer science fundamentals while coding in C. You are responsible for every variable you create and for managing your application's memory, such as allocating enough memory to create a type and deallocating it when it's no longer needed. This memory allocation stuff is really complicated at first, but it's amazing once you understand how it works. It's hard because most of the time, you need a lot of code to perform a simple function. With other languages, like Java, which have a lot of abstractions, you don't need to worry about most things. For me, learning C is a pleasure. I feel like a craftsman building something from scratch with only their own hands.
+
 ### Day 2193: New C Project
 
 Today I started a new C project, I have the plan to build a basic SQL database like SQLite in C. I founded the following [tutorial](https://cstack.github.io/db_tutorial/) in which we build a SQLite database with basic features, I am having some problems to understand the code because I am not a good C programmer, buy at the sme time I feel like I am learning the Computer Science fundamentals while writing C code, memory allocation, pointers, bytes and other stuff are great.
