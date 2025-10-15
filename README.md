@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2195: Fast Producer and Slow Consumer
+
+Today, I was debugging a classic software engineering issue: a fast producer and a slow consumer. In this scenario, the most common errors are performance degradation and exhaustion of physical resources. My problem was related to the latter because our producer fills up a disk partition with data faster than our consumer cleans it up. Things always go wrong when you least expect it, so it's important to validate edge cases and performance.
+
 ### Day 2194: Do You Want Hard Things? Code Something on C
 
 Today, I will continue working on my tutorial for building a SQLite clone in C. Most of the time, I have trouble understanding what the code is doing. C is a beautiful but difficult programming language. It's beautiful because you learn computer science fundamentals while coding in C. You are responsible for every variable you create and for managing your application's memory, such as allocating enough memory to create a type and deallocating it when it's no longer needed. This memory allocation stuff is really complicated at first, but it's amazing once you understand how it works. It's hard because most of the time, you need a lot of code to perform a simple function. With other languages, like Java, which have a lot of abstractions, you don't need to worry about most things. For me, learning C is a pleasure. I feel like a craftsman building something from scratch with only their own hands.
