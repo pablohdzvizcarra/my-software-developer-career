@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2196: Continue with C Project
+
+Today I continue working on my C project, I completed the tutorial in which we create some unit tests for the application with Ruby. For the moment the SQLite database clone supports `insert` and `select` operations, but the data is saved only in memory, in the next section we will do the logic to persist the data into a physical file on disk. 
+
 ### Day 2195: Fast Producer and Slow Consumer
 
 Today, I was debugging a classic software engineering issue: a fast producer and a slow consumer. In this scenario, the most common errors are performance degradation and exhaustion of physical resources. My problem was related to the latter because our producer fills up a disk partition with data faster than our consumer cleans it up. Things always go wrong when you least expect it, so it's important to validate edge cases and performance.
