@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2197: Refactoring Code to Support a new Library
+
+Today, I updated some Java code to use a newer library version. I don't understand why, from version 8.6 to 8.8, the library underwent multiple changes, rendering our code incompatible with the new library APIs. The newer version was only a minor change, and I recall that minor changes usually don't break anything. However, the library maintainers apparently wanted to break the clients' code.
+
 ### Day 2196: Continue with C Project
 
 Today I continue working on my C project, I completed the tutorial in which we create some unit tests for the application with Ruby. For the moment the SQLite database clone supports `insert` and `select` operations, but the data is saved only in memory, in the next section we will do the logic to persist the data into a physical file on disk. 
