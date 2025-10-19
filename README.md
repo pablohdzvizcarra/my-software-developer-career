@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2199: Continue with C Project
+
+Today I continue working on my C project, I started the tutorial section in which we change the data structure that we use to store the data in memory from an array to a B-Tree. The B-Tree data structure is used to store data inside nodes and these nodes can have N number of children, the general idea is to have a B-Tree that represents the whole database and can do fast insert, read and delete operations.
+
 ### Day 2198: Continue Studying about File Database like SQLite
 
 Today I have been working how works databases that save their data into a physical local file like `SQLite`. One of the concepts that I studied today was the `Cursor` concept, a cursor is used to know the current row position within a table, also it is used to write data to the file without do the offset calculation.
@@ -49,7 +53,7 @@ Today I studied the `Paxos Consensus Protocol`, used to achieve agreement in a d
 
 ### Day 2188: High-Water Mark Pattern
 
-Today I studied the `High-Water Mark` pattern used on distributed systems to know the last entry that was successful write to the Write-ahead log and was committed by the leader and the followers. This technique is used to after a node crash for any reason, when the cluster select a new leader, clients continue receiving valid responses because the nodes uses the last high-water mark index to know after each point the entries in their WAL file are valid.  
+Today I studied the `High-Water Mark` pattern used on distributed systems to know the last entry that was successful write to the Write-ahead log and was committed by the leader and the followers. This technique is used to after a node crash for any reason, when the cluster select a new leader, clients continue receiving valid responses because the nodes uses the last high-water mark index to know after each point the entries in their WAL file are valid.
 
 ### Day 2187: Majority Quorum & Generation Clock
 
@@ -73,7 +77,7 @@ Today I studied and create a code example about how works the segmented log patt
 
 ### Day 2181: Firewall Rules and Ingress/Egress Traffic
 
-Today I had some problems when attempting to deploy my C file-receiver application in my Oracle server. For an unknown reason my server is not allow to receive public TCP connections, inclusively I could not use the `ping` command to check if the server is live. I have been troubleshooting this error for some time without success, I am following the Oracle documentation to configure and allow the traffic for my virtual network, but this is not working.  
+Today I had some problems when attempting to deploy my C file-receiver application in my Oracle server. For an unknown reason my server is not allow to receive public TCP connections, inclusively I could not use the `ping` command to check if the server is live. I have been troubleshooting this error for some time without success, I am following the Oracle documentation to configure and allow the traffic for my virtual network, but this is not working.
 
 ### Day 2180: Sending a Big File in Chunks
 
@@ -129,7 +133,7 @@ I had a long weekend thanks to a holiday. During my long weekend I took some res
 
 ### Day 2165: C Object Types
 
-Today I studied some of the available Object types available in C. In C everything that needs to hold a value is an object, and we have different types to represent the objects. I studied the `Character`, `Arithmetic`, `Enum`, `Floating`, and `Void` types. The character type is used to represent letters, like simple tokens `a`, `b`, etc. Arithmetic types are used to represent numbers like integer and longs. It is curious how in C we have a lot of types and subtypes to represent values.  
+Today I studied some of the available Object types available in C. In C everything that needs to hold a value is an object, and we have different types to represent the objects. I studied the `Character`, `Arithmetic`, `Enum`, `Floating`, and `Void` types. The character type is used to represent letters, like simple tokens `a`, `b`, etc. Arithmetic types are used to represent numbers like integer and longs. It is curious how in C we have a lot of types and subtypes to represent values.
 
 ### Day 2164: C Book
 
