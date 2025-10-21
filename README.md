@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2200-2201: Welcome to the Hell
+
+During the weekend, I continue working on the C project to build an SQLite clone database. Really this tutorial is one of the most hard that I started, most of the times I don't understand what the codes is doing and many times I don't understand the C code. I like this type of tutorials that go out of your comfort zone, but this is very hard for me, well I have the plan to complete it and continue learning more about C and low level stuff.
+
 ### Day 2199: Continue with C Project
 
 Today I continue working on my C project, I started the tutorial section in which we change the data structure that we use to store the data in memory from an array to a B-Tree. The B-Tree data structure is used to store data inside nodes and these nodes can have N number of children, the general idea is to have a B-Tree that represents the whole database and can do fast insert, read and delete operations.
