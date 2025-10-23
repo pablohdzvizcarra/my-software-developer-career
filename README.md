@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2203: Eventual Consistency
+
+Today I was studying the design of a technology that uses eventual consistency to ensure the data was copied to the target in some point in the future. Eventual consistency is a design technique used on distributed systems to ensure the data from one node is replicated to another node asynchronously to avoid application delays when copying the data. It is interesting that if you know the distributed system patterns you can understand how some technologies works in a high level way.
+
 ### Day 2202: How to Package Java Files
 
 Today I learned how to package java compiled classes `.class` into a JAR file and next use the .jar file in another application. I learned that a .jar file is like a `ZIP` file that contains just files, and a MANIFEST.MF file that acts as metadata. You can create a .jar file with the following code `jar cf example.jar -C sourcecode .` where example.jar is the filename for the JAR and -C contains the compiled java classes to .class files, also this command respect directory structure so if you have something like `sourcecode/com/Funny.class` you create a .jar file with the same exact path, and next you can use the compiled java jar in another application like `java -cp "funny.jar:appdst" appa/src/TestingApp`. It is interesting how at the end everything is simple in the Java world, the only thing that you need is curiosity and use the terminal to compile and execute java application rather than use the IDE tools.
