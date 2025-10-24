@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2204: Creating a Java Library
+
+Today I continue working into create a personalized Java library to do some authentication logic. One of the main problems that are faced with this activity was my lack of knowledge on this are of the java world, in the past I never have the need to create my own library to do X task, but now I needed to do this. This exercise is helping me to understand modularity in software engineering. When you have clean and not dependent modules in your project, you can easily separate them as external libraries or separate packages.
+
 ### Day 2203: Eventual Consistency
 
 Today I was studying the design of a technology that uses eventual consistency to ensure the data was copied to the target in some point in the future. Eventual consistency is a design technique used on distributed systems to ensure the data from one node is replicated to another node asynchronously to avoid application delays when copying the data. It is interesting that if you know the distributed system patterns you can understand how some technologies works in a high level way.
