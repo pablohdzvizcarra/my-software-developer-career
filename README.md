@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2205: Continue with C Project
+
+Today I continue working on my C tutorial project to build an SQLite database clone. I started to used Eclipse IDE with C because I use this IDE for Java and well for the moment is working good, it is better than VSC.
+
 ### Day 2204: Creating a Java Library
 
 Today I continue working into create a personalized Java library to do some authentication logic. One of the main problems that are faced with this activity was my lack of knowledge on this are of the java world, in the past I never have the need to create my own library to do X task, but now I needed to do this. This exercise is helping me to understand modularity in software engineering. When you have clean and not dependent modules in your project, you can easily separate them as external libraries or separate packages.
