@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2206: Idempotent Receiver
+
+Today I learned the idempotent receiver pattern to ensure that receiver only process one time a request. In distributed system when we have more than one node for an application, it is very important that receivers (nodes) only process client's request at least one time to ensure consistency, imagine the issue when receiving request on server A, next this server forward request to server B, but server B crashes before acknowledge server A that the response was completed, if we have retry mechanism to send again the request for a missing acknowledge, server A sends again request to Server B and server B if it is not capable of skip duplicated request, will process again the request and terminates in an inconsistent state. Idempotent receiver have the ability to not process again a request that was proceeded.
+
 ### Day 2205: Continue with C Project
 
 Today I continue working on my C tutorial project to build an SQLite database clone. I started to used Eclipse IDE with C because I use this IDE for Java and well for the moment is working good, it is better than VSC.
