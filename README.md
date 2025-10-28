@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2207-08: Learning about Kernel and User Space
+
+Today I was learning about the Kernel and User space in Linux systems. The kernel space in a linux system is used to executed application directly in the kernel, these applications runs with special privileges and have direct interaction with the kernel. The other applications like web browser, the terminal, the file explorer runs on the User space, this space is designed to execute applications in a secure way. For the moment I have just a little knowledge about this two amazing concepts, but I will continue studying these topics.
+
 ### Day 2206: Idempotent Receiver
 
 Today I learned the idempotent receiver pattern to ensure that receiver only process one time a request. In distributed system when we have more than one node for an application, it is very important that receivers (nodes) only process client's request at least one time to ensure consistency, imagine the issue when receiving request on server A, next this server forward request to server B, but server B crashes before acknowledge server A that the response was completed, if we have retry mechanism to send again the request for a missing acknowledge, server A sends again request to Server B and server B if it is not capable of skip duplicated request, will process again the request and terminates in an inconsistent state. Idempotent receiver have the ability to not process again a request that was proceeded.
