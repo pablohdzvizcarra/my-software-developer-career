@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2210: C Macros and Preprocessor Directives
+
+Today I learned what are C macros and how you can compile your code to be compiled in different ways using preprocess directives. A macro is just piece of code that is replaced before the compilation process for the text content, we can define a Macro using the `#define` directive, normally macros are used to define constant values, but also we can create inline functions as Macros. Also with Macros we can use preprocessor compilation directives using the `#ifdef` directive to check if a directive was defined in the compilation process.
+
 ### Day 2209: Versioned Value
 
 Today I read the chapter to learn about the versioned value pattern. On this pattern the general idea is have N number of versions for a value in a Key Value distributed data store, for example for the key=0090 and value="John" if we want to update their value from John to Mark, we store something like key=0090, version=1 and value="John", we can update the value for the key and increment the version to 1. Using this pattern clients can retrieve the value for a key with their historical values, this technique is very useful when you want to check old values for a key. Implementing this pattern with code, requires a data structure that supports this operation and the usage of locks working in a multithreading environment.
