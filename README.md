@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2211: Coding Tired
+
+Today I don't know why I could only code for some time, I felt really tired and without desire of code, I continue working on my C project and for the moment I am having multiple code issues related with the logic to split and create leaf nodes for root nodes inside the binary tree data structure.
+
 ### Day 2210: C Macros and Preprocessor Directives
 
 Today I learned what are C macros and how you can compile your code to be compiled in different ways using preprocess directives. A macro is just piece of code that is replaced before the compilation process for the text content, we can define a Macro using the `#define` directive, normally macros are used to define constant values, but also we can create inline functions as Macros. Also with Macros we can use preprocessor compilation directives using the `#ifdef` directive to check if a directive was defined in the compilation process.
