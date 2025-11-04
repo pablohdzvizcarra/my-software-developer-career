@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2212-13-14: Weekend Break
+
+During the weekend I take a break from coding activities. I just read non-technical books and today Monday I continue working on my current learning tasks. I have the plan to complete my current learning activities and next start with a very big new one.
+
 ### Day 2211: Coding Tired
 
 Today I don't know why I could only code for some time, I felt really tired and without desire of code, I continue working on my C project and for the moment I am having multiple code issues related with the logic to split and create leaf nodes for root nodes inside the binary tree data structure.
