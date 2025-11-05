@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2215: Performance Issues
+
+Today I worked into fix a code issue that is related with poor performance in a logger feature. The problem with this code was does not implement truncation logic for the logs files, the coe just removed N number of bytes at the start fo the file and next append the new entries. This coe behavior generate performance issues and because we use a lock mechanism every time we want to append a new entry to the log, you ca imagine the bottleneck in a high throughput environment. I fixed the truncation logic and with this change the code works as expected.
+
 ### Day 2212-13-14: Weekend Break
 
 During the weekend I take a break from coding activities. I just read non-technical books and today Monday I continue working on my current learning tasks. I have the plan to complete my current learning activities and next start with a very big new one.
