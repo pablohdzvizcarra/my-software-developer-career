@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2216: Continue with C Project
+
+Today I have been working on my C project to build a SQLite database clone with C. I am debugging a code issue in my `select` statement code logic; for an unknown reason, the select command is not working correctly—it shows rows with strange characters, such as numbers or bytes instead of strings. This suggests there may be an issue with data encoding, memory handling, or string formatting in the select or insert code logic.
+
 ### Day 2215: Performance Issues
 
 Today I worked into fix a code issue that is related with poor performance in a logger feature. The problem with this code was does not implement truncation logic for the logs files, the coe just removed N number of bytes at the start fo the file and next append the new entries. This coe behavior generate performance issues and because we use a lock mechanism every time we want to append a new entry to the log, you ca imagine the bottleneck in a high throughput environment. I fixed the truncation logic and with this change the code works as expected.
