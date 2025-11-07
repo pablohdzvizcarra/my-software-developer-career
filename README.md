@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2217: Complete C Project
+
+Today finally I completed my SQLite database clone project. This project was amazing and learning a lot of things about C and databases, specially how works local database like SQLie. For the moment I don't know which will be my next step, but for the following days, I want to continue reading my non-technical book.
+
 ### Day 2216: Continue with C Project
 
 Today I have been working on my C project to build a SQLite database clone with C. I am debugging a code issue in my `select` statement code logic; for an unknown reason, the select command is not working correctly—it shows rows with strange characters, such as numbers or bytes instead of strings. This suggests there may be an issue with data encoding, memory handling, or string formatting in the select or insert code logic.
