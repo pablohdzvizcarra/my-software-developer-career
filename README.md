@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2219-20-21: Just Reading
+
+Over the weekend, I focused on finishing a non-technical book. I also reviewed and analyzed my current software engineering goals for 2025. The end of the year is approaching, and I am thinking about what I need to do for my last moves of the year. I will continue studying distributed systems and applying the concepts to my current job. At work, we apply multiple distributed systems patterns and face complicated problems.
+
 ### Day 2218: Event Generators
 
 Today I have been debugging an event generator code, this application design is very strange, we have this event generator that add events to a queue, next we have another component an event poller, that poll the events from the queue. I understand that this design is to do separation of concerns and maybe do the code moe reusable because we have N number of event generators. I want to continue exploring this pattern over the weekend and maybe do some C code to practice this.
