@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2223: Throttle Mechanism
+
+Today I worked into implement a throttle mechanism in code, A throttle mechanism (often called throttling) is a control technique used to limit the number of a process, function or action can be executed in a time window. For example we want to execute a heavy function just 10 times oer minute, so we need to configure a throttle mechanism to ensure the function can only be called the number allowed executions during the time window. This technique is very used in the industry and sometimes is confused with rate limit.
+
 ### Day 2219-20-21: Just Reading
 
 Over the weekend, I focused on finishing a non-technical book. I also reviewed and analyzed my current software engineering goals for 2025. The end of the year is approaching, and I am thinking about what I need to do for my last moves of the year. I will continue studying distributed systems and applying the concepts to my current job. At work, we apply multiple distributed systems patterns and face complicated problems.
