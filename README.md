@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2224: Performance Issues
+
+Today I worked into fix a code issue related with a logging module and how a bug cause performance issues in the code execution. It is interesting how a simple algorithm to append a new entry into an in memory logger can cause performance issues when the logs are saved into a physical file on disk rather tha in the memory buffer, the algorithm to append new log entries for the in memory buffer is classic append to an array, if we reach the size of the array, we need to remove the first element, next move the other elements to the left, to finally make room for the new element at the end. Working with files with C for the continues confusing for me and manipulating bytes also is a little funny.
+
 ### Day 2223: Throttle Mechanism
 
 Today I worked into implement a throttle mechanism in code, A throttle mechanism (often called throttling) is a control technique used to limit the number of a process, function or action can be executed in a time window. For example we want to execute a heavy function just 10 times oer minute, so we need to configure a throttle mechanism to ensure the function can only be called the number allowed executions during the time window. This technique is very used in the industry and sometimes is confused with rate limit.
