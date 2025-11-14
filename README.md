@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2225: Learning about Cache on CPU
+
+Today I was learning about the CPU have some caches called L1, L2 and L3, some CPUs have the L4 cache level. The general idea is the CPU can store data that is frequent access on these caches to fast retrieve the data rather than go to the main memory (RAM) to get the data. These level of caches are faster than the RAM memory. It is interesting how a CPU works when you study these concepts. I am doing a course about how operating systems works because I am tired of don't understand some coversations in my work when I talk with Hardware engineers, I spec that practicing C code can help me to understand all this stuff.
+
 ### Day 2224: Performance Issues
 
 Today I worked into fix a code issue related with a logging module and how a bug cause performance issues in the code execution. It is interesting how a simple algorithm to append a new entry into an in memory logger can cause performance issues when the logs are saved into a physical file on disk rather tha in the memory buffer, the algorithm to append new log entries for the in memory buffer is classic append to an array, if we reach the size of the array, we need to remove the first element, next move the other elements to the left, to finally make room for the new element at the end. Working with files with C for the continues confusing for me and manipulating bytes also is a little funny.
