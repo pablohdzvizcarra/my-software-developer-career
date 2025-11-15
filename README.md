@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2226: Learnig about User vs Kernel Space
+
+Today while doing my course, I learned about the Kernel and User space. The user space is where applications like your browser, code editor, your Java applications works, theses applications use resources from the operating system, and this resources can be shared with other applications. The kernel space is where the operating system works, as a C example, if you want to communicate with the network card, you will need to use a system call to the kernel to request access to the network card, because the kernel have direct access to the hardware resources. The kernel space have more privileges than the user space, this is because if an application in user space crash, it will not affect the kernel space, but if an application in kernel space crash, it can affect all the system. It is interesting how operating systems works.
+
 ### Day 2225: Learning about Cache on CPU
 
 Today I was learning about the CPU have some caches called L1, L2 and L3, some CPUs have the L4 cache level. The general idea is the CPU can store data that is frequent access on these caches to fast retrieve the data rather than go to the main memory (RAM) to get the data. These level of caches are faster than the RAM memory. It is interesting how a CPU works when you study these concepts. I am doing a course about how operating systems works because I am tired of don't understand some coversations in my work when I talk with Hardware engineers, I spec that practicing C code can help me to understand all this stuff.
