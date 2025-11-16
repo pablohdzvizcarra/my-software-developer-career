@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2227: Program vs Process
+
+Today I learned the basic differences between a program and a process. A program is the executable file that contains the instructions to be exeucted, in the other hand a process is an instance of the program that is beign executed. Thiking in Java a program is a class file and a procress is a Java object. Also I did some interesting test, testing a C application with the `lldb` debugger, I visualize how a process looks like when is loaded in memory, I see a lot of hexadecimal values on the debugger, really learning operating system while doing C code is really interesting. 
+
 ### Day 2226: Learnig about User vs Kernel Space
 
 Today while doing my course, I learned about the Kernel and User space. The user space is where applications like your browser, code editor, your Java applications works, theses applications use resources from the operating system, and this resources can be shared with other applications. The kernel space is where the operating system works, as a C example, if you want to communicate with the network card, you will need to use a system call to the kernel to request access to the network card, because the kernel have direct access to the hardware resources. The kernel space have more privileges than the user space, this is because if an application in user space crash, it will not affect the kernel space, but if an application in kernel space crash, it can affect all the system. It is interesting how operating systems works.
