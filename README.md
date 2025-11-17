@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2228: Process on Memory
+
+Today, I learned that when a process is loaded into memory, it interacts with registers, L-caches, RAM, and SSD/HDD disks. The first step is to load the process into RAM. When the process is loaded, it sets up an internal process counter that maintains a pointer to the current instruction being executed. The process also stores variables in the code into the L-caches, depending on the data usage. The data is placed in the L1, L2, or L3 caches, and if a chunk of data is used less than others, it is moved to the main memory to free up space for other processes. It's interesting how efficient the CPU is at executing processes. Many algorithms must be used to optimize CPU usage.
+
 ### Day 2227: Program vs Process
 
 Today I learned the basic differences between a program and a process. A program is the executable file that contains the instructions to be exeucted, in the other hand a process is an instance of the program that is beign executed. Thiking in Java a program is a class file and a procress is a Java object. Also I did some interesting test, testing a C application with the `lldb` debugger, I visualize how a process looks like when is loaded in memory, I see a lot of hexadecimal values on the debugger, really learning operating system while doing C code is really interesting. 
