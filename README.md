@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2229: Define C Preprocessor
+
+Today, I studied the #define preprocessor in C. It is used to define symbolic constants that can be used throughout an entire application. It's similar to creating a static variable in Java that can be used to create configuration properties and other variables. I want to continue learning the C programming language by taking a course and doing exercises and applications.
+
 ### Day 2228: Process on Memory
 
 Today, I learned that when a process is loaded into memory, it interacts with registers, L-caches, RAM, and SSD/HDD disks. The first step is to load the process into RAM. When the process is loaded, it sets up an internal process counter that maintains a pointer to the current instruction being executed. The process also stores variables in the code into the L-caches, depending on the data usage. The data is placed in the L1, L2, or L3 caches, and if a chunk of data is used less than others, it is moved to the main memory to free up space for other processes. It's interesting how efficient the CPU is at executing processes. Many algorithms must be used to optimize CPU usage.
