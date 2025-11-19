@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2230: File Truncate Logic
+
+Today I was reviewing a code logic to truncate a log file to reduce their physical size when the limit is reached. This truncation logic is very strange because when the log file reach the limit size, the code free some bytes in chunks of 1024 bytes. The logic uses a file stream to do the file operations and uses something called seek to position into the first bytes from the file, I remember that in C you can use the `fseek` function to move the pointer to any position within the file.
+
 ### Day 2229: Define C Preprocessor
 
 Today, I studied the #define preprocessor in C. It is used to define symbolic constants that can be used throughout an entire application. It's similar to creating a static variable in Java that can be used to create configuration properties and other variables. I want to continue learning the C programming language by taking a course and doing exercises and applications.
@@ -17,15 +21,15 @@ Today, I learned that when a process is loaded into memory, it interacts with re
 
 ### Day 2227: Program vs Process
 
-Today I learned the basic differences between a program and a process. A program is the executable file that contains the instructions to be exeucted, in the other hand a process is an instance of the program that is beign executed. Thiking in Java a program is a class file and a procress is a Java object. Also I did some interesting test, testing a C application with the `lldb` debugger, I visualize how a process looks like when is loaded in memory, I see a lot of hexadecimal values on the debugger, really learning operating system while doing C code is really interesting. 
+Today I learned the basic differences between a program and a process. A program is the executable file that contains the instructions to be executed, in the other hand a process is an instance of the program that is being executed. Thinking in Java a program is a class file and a process is a Java object. Also I did some interesting test, testing a C application with the `lldb` debugger, I visualize how a process looks like when is loaded in memory, I see a lot of hexadecimal values on the debugger, really learning operating system while doing C code is really interesting.
 
-### Day 2226: Learnig about User vs Kernel Space
+### Day 2226: Learning about User vs Kernel Space
 
 Today while doing my course, I learned about the Kernel and User space. The user space is where applications like your browser, code editor, your Java applications works, theses applications use resources from the operating system, and this resources can be shared with other applications. The kernel space is where the operating system works, as a C example, if you want to communicate with the network card, you will need to use a system call to the kernel to request access to the network card, because the kernel have direct access to the hardware resources. The kernel space have more privileges than the user space, this is because if an application in user space crash, it will not affect the kernel space, but if an application in kernel space crash, it can affect all the system. It is interesting how operating systems works.
 
 ### Day 2225: Learning about Cache on CPU
 
-Today I was learning about the CPU have some caches called L1, L2 and L3, some CPUs have the L4 cache level. The general idea is the CPU can store data that is frequent access on these caches to fast retrieve the data rather than go to the main memory (RAM) to get the data. These level of caches are faster than the RAM memory. It is interesting how a CPU works when you study these concepts. I am doing a course about how operating systems works because I am tired of don't understand some coversations in my work when I talk with Hardware engineers, I spec that practicing C code can help me to understand all this stuff.
+Today I was learning about the CPU have some caches called L1, L2 and L3, some CPUs have the L4 cache level. The general idea is the CPU can store data that is frequent access on these caches to fast retrieve the data rather than go to the main memory (RAM) to get the data. These level of caches are faster than the RAM memory. It is interesting how a CPU works when you study these concepts. I am doing a course about how operating systems works because I am tired of don't understand some conversations in my work when I talk with Hardware engineers, I spec that practicing C code can help me to understand all this stuff.
 
 ### Day 2224: Performance Issues
 
