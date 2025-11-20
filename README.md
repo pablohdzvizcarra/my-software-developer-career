@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2231: Stack in Process
+
+Today I studied how the operating system uses the Stack data structures to know how is process needs to be executed. The Stack used have a high to low mechanism, where the high value is the main function for a C application, and the lowest value is the final source code. When a process is executed, the Stack configure multiple pointers like Base Pointer and Previous pointer to know where the process execution is and which instructions currently are executed. It is interesting how the Stack uses just pointers to manage all the process execution.
+
 ### Day 2230: File Truncate Logic
 
 Today I was reviewing a code logic to truncate a log file to reduce their physical size when the limit is reached. This truncation logic is very strange because when the log file reach the limit size, the code free some bytes in chunks of 1024 bytes. The logic uses a file stream to do the file operations and uses something called seek to position into the first bytes from the file, I remember that in C you can use the `fseek` function to move the pointer to any position within the file.
