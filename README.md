@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2232: Working with Length Array on C
+
+Today I learned how to create dynamic arrays on C. I did some code exercises to declare an array and require the length of the array by user input in stdin, when the user enters the desired length, the array is created and some elements are added to the same array. It is interesting how in C you will need to create an array just with a defined length rather than in Java that you can create a List and add any quantity of elements that you want. Also I learned that you can create a dynamic array inside a `struct`, and next you will need to allocate memory for the array member within the structure like using `malloc`.
+
 ### Day 2231: Stack in Process
 
 Today I studied how the operating system uses the Stack data structures to know how is process needs to be executed. The Stack used have a high to low mechanism, where the high value is the main function for a C application, and the lowest value is the final source code. When a process is executed, the Stack configure multiple pointers like Base Pointer and Previous pointer to know where the process execution is and which instructions currently are executed. It is interesting how the Stack uses just pointers to manage all the process execution.
