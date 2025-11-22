@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2233: Networking Issues
+
+Today I was debugging a code issue related with a client losses the connection to a server for an unknown reason. The client is connecting to the server through a TCP socket connection, sometimes the connection is closed and the client is unable to reconnect with the server. I don't like networking issues because I don't have much knowledge about this stuff.
+
 ### Day 2232: Working with Length Array on C
 
 Today I learned how to create dynamic arrays on C. I did some code exercises to declare an array and require the length of the array by user input in stdin, when the user enters the desired length, the array is created and some elements are added to the same array. It is interesting how in C you will need to create an array just with a defined length rather than in Java that you can create a List and add any quantity of elements that you want. Also I learned that you can create a dynamic array inside a `struct`, and next you will need to allocate memory for the array member within the structure like using `malloc`.
