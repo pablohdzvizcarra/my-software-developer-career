@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2234: Data Segment or Data Section
+
+Today I studied that the Data Segment is a special space created within the RAM memory to store process constants and static variables. When a process is initialized, the program loader moves all this data into this special section called the Data Segment. When the code needs some bytes, it retrieves them directly from the Data Segment, using a simple memory address. The Data Segment is conceptually divided into different categories: read-only (like string literals) for values that must not change after loading, and read-write for mutable values like global and static variables that can be modified by the process
+
 ### Day 2233: Networking Issues
 
 Today I was debugging a code issue related with a client losses the connection to a server for an unknown reason. The client is connecting to the server through a TCP socket connection, sometimes the connection is closed and the client is unable to reconnect with the server. I don't like networking issues because I don't have much knowledge about this stuff.
