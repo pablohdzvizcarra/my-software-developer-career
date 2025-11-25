@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2235-36: Heap Segment and C Layout App
+
+Over the weekend, I learned more about the memory layout of a running process. I learned that the heap segment is used to store bytes allocated by the process, such as those allocated using malloc in a C application. Other programming languages, such as Java and Python, use garbage collectors, which automatically manage allocation and deallocation. I created a basic C application to see how it stores different parts of the code in different sections. It's interesting how all this stuff works, and how an operating system executes a process. It's amazing!
+
 ### Day 2234: Data Segment or Data Section
 
 Today I studied that the Data Segment is a special space created within the RAM memory to store process constants and static variables. When a process is initialized, the program loader moves all this data into this special section called the Data Segment. When the code needs some bytes, it retrieves them directly from the Data Segment, using a simple memory address. The Data Segment is conceptually divided into different categories: read-only (like string literals) for values that must not change after loading, and read-write for mutable values like global and static variables that can be modified by the process
