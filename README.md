@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2237: Encryption Stuff
+
+Today I learned about Encryption stuff like symmetric encryption, asymmetric encryption, encryption algorithms, ciphers, digest, hash functions, etc. Learning all of this concepts is very complicated for me, I don't have much knowledge about encryptions and their mathematical formulas.
+
 ### Day 2235-36: Heap Segment and C Layout App
 
 Over the weekend, I learned more about the memory layout of a running process. I learned that the heap segment is used to store bytes allocated by the process, such as those allocated using malloc in a C application. Other programming languages, such as Java and Python, use garbage collectors, which automatically manage allocation and deallocation. I created a basic C application to see how it stores different parts of the code in different sections. It's interesting how all this stuff works, and how an operating system executes a process. It's amazing!
