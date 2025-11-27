@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2238: Designated Initializers
+
+Designers initializers are a way on C to create an array or a struct with some values defined in the creation time, like creating an array of 50 elements and initializing the first 20 elements to 20 or creating an instance of a struct and initializing the name. This feature on C works like Constructors on Java when you can create an instance of an object with multiple constructors.
+
 ### Day 2237: Encryption Stuff
 
 Today I learned about Encryption stuff like symmetric encryption, asymmetric encryption, encryption algorithms, ciphers, digest, hash functions, etc. Learning all of this concepts is very complicated for me, I don't have much knowledge about encryptions and their mathematical formulas.
