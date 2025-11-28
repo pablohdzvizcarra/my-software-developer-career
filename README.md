@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2239: Learning the Volatile Type Qualifier
+
+Today I learned about the volatile type qualifier on C. This type qualifier is used to tell the compiler that the value of the variable will be storage on the main memory, this behavior is used to avoid problems when storing the variable on CPU registers or the Caches and changing the value in another agent running within the application like another thread.
+
 ### Day 2238: Designated Initializers
 
 Designers initializers are a way on C to create an array or a struct with some values defined in the creation time, like creating an array of 50 elements and initializing the first 20 elements to 20 or creating an instance of a struct and initializing the name. This feature on C works like Constructors on Java when you can create an instance of an object with multiple constructors.
