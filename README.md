@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2240: Bit & Bytes
+
+Today I started the Bitwise operations course section. I am very interesting on this section because on my work we do a lot fo bit manipulation operations with Java in our code to talk with the low-level components, I know that the course that I am doing is with C, but the concepts are abstract.
+
 ### Day 2239: Learning the Volatile Type Qualifier
 
 Today I learned about the volatile type qualifier on C. This type qualifier is used to tell the compiler that the value of the variable will be storage on the main memory, this behavior is used to avoid problems when storing the variable on CPU registers or the Caches and changing the value in another agent running within the application like another thread.
