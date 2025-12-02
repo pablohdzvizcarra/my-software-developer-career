@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2243: Command Execution Monitoring
+
+Today, I worked on creating a logic to monitor how much time an external library requires to process a command. Some commands require forwarding to an external library for execution. One of the most common errors we see is that the library sometimes takes a long time to execute a command, resulting in errors. The main problem is that we do not own the library, and it is no longer supported. As an improvement, we want to monitor how long it takes to process commands to know when the library is working slowly. With this code, we can at least know when something goes wrong and attempt to discover a pattern.
+
 ### Day 2241-42: Java Proxy & New Book
 
 During the weekend I studied and did a little code example about Java Proxies. A Java proxy works like a wrapper for another object, for example you have a Person object and you want that when your person object executes a method like `buyArticle()`, you want to log a trace for audit purpose, so you will need to create an special class that implements the `InvocationHandler` interface, and next use that class to create a proxy, the common behavior is when you execute a method on the proxy, this proxy uses the invocation handler, next the invocation handler do X thing to finally forward the request to the real object (Person). In the past I never use this pattern while coding, but in the work we use this pattern in some parts of the application. In other topics, I am giving up on learning computer science from video tutorials. I don't know why, but I find them boring. I prefer reading books and writing side projects to learn new things. I just started reading the Effective C book to expand my knowledge of C.
