@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2244: Continue with C book
+
+Today I continue reading the Effective C book. For the moment its bored to read the book because I am reading the second chapter, and as a second chapter the code examples are very basic, but sometimes I face problems to understand the book content due to the low-level stuff.
+
 ### Day 2243: Command Execution Monitoring
 
 Today, I worked on creating a logic to monitor how much time an external library requires to process a command. Some commands require forwarding to an external library for execution. One of the most common errors we see is that the library sometimes takes a long time to execute a command, resulting in errors. The main problem is that we do not own the library, and it is no longer supported. As an improvement, we want to monitor how long it takes to process commands to know when the library is working slowly. With this code, we can at least know when something goes wrong and attempt to discover a pattern.
