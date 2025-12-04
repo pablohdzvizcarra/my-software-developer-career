@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2245: Continue Reading Book
+
+Today I continue reading the chapter about C Types. For the moment the lecture and the code exercises are very basic, this is the second chapter so I hope that with the next chapters will be more challenge. An interesting thing of C is compilers can compile and interpret the code in different ways, it is very important the compiler used to compile the code and also consider the host that runs the application.
+
 ### Day 2244: Continue with C book
 
 Today I continue reading the Effective C book. For the moment its bored to read the book because I am reading the second chapter, and as a second chapter the code examples are very basic, but sometimes I face problems to understand the book content due to the low-level stuff.
