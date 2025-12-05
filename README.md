@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2246: Wrapper Pattern
+
+Today I was debugging some Java code that use a lot of wrappers to encapsulate the real code implementation. I am facing and issue to understand the code because the public class uses a wrapper, and that wrapper uses another wrapper and so on, I am not understanding why the code was created with this complicated pattern. A real example about how sometimes over-engineering can cause issues.
+
 ### Day 2245: Continue Reading Book
 
 Today I continue reading the chapter about C Types. For the moment the lecture and the code exercises are very basic, this is the second chapter so I hope that with the next chapters will be more challenge. An interesting thing of C is compilers can compile and interpret the code in different ways, it is very important the compiler used to compile the code and also consider the host that runs the application.
