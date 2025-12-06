@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2247: Debugging a Live Process
+
+Today I learned that you can see how a running process is distributed in different data segment sections, first you need to know the `PID` Process ID, you can get that PID using commands like `top` and `ps -ef`. I learned that when you know the PID on Linux you can use th `cat` command to know the data segments of the process like `cat /proc/PID(process ID)/maps`. The output of these cat command is how the process is divided in different data segments and the size of the data segments. It is very interesting how all this stuff works, really interesting.
+
 ### Day 2246: Wrapper Pattern
 
 Today I was debugging some Java code that use a lot of wrappers to encapsulate the real code implementation. I am facing and issue to understand the code because the public class uses a wrapper, and that wrapper uses another wrapper and so on, I am not understanding why the code was created with this complicated pattern. A real example about how sometimes over-engineering can cause issues.
