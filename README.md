@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2250: Coupling Components
+
+Today I was learning the trade-offs about execute a component in the same JVM from the main application rather than runs the component separate as a separate application and communicate with the server like using Sockets. One of the main trade-offs is coupling, really this is a very hard problem, because if the component maintained by another team, starts to have issues (and really in some point every code have bugs) could be complicated which is the responsible about the issues. Maybe the bug is in the embedded code, but because runs together with the server code, looks like the problem here is the server. Another problem can be performance issues, that maybe can happen when the application start to receive more users that were planned.
+
 ### Day 2248-49: Memory Management
 
-Over the weekend I continue learning about Memory management. It is interesting how the RAM memories have been evolving during the years to be more efficient and have better performance. I learned how the operating system interact with the RAM memory through the Memory Controller that is a special component to manage the memory. Also I learned interesting techniques to start to create programs with good performance, for example in Java how you order the properties/fields within an object matters when you do operations on that elements using next to each others or when you do multithreading programming. Another very interesting thing is how the RAM memory is builded, a RAM memory have N numbers of Banks, each bank have N numbers of Rows, each row contains columns and each column contains N number of Cells. Really the engineers that design all this stuff are very smart. 
+Over the weekend I continue learning about Memory management. It is interesting how the RAM memories have been evolving during the years to be more efficient and have better performance. I learned how the operating system interact with the RAM memory through the Memory Controller that is a special component to manage the memory. Also I learned interesting techniques to start to create programs with good performance, for example in Java how you order the properties/fields within an object matters when you do operations on that elements using next to each others or when you do multithreading programming. Another very interesting thing is how the RAM memory is builded, a RAM memory have N numbers of Banks, each bank have N numbers of Rows, each row contains columns and each column contains N number of Cells. Really the engineers that design all this stuff are very smart.
 
 ### Day 2247: Debugging a Live Process
 
