@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2251: Debugging Code
+
+Today was a hard day, I spend all my date debugging legacy code. Debugging legacy code is a spend task most of the times, when you need to work in a codebase without design, architecture and when the code is poor documented and leak of unit tests. I just can say, good luck when you need to debug legacy codebases.
+
 ### Day 2250: Coupling Components
 
 Today I was learning the trade-offs about execute a component in the same JVM from the main application rather than runs the component separate as a separate application and communicate with the server like using Sockets. One of the main trade-offs is coupling, really this is a very hard problem, because if the component maintained by another team, starts to have issues (and really in some point every code have bugs) could be complicated which is the responsible about the issues. Maybe the bug is in the embedded code, but because runs together with the server code, looks like the problem here is the server. Another problem can be performance issues, that maybe can happen when the application start to receive more users that were planned.
