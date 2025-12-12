@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2252-2253: Java Object Oriented Programming
+
+Today I learned how you can create software abstractions from hardware components. I was modeling some Java classes to represent hardware components, this was a very interesting exercise to learn how to abstract things. Also I write some `Perl` code, yes Perl code, to create some scripts. Perl looks like an interesting programming language, but one of the main problems that I am facing is Perl contains a lot of abstractions for text manipulation and other things, and you can do much thing with just 3 lines of code.  
+
 ### Day 2251: Debugging Code
 
 Today was a hard day, I spend all my date debugging legacy code. Debugging legacy code is a spend task most of the times, when you need to work in a codebase without design, architecture and when the code is poor documented and leak of unit tests. I just can say, good luck when you need to debug legacy codebases.
