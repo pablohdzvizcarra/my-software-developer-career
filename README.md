@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2254: Distributed Systems Issues
+
+One of the main problems when having a distributed systems is coordination, how you ensure that the processes within the system works in synchronize and how to avoid the happens-before issues, this is one of the main problems with Distributed Systems. I was working today into understand the happens-before events that needs to be executed in the correct order for a distributed system, because if one of this event is not executed in the correct order, the processes communication is lost and a new connection needs to be established.
+
 ### Day 2252-2253: Java Object Oriented Programming
 
 Today I learned how you can create software abstractions from hardware components. I was modeling some Java classes to represent hardware components, this was a very interesting exercise to learn how to abstract things. Also I write some `Perl` code, yes Perl code, to create some scripts. Perl looks like an interesting programming language, but one of the main problems that I am facing is Perl contains a lot of abstractions for text manipulation and other things, and you can do much thing with just 3 lines of code.  
