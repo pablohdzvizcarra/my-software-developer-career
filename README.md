@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2255-56: Memory Management
+
+Over the weekend I continue learning more about Operating system Memory Management. I focused in the Direct Memory Access (DMA) feature in an operating system to allow a process to read data from memory faster. The problem when you need to read bytes from a peripheral device like a network card or disk, and if you follow the normal flow `IO Device -> CPU -> Memory` is because the CPU needs to work as a mediator between the Main Memory and the IO Device, and most of the times do nothing with the bytes just pass through. DMA allows you to bypass the CPU mediator, so your process can read bytes from an IO device directly, without the extra CPU step. This is nice design that scale, but this contains some trade-offs like security concerns.
+
 ### Day 2254: Distributed Systems Issues
 
 One of the main problems when having a distributed systems is coordination, how you ensure that the processes within the system works in synchronize and how to avoid the happens-before issues, this is one of the main problems with Distributed Systems. I was working today into understand the happens-before events that needs to be executed in the correct order for a distributed system, because if one of this event is not executed in the correct order, the processes communication is lost and a new connection needs to be established.
