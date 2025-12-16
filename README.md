@@ -7,6 +7,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2257: Back to DSA?
+
+Today I don't know why but I want to try to solve a DSA problem. I attempted to solve the algorithm `Partition Point in the Array
+`, this is an easy algorithm and I felt very bad because I could not solve it in the 20 minutes of time that I want to spend. Tomorrow I will need to. continue solving the algorithm, really do DSA more frequently no matters if you are a experience engineer, DSA is a skill that requires continues practicing to avoid forget it or maybe just I am not very smart.
+
 ### Day 2255-56: Memory Management
 
 Over the weekend I continue learning more about Operating system Memory Management. I focused in the Direct Memory Access (DMA) feature in an operating system to allow a process to read data from memory faster. The problem when you need to read bytes from a peripheral device like a network card or disk, and if you follow the normal flow `IO Device -> CPU -> Memory` is because the CPU needs to work as a mediator between the Main Memory and the IO Device, and most of the times do nothing with the bytes just pass through. DMA allows you to bypass the CPU mediator, so your process can read bytes from an IO device directly, without the extra CPU step. This is nice design that scale, but this contains some trade-offs like security concerns.
