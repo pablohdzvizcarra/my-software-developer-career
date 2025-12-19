@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2259: Java JNI Issues
+
+Today I learned more about the JNI interface. The Java JNI is used to use C code in Java code, with the JNI you can create a C library to perform X task, and next you can use that library with Java. This JNI library is a little complicated because you will need to compile the Java and C code in a compatible way. I will need to continue learning more about Java JNI.
+
 ### Day 2258: Organizing Task as a Software Engineer
 
 I decided to take a break from software engineering for the last two weeks of the 2025 year, I want to use this time to review my completed learning materials, start to do reflections about my 2025 year as a software engineer, organize my pending learning tasks, like books/courses, organize my notes, etc. The next week I will have vacation time from work, so I want to appreciate my last days of 2025 work dates. I have pending to read some non-technical books, this is a good time to read it.
