@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2260-61-62-63: JNI and C Code
+
+During these days I continue learning more about JNI Java framework, how to compile Java and C code using JNI. Also I started a new C project to put in practice all my learned knowledge on C building a Java/JNI/C project.
+
 ### Day 2259: Java JNI Issues
 
 Today I learned more about the JNI interface. The Java JNI is used to use C code in Java code, with the JNI you can create a C library to perform X task, and next you can use that library with Java. This JNI library is a little complicated because you will need to compile the Java and C code in a compatible way. I will need to continue learning more about Java JNI.
