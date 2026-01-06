@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2277: Inside the CPU
+
+Today I continue studying the fundamentals of operating system course, I begin the CPU section in which we study the CPU architecture and the components that build a CPU. I learned about the ALU, CU, Bus and Registers. The Arithmetic Logic Unit is a component that perform arithmetic operations like add, subtract, division, etc but also execute XOR, ADD, etc operations. The Bus is a component that allow the CPU to interact with the Main memory to fetch data. The Registers are components that lives inside the CPU that store bytes for fast access, these registers have a Distributed Shared Memory DSM architecture. Finally the CU is like the brain of the CPU, because it orchestrates the others components to work together to complete the action.
+
 ### Day 2276: Back from Vacations
 
 I am back from vacation. I really enjoyed my vacation with my family. During my vacation I took a break from code tasks. I set my 2026 goals as a Software Engineer to know which things I want to focus on this year. I have the goal to focus on the following three fields: Storage Virtualization, Distributed Systems and Backup Storage technologies. I am very excited to deeply study these three fields. Also I configured a Linux server using an old computer. I want to learn more about Linux this year and C programming, I builded a little Linux Kernel module that just prints a hello world as an experiment. So many interesting things for me come in this 2026 year.
