@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2278: Continue Learning about the CPU
+
+Today I will continue learning more about how works the CPU. I learned an interesting thing today about CPU cycles, a CPU cycle is like a heartbeat that the CPU does, you think of these cycles like a cycle=instructions, for example to access data from the L1 cache, the CPU requires 3-4 cycles, in computer science it is preferred to measure the performance of an application in CPU cycles because the effort to execute an application in a 1GHz or 3GHz CPU is the same rather than measure the performance on wall-clock time. But I discovered that when the CPU requires to read data from the Main Memory RAM, a 3GHz CPU wait or waste more CPU cycles rather than a 1GHz CPU, yeah this is confuse at the beginning, modern CPU requires much cycles to read data from Main memory. The CPU learning is very interesting, I will continue learning more about the CPU for this week.
+
 ### Day 2277: Inside the CPU
 
 Today I continue studying the fundamentals of operating system course, I begin the CPU section in which we study the CPU architecture and the components that build a CPU. I learned about the ALU, CU, Bus and Registers. The Arithmetic Logic Unit is a component that perform arithmetic operations like add, subtract, division, etc but also execute XOR, ADD, etc operations. The Bus is a component that allow the CPU to interact with the Main memory to fetch data. The Registers are components that lives inside the CPU that store bytes for fast access, these registers have a Distributed Shared Memory DSM architecture. Finally the CU is like the brain of the CPU, because it orchestrates the others components to work together to complete the action.
