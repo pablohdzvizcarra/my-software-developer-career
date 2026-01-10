@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2281: C CPU Experiments
+
+Today I did some C applications to understand better how the CPU works. For example I created a basic C application that write 1 byte into a file 1000000000 if times, in each loop iteration writes just one byte. On this application the CPU spend all the time doing System calls so the CPU is busy just doing that. I learn how to use the `top` linux command to review the CPU statistics like Idle time.
+
 ### Day 2280: Pipelining and Parallelism on the CPU
 
 Today I learned that **Pipelining** is a CPU technique used to overlaps stages of an instruction. The main is to have always the CPU busy doing instructions, remember that to execute an instruction we have the following stages: `Fetch, Decode, Execute, Write`. The CPU can be executing instruction 1 in the Decode phase and when start the second phase, the CPu immediately can start to execute the Fetch stage of the instruction 2. When I discover this technique I feel curiosity about when I can implement this technique while writing code and save time, really I don't know about this concept with much detail until learn about the CPU. Parallelism is another technique to maintain busy the CPU, but parallelism is controlled by the developer that wrote the code rather than pipelining that is controlled by default for the CPU. A classic example of parallelism is having an application that split a task into two tasks and then create two threads to execute one task per thread is like multithreading programming.
