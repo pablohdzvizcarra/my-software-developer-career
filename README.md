@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2282-83
+
+Over the weekend I started a Java, JNI and C project. My general idea is to build something like a Distributed Sidecar File Processor project. I want a Java application that works as a CLI client, clients can use the CLI to perform file operations, at this moment I only have the plan to support calculating a checksum for a file. This Java code is just the client and next uses JNI to read the file bytes, open a client TCP socket connection and send the file through the Socket in chunks. On the other side I have a C server that reads these bytes, calculates the checksum to finally return the checksum calculated to my JNI, and sends the checksum to the final Java client. I want to continue learning more about C and JNI and put in practice my new Operating systems knowledge with low level concepts.
+
 ### Day 2281: C CPU Experiments
 
 Today I did some C applications to understand better how the CPU works. For example I created a basic C application that write 1 byte into a file 1000000000 if times, in each loop iteration writes just one byte. On this application the CPU spend all the time doing System calls so the CPU is busy just doing that. I learn how to use the `top` linux command to review the CPU statistics like Idle time.
