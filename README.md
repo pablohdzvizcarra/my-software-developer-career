@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2284 GCC Compiler
+
+Today I study about the most common GCC flags when compiling C code to avoid common issue like warning messages for non good C practices. It is interesting how the C compiler in this case GCC or xlC the ones that I know are vry basic, how do you say you can write C code without a lot of restrictions, like in Go that If you create a variable and is not used, you have a compilation error, on C obviously the types ae checked like any Compiled language, but you have the option to compile your code with good code practices adding flags. I don't know if in another languages/compilers like Java, TypeScript or Go, you can do the same to add flags to improve something in your code.
+
 ### Day 2282-83
 
 Over the weekend I started a Java, JNI and C project. My general idea is to build something like a Distributed Sidecar File Processor project. I want a Java application that works as a CLI client, clients can use the CLI to perform file operations, at this moment I only have the plan to support calculating a checksum for a file. This Java code is just the client and next uses JNI to read the file bytes, open a client TCP socket connection and send the file through the Socket in chunks. On the other side I have a C server that reads these bytes, calculates the checksum to finally return the checksum calculated to my JNI, and sends the checksum to the final Java client. I want to continue learning more about C and JNI and put in practice my new Operating systems knowledge with low level concepts.
