@@ -9,7 +9,7 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ### Day 2285-86 Continue Working on my new Project
 
-Today I will continue writing the code for my new project. For the moment I am having issues with the C code, when my Java code calls a C function through JNI, this JNI code also calls another C function that opens a client socket to an application that is running on the same machine, the problem is I don't know why my C code is not opening the Client socket and sending the file bytes to the server, so I will need to continue debugging this issue. 
+Today I will continue writing the code for my new project. For the moment I am having issues with the C code, when my Java code calls a C function through JNI, this JNI code also calls another C function that opens a client socket to an application that is running on the same machine, the problem is I don't know why my C code is not opening the Client socket and sending the file bytes to the server, so I will need to continue debugging this issue.
 
 ### Day 2284 GCC Compiler
 
