@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2287: Portability Issues with C in 32- and 64-bit OS
+
+Today I was working into research about how create code that can be portable. I want to write my C code and works identical in a MacOS or Linux maybe with a Linux running on 32-bit, I discovered that C offers types to allow this like `int8_t`, `int16_t`, `int32_t`, and `int64_t` to represent integer types, there are more types to represent pointers that can be used. I will work into refactor some code to do portable and I want to prevent to write code which this issues.
+
 ### Day 2285-86 Continue Working on my new Project
 
 Today I will continue writing the code for my new project. For the moment I am having issues with the C code, when my Java code calls a C function through JNI, this JNI code also calls another C function that opens a client socket to an application that is running on the same machine, the problem is I don't know why my C code is not opening the Client socket and sending the file bytes to the server, so I will need to continue debugging this issue.
