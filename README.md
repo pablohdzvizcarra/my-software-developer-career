@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2288: Sending C Structs by Socket
+
+Today I was learning about how to send a C `struct` through a TCP socket connection, and in the other side the server reads the bytes as a struct also. This technique is called serialization or struct passing, it is interesting because you can send structs and C through the `read` syscall, gives you a struct with data. I will continue exploring more about this technique while doing some code examples or a mini project. 
+
 ### Day 2287: Portability Issues with C in 32- and 64-bit OS
 
 Today I was working into research about how create code that can be portable. I want to write my C code and works identical in a MacOS or Linux maybe with a Linux running on 32-bit, I discovered that C offers types to allow this like `int8_t`, `int16_t`, `int32_t`, and `int64_t` to represent integer types, there are more types to represent pointers that can be used. I will work into refactor some code to do portable and I want to prevent to write code which this issues.
