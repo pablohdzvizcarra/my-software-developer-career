@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2289: C Size Types & Padding
+
+Today I have been studying about much bytes on size requires the common C types. I am learning about how to calculate the total size of a C struct including their padding value. It is interesting that the Operating system requires that rhe size of a C struct needs to be a multiple of their largest element, for example if a struct contains a `int64_t` element, their size needs to be a multiple of 8, can be 8, 16 , 24, 32, etc. I will need to continue investigating this over the weekend.  
+
 ### Day 2288: Sending C Structs by Socket
 
-Today I was learning about how to send a C `struct` through a TCP socket connection, and in the other side the server reads the bytes as a struct also. This technique is called serialization or struct passing, it is interesting because you can send structs and C through the `read` syscall, gives you a struct with data. I will continue exploring more about this technique while doing some code examples or a mini project. 
+Today I was learning about how to send a C `struct` through a TCP socket connection, and in the other side the server reads the bytes as a struct also. This technique is called serialization or struct passing, it is interesting because you can send structs and C through the `read` syscall, gives you a struct with data. I will continue exploring more about this technique while doing some code examples or a mini project.
 
 ### Day 2287: Portability Issues with C in 32- and 64-bit OS
 
