@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2290: Continue with C
+
+Today I continue doing more C code exercises. I did multiple C exercises like creating pointer, studying C pointers, how to review the memory address of a pointer in Hex values, why the ASCII encoding is very important, etc. I have the plan to learn C for some time while watching a C course, Do code exercises and maybe read a book about C.
+
 ### Day 2289: C Size Types & Padding
 
 Today I have been studying about much bytes on size requires the common C types. I am learning about how to calculate the total size of a C struct including their padding value. It is interesting that the Operating system requires that rhe size of a C struct needs to be a multiple of their largest element, for example if a struct contains a `int64_t` element, their size needs to be a multiple of 8, can be 8, 16 , 24, 32, etc. I will need to continue investigating this over the weekend.  
