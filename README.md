@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2291-92: C Unix Domain Application
+
+During the weekend I have been working on a C server application that creates a TCP socket through a Unix Domain Socket, and a client application that connect to the server to send data through the same socket. It is interesting how in C and Linux you can communicate two processes through a Socket file, for the moment I am learning multiple ways to send the data through the Socket, like sending an `char*` and a `struct`. 
+
 ### Day 2290: Continue with C
 
 Today I continue doing more C code exercises. I did multiple C exercises like creating pointer, studying C pointers, how to review the memory address of a pointer in Hex values, why the ASCII encoding is very important, etc. I have the plan to learn C for some time while watching a C course, Do code exercises and maybe read a book about C.
