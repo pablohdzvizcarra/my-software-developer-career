@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2293: Java Library as JAR
+
+Today I was working into debug an issue with a Java JAR library. One of the mai problems that I am facing right now is, to debug the issue, I will need to modify the source for the library, compile the library into a JAR, to finally be tested by another application. This is a time consuming activity because to test I change I will need to do the entire workflow, the library is coupled with the application, so there is no way for the moment to test it without the full application flow.
+
 ### Day 2291-92: C Unix Domain Application
 
-During the weekend I have been working on a C server application that creates a TCP socket through a Unix Domain Socket, and a client application that connect to the server to send data through the same socket. It is interesting how in C and Linux you can communicate two processes through a Socket file, for the moment I am learning multiple ways to send the data through the Socket, like sending an `char*` and a `struct`. 
+During the weekend I have been working on a C server application that creates a TCP socket through a Unix Domain Socket, and a client application that connect to the server to send data through the same socket. It is interesting how in C and Linux you can communicate two processes through a Socket file, for the moment I am learning multiple ways to send the data through the Socket, like sending an `char*` and a `struct`.
 
 ### Day 2290: Continue with C
 
