@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2294: Understanding a TCP connection
+
+Today i studied about how works a TCP socket connection in C and Linux. I learned that when you create a `socket` in C and you use the `AF_INET` as domain and`SOCK_STREAM` value as the socket type, you create a TCP socket, you can see a TCP socket like an array in which you can store bytes this array/buffer is saved on the Kernel memory, in one side you have a client writing bytes to that buffer and in the other size you have a server getting the bytes from the buffer, so if the client send 100 bytes, the server can read that 100 bytes in two steps. This was an aha moment for me, working with the Java `Socket` API, we can send Java objects through the connection and we don't need to worry about all this stuff, in Java all these things are simplified.
+
 ### Day 2293: Java Library as JAR
 
 Today I was working into debug an issue with a Java JAR library. One of the mai problems that I am facing right now is, to debug the issue, I will need to modify the source for the library, compile the library into a JAR, to finally be tested by another application. This is a time consuming activity because to test I change I will need to do the entire workflow, the library is coupled with the application, so there is no way for the moment to test it without the full application flow.
