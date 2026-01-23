@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2295: Continue with `SOCK_STREAM` Sockets
+
+Today I continue learning more about Stream network sockets like TCP. I am understanding that because a socket of this type is just like a byte array, you can have issues if you are reading less data from the client socket and leave some bytes because when the server do another read, it reads old bytes from the socket and you can get corrupted data. I am understanding the powerful of sending and managing raw bytes, through a socket, you can have 100% of control of the bytes, but the main problem here is if you don't have a good design, you will end up with a mess of code or a complicated logic. Learning about how C manage sockets is funny and hard for me. I miss data in `JSON` format.
+
 ### Day 2294: Understanding a TCP connection
 
 Today i studied about how works a TCP socket connection in C and Linux. I learned that when you create a `socket` in C and you use the `AF_INET` as domain and`SOCK_STREAM` value as the socket type, you create a TCP socket, you can see a TCP socket like an array in which you can store bytes this array/buffer is saved on the Kernel memory, in one side you have a client writing bytes to that buffer and in the other size you have a server getting the bytes from the buffer, so if the client send 100 bytes, the server can read that 100 bytes in two steps. This was an aha moment for me, working with the Java `Socket` API, we can send Java objects through the connection and we don't need to worry about all this stuff, in Java all these things are simplified.
