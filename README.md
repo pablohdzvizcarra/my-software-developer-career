@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2296: Network Wire Protocol
+
+Today I have been studying how a server and a client application communicates while sending structs/Classes through a socket connection on C. I learned that one of the main problems while working with C and TCP sockets, is how your client send data to the server through the Socket, most of the times you will need to implement a binary protocol and both your serve and client needs to talk the same protocol but sometimes you just want to send a fixed-size bytes through the socket like sending struct/classes on C and C++. This approach is good is like sending Java Objects through a socket, but the problem with C/C++ is that sending structs or classes is more complicated because compilers does not compile the code in the same, maybe your client or server runs on a different architecture, and another issues can happen. Ahh it is interesting how in C you will need to manage all these stuff while in other languages like Java you don't need ot worry about this.
+
 ### Day 2295: Continue with `SOCK_STREAM` Sockets
 
 Today I continue learning more about Stream network sockets like TCP. I am understanding that because a socket of this type is just like a byte array, you can have issues if you are reading less data from the client socket and leave some bytes because when the server do another read, it reads old bytes from the socket and you can get corrupted data. I am understanding the powerful of sending and managing raw bytes, through a socket, you can have 100% of control of the bytes, but the main problem here is if you don't have a good design, you will end up with a mess of code or a complicated logic. Learning about how C manage sockets is funny and hard for me. I miss data in `JSON` format.
