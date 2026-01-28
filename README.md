@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2300: Process Memory Allocation
+
+When you execute a process in your Linux Operating system, The OS needs to allocated memory to store process information, the main sections of memory allocated are `Text`, `Data`, `Heap` and `Stack`. The Text section is used to store the application machine code, this is your Java, Python, C code compiled to machine code to be executed by the OS. The Data sections is used to store global variables like static non mutable data. The Heap section is used to store dynamic allocated memory when executing the process like using `malloc` in C applications. Finally the Stack section is used to store local variables and return addresses, this is the code that lives inside your code functions. It is interesting how Linux to represent a process divide their data into sections.
+
 ### Day 2297-98-99: Continue Learning C
 
 During the weekend I continue learning more concepts and techniques for the C programming language. I learned about `framing` in network communication. One of the main problems working with a TCP socket is the data/bytes travels as just bytes so you don't in code how to know when a message start or ends. To solve this problem we need to use a framing technique, the most popular are delimiter-based framing and length-prefixed framing. In Delimited-based framing we read bytes from the socket until we receive a byte that is know as the delimiter like the `\n` character, when we found this character we can know that message ends. In `Length-prefixing framing`, we first send a header byte normally an int type, and the value is the bytes that the severs needs to read from the client connection. It is interesting how this techniques works, I did some code C exercises with both techniques and for my surprise both requires much coe to work, rather than sending just a struct and receive the same struct in the server.
