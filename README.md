@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2301: Thread Control Block (TCB)
+
+Today I have been studying the Thread Control Block. I see the thread control block as a data structured used by the Kernel to store metadata about a thread. When we have a process running we can create N number of thread for that process, this is when the TCB enters in action because to schedule the thread, execute the thread, the Kernel uses the TCB. I did a C application in which I create a thread and configuring some TCB attributes like the Stack Size and Priority. The TCB is stored in memory in Kernel space and in modern linux OS a thread have a dedicated TCB. This TCB also contains a reference to the parent PCB and a reference to the next TCB.
+
 ### Day 2300: Process Memory Allocation
 
-When you execute a process in your Linux Operating system, The OS needs to allocated memory to store process information, the main sections of memory allocated are `Text`, `Data`, `Heap` and `Stack`. The Text section is used to store the application machine code, this is your Java, Python, C code compiled to machine code to be executed by the OS. The Data sections is used to store global variables like static non mutable data. The Heap section is used to store dynamic allocated memory when executing the process like using `malloc` in C applications. Finally the Stack section is used to store local variables and return addresses, this is the code that lives inside your code functions. It is interesting how Linux to represent a process divide their data into sections.
+When you execute a process in your Linux Operating system, The OS needs to allocated memory to store process information, the main sections of memory allocated are `Text`, `Data`, `Heap` and `Stack`. The Text section is used to store the application machine code, this is your Java, Python, C code compiled to machine code to be executed by the OS. The Data sections is used to store global variables like static non mutable data. The Heap section is used to store dynamic allocated memory when executing the process like using `malloc` in C applications. Finally the Stack section is used to store local variables and return addresses, this is the code that lives inside your code functions. It is interesting how Linux to represent a process divide their data into sections.****
 
 ### Day 2297-98-99: Continue Learning C
 
