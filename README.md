@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2032: Process VS Thread Section Completed
+
+Today I completed the Process VS Thread course section. I learned the main differences between a `process` and a `thread` like a process is the instance of a program running on the operating system and have dedicated multiple resources like memory sections, fiel descriptors, etc. In the other side a `Thread` is a light weight process that share most of the same memory of the parent process, but maintains some memory for the thread state. Always a thread needs to have a reference to the parent process for multiple purposes. Really it is insteresting how when your learn about how Linux works, you see programming in another way and you can start to think the multiple times that you can apply Linux principles and design in code. 
+
 ### Day 2301: Thread Control Block (TCB)
 
 Today I have been studying the Thread Control Block. I see the thread control block as a data structured used by the Kernel to store metadata about a thread. When we have a process running we can create N number of thread for that process, this is when the TCB enters in action because to schedule the thread, execute the thread, the Kernel uses the TCB. I did a C application in which I create a thread and configuring some TCB attributes like the Stack Size and Priority. The TCB is stored in memory in Kernel space and in modern linux OS a thread have a dedicated TCB. This TCB also contains a reference to the parent PCB and a reference to the next TCB.
