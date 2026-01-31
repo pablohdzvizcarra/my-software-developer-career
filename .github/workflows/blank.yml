@@ -33,4 +33,5 @@ jobs:
         with:
           files-to-check: "**/*.md"
           files-to-exclude: "LICENSE.md"
+          words-to-ignore-file: ".spelling"
 
