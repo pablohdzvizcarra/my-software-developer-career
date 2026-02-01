@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2304: Concurrency
+
+Today I have been studying concurrency. I learned that concurrency can be achieved in two main ways, multithreading and multiprocessing. Multithreading is when you have multiple threads running in the same process, and multiprocessing is when your application is composed of multiple process, for example you hav a process that just wait for incomming user inout and another process execute the user request. Also I studied about Mutexes and Semaphores to avoid common concurrency issues. I like Mutexes are very simple to understand and implement.
+
 ### Day 2303: Context Switching
 
 Today I have been studying how the CPU performs a context switch. Your CPU is executing process A and the Kernel sends a signal to the CPU to stop to execute Process A, the CPU needs to start the context switch to execute Process B. The context switch process have the following steps: 1. Save the state of process A into the Process PCB (Process Control Block), 2. Load the state of process B into the Process PCB, 3. Switch the CPU to execute process B. As a additional consideration, when the CPU starts to execute process B the execution is slow at the start because the CPU needs to load the L1 cache with the instructions of process B. This is called cache miss. 
@@ -67,4 +71,4 @@ Today I have been studying the Thread Control Block. I see the thread control bl
 | 2101-2150 | Golang, Distributed Systems, Networking, Binary Protocols, Storage Systems, C, Bash, TDD                                                                                                                | Built a Block Storage application in Go; Deep dive into storage, networking & distributed systems concepts | [View](./day2001-2500/day2101-2150.md) |
 | 2151-2200 | C, Distributed Systems, Java, Networking (Sockets, TCP), Binary Protocols, Database Internals (SQLite clone, B-Tree), C++, Ansible                                                                      | Building an SQLite clone in C; Deep dive into Distributed Systems patterns & C fundamentals                | [View](./day2001-2500/day2151-2200.md) |
 | 2201-2250 | C, OS Internals, Process Memory Layout, CPU Caches, Kernel and User Space, Java Proxies, JAR Packaging, Wrapper Pattern, Idempotent Receiver, Versioned Values, Eventual Consistency                    | Completed database SQLite Clone on C, Deep dive into memory management                                     | [View](./day2001-2500/day2201-2250.md) |
-| 2251-2300 | C, OS Internals (Memory, CPU, TCB), Networking (TCP, Sockets, Framing), Java (JNI), Distributed Systems | Deep dive into CPU architecture, Socket Programming in C & JNI | [View](./day2001-2500/day2251-2300.md) |
+| 2251-2300 | C, OS Internals (Memory, CPU, TCB), Networking (TCP, Sockets, Framing), Java (JNI), Distributed Systems                                                                                                 | Deep dive into CPU architecture, Socket Programming in C & JNI                                             | [View](./day2001-2500/day2251-2300.md) |
