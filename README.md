@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2305: Process Management Course Section Completed
+
+Today I completed the Process Management course section. I learned multiple things about how the Operating systems manage the processes in the system. In the final modules I did a little exercise to know how to debug a C application to understand how the memory is shared with a child process and the parent process. To know information about a process you can go the `/proc/PID` folder and there you can find multiple files that contains information about that specific process. For example the `status` file contains information like the UID, GID, memory usage, number of threads, etc. Also I learned about the different states of a process like Running, Waiting, Stopped, Zombie, etc.
+
 ### Day 2304: Concurrency
 
 Today I have been studying concurrency. I learned that concurrency can be achieved in two main ways, multithreading and multiprocessing. Multithreading is when you have multiple threads running in the same process, and multiprocessing is when your application is composed of multiple process, for example you hav a process that just wait for incomming user inout and another process execute the user request. Also I studied about Mutexes and Semaphores to avoid common concurrency issues. I like Mutexes are very simple to understand and implement.
