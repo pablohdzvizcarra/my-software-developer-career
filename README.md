@@ -7,21 +7,25 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
-### Day 2305: Process Management Course Section Completed
+### Day 2307: Storage Management
+
+Today I begin the Storage Management course section. I am learning about the primary storage hardware components like HDDs, SSDs, and NVMe drives. I am very interested on this section because in my work we work with storage virtualization technologies like RAID 1, 2, 5, 6, 19, etc. I believe that if I learn more about how the storage works in the low level, I can apply all the learned knowledge to my work. We don't manage the low-level code that does the virtualization, but we offer this features to clients through multiple APIs and client that user can use to manage their storage.
+
+### Day 2305-06: Process Management Course Section Completed
 
 Today I completed the Process Management course section. I learned multiple things about how the Operating systems manage the processes in the system. In the final modules I did a little exercise to know how to debug a C application to understand how the memory is shared with a child process and the parent process. To know information about a process you can go the `/proc/PID` folder and there you can find multiple files that contains information about that specific process. For example the `status` file contains information like the UID, GID, memory usage, number of threads, etc. Also I learned about the different states of a process like Running, Waiting, Stopped, Zombie, etc.
 
 ### Day 2304: Concurrency
 
-Today I have been studying concurrency. I learned that concurrency can be achieved in two main ways, multithreading and multiprocessing. Multithreading is when you have multiple threads running in the same process, and multiprocessing is when your application is composed of multiple process, for example you hav a process that just wait for incomming user inout and another process execute the user request. Also I studied about Mutexes and Semaphores to avoid common concurrency issues. I like Mutexes are very simple to understand and implement.
+Today I have been studying concurrency. I learned that concurrency can be achieved in two main ways, multithreading and multiprocessing. Multithreading is when you have multiple threads running in the same process, and multiprocessing is when your application is composed of multiple process, for example you hav a process that just wait for incoming user input and another process execute the user request. Also I studied about Mutexes and Semaphores to avoid common concurrency issues. I like Mutexes are very simple to understand and implement.
 
 ### Day 2303: Context Switching
 
-Today I have been studying how the CPU performs a context switch. Your CPU is executing process A and the Kernel sends a signal to the CPU to stop to execute Process A, the CPU needs to start the context switch to execute Process B. The context switch process have the following steps: 1. Save the state of process A into the Process PCB (Process Control Block), 2. Load the state of process B into the Process PCB, 3. Switch the CPU to execute process B. As a additional consideration, when the CPU starts to execute process B the execution is slow at the start because the CPU needs to load the L1 cache with the instructions of process B. This is called cache miss. 
+Today I have been studying how the CPU performs a context switch. Your CPU is executing process A and the Kernel sends a signal to the CPU to stop to execute Process A, the CPU needs to start the context switch to execute Process B. The context switch process have the following steps: 1. Save the state of process A into the Process PCB (Process Control Block), 2. Load the state of process B into the Process PCB, 3. Switch the CPU to execute process B. As a additional consideration, when the CPU starts to execute process B the execution is slow at the start because the CPU needs to load the L1 cache with the instructions of process B. This is called cache miss.
 
 ### Day 2302: Process VS Thread Section Completed
 
-Today I completed the Process VS Thread course section. I learned the main differences between a `process` and a `thread` like a process is the instance of a program running on the operating system and have dedicated multiple resources like memory sections, file descriptors, etc. In the other side a `Thread` is a light weight process that share most of the same memory of the parent process, but maintains some memory for the thread state. Always a thread needs to have a reference to the parent process for multiple purposes. Really it is interesting how when your learn about how Linux works, you see programming in another way and you can start to think the multiple times that you can apply Linux principles and design in code. 
+Today I completed the Process VS Thread course section. I learned the main differences between a `process` and a `thread` like a process is the instance of a program running on the operating system and have dedicated multiple resources like memory sections, file descriptors, etc. In the other side a `Thread` is a light weight process that share most of the same memory of the parent process, but maintains some memory for the thread state. Always a thread needs to have a reference to the parent process for multiple purposes. Really it is interesting how when your learn about how Linux works, you see programming in another way and you can start to think the multiple times that you can apply Linux principles and design in code.
 
 ### Day 2301: Thread Control Block (TCB)
 
