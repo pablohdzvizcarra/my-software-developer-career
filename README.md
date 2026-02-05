@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2308: Writing and Reading from an SSD is a Waste of Resources
+
+Today I have been studied how SSDs works. I learned something that shocks my mind. When the OS just needs to store for example 10 bytes in an SSD, the SSD needs to store those 10 bytes in a `Page` and then write the entire page to the NAND flash memory. The mai problem here is a page is normally 4KiB, 8KiB ot 16KiB depending of the SSD model. This means that if you just need to store 10 bytes, you waste a lot of free space. This `Pages` could not be modified when they are written, when you need to update those 10 bytes, first you will need to save the data into a new page, mark the old page as *dirty* and wait for a Garbage Collection to remove an entire Block. Yes another concept is a the `Block`, a block is just a group of pages (128 or 256 pages) managed by the **FTL** component. The FTL is a component that maps LBA from the OS to Physical Page Addresses (PPA). At this moment I don't know why we just waste resources in this way, I know that everything have a trade-off in software engineering and this for me is an interesting trade-off.
+
 ### Day 2307: Storage Management
 
 Today I begin the Storage Management course section. I am learning about the primary storage hardware components like HDDs, SSDs, and NVMe drives. I am very interested on this section because in my work we work with storage virtualization technologies like RAID 1, 2, 5, 6, 19, etc. I believe that if I learn more about how the storage works in the low level, I can apply all the learned knowledge to my work. We don't manage the low-level code that does the virtualization, but we offer this features to clients through multiple APIs and client that user can use to manage their storage.
