@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2309: Continue Learning SSD
+
+Today I continue studying the design of SSDs. I do a research about why you cannot upated bytes in a page rather than do a remove and write operation, for me looks like a waste of resources but I learned that there is a physical hardware limitation that complicates this process. Also I learned that for example if you want to remove a Page, you will need to remove the entire block that contains that page, this is crazy because maybe your block contains 256 pages and you just want to remove 1 page. It is what it is. I did a C CLI application to create a simple SSD simulator to understand better how the SSD works. This application have some structs that represents the SSD components like the `Block`, `Page`, `LBA` and one of the most importants the `FTL` (Flash Translation Layer) that acts like the brain of the SSD.
+
 ### Day 2308: Writing and Reading from an SSD is a Waste of Resources
 
 Today I have been studied how SSDs works. I learned something that shocks my mind. When the OS just needs to store for example 10 bytes in an SSD, the SSD needs to store those 10 bytes in a `Page` and then write the entire page to the NAND flash memory. The mai problem here is a page is normally 4KiB, 8KiB ot 16KiB depending of the SSD model. This means that if you just need to store 10 bytes, you waste a lot of free space. This `Pages` could not be modified when they are written, when you need to update those 10 bytes, first you will need to save the data into a new page, mark the old page as *dirty* and wait for a Garbage Collection to remove an entire Block. Yes another concept is a the `Block`, a block is just a group of pages (128 or 256 pages) managed by the **FTL** component. The FTL is a component that maps LBA from the OS to Physical Page Addresses (PPA). At this moment I don't know why we just waste resources in this way, I know that everything have a trade-off in software engineering and this for me is an interesting trade-off.
