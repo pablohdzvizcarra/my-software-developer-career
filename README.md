@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2310: Storage Management Completed Section
+
+Today I have completed the `Storage Management` Course section. On this section I studied about why we need to store data to be persistent like database information, how works an HDD and an SSD disks, the difference between them. I studied the SSDs Architecture and NAND, it is interesting how an SSD is designed and how the OS represent and SSD with LBA (Logical Block Address), the OS just see our SSD as a giant array, where each element is a block to store bytes normally 4kIB. Studying about the SSD architecture was very interesting, there are a lot of trade-offs in their design, but also are required. Now I know that the windows defragmentation tool was the dead for an SSD.
+
 ### Day 2309: Continue Learning SSD
 
-Today I continue studying the design of SSDs. I do a research about why you cannot upated bytes in a page rather than do a remove and write operation, for me looks like a waste of resources but I learned that there is a physical hardware limitation that complicates this process. Also I learned that for example if you want to remove a Page, you will need to remove the entire block that contains that page, this is crazy because maybe your block contains 256 pages and you just want to remove 1 page. It is what it is. I did a C CLI application to create a simple SSD simulator to understand better how the SSD works. This application have some structs that represents the SSD components like the `Block`, `Page`, `LBA` and one of the most importants the `FTL` (Flash Translation Layer) that acts like the brain of the SSD.
+Today I continue studying the design of SSDs. I do a research about why you cannot updated bytes in a page rather than do a remove and write operation, for me looks like a waste of resources but I learned that there is a physical hardware limitation that complicates this process. Also I learned that for example if you want to remove a Page, you will need to remove the entire block that contains that page, this is crazy because maybe your block contains 256 pages and you just want to remove 1 page. It is what it is. I did a C CLI application to create a simple SSD simulator to understand better how the SSD works. This application have some structs that represents the SSD components like the `Block`, `Page`, `LBA` and one of the most important the `FTL` (Flash Translation Layer) that acts like the brain of the SSD.
 
 ### Day 2308: Writing and Reading from an SSD is a Waste of Resources
 
