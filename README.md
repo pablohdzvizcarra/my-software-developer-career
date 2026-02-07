@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2311: Event Engine C and C++ App
+
+Today I have been working into create an Event Engine application in C and C++. My main idea for this project was have the Event Engine working as a server that generates fake Operating systems events like CPU usage, memory usages, Disk Usage, and Network Usage. A Event Engine Client application can connect to the event engine server and listen for specific events through a subscription message. The event engine server will send the events to the client application trough a UNIX Domain Socket. This project is have been excited because I am learning C and C++ while doing the project.
+
 ### Day 2310: Storage Management Completed Section
 
 Today I have completed the `Storage Management` Course section. On this section I studied about why we need to store data to be persistent like database information, how works an HDD and an SSD disks, the difference between them. I studied the SSDs Architecture and NAND, it is interesting how an SSD is designed and how the OS represent and SSD with LBA (Logical Block Address), the OS just see our SSD as a giant array, where each element is a block to store bytes normally 4kIB. Studying about the SSD architecture was very interesting, there are a lot of trade-offs in their design, but also are required. Now I know that the windows defragmentation tool was the dead for an SSD.
