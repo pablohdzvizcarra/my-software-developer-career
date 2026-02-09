@@ -1,0 +1,17 @@
+matrix:
+- name: Markdown
+  sources:
+  - '**/*.md'
+  aspell:
+    lang: en
+  dictionary:
+    wordlists:
+    - .github/workflows/spellcheck_ignore.txt
+    output: wordlist.dic
+  pipeline:
+  - pyspelling.filters.markdown:
+  - pyspelling.filters.html:
+      comments: false
+      ignores:
+      - code
+      - pre

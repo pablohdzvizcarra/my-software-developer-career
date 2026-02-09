@@ -29,9 +29,6 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world! This is working
 
-      - uses: matheus23/md-spellcheck-action@v4.2.2
-        with:
-          files-to-check: "**/*.md"
-          files-to-exclude: "LICENSE.md"
-          words-to-ignore-file: ".spelling"
+      - name: Spellcheck
+        uses: rojopolis/spellcheck-github-actions@0.58.0
 
