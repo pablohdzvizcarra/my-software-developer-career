@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2312-13: File System
+
+Today I begin to study about file systems. The file system is a logical method and data structured used by the Operating System to storage data in the hardware device (SSD, HDD, etc). When you want to store a file within your computer, the OS needs to know how to store that file in the SSD, so the File System enters in action, the file system communicates with the hardware through their controller, and do the necessary operations to save the file. An important concept to understand about the File System is the file system Block Size, this block size can have different values but for simplicity we use the most common 4096-bytes, you want to save a .txt file with a size of 100-bytes, the file system issue a command to save this file in a FS block, and the disk controller do the next steps. This is trade-off, because you only want to store 100-bytes of data but you will need to allocated and fill the total space for a FS block, A big trade-off.
+
 ### Day 2311: Event Engine C and C++ App
 
 Today I have been working into create an Event Engine application in C and C++. My main idea for this project was have the Event Engine working as a server that generates fake Operating systems events like CPU usage, memory usages, Disk Usage, and Network Usage. A Event Engine Client application can connect to the event engine server and listen for specific events through a subscription message. The event engine server will send the events to the client application trough a UNIX Domain Socket. This project is have been excited because I am learning C and C++ while doing the project.
