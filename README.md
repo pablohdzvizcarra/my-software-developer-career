@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2316: Completed File System Section
+
+Today I completed the `File System` section for the OS Course. On this section I learned how File System works, what is a File System, how the file system interacts with the physical hardware like SSD/HDD, did a little code exercise to virtualize how a file system saves a physical file in N number of chunks, depending of the LBA size, and how those chunks are saved into a PBA on disk. Was an interesting section and I learned interesting new things that change how I see programming.
+
 ### Day 2315: The Importance of Block Size
 
 Today I have studying about why is very important to choose a correct Block Size for the FS Blocks, LBA and PBA. When you choose a lower FS Block, when the OS wants to save a big file into disk you will suffer `External Fragmentation`. External Fragmentation happens when you want to save a 5MB photo in a File System that have a 1KB block size. If this is the case, the 5MB file needs to be split in 5120 blocks, and then looks for 5120 LBA to save all these blocks. You can imagine the result of saving a 1GB file with a FS block size of 1KB for example. An `Internal Fragmentation` happens when you choose a big FS Block size like 4096 bytes and you save a 100-byte txt file. You are wasting around 4396 bytes for that Block because remember a `File System Block` is the minimum operation to write data to the hardware that the Operating system can manage. Some concepts are not clear for me yet, so I will need to continue learning this tomorrow.
