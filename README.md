@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2317: Continue with Event Engine Project
+
+Today I continue with my `Event Engine` Project. Right now my Event Engine server support create a socket to accept client connections, when a client is connected, the client send a message to indicate that the client wants to listen for events of types X, and this is all. I have create a generator thread in the `Event Engine Server`, so my idea is to store the generated events in a queue and next in the thread that handle each client, `poll` the events from the queue and send it to the client. In the client side I just want to read the events from the server and finally show them in console for debugging purposes. Tomorrow I want to continue working into this feature in my Event Engine project.
+
 ### Day 2316: Completed File System Section
 
 Today I completed the `File System` section for the OS Course. On this section I learned how File System works, what is a File System, how the file system interacts with the physical hardware like SSD/HDD, did a little code exercise to virtualize how a file system saves a physical file in N number of chunks, depending of the LBA size, and how those chunks are saved into a PBA on disk. Was an interesting section and I learned interesting new things that change how I see programming.
