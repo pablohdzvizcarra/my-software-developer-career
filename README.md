@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2319-20: File I/O Operation
+
+During these days, I continue studying what really happens when an application or process does a file I/O operation, like open a file to write. There are multiple steps in a basic File I/O operation between the Application and the OS that manages the request, now I understood why File I/O operations are expensive to perform.
+
 ### Day 2318: Event Dispatcher
 
 Today I created the `Event Dispatcher` for my Even Engine project. I have a Event Generator in the server application that every second create mock events and add the events to a shared queue. This queue is shared by the `Event Generator` and the `Event Dispatcher`. When a client is registered in the server and send the message about which events wants to listen, the client is saved in a List, each client have a callback function. The general idea is the Event Dispatcher thread runs, in a separate Thread, and when an event arrives to the shared queue, it wake up to process the events, and send the event to all the registered clients that wants to listen for that type of event. I learned that this a common pattern on event processor applications, and also was very fun implement this feature with C++ code.
