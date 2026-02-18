@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2321: OS ENV Variables
+
+Today I was debugging an issue related with a JVM 17 that cannot initialize because requires the `libc++.a` library and this library is not configured in the `LIBPATH` environment variable within the OS. The main problem was when the OS starts, the  `LIBPATH` not contains the library path, a script is executed within the server and that scripts configures the library path in the `LIBPATH` variable. SO I had a classic happens before relationship here, when one event needs to happen after another event. To solve the issue, I needed to add logic to check if the library path is included in the `LIBPATH` variable, and if it is not included, sleep for 10 seconds, and do an attempt later.  
+
 ### Day 2319-20: File I/O Operation
 
 During these days, I continue studying what really happens when an application or process does a file I/O operation, like open a file to write. There are multiple steps in a basic File I/O operation between the Application and the OS that manages the request, now I understood why File I/O operations are expensive to perform.
