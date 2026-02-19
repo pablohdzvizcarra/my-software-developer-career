@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2322: Environment Variables in Processes
+
+Today I learned that when a process start, for example you have a bash script to do X stuff your bash script is considered a process. Your bash script have their own memory and resources that are not shared between the other processes running on the Operating system. An interesting thing is how the Environment variables works within a bash script. When the bash script reads and OS environment variable, it creates a copy of this variable in their memory, and if another process modifies the OS environment variable, the value is not modified in your bash process. All this stuff is interesting for me and there are a lot of things pending to learn and practice about process management.
+
 ### Day 2321: OS ENV Variables
 
 Today I was debugging an issue related with a JVM 17 that cannot initialize because requires the `libc++.a` library and this library is not configured in the `LIBPATH` environment variable within the OS. The main problem was when the OS starts, the  `LIBPATH` not contains the library path, a script is executed within the server and that scripts configures the library path in the `LIBPATH` variable. SO I had a classic happens before relationship here, when one event needs to happen after another event. To solve the issue, I needed to add logic to check if the library path is included in the `LIBPATH` variable, and if it is not included, sleep for 10 seconds, and do an attempt later.  
