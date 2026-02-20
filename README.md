@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2323: POSIX API
+
+Today I have been studying the `read` and `write` functions in the POSIX API. When you work with C code, and you need to do a I/O operation like read bytes from a Socket, there are a lot of steps that needs to happen in different layers of the Operating System. First your application needs to change to Kernel Mode to execute the read operations to return to User Mode to allow the user to continue working with the logic. It is interesting how many layers of abstraction are in a basic read operation like reading a file from disk.
+
 ### Day 2322: Environment Variables in Processes
 
 Today I learned that when a process start, for example you have a bash script to do X stuff your bash script is considered a process. Your bash script have their own memory and resources that are not shared between the other processes running on the Operating system. An interesting thing is how the Environment variables works within a bash script. When the bash script reads and OS environment variable, it creates a copy of this variable in their memory, and if another process modifies the OS environment variable, the value is not modified in your bash process. All this stuff is interesting for me and there are a lot of things pending to learn and practice about process management.
