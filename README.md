@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2324: Storage Management
+
+Today I completed the Storage Management Course section. In this section I explored the Persistent Storage, File Systems, File I/O, and a demo about how to create partitions of different types like `etx4`, `fat32` and `ntfs`. It is very interesting how the OS manages all these concepts and how a basic thing like the file system is very complicated to implement, there are a lot of layers of abstraction that hide all the complexity of the file system and the storage management.
+
 ### Day 2323: POSIX API
 
 Today I have been studying the `read` and `write` functions in the POSIX API. When you work with C code, and you need to do a I/O operation like read bytes from a Socket, there are a lot of steps that needs to happen in different layers of the Operating System. First your application needs to change to Kernel Mode to execute the read operations to return to User Mode to allow the user to continue working with the logic. It is interesting how many layers of abstraction are in a basic read operation like reading a file from disk.
