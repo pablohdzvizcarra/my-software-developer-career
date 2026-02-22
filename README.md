@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2325: Socket Management
+
+Today I started the course section that talks about Socket Management. I did a little study about how the OSI model is composed and the need to have a standard way to communicate devices over the network. The OSI model is composed of 7 layers, and each layer have a specific purpose, for example software developers most of the times works on Layer 7 - Application and sometimes on Layer 5 - Transport. I learned that my C and C++ application when create a socket with the `socket` syscall works on the Layer 7.
+
 ### Day 2324: Storage Management
 
 Today I completed the Storage Management Course section. In this section I explored the Persistent Storage, File Systems, File I/O, and a demo about how to create partitions of different types like `etx4`, `fat32` and `ntfs`. It is very interesting how the OS manages all these concepts and how a basic thing like the file system is very complicated to implement, there are a lot of layers of abstraction that hide all the complexity of the file system and the storage management.
