@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2326: TCP
+
+Today I did a refresh about how works the TCP protocol. The `Transmission Connection Protocol` is one of the most used in backed application, HTTP 1 and 2 is built on TCP, this protocol creates a reliable channel between a client and a server through a handshake process, when the connection is created, the client and the server an send messages through the connection. Clients can send N numbers of messages and the server can just send 1 reply, when I learned this in the past I feel that this is amazing, with a Classic HTTP communication, you expect that always the server sends back a response for each client message.
+
 ### Day 2325: Socket Management
 
 Today I started the course section that talks about Socket Management. I did a little study about how the OSI model is composed and the need to have a standard way to communicate devices over the network. The OSI model is composed of 7 layers, and each layer have a specific purpose, for example software developers most of the times works on Layer 7 - Application and sometimes on Layer 5 - Transport. I learned that my C and C++ application when create a socket with the `socket` syscall works on the Layer 7.
