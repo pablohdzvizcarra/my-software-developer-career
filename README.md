@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2327: Pointers
+
+Today I started to read the Chapter 12: Pointers from the C programming a modern approach book to learn more about how work with pointers on C. In my work in our C code base we do an extensive usage of C pointers in our codebase, I am not very good with C pointers and I want to continue learning how to work with them. I did multiple exercises on the book and at this moment I am in the last part of the chapter in which I will need to do some code exercises.
+
 ### Day 2326: TCP
 
 Today I did a refresh about how works the TCP protocol. The `Transmission Connection Protocol` is one of the most used in backed application, HTTP 1 and 2 is built on TCP, this protocol creates a reliable channel between a client and a server through a handshake process, when the connection is created, the client and the server an send messages through the connection. Clients can send N numbers of messages and the server can just send 1 reply, when I learned this in the past I feel that this is amazing, with a Classic HTTP communication, you expect that always the server sends back a response for each client message.
