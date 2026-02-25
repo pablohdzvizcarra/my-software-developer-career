@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2328: Pointers are Just Reference to Memory Addresses
+
+Today I completed the `Chapter 11: Pointers from the C programming a modern approach book`. I had an AHA moment when doing the chapter code exercises related with Pointers. A pointer on C is just the reference to bytes storage on the Memory. We can see the computer memory like a big bunch of Cells, each cell have an address like 0x90, so you want to allocate enough memory in the RAM memory to store a `int` object, so you require 4 cells 0x90, 0x91, 0x92, 0x93. When you declare a pointer to hold the memory address of the the cell that holds the first bits of the int variable that is 0x90, you store this address in the pointer variable.  Really when you understand how the computer RAM memory is represented and which is a pointer your C life be more easy. These types of learnings are not possible with a language like Java or Python.
+
 ### Day 2327: Pointers
 
-Today I started to read the Chapter 12: Pointers from the C programming a modern approach book to learn more about how work with pointers on C. In my work in our C code base we do an extensive usage of C pointers in our codebase, I am not very good with C pointers and I want to continue learning how to work with them. I did multiple exercises on the book and at this moment I am in the last part of the chapter in which I will need to do some code exercises.
+Today I started to read the Chapter 11: Pointers from the C programming a modern approach book to learn more about how work with pointers on C. In my work in our C code base we do an extensive usage of C pointers in our codebase, I am not very good with C pointers and I want to continue learning how to work with them. I did multiple exercises on the book and at this moment I am in the last part of the chapter in which I will need to do some code exercises.
 
 ### Day 2326: TCP
 
