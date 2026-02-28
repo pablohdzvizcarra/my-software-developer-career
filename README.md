@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2331: Doing C Pointer Arithmetic Exercises
+
+Today I was doing the Pointer arithmetic exercises from the C programming book chapter 12. Really I am doing multiple mistakes with C and pointers, sometimes this looks like a magic about how you can manipulate memory addresses in the computer. The chapter contains around 18 exercises, and I am in the 12 so there are more exercises to complete.  
+
 ### Day 2330: Multi-dimensional Arrays
 
 Today I started to learn how multi-dimensional arrays works in C. A multi-dimensional array in C is a similar concept like in Java and Python, the main problem is in C you can see the array as a 1D array in memory. For example, a 2D array is just an array of 1D arrays.  Yeah this s tricky, but when you understand this concept, your life will be more easy working with multi-dimensional arrays in C. I had a lot of issues to understand how access to the elements by a column. Remember that in Python you see a multi-dimensional array as a Matrix and in C is the same concept but in memory is different. So a Matrix have N number of Rows and Columns, accessing rows is easy, but accessing columns is tricky. Tomorrow I will need to continue practicing to understand how to access to the elements by a column. 
