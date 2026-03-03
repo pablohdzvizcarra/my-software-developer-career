@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2333-34: Completed TCP Course Module
+
+Today I have completed the Networking Fundamentals module. On this module I do brief study about networking fundamentals and how are related with applications within a Machine, I understand two new concepts called Multiplexing and Demultiplexes in networking, `Multiplexing` is when you receive multiple messages from different clients and you handle all of them in a a single place like having multiple applications producing events and multiplex them to a single queue. `Demultiplexes` is the contrary, when you have just one single event and send it to multiple clients. These concepts are very related with the TCP architecture and it works. 
+
 ### Day 2332: Completed Pointers & Arrays Book Chapter
 
 Today I completed the Pointers and Arrays chapter exercises. I had problems to complete the exercises, really sometimes doing pointer arithmetic looks like magic in C, I think that you need to practice more to feel comfortable doing arithmetic in pointers. I created some basic programs like a reverse word, palindrome, multiple programs to look for X element all doing just pointer arithmetic. I will need to plan my next move. I have pending the Udemy course, but maybe I want to learn more about C while doing a project.˝
