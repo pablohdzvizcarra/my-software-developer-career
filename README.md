@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2335: Starting Sockets, Connections and Kernel Queues Module
+
+Today I started the Sockets, Connections and Kernel Queues module. I did a code exercise to understand how many socket are created in a classic TCP Server-Client connection. One socket is created for the server when the Server bind the socket and listen for connections, we can call this socket the Socket connection and is just used by that to listening for incoming client connections. Second is created when the Client connects to the Socket, we can say that this is the Client socket and is used by the client to send data to the server, and finally a Third socket is created when the server accepts the connection from the Client,  we can call this socket a Server-Client socket and is used by the server to send data to the client. Also I learned about the `Pre-forked server` pattern, this is pattern where you create N numbers of child processes to handle the client connections, for example you setup the Socket in the Server but before do call the `accept` function you create a child process, this child process share the same parent physical Socket, so you have N numbers of child processes handling the client connections. I have an aha moment whn I discover this patterns it is very interesting.
+
 ### Day 2333-34: Completed TCP Course Module
 
-Today I have completed the Networking Fundamentals module. On this module I do brief study about networking fundamentals and how are related with applications within a Machine, I understand two new concepts called Multiplexing and Demultiplexes in networking, `Multiplexing` is when you receive multiple messages from different clients and you handle all of them in a a single place like having multiple applications producing events and multiplex them to a single queue. `Demultiplexes` is the contrary, when you have just one single event and send it to multiple clients. These concepts are very related with the TCP architecture and it works. 
+Today I have completed the Networking Fundamentals module. On this module I do brief study about networking fundamentals and how are related with applications within a Machine, I understand two new concepts called Multiplexing and Demultiplexes in networking, `Multiplexing` is when you receive multiple messages from different clients and you handle all of them in a a single place like having multiple applications producing events and multiplex them to a single queue. `Demultiplexes` is the contrary, when you have just one single event and send it to multiple clients. These concepts are very related with the TCP architecture and it works.
 
 ### Day 2332: Completed Pointers & Arrays Book Chapter
 
