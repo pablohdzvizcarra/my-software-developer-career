@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2336: Sockets, Connections and Kernel Queues
+
+Today I completed the `Sockets, Connection and Kernel Queue` module. This module was interesting I learned multiple things about how a Socket is represented by the Operating system, how it is manage. When a Client wants to connect to a TCP server, much stuff needs to happen to complete the connection flow. Really a lot of low level stuff. Also I learned that when a TCP server is created and listening for incoming connections, the SYN and Accept queues are created. SYN queue is used to store incoming client SYN messages ot establish a connection and the accept queue is used by the socket to know how many clients are connected to the server. Tomorrow I will need to continue investigating and practicing this stuff.
+
 ### Day 2335: Starting Sockets, Connections and Kernel Queues Module
 
 Today I started the Sockets, Connections and Kernel Queues module. I did a code exercise to understand how many socket are created in a classic TCP Server-Client connection. One socket is created for the server when the Server bind the socket and listen for connections, we can call this socket the Socket connection and is just used by that to listening for incoming client connections. Second is created when the Client connects to the Socket, we can say that this is the Client socket and is used by the client to send data to the server, and finally a Third socket is created when the server accepts the connection from the Client,  we can call this socket a Server-Client socket and is used by the server to send data to the client. Also I learned about the `Pre-forked server` pattern, this is pattern where you create N numbers of child processes to handle the client connections, for example you setup the Socket in the Server but before do call the `accept` function you create a child process, this child process share the same parent physical Socket, so you have N numbers of child processes handling the client connections. I have an aha moment whn I discover this patterns it is very interesting.
