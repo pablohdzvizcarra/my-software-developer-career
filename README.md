@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2337: Zero-Copy Technique
+
+Today I was doing more deep dive about how works reading and writing from a connection/Socket/File Descriptor. I was studying the Zero-Copy optimization used to avoid copy data into User Space and directly modifying the Kernel Page Cache and next flushing the dirty pages to the file on disk. It is interesting that for a 1GB file with a normal Read operation you end up coping that 1GB into two places, one is the Kernel Page Cache and second user Space, so at the end you are creating two copies of that file into two different places, I understand that sometimes copying the data to user space is a waste and due to this some optimization techniques exists.
+
 ### Day 2336: Sockets, Connections and Kernel Queues
 
 Today I completed the `Sockets, Connection and Kernel Queue` module. This module was interesting I learned multiple things about how a Socket is represented by the Operating system, how it is manage. When a Client wants to connect to a TCP server, much stuff needs to happen to complete the connection flow. Really a lot of low level stuff. Also I learned that when a TCP server is created and listening for incoming connections, the SYN and Accept queues are created. SYN queue is used to store incoming client SYN messages ot establish a connection and the accept queue is used by the socket to know how many clients are connected to the server. Tomorrow I will need to continue investigating and practicing this stuff.
