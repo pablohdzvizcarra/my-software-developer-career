@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2338: Send and Receiving Data and Socket Programming Patterns
+
+Today I have been studying how and application sends and receive data and how the Kernel do these operations. When a user use `read` in a C application to receive some data, the data will be read from the Receive Queue, this queue lives inside the Kernel, so the Kernel copies the data to the User Space (buffer), we are doing a User-to-Kernel Space context switch here. The same happens when the user uses the `write` syscall in C to write data to the server in a classic TCP connection. Also I studied a little the Socket Programming Patterns, for the moment I understand the first and easy pattern that is `Single Listener/Single Worker Thread`, on this pattern we have a process that listen for incoming connections, when a connection is created the same process read the data and also do something with that data, there are more patterns like Single Listener/Multiple Worker Threads, but I will need to study more these patterns to understand better.
+
 ### Day 2337: Zero-Copy Technique
 
 Today I was doing more deep dive about how works reading and writing from a connection/Socket/File Descriptor. I was studying the Zero-Copy optimization used to avoid copy data into User Space and directly modifying the Kernel Page Cache and next flushing the dirty pages to the file on disk. It is interesting that for a 1GB file with a normal Read operation you end up coping that 1GB into two places, one is the Kernel Page Cache and second user Space, so at the end you are creating two copies of that file into two different places, I understand that sometimes copying the data to user space is a waste and due to this some optimization techniques exists.
