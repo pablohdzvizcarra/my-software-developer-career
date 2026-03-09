@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2340: HTTP
+
+Today I continue studying more about Socket Management. HTTP is just a Client/Server sending character messages really? Yeah I discovered that while doing a basic TCP server that when a client (a browser like Safari) connects to it, and my server returns some bytes in a text-based protocol, we are creating an HTTP server. Well HTTP is just a text=based protocol that follow specific rules and clients needs to represent the server responses in a defined way. I believe that studying C is one of my best choices because I am learning a lot of stuff, stuff that writing Java, Python or other high-level language is hidden.
+
 ### Day 2339: IO Asynchronous Operations
 
 Today I studied the `kqueue`, `select`, `epoll` and`io_uring` APIs to do I/O operations in an Asynchronous way. These APIs are designed to do IO Operations like read/write without block the main thread, in my work se use `select` now I understood that this API is used to listen for Kernel events related that something happened in a File Descriptors, the File descriptor is for a network connection like a TCP connection, so rather than using the `read` syscall to read data from the connection, you can listen for that type of events that happens to the FD and when the event is detected you receive it in your process and react to it. The drawback is if you are listening for 10 connections, when the event arrives you don't have a way to know for who is the event, so you need to do a `O(N)` operation to iterate over all FD and choose the correct one. I did some C code exercises to understand these APIs. For the moment continues be complicated for me to remember the purpose of all of them.
