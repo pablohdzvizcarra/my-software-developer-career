@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2341: OS Concepts
+
+Today I learned more about the following OS Concepts: Compiling vs Linking, Compiled languages, Interpreted Languages and Garbage Collectors. I learned new things for these topics. `Compiling` is the process of from you source code, like a .c file, create machine executable code, and `Linking` is the process of having that machine code compiled, crate an Executable file. Also the Linker look for OS libraries and link to the executable final result. Learning about these topics help me to understand Compiled and Interpreted languages, and how a Garbage collector works. It is interesting that a Garbage Collector is a beautiful thing, but if you want to have full control about your application, an interpreted language with a Garbage collector is not a good idea.
+
 ### Day 2340: HTTP
 
 Today I continue studying more about Socket Management. HTTP is just a Client/Server sending character messages really? Yeah I discovered that while doing a basic TCP server that when a client (a browser like Safari) connects to it, and my server returns some bytes in a text-based protocol, we are creating an HTTP server. Well HTTP is just a text=based protocol that follow specific rules and clients needs to represent the server responses in a defined way. I believe that studying C is one of my best choices because I am learning a lot of stuff, stuff that writing Java, Python or other high-level language is hidden.
