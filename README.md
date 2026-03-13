@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2344: Virtualization and Containerization
+
+Today I complete the Virtualization and Containerization course module. It is interesting how learning again old concepts when you have more experience in computer science and programming you discover new things or you connect some dots. Always Docker for me looks like a magic tool, how is possible that you can create N number of containers or run any Linux operating system like Ubuntu, Debian, Arch in your Linux, Windows or MacOS PC at the same time and in a unique machine? Really looks like magic in the past, but today after some more years of experience and doing computer science fundamentals learning, Docker today looks like what it is a well designed tool/application that does an specific job very well.
+
 ### Day 2343: User 1 and Kernel 0 Modes
 
 Today I learned more about how a Context Switch works and the cost to execute a Context Switch. Basically, there are two modes in a CPU, User Mode 1 and Kernel mode 0. When you execute any type of application like a C app, the application is executed on User mode, and to perform I/O operations, your application needs to use syscalls on C, these syscalls are executed in Kernel mode. Think on these modes as a separate boxes, and the Kernel box is protected so just the Kernel and Operating system have access to it. So when you need to do something that requires Kernel access, you need to do a Context Switch to Kernel mode, and when you are done, you need to do a Context Switch back to User mode. This Context Switch has a cost, and this cost is the time it takes to copy the data from User mode to Kernel mode and back to User mode.
