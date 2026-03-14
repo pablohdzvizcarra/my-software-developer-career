@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2345: Linux Namespaces
+
+Today I learning more about `namespaces` on Linux. namespaces are a linux technology that allow you to isolate system resources like `MNT` namespace that is used to isolate the file system. With the `MNT` a process can think that they have a separated file system and it is unique for this process, but the hosts have access to it. Think like do you want to split a resource to assign the new split resource to a process and this process can use it in any way, without restrictions. I still have not understood how namespaces works and the advantages that we can get with it. I remember this quote today when trying to write this journal entry: `What I cannot create, I do not understand`.
+
 ### Day 2344: Virtualization and Containerization
 
 Today I complete the Virtualization and Containerization course module. It is interesting how learning again old concepts when you have more experience in computer science and programming you discover new things or you connect some dots. Always Docker for me looks like a magic tool, how is possible that you can create N number of containers or run any Linux operating system like Ubuntu, Debian, Arch in your Linux, Windows or MacOS PC at the same time and in a unique machine? Really looks like magic in the past, but today after some more years of experience and doing computer science fundamentals learning, Docker today looks like what it is a well designed tool/application that does an specific job very well.
