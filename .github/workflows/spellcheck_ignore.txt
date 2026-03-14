@@ -452,3 +452,5 @@ AHA
 printf
 Demultiplexes
 tmux
+namespaces
+syscalls
