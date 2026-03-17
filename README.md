@@ -7,23 +7,27 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
-### Day 2345: Linux Namespaces
+### Day 2347-48: Organizing 2026 Goals
+
+I take some time off over the weekend to organize my 2026 goals. I refactored my current 2026 goals to get this year the `IBM Software Developer Level 2 - Experience`. I want to get this goal during the year and I matched my current learning goals with the requirements of the certification. I started a course to learn more about the IBM DS8000 Storage System. Taking some time off from code during holidays is a good way to recharge batteries and have a calm moment to reflect about what you want to do in the future.
+
+### Day 2346: Linux Namespaces
 
 Today I learning more about `namespaces` on Linux. namespaces are a linux technology that allow you to isolate system resources like `MNT` namespace that is used to isolate the file system. With the `MNT` a process can think that they have a separated file system and it is unique for this process, but the hosts have access to it. Think like do you want to split a resource to assign the new split resource to a process and this process can use it in any way, without restrictions. I still have not understood how namespaces works and the advantages that we can get with it. I remember this quote today when trying to write this journal entry: `What I cannot create, I do not understand`.
 
-### Day 2344: Virtualization and Containerization
+### Day 2345: Virtualization and Containerization
 
 Today I complete the Virtualization and Containerization course module. It is interesting how learning again old concepts when you have more experience in computer science and programming you discover new things or you connect some dots. Always Docker for me looks like a magic tool, how is possible that you can create N number of containers or run any Linux operating system like Ubuntu, Debian, Arch in your Linux, Windows or MacOS PC at the same time and in a unique machine? Really looks like magic in the past, but today after some more years of experience and doing computer science fundamentals learning, Docker today looks like what it is a well designed tool/application that does an specific job very well.
 
-### Day 2343: User 1 and Kernel 0 Modes
+### Day 2344: User 1 and Kernel 0 Modes
 
 Today I learned more about how a Context Switch works and the cost to execute a Context Switch. Basically, there are two modes in a CPU, User Mode 1 and Kernel mode 0. When you execute any type of application like a C app, the application is executed on User mode, and to perform I/O operations, your application needs to use syscalls on C, these syscalls are executed in Kernel mode. Think on these modes as a separate boxes, and the Kernel box is protected so just the Kernel and Operating system have access to it. So when you need to do something that requires Kernel access, you need to do a Context Switch to Kernel mode, and when you are done, you need to do a Context Switch back to User mode. This Context Switch has a cost, and this cost is the time it takes to copy the data from User mode to Kernel mode and back to User mode.
 
-### Day 2342: Tmux
+### Day 2343: Tmux
 
 Today I begin to learn how to use `Tmux` with my iTerm terminal. Tmux is Terminal Multiplexer this means that from one terminal you can run N terminals inside one, sounds complex but is very easy, you have 1 terminal opened and you can have inside that terminal N number of terminal like a sub-terminals. The beauty of tmux is you can create sessions, this session are configurable and saved by tmux so you can create N number if sessions, each session can have N number of windows and panes. A window is like have two iTerm tabs inside one terminal and a pane is when you split a windows into N number of parts like splitting a windows in three panes. Imagine the power, you can create a session for a server or a software engineering project, this session is composed by multiple windows and when you need to open your session it will be opened at the same point that you leave, all your windows, panes are restored. This is amazing, if you work with Servers, you can create a session per server and personalize it. If you have a project that always you compile it or in the AI world, yo can have N AI agents running in the terminal, so you can create a session save the agents windows and go back when you need it. I will continue exploring more about tmux but for the moment looks very useful and have multiple shortcuts configured by default that you can use.
 
-### Day 2341: OS Concepts
+### Day 2342: OS Concepts
 
 Today I learned more about the following OS Concepts: Compiling vs Linking, Compiled languages, Interpreted Languages and Garbage Collectors. I learned new things for these topics. `Compiling` is the process of from you source code, like a .c file, create machine executable code, and `Linking` is the process of having that machine code compiled, crate an Executable file. Also the Linker look for OS libraries and link to the executable final result. Learning about these topics help me to understand Compiled and Interpreted languages, and how a Garbage collector works. It is interesting that a Garbage Collector is a beautiful thing, but if you want to have full control about your application, an interpreted language with a Garbage collector is not a good idea.
 
