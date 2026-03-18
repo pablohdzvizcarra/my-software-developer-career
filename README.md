@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2349: Continue with DS8000 Learning
+
+Today I have been continue with the DS8000 learning while doing a Training. I learned about how the DS8000 uses a big cache architecture to improve the performance of the storage system. I know that reading or writing bytes to a cache is faster than reading or writing bytes to a disk. One of the main problems with writing data to a cache is that the data is volatile, so that means the data is lost in a power off. The DS8000 uses `NVDIMMs (Non-Volatile Dual Inline Memory Modules)` this type of memory is non-volatile that means that in the case of a power off the bytes are flushed to the flash storage to keep the data safe. It is very interesting how this technology works and the advantages that we can get with it.
+
 ### Day 2347-48: Organizing 2026 Goals
 
 I take some time off over the weekend to organize my 2026 goals. I refactored my current 2026 goals to get this year the `IBM Software Developer Level 2 - Experience`. I want to get this goal during the year and I matched my current learning goals with the requirements of the certification. I started a course to learn more about the IBM DS8000 Storage System. Taking some time off from code during holidays is a good way to recharge batteries and have a calm moment to reflect about what you want to do in the future.
