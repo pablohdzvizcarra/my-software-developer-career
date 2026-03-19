@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2350: Savings Java Objects into Files on Disk
+
+Today I work in some code to save some Java Objects into files on disk to be used later in a unit test. This feature is amazing in Java, sometimes you want to test a method and most of the times if the parameter of the method is a big object or you don't know how to build it you can use this feature to load a sandbox to a development environment to save the object into a file and use it later.
+
 ### Day 2349: Continue with DS8000 Learning
 
 Today I have been continue with the DS8000 learning while doing a Training. I learned about how the DS8000 uses a big cache architecture to improve the performance of the storage system. I know that reading or writing bytes to a cache is faster than reading or writing bytes to a disk. One of the main problems with writing data to a cache is that the data is volatile, so that means the data is lost in a power off. The DS8000 uses `NVDIMMs (Non-Volatile Dual Inline Memory Modules)` this type of memory is non-volatile that means that in the case of a power off the bytes are flushed to the flash storage to keep the data safe. It is very interesting how this technology works and the advantages that we can get with it.
