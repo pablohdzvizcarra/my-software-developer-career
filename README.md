@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2351: Logical Representations
+
+Today I studied how the DS8K storage system represent physical storage hardware into logical representations. It is interesting that to create a Logical Volume, other logical resources like Array, Rank, Extent Pool, etc are required. It is very interesting for me why all these logical resources needs to be created, which problem solves each one of them because for me it is better to split a physical drive to just for example N number of logical volumes, more easy to manage. I will need to continue investigating the why behind this architecture.
+
 ### Day 2350: Savings Java Objects into Files on Disk
 
 Today I work in some code to save some Java Objects into files on disk to be used later in a unit test. This feature is amazing in Java, sometimes you want to test a method and most of the times if the parameter of the method is a big object or you don't know how to build it you can use this feature to load a sandbox to a development environment to save the object into a file and use it later.
