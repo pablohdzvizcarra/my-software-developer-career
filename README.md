@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2352: Continue Learning about DS8000
+
+Today I continue learning more about the zHyperLink technology for the DS8000 system. zHyperLink is a technology that allows to connect the DS8000 storage system directly to the client in this case the client is an IBM Z Mainframe, this connection is done through a PCIe connection. This technology is designed to provide low latency and high bandwidth for the storage system, it is very interesting how this technology works and the advantages that we can get with it. The general idea is to connect both systems through a PCIe Gen 4 connection, imagine two laptops connected by a wire. Sometimes I felt bored learning about this stuff, but I think that learning about the architecture design of a piece of hardware like the DS8000 is very interesting and can help me to understand better how the software works in the low level, and also can help me to understand better how the software and hardware are related.
+
 ### Day 2351: Logical Representations
 
 Today I studied how the DS8K storage system represent physical storage hardware into logical representations. It is interesting that to create a Logical Volume, other logical resources like Array, Rank, Extent Pool, etc are required. It is very interesting for me why all these logical resources needs to be created, which problem solves each one of them because for me it is better to split a physical drive to just for example N number of logical volumes, more easy to manage. I will need to continue investigating the why behind this architecture.
