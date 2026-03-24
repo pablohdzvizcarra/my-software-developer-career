@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2353-54-55: SAN Networks
+
+During these days I have been studying about SAN. The Storage Area Network is a type of network designed for Storage operations. It is very interesting how this network is well designed Clients of this network they see available Space in their devices like a Laptop, but the real hardware is located somewhere else and can be different types of hardware like an SSD, HDD, Dell Array, etc. The SAN work together with the SVC (Storage Virtualization Controller) to provide this abstraction to the clients. The hardware components are managed by the SVC, and the Write/Read operations are managed by the SVC too. I want to continue studying more this topic.
+
 ### Day 2352: Continue Learning about DS8000
 
 Today I continue learning more about the zHyperLink technology for the DS8000 system. zHyperLink is a technology that allows to connect the DS8000 storage system directly to the client in this case the client is an IBM Z Mainframe, this connection is done through a PCIe connection. This technology is designed to provide low latency and high bandwidth for the storage system, it is very interesting how this technology works and the advantages that we can get with it. The general idea is to connect both systems through a PCIe Gen 4 connection, imagine two laptops connected by a wire. Sometimes I felt bored learning about this stuff, but I think that learning about the architecture design of a piece of hardware like the DS8000 is very interesting and can help me to understand better how the software works in the low level, and also can help me to understand better how the software and hardware are related.
