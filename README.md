@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2356: Continue Studying the IBM Storage DS8000 Course
+
+Today I continue working on the IBM Storage DS8000 course. I studied about the Copy Services Manager tool, which is used to create copies of data. A learned that a `Copy Set` is just a logical grouping of volumes of the same type and contains the same data. Volume A is the source and Volume B is the target. A source volume is just the volume that contains the data that we want to copy, and a target volume is the volume that will receive the copy of the data. Storage Backup Technologies like CSM, Snapshots or other type of technologies are interesting for me. It is very interesting the algorithms they use to ensure the replication of data from one volume to another volume works correctly.
+
 ### Day 2353-54-55: SAN Networks
 
 During these days I have been studying about SAN. The Storage Area Network is a type of network designed for Storage operations. It is very interesting how this network is well designed Clients of this network they see available Space in their devices like a Laptop, but the real hardware is located somewhere else and can be different types of hardware like an SSD, HDD, Dell Array, etc. The SAN work together with the SVC (Storage Virtualization Controller) to provide this abstraction to the clients. The hardware components are managed by the SVC, and the Write/Read operations are managed by the SVC too. I want to continue studying more this topic.
