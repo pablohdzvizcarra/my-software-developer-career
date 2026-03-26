@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2357: Completed Copy Services
+
+Today I completed the Copy Services course module. I learned about the different types of copy services that the DS8000 storage system provides, such as FlashCopy, Metro Mirror, Global Mirror, and others. The course have a CSM session demo to showcase how looks the CSM interface and a brief explanation of the different CSM features. I want to explore over the weekend which other alternatives exists like Copy Services in the industry, I know that AWS have something similar for their storage services but not sure if their features are like the IBM Copy Services technologies.
+
 ### Day 2356: Continue Studying the IBM Storage DS8000 Course
 
 Today I continue working on the IBM Storage DS8000 course. I studied about the Copy Services Manager tool, which is used to create copies of data. A learned that a `Copy Set` is just a logical grouping of volumes of the same type and contains the same data. Volume A is the source and Volume B is the target. A source volume is just the volume that contains the data that we want to copy, and a target volume is the volume that will receive the copy of the data. Storage Backup Technologies like CSM, Snapshots or other type of technologies are interesting for me. It is very interesting the algorithms they use to ensure the replication of data from one volume to another volume works correctly.
