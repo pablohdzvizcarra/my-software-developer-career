@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2358: FlashCopy
+
+Today I studied the architecture behind the IBM FlashCopy technology. I learned that to maintain consistency between a source and a target volume, the FlashCopy uses a bitmap to track the changes between the source and the target volume. The bytes are saved into the volumes as a `Block` for FB volumes and `Tracks` for CKD volumes. You can see the bitmap just like an index that ensure that the `block/track` at index i in the source volume is the same as the `block/track` at index i in the target volume. It is very interesting that this I don't want to say basic mechanism is behind the FlashCopy, I know that this is a very basic representation of this technology and all the implementation details are more complex than this, but it is very interesting to see how this works.
+
 ### Day 2357: Completed Copy Services
 
 Today I completed the Copy Services course module. I learned about the different types of copy services that the DS8000 storage system provides, such as FlashCopy, Metro Mirror, Global Mirror, and others. The course have a CSM session demo to showcase how looks the CSM interface and a brief explanation of the different CSM features. I want to explore over the weekend which other alternatives exists like Copy Services in the industry, I know that AWS have something similar for their storage services but not sure if their features are like the IBM Copy Services technologies.
