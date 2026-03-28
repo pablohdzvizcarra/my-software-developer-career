@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2359: Safeguarded Copy
+
+Today I studied the architecture behind the IBM Safeguarded Copy Technology and how the Safeguarded Copy works. A Safeguarded Copy is a point-in-time copy of a volume that is immutable and hidden for the host. The host could not modify or see the Safeguarded Copy. The Safeguarded Copy is stored in a different location than the original volume, that location is hidden for anything that wants to change or delete it. The Safeguarded Copy also uses a bitmap like FlashCopy to know which blocks/tracks were modified from the source volume, and also uses a Consistency Group Log to ensure consistency between all the Safeguarded Copies.
+
 ### Day 2358: FlashCopy
 
 Today I studied the architecture behind the IBM FlashCopy technology. I learned that to maintain consistency between a source and a target volume, the FlashCopy uses a bitmap to track the changes between the source and the target volume. The bytes are saved into the volumes as a `Block` for FB volumes and `Tracks` for CKD volumes. You can see the bitmap just like an index that ensure that the `block/track` at index i in the source volume is the same as the `block/track` at index i in the target volume. It is very interesting that this I don't want to say basic mechanism is behind the FlashCopy, I know that this is a very basic representation of this technology and all the implementation details are more complex than this, but it is very interesting to see how this works.
