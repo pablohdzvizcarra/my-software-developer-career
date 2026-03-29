@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2360: Monitoring Tools
+
+Today I studied the advantages of using monitoring tools to know the current health of our system or perform maintenance tasks within a Host. I want to continue learning more Ansible and how to use it to monitor a system health and perform maintenance tasks. For me Ansible is one of the greatest tools for automation and server administration.
+
 ### Day 2359: Safeguarded Copy
 
 Today I studied the architecture behind the IBM Safeguarded Copy Technology and how the Safeguarded Copy works. A Safeguarded Copy is a point-in-time copy of a volume that is immutable and hidden for the host. The host could not modify or see the Safeguarded Copy. The Safeguarded Copy is stored in a different location than the original volume, that location is hidden for anything that wants to change or delete it. The Safeguarded Copy also uses a bitmap like FlashCopy to know which blocks/tracks were modified from the source volume, and also uses a Consistency Group Log to ensure consistency between all the Safeguarded Copies.
