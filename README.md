@@ -9,7 +9,7 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ### Day 2360: Monitoring Tools
 
-Today I studied the advantages of using monitoring tools to know the current health of our system or perform maintenance tasks within a Host. I want to continue learning more Ansible and how to use it to monitor a system health and perform maintenance tasks. For me Ansible is one of the greatest tools for automation and server administration.
+Today, I studied the advantages of using monitoring tools to understand the current health of our system or perform maintenance tasks on a host. I want to continue learning more about Ansible and how to use it to monitor system health and perform maintenance tasks. To me, Ansible is one of the best tools for automation and server administration.
 
 ### Day 2359: Safeguarded Copy
 
