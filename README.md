@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2361: AI Skills
+
+Today, I studied what an AI Skill is, how to create them, and how to use them. An AI Skill is essentially a way to provide an AI agent with the ability to perform tasks more efficiently and remember key considerations during execution. I believe AI Skills are a very useful feature for AI agents; they allow you to configure how your application is built so that you don't have to explain the project structure or task procedures to the agent every time.
+
 ### Day 2360: Monitoring Tools
 
 Today, I studied the advantages of using monitoring tools to understand the current health of our system or perform maintenance tasks on a host. I want to continue learning more about Ansible and how to use it to monitor system health and perform maintenance tasks. To me, Ansible is one of the best tools for automation and server administration.
