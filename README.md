@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2362: Global Copy and HyperSwap
+
+Today I studied how works the IBM Global Copy and HyperSwap together to offer 99.99999999 availability. Global copy is an IBM technology that allow DS8000 customers to replicate their data from one storage system to another storage system that can be in the same data center, a different data center, inclusively in another continent. HyperSwap is a IBM Z mainframe technology that through a component that works as an agent on the mainframe, it allows to failover a IO operation from one storage system to another storage system when a disaster occur like an outage. The combination of both technologies allow to have a highly available system.
+
 ### Day 2361: AI Skills
 
 Today, I studied what an AI Skill is, how to create them, and how to use them. An AI Skill is essentially a way to provide an AI agent with the ability to perform tasks more efficiently and remember key considerations during execution. I believe AI Skills are a very useful feature for AI agents; they allow you to configure how your application is built so that you don't have to explain the project structure or task procedures to the agent every time.
