@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2363: Metro Mirror
+
+Today I complete the Global Copy course section and started with the Metro Mirror course section. Metro Mirror is a technology that allows to replicate data from one storage system to another system in a synchronous way. Because the operations are synchronous the trade-off is Metro Mirror only works in distance <300km. The main problem here is the latency, if the distance is greater than 300km the latency will be greater than 10ms and the system will not work correctly. In a metro mirror session before the IO operation can be completed, the data needs to be replicated to the Secondary Storage system/ DS8000. Makes sense that the distance needs to be less than 300km to work in a synchronous way, imagine replicating data to another storage system in another continent, that is a big trip for the data between the two DS8000.
+
 ### Day 2362: Global Copy and HyperSwap
 
 Today I studied how works the IBM Global Copy and HyperSwap together to offer 99.99999999 availability. Global copy is an IBM technology that allow DS8000 customers to replicate their data from one storage system to another storage system that can be in the same data center, a different data center, inclusively in another continent. HyperSwap is a IBM Z mainframe technology that through a component that works as an agent on the mainframe, it allows to failover a IO operation from one storage system to another storage system when a disaster occur like an outage. The combination of both technologies allow to have a highly available system.
