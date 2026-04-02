@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2364: Debugging TLS Connection
+
+Today I was debugging a TLS connection code between a classic Client/Server architecture. The main problem with this connection was the server closes the client connection for an unknown reason, and shows an error message indicating that something wrong happened during the handshake operation. After debug for some time I discovered that the main problem was a timing issue, the server terminates the handshake before the Client in their side can terminate the handshake, due to this the connection in the server was lost, but because the Client manage a reconnect mechanism we just have a silent failure here, in the second attempt the client can connect to the server without issues. I want to continue learning more about how to create a basic Client/Server connection using the `SocketChannel` and `SSLContext` Java classes.
+
 ### Day 2363: Metro Mirror
 
 Today I complete the Global Copy course section and started with the Metro Mirror course section. Metro Mirror is a technology that allows to replicate data from one storage system to another system in a synchronous way. Because the operations are synchronous the trade-off is Metro Mirror only works in distance <300km. The main problem here is the latency, if the distance is greater than 300km the latency will be greater than 10ms and the system will not work correctly. In a metro mirror session before the IO operation can be completed, the data needs to be replicated to the Secondary Storage system/ DS8000. Makes sense that the distance needs to be less than 300km to work in a synchronous way, imagine replicating data to another storage system in another continent, that is a big trip for the data between the two DS8000.
