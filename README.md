@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2365: Learning more about ServerSocketChannel and Selector APIs
+
+Today I created a Client/Server applications using the `ServerSocketChannel` and `Selector` APIs from the `java.nio` package. I learned that the `Selector` API works like the C select API used for non-blocking I/O operations. I created a basic one thread Server app that listen for incoming client connections, N number of clients can connect to the server and send data, the benefit of using Selector is the server is not blocked waiting for a client to send data, instead it can do other operations while waiting for a client to send data. You will need to use the following pattern `selector.select()` in a while loop to check for incoming connections or data to read from the clients. I want to continue learning more about these APIs and create a more complex applications to understand better how to use them.
+
 ### Day 2364: Debugging TLS Connection
 
 Today I was debugging a TLS connection code between a classic Client/Server architecture. The main problem with this connection was the server closes the client connection for an unknown reason, and shows an error message indicating that something wrong happened during the handshake operation. After debug for some time I discovered that the main problem was a timing issue, the server terminates the handshake before the Client in their side can terminate the handshake, due to this the connection in the server was lost, but because the Client manage a reconnect mechanism we just have a silent failure here, in the second attempt the client can connect to the server without issues. I want to continue learning more about how to create a basic Client/Server connection using the `SocketChannel` and `SSLContext` Java classes.
