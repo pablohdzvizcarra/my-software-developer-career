@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2366: Boss-Worker Thread Pattern
+
+Today I refactored my Client/Server application to use the Boss-worker pattern. The boss-worker thread pattern is a multithreading pattern in which you have a one boss thread that is listening for incoming client connections, and N number of worker thread that are processing the client requests. This pattern is amazing because your application is always available to accept new client connections because the main processing tasks are performed by the worker threads, no the boss thread, so your application can easily scale to handle more client connections.
+
 ### Day 2365: Learning more about ServerSocketChannel and Selector APIs
 
 Today I created a Client/Server applications using the `ServerSocketChannel` and `Selector` APIs from the `java.nio` package. I learned that the `Selector` API works like the C select API used for non-blocking I/O operations. I created a basic one thread Server app that listen for incoming client connections, N number of clients can connect to the server and send data, the benefit of using Selector is the server is not blocked waiting for a client to send data, instead it can do other operations while waiting for a client to send data. You will need to use the following pattern `selector.select()` in a while loop to check for incoming connections or data to read from the clients. I want to continue learning more about these APIs and create a more complex applications to understand better how to use them.
