@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2367: Learning about IO and NIO APIs on Java
+
+Today I was learning about the IO and NIO APIs in Java. The IO API is the classic way to do input and output operations in Java for files, networking, etc. The majority of these APIs are blocking APIs and one of them are not well designed to work with modern computers, this is normal because were developed in the old days of Java. Today we had newer APIs that works better with the new hardware, some of them uses the DMA to save resources while doing common I/O operations like sending a file through a network connection. The last month when I complete the Fundamentals of Operating system course, maybe I don't understand why I will need to learn about OS, but today while learning these APIS the learned concepts makes click in my head. I am connecting the dots between all the learned knowledge in the past.
+
 ### Day 2366: Boss-Worker Thread Pattern
 
 Today I refactored my Client/Server application to use the Boss-worker pattern. The boss-worker thread pattern is a multithreading pattern in which you have a one boss thread that is listening for incoming client connections, and N number of worker thread that are processing the client requests. This pattern is amazing because your application is always available to accept new client connections because the main processing tasks are performed by the worker threads, no the boss thread, so your application can easily scale to handle more client connections.
