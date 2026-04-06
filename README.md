@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2368: Ubuntu Server
+
+Today I have been provisioning and configure 2 Ubuntu servers to be used to run software engineering experiments. I face one problem when configuring my servers and was because the servers have limited resources, just have 1CPU and 1GB of RAM. I learned how to configure and enable `swap` memory in the server, the `fallocate` command is used to create a file with a defined size, `mkswap` command is used to format the file as be recognized as swap by the operating system, `swapon` command is used to enable the swap memory. Configuring the servers was fun, I learned a lot of new things and I am excited to continue learning more about how to use them.
+
 ### Day 2367: Learning about IO and NIO APIs on Java
 
 Today I was learning about the IO and NIO APIs in Java. The IO API is the classic way to do input and output operations in Java for files, networking, etc. The majority of these APIs are blocking APIs and one of them are not well designed to work with modern computers, this is normal because were developed in the old days of Java. Today we had newer APIs that works better with the new hardware, some of them uses the DMA to save resources while doing common I/O operations like sending a file through a network connection. The last month when I complete the Fundamentals of Operating system course, maybe I don't understand why I will need to learn about OS, but today while learning these APIS the learned concepts makes click in my head. I am connecting the dots between all the learned knowledge in the past.
