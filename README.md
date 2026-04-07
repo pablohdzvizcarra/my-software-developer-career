@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2369: Continue with IBM Course and Fear to Use AI
+
+Today, I continued with the IBM DS8000 course and learned about the multiple replication technology architectures you can create with the IBM DS8000 storage system to meet any type of availability requirement. One example is setting up a Metro Mirror session between two DS8000 systems in different locations, and then, for the secondary DS8000 system, creating a Global Mirror session with another DS8000 system used as a disaster recovery site. If you think about it, you can create multiple types of flows to replicate data from one location to another, anywhere in the world. Also, I noticed something: today I felt some fear regarding AI tools. Not fear of losing my job—that's a joke—but rather fear because today I didn't write any code. I preferred to tell the AI tool to write the code for me, and I just reviewed it. Well, the code I needed to write was just for logging, but in the past, writing that logging code was interesting to me. I don't know if this is good or bad. I believe that using AI tools to do software engineering work will soon be a requirement in companies to get a job, or maybe it already is and I just don't know it, as it's been a long time since I looked for a new job at another company.
+
 ### Day 2368: Ubuntu Server
 
 Today I have been provisioning and configure 2 Ubuntu servers to be used to run software engineering experiments. I face one problem when configuring my servers and was because the servers have limited resources, just have 1CPU and 1GB of RAM. I learned how to configure and enable `swap` memory in the server, the `fallocate` command is used to create a file with a defined size, `mkswap` command is used to format the file as be recognized as swap by the operating system, `swapon` command is used to enable the swap memory. Configuring the servers was fun, I learned a lot of new things and I am excited to continue learning more about how to use them.
