@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2371: Creating Java, Hibernate and SQLite Application
+
+Today I created a Java, Hibernate and SQLite application just for fun. My application runs every hour and fetch the content of the Hacker News website to use crawling to get the current stories as HTML content, get the stories title and URL using regex, create an object NewsItemEntity that represents a story, validates if the history is duplicated in the database, if the history is duplicated skip them, otherwise save them in the database. I configure my application to run every hour with a Java `ScheduledExecutorService` and leave working on my server in the background. I want to see how many database entries I will have for tomorrow morning.
+
 ### Day 2370: Ai Generated Code Without Understand The Error
 
 Today I was debugging an error code injected by an AI tool when he AI tools is supposed to fix the issue. I don't like to give a problem to an AI tool like say hey this is the current error that is happening and I don't know why, so please fix the issue. I prefer to understand the issue with the help of AI tools, how do you say AI tools are amazing to make theories about errors and can be like a senior engineer that you need to explain an issue and he gives you the best possible solutions and feedback. The problem is when the AI tools generate the fix, but this fix is not working fine. I don't know maybe I am wrong, I see in Twitter a lot of developers that they use AI tools to fix issues or develop code features without have this problems, maybe for an application like a backend of the classic Client/Server is enough but for a big application like Docker or Kubernetes is different. Well I will need to continue working more with AI tools to have practice.
