@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2372: Continue with IBM Course and Monitoring SQLite Project
+
+Today I continue with the IBM course and review how my Java application that is crawling data from Hacker News is working. I see that the application is working fine and have 128 records in the database, that means that 128 news were showed in Hackers news in the last 24 hours, this is interesting. Maybe on the weekend I will replicate the data from SQLite to a Oracle storage cloud resource just for fun, maybe saving each entry also as a JSON object but I don't know. Also I surrender in my work for some AI code generated, remember when you use AI tools to fix and issue, if you could not understand the issue first, avoid to let the AI tool generate the fix for you, because you will not understand the fix and you will not learn anything and specially the AI tools can generate a wrong solution that you could not fix later. At the end you just waste time trying to fix the AI code rather than learn the necessary to fix the issue you.
+
 ### Day 2371: Creating Java, Hibernate and SQLite Application
 
 Today I created a Java, Hibernate and SQLite application just for fun. My application runs every hour and fetch the content of the Hacker News website to use crawling to get the current stories as HTML content, get the stories title and URL using regex, create an object NewsItemEntity that represents a story, validates if the history is duplicated in the database, if the history is duplicated skip them, otherwise save them in the database. I configure my application to run every hour with a Java `ScheduledExecutorService` and leave working on my server in the background. I want to see how many database entries I will have for tomorrow morning.
