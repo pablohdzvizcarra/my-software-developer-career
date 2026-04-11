@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2373: IBM GDPS Technology
+
+Today I studied what is the IBM Geographically Dispersed Parallel Sysplex GPDS automation technology. This technology is amazing, is a software that is used within an IBM Z mainframe that works with a Manager/Worker pattern, the manager in this case is the `K-system` that is placed in the production LPAR and is responsible for the monitoring and control of the system, the workers are like agents that run within each monitored system, they collect information and send it to the manager, the manager then decides what to do based on the information received. These topics are complex for me, there are a lot of stuff to understand and abstract.  
+
 ### Day 2372: Continue with IBM Course and Monitoring SQLite Project
 
 Today I continue with the IBM course and review how my Java application that is crawling data from Hacker News is working. I see that the application is working fine and have 128 records in the database, that means that 128 news were showed in Hackers news in the last 24 hours, this is interesting. Maybe on the weekend I will replicate the data from SQLite to a Oracle storage cloud resource just for fun, maybe saving each entry also as a JSON object but I don't know. Also I surrender in my work for some AI code generated, remember when you use AI tools to fix and issue, if you could not understand the issue first, avoid to let the AI tool generate the fix for you, because you will not understand the fix and you will not learn anything and specially the AI tools can generate a wrong solution that you could not fix later. At the end you just waste time trying to fix the AI code rather than learn the necessary to fix the issue you.
