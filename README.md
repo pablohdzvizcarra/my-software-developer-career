@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2374: IBM DS8000 Course
+
+Today I completed the IBM DS8000 Storage Gen10 Foundations course. This course was great I learned multiple things and concepts related with the world of storage systems. The course was focused for the IBM DS8000 system, but some of the concepts that are used are agnostic and can be applied to other computer science stuff. While doing the course I build with the help of AI some proof of concepts to understand better a hard concept, specially how works the IBM Copy Services technologies, one of them can be very complicated to understand, but with the help of AI I could understand it better. I am very happy with the course and I feel more confident in my knowledge of storage systems.
+
 ### Day 2373: IBM GDPS Technology
 
 Today I studied what is the IBM Geographically Dispersed Parallel Sysplex GPDS automation technology. This technology is amazing, is a software that is used within an IBM Z mainframe that works with a Manager/Worker pattern, the manager in this case is the `K-system` that is placed in the production LPAR and is responsible for the monitoring and control of the system, the workers are like agents that run within each monitored system, they collect information and send it to the manager, the manager then decides what to do based on the information received. These topics are complex for me, there are a lot of stuff to understand and abstract.  
