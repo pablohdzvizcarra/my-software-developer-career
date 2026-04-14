@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2375: Clients Sending Wrong Information
+
+Today I debugged an issue where the client was sending wrong information to the server. I discovered that the server manages also works as a client for another server and manages an interesting architecture. The Server that connect as a client to another server, have a routing key table that is sued to verify if the ID that the client shared is know by the destination server, if the ID is not know by the destination server, the server will not send the information to the destination server. First time I see this pattern in a codebase, adding an extra layer of validation, makes sense because the client could be misconfigured and send wrong information to the server and also avoids sending invalid requests to the server that waste resources. I want to continue learning more about these code/architecture patterns.
+
 ### Day 2374: IBM DS8000 Course
 
 Today I completed the IBM DS8000 Storage Gen10 Foundations course. This course was great I learned multiple things and concepts related with the world of storage systems. The course was focused for the IBM DS8000 system, but some of the concepts that are used are agnostic and can be applied to other computer science stuff. While doing the course I build with the help of AI some proof of concepts to understand better a hard concept, specially how works the IBM Copy Services technologies, one of them can be very complicated to understand, but with the help of AI I could understand it better. I am very happy with the course and I feel more confident in my knowledge of storage systems.
