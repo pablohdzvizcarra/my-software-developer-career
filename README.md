@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2376: Open Source
+
+Today I started to look for Open Source projects, the idea is to find an open source project to start to read their source code and contribute to it on the future. I have in mind two projects, Apache Cassandra database and Podman container-libs Storage. Cassandra is a NoSQL database written on Java and podman is a container engine like Docker to manage Containers. I will need to continue investigating more the 2 repositories before start to deep dive into one. I like to study Storage Virtualization technologies and the Podman stuff is very good for me.
+
 ### Day 2375: Clients Sending Wrong Information
 
 Today I debugged an issue where the client was sending wrong information to the server. I discovered that the server manages also works as a client for another server and manages an interesting architecture. The Server that connect as a client to another server, have a routing key table that is sued to verify if the ID that the client shared is know by the destination server, if the ID is not know by the destination server, the server will not send the information to the destination server. First time I see this pattern in a codebase, adding an extra layer of validation, makes sense because the client could be misconfigured and send wrong information to the server and also avoids sending invalid requests to the server that waste resources. I want to continue learning more about these code/architecture patterns.
