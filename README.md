@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2377: Creating AI Skills and Context Files
+
+Today I studied how to create skills for Antigravity to perform tasks more effectively. I also learned about the importance of having an `AGENTS.md` file so that AI tools can read it and understand the project's context better. Additionally, I discovered the `skill-creator` Anthropic skill, which helps in creating other skills, and I learned how to use it.
+
 ### Day 2376: Open Source
 
 Today I started to look for Open Source projects, the idea is to find an open source project to start to read their source code and contribute to it on the future. I have in mind two projects, Apache Cassandra database and Podman container-libs Storage. Cassandra is a NoSQL database written on Java and podman is a container engine like Docker to manage Containers. I will need to continue investigating more the 2 repositories before start to deep dive into one. I like to study Storage Virtualization technologies and the Podman stuff is very good for me.
