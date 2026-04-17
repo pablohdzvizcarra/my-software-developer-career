@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2378: JVM 17 Dependencies
+
+Today I learned that the JVM 17 requires some dependencies that were not required by a JVM 8 like the libc++.a library. I learned that some of the JVM 17 code was migrated to use modern C++ features and libraries and due to this requires some additional C++ dependencies. For me was interesting learn that the JVM is built using C and C++, for that reason I will want to learn more about C/C++, maybe I will want to do a very basic JVM from scratch just for fun.
+
 ### Day 2377: Creating AI Skills and Context Files
 
 Today I studied how to create skills for Antigravity to perform tasks more effectively. I also learned about the importance of having an `AGENTS.md` file so that AI tools can read it and understand the project's context better. Additionally, I discovered the `skill-creator` Anthropic skill, which helps in creating other skills, and I learned how to use it.
