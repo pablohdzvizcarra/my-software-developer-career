@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2379: Heap Memory Management
+
+Today I started to create a Heap Memory Management C application for fun & understand how works an Operating System. I am studying the `mmap` function/syscall to allocate bytes to be used at the same quantity of my Virtual Memory page for example in my Ubuntu server the virtual memory page size is 4096 bytes, and in my MacOS computer the size is 16384 bytes. I want to work on this project to understand better how the operating system manages the memory, how the memory is represented in the computer (a bunch of bytes), how can I do pointer arithmetic and continue mastering C pointers while doing this project.
+
 ### Day 2378: JVM 17 Dependencies
 
 Today I learned that the JVM 17 requires some dependencies that were not required by a JVM 8 like the libc++.a library. I learned that some of the JVM 17 code was migrated to use modern C++ features and libraries and due to this requires some additional C++ dependencies. For me was interesting learn that the JVM is built using C and C++, for that reason I will want to learn more about C/C++, maybe I will want to do a very basic JVM from scratch just for fun.
