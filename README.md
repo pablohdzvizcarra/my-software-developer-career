@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2380: Virtual Memory Page for Families
+
+Today I learned how a Memory Manager manage how to store bytes into a data structure called "Virtual memory page for families". Imagine that you want to find the most efficient way to allocate memory for a user application that is using your own virtual memory manager, so you want to storage bytes that have the same size, like the bytes that represents a struct. If you allocate 1 Virtual memory page from the kernel and just storage structs of one type, you can storage multiple structs of that type in that page, this is very efficient because you will have less internal fragmentation. It is really interesting this stuff, I want to continue learning more about operating systems, I believe that if you really understand how an Operating System works, your programmer, coder skills will be level up greater.
+
 ### Day 2379: Heap Memory Management
 
 Today I started to create a Heap Memory Management C application for fun & understand how works an Operating System. I am studying the `mmap` function/syscall to allocate bytes to be used at the same quantity of my Virtual Memory page for example in my Ubuntu server the virtual memory page size is 4096 bytes, and in my MacOS computer the size is 16384 bytes. I want to work on this project to understand better how the operating system manages the memory, how the memory is represented in the computer (a bunch of bytes), how can I do pointer arithmetic and continue mastering C pointers while doing this project.
