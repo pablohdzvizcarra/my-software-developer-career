@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2381: C Macros
+
+Today I was studying C Macros, while doing the heap memory manager with C, the course suggest to use a Macro to iterate over the Virtual Memory Pages Families DS, this structure have registered all the `struct` that a client wants to allocate in memory and our application needs to register it to request a Virtual Memory page from the Kernel to store the structs of tha type. The macro is used to iterate over all Virtual Memory Pages Families DS, but it is strange because in the middle of the Macro you can execute any code that you want, so the Macro have a BEGIN and END. I don't know that you can create these type of Macros in C, but really are very useful, I want to continue learning more about Macros and this type of special stuff.
+
 ### Day 2380: Virtual Memory Page for Families
 
 Today I learned how a Memory Manager manage how to store bytes into a data structure called "Virtual memory page for families". Imagine that you want to find the most efficient way to allocate memory for a user application that is using your own virtual memory manager, so you want to storage bytes that have the same size, like the bytes that represents a struct. If you allocate 1 Virtual memory page from the kernel and just storage structs of one type, you can storage multiple structs of that type in that page, this is very efficient because you will have less internal fragmentation. It is really interesting this stuff, I want to continue learning more about operating systems, I believe that if you really understand how an Operating System works, your programmer, coder skills will be level up greater.
