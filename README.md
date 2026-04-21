@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2382: Meta Blocks
+
+Today I was studying the theory behind a Heap Memory Management. I learned that to manage the memory as raw data, we need to create a structure that storage required information about the block of memory that we will need to manage/store. This structure is called "Meta Block" and is stored before the block data in the DS that you are using to storage the blocks. For my surprise this Meta block is like the TCP header, it contains information about the block of memory that we will need to manage like how much bytes are required, if the block of memory is free or used, the next and previous meta blocks, etc. Thinking deeply I realized that without this Meta Block manage the memory in raw format will be very hard or maybe impossible.
+
 ### Day 2381: C Macros
 
 Today I was studying C Macros, while doing the heap memory manager with C, the course suggest to use a Macro to iterate over the Virtual Memory Pages Families DS, this structure have registered all the `struct` that a client wants to allocate in memory and our application needs to register it to request a Virtual Memory page from the Kernel to store the structs of tha type. The macro is used to iterate over all Virtual Memory Pages Families DS, but it is strange because in the middle of the Macro you can execute any code that you want, so the Macro have a BEGIN and END. I don't know that you can create these type of Macros in C, but really are very useful, I want to continue learning more about Macros and this type of special stuff.
