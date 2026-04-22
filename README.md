@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2383: Performance Metrics Application
+
+Today I created a Java application to generate the Free RAM memory server metric. The general idea behind this application is to know how works an application that collects Samples of performance metrics from a server on this case, and offer a public API to client, so they can use the API to consume these metrics by time range like give me all the samples between 12PM to 2PM. The application have a thread that runs every 1 minute to collect the samples, for the moment my application just support the Free RAM Memory metric, we read the `/proc/meminfo` file to get the free RAM Memory, the file contains information about the memory usage of the server, but we are interested on the Free Memory field. I want to leave my application running on my server for a couple of days to see how the Free RAM Memory metric behaves over the time.  
+
 ### Day 2382: Meta Blocks
 
 Today I was studying the theory behind a Heap Memory Management. I learned that to manage the memory as raw data, we need to create a structure that storage required information about the block of memory that we will need to manage/store. This structure is called "Meta Block" and is stored before the block data in the DS that you are using to storage the blocks. For my surprise this Meta block is like the TCP header, it contains information about the block of memory that we will need to manage like how much bytes are required, if the block of memory is free or used, the next and previous meta blocks, etc. Thinking deeply I realized that without this Meta Block manage the memory in raw format will be very hard or maybe impossible.
