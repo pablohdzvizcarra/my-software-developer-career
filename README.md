@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2384: offsetof
+
+Today I created the implementation for the `offset_of` function for my Heap Memory Manager project. I discovered that this function is part of the C standard library and is used to get the offset a struct member with relative to the start of the struct. I copied from Google how create your own implementation for this function because I could not create it by myself, and when I see the code, was a shock moment for me, the code looks very weird at first sight, really weird, but after some time debugging it with Google I could understand it better. The algorithm is very simple:  Given any Struct Type and given a member of that struct, create a pointer to the struct and point it is memory address to 0, next look for the member within the struct, and return the memory address of the member as an integer type. Something like that, I completed another chapter for my C course, so I will need to continue working on it.  
+
 ### Day 2383: Performance Metrics Application
 
 Today I created a Java application to generate the Free RAM memory server metric. The general idea behind this application is to know how works an application that collects Samples of performance metrics from a server on this case, and offer a public API to client, so they can use the API to consume these metrics by time range like give me all the samples between 12PM to 2PM. The application have a thread that runs every 1 minute to collect the samples, for the moment my application just support the Free RAM Memory metric, we read the `/proc/meminfo` file to get the free RAM Memory, the file contains information about the memory usage of the server, but we are interested on the Free Memory field. I want to leave my application running on my server for a couple of days to see how the Free RAM Memory metric behaves over the time.  
