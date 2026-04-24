@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2385: Block Splitting and Merge Theory
+
+Today I studied the theory behind the Block Splitting and Merge algorithms for my Heap Memory Manager project. I don't know why but learning about this stuff is very hard for me, manipulating raw memory pointers is very challenge, normally when you code in other programming languages like Java, Python or JS you don't need to worry about this stuff, you just manage List/Array/Dic of items and working with that Data structures are very easy. Manipulating pointers on C is like having access to the raw memory addresses of the computer, and it is very powerful, but at the same time is very complicated.
+
 ### Day 2384: offsetof
 
 Today I created the implementation for the `offset_of` function for my Heap Memory Manager project. I discovered that this function is part of the C standard library and is used to get the offset a struct member with relative to the start of the struct. I copied from Google how create your own implementation for this function because I could not create it by myself, and when I see the code, was a shock moment for me, the code looks very weird at first sight, really weird, but after some time debugging it with Google I could understand it better. The algorithm is very simple:  Given any Struct Type and given a member of that struct, create a pointer to the struct and point it is memory address to 0, next look for the member within the struct, and return the memory address of the member as an integer type. Something like that, I completed another chapter for my C course, so I will need to continue working on it.  
