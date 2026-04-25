@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2386: Continue with Heap Memory Manager Project
+
+Today I was studying the theory behind how to manage the Virtual Memory pages allocated from the Kernel to store the data requested by the user/application. When the user wants to store bytes in the LMM application, the LMM application needs to request a Kernel Virtual Memory Page to allocate those bytes, imagine how difficult is this process, and how difficult be organize that VM pages, managing the VM page internally is a different thing that managing them externally.
+
 ### Day 2385: Block Splitting and Merge Theory
 
 Today I studied the theory behind the Block Splitting and Merge algorithms for my Heap Memory Manager project. I don't know why but learning about this stuff is very hard for me, manipulating raw memory pointers is very challenge, normally when you code in other programming languages like Java, Python or JS you don't need to worry about this stuff, you just manage List/Array/Dic of items and working with that Data structures are very easy. Manipulating pointers on C is like having access to the raw memory addresses of the computer, and it is very powerful, but at the same time is very complicated.
