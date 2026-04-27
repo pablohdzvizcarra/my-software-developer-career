@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2387-88: Data Collector Metrics Weekend Project
+
+During the weekend, I worked on a Data Collector Metrics Project; the general idea for this project was a 'learning by doing' experience. I want to learn more about how to collect metrics from a server, especially an Ubuntu server, how to store 'Raw Metrics' in a SQL database, and how to calculate 'Derived Metrics' like Delta, Rate, Ratio, and Average Latency from those metrics. The 'Delta' metric is just the difference between two raw metrics, such as how many bytes were received by my network interface since my last check. 'Rate' is a derived metric used to measure how fast a counter grows within a time window; an example of this is the requests per second a server can handle. All of this is very interesting, and learning it is fun. My weekend project wasn't completed, but I want to continue working on it during the week, perhaps alternating with my Heap Memory Course. I forgot to mention that I am doing this project with AI. I am writing some code, but the majority of it was written with AI. I attended a training recently about AI, and the person leading it was truly amazing at using AI—it looked like he had superpowers! AI is an amazing tool to help us do our work better; this is my opinion about AI tools like Google Antigravity and Gemini.*
+
 ### Day 2386: Continue with Heap Memory Manager Project
 
 Today I was studying the theory behind how to manage the Virtual Memory pages allocated from the Kernel to store the data requested by the user/application. When the user wants to store bytes in the LMM application, the LMM application needs to request a Kernel Virtual Memory Page to allocate those bytes, imagine how difficult is this process, and how difficult be organize that VM pages, managing the VM page internally is a different thing that managing them externally.
