@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2389: Returning VM Page to the Kernel
+
+Today, I write the code to return a non used VM Page to the Kernel. When a Virtual Memory page is not used by my application, the page is marked as free and just contains a meta block with a size of 28 bytes and the rest of the VM page is considered free memory to be used for bytes allocation, so when we have a free VM page, we need to return to the Kernel (using `munmap` system call). I am having issues to understand how works the logic to manage the VM pages because I am using a Linked List DS and I am not very good working with this type of DS, well I will need to continue putting more effort to this project and understand the low level stuff.
+
 ### Day 2387-88: Data Collector Metrics Weekend Project
 
 During the weekend, I worked on a Data Collector Metrics Project; the general idea for this project was a 'learning by doing' experience. I want to learn more about how to collect metrics from a server, especially an Ubuntu server, how to store 'Raw Metrics' in a SQL database, and how to calculate 'Derived Metrics' like Delta, Rate, Ratio, and Average Latency from those metrics. The 'Delta' metric is just the difference between two raw metrics, such as how many bytes were received by my network interface since my last check. 'Rate' is a derived metric used to measure how fast a counter grows within a time window; an example of this is the requests per second a server can handle. All of this is very interesting, and learning it is fun. My weekend project wasn't completed, but I want to continue working on it during the week, perhaps alternating with my Heap Memory Course. I forgot to mention that I am doing this project with AI. I am writing some code, but the majority of it was written with AI. I attended a training recently about AI, and the person leading it was truly amazing at using AI—it looked like he had superpowers! AI is an amazing tool to help us do our work better; this is my opinion about AI tools like Google Antigravity and Gemini.*
