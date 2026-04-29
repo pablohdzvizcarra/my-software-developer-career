@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2390: Reading Java Pro Magazine and Projects
+
+Today I read one article of the Java PRO magazine about how AI tools are changing the team dynamics, the article was very interesting and have some trues, AI is changing how we interact as team. In the past if you don't find the fix for a bug or you could not create the code for a feature, you will need to request help to your teammates to look for help about what to do or how advance. In the todays world, you can do the same but with an AI tool, most of the time requesting help to an AI tool is faster than requesting help to a teammate, but the problems is that using AI tools is great but your are not learning how to interact with the teammates and the knowledge is isolated most of the times. The article offers some tips to avoid that things goes wrong. Also I reviewed my current Java applications, I have one application that crawl the Hacker news page saving the articles into a database, today the application created 1899 records in the table and my other application collects metrics from my Ubuntu server like Network and IO Disk operations. I want to continue developing this application that collect metrics with more features.
+
 ### Day 2389: Returning VM Page to the Kernel
 
 Today, I write the code to return a non used VM Page to the Kernel. When a Virtual Memory page is not used by my application, the page is marked as free and just contains a meta block with a size of 28 bytes and the rest of the VM page is considered free memory to be used for bytes allocation, so when we have a free VM page, we need to return to the Kernel (using `munmap` system call). I am having issues to understand how works the logic to manage the VM pages because I am using a Linked List DS and I am not very good working with this type of DS, well I will need to continue putting more effort to this project and understand the low level stuff.
