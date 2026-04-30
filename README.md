@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2391: Continue with Kernel Pulse App
+
+Today I continue working on my Kernel Pulse application that collects metrics from my Ubuntu server, I added the feature to create the Rate metric for the IO Disk Read and Write operations. The Rate metric is used to know how fast a counter grows within a time window; most of the times the metric is operation per second or bytes per second. I am having some problems to understand the Math stuff, because I am not good with Maths, but I will need to continue studying this formulas to calculate the metrics. 
+
 ### Day 2390: Reading Java Pro Magazine and Projects
 
 Today I read one article of the Java PRO magazine about how AI tools are changing the team dynamics, the article was very interesting and have some trues, AI is changing how we interact as team. In the past if you don't find the fix for a bug or you could not create the code for a feature, you will need to request help to your teammates to look for help about what to do or how advance. In the todays world, you can do the same but with an AI tool, most of the time requesting help to an AI tool is faster than requesting help to a teammate, but the problems is that using AI tools is great but your are not learning how to interact with the teammates and the knowledge is isolated most of the times. The article offers some tips to avoid that things goes wrong. Also I reviewed my current Java applications, I have one application that crawl the Hacker news page saving the articles into a database, today the application created 1899 records in the table and my other application collects metrics from my Ubuntu server like Network and IO Disk operations. I want to continue developing this application that collect metrics with more features.
