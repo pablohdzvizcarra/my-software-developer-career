@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2392: Delta, Rate/IOPS, Ratio, Average/Throughput and Latency
+
+Today I continue studying about how to calculate these metrics having raw data for a Disk I/O operations. Really in the past I had never to learn all this Math stuff, but I am here learning about how to know the system performance from something. The `Rate` metrics help to know how fast a metric is growing in a time window, an example of this is: I/O operations per second or (IOPS). The `Ratio` metric is used to know the proportion of something, for example: for each Write operation we have 2 Read operations, this means that the Read ratio is 2:1 and the system is doing more Read operations than Write operations. The `Average/Throughput` metric is like the `Rate` metric but most of the times is used to know the average size of the data tranferred per second rather than the quantity of operations. Finally the `Latency` metric tells us how much time require the system to complete an operation, this metric is very important to know the performance of the system. I want to continue working on my Kernel Pulse App to collect these metrics from my Ubuntu server. 
+
 ### Day 2391: Continue with Kernel Pulse App
 
 Today I continue working on my Kernel Pulse application that collects metrics from my Ubuntu server, I added the feature to create the Rate metric for the IO Disk Read and Write operations. The Rate metric is used to know how fast a counter grows within a time window; most of the times the metric is operation per second or bytes per second. I am having some problems to understand the Math stuff, because I am not good with Maths, but I will need to continue studying this formulas to calculate the metrics. 
