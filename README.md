@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2393: Continue with Heap Memory Project
+
+Today I continue coding my Heap Memory Manager project, I was doing the implementation of the the `Worst fit` algorithm to find the VM page with the largest amount of free memory to allocate the data request by the user. The general idea behind this algorithm is find the first VM page with the greatest free memory to allocate the user bytes, also there are other two algorithms that can be used: `Best Fit` and `First Fit`. For the moment the Heap Memory project goes well.
+
 ### Day 2392: Delta, Rate/IOPS, Ratio, Average/Throughput and Latency
 
-Today I continue studying about how to calculate these metrics having raw data for a Disk I/O operations. Really in the past I had never to learn all this Math stuff, but I am here learning about how to know the system performance from something. The `Rate` metrics help to know how fast a metric is growing in a time window, an example of this is: I/O operations per second or (IOPS). The `Ratio` metric is used to know the proportion of something, for example: for each Write operation we have 2 Read operations, this means that the Read ratio is 2:1 and the system is doing more Read operations than Write operations. The `Average/Throughput` metric is like the `Rate` metric but most of the times is used to know the average size of the data tranferred per second rather than the quantity of operations. Finally the `Latency` metric tells us how much time require the system to complete an operation, this metric is very important to know the performance of the system. I want to continue working on my Kernel Pulse App to collect these metrics from my Ubuntu server. 
+Today I continue studying about how to calculate these metrics having raw data for a Disk I/O operations. Really in the past I had never to learn all this Math stuff, but I am here learning about how to know the system performance from something. The `Rate` metrics help to know how fast a metric is growing in a time window, an example of this is: I/O operations per second or (IOPS). The `Ratio` metric is used to know the proportion of something, for example: for each Write operation we have 2 Read operations, this means that the Read ratio is 2:1 and the system is doing more Read operations than Write operations. The `Average/Throughput` metric is like the `Rate` metric but most of the times is used to know the average size of the data tranferred per second rather than the quantity of operations. Finally the `Latency` metric tells us how much time require the system to complete an operation, this metric is very important to know the performance of the system. I want to continue working on my Kernel Pulse App to collect these metrics from my Ubuntu server.
 
 ### Day 2391: Continue with Kernel Pulse App
 
