@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2394:  Just Reading
+
+Today I was reading Artificial Intelligence, AI tools and general software engineering advices articles. I spend some time learning about how to be more productive using AI tools and software engineering practices, in the today world, how the software engineer role is changing and how developers can complete the work faster with an AI tool like GitHub Copilot. Really the industry and other people are using AI tools to complete more work and faster, like a developer creating an entire application in a few minutes. I continue using more Antigravity IDE to create code, Gemini CLI for questions, Gemini for browser and NoteBookLM for learning new stuff and mastering the learned things. 
+
 ### Day 2393: Continue with Heap Memory Project
 
 Today I continue coding my Heap Memory Manager project, I was doing the implementation of the the `Worst fit` algorithm to find the VM page with the largest amount of free memory to allocate the data request by the user. The general idea behind this algorithm is find the first VM page with the greatest free memory to allocate the user bytes, also there are other two algorithms that can be used: `Best Fit` and `First Fit`. For the moment the Heap Memory project goes well.
