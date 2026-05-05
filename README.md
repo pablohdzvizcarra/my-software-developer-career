@@ -7,9 +7,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2397-98: Break & Continue with Memory Manager Project
+
+During the weekend I take a break from my personal projects and I spent time reading non-technical books/stuff. Today I continue coding the Heap Memory Manager project, I am writing the code to support the application allocation and deallocation of bytes on memory. The general idea is have to have the `xcalloc` and `xfree` public APIs, so application can use it to allocate memory on my own Heap Memory Manager. I don't know why but really understading C code continues hard for me, most of the times I will need to review multiple times something to be able to understand it.  
+
 ### Day 2394:  Just Reading
 
-Today I was reading Artificial Intelligence, AI tools and general software engineering advices articles. I spend some time learning about how to be more productive using AI tools and software engineering practices, in the today world, how the software engineer role is changing and how developers can complete the work faster with an AI tool like GitHub Copilot. Really the industry and other people are using AI tools to complete more work and faster, like a developer creating an entire application in a few minutes. I continue using more Antigravity IDE to create code, Gemini CLI for questions, Gemini for browser and NoteBookLM for learning new stuff and mastering the learned things. 
+Today I was reading Artificial Intelligence, AI tools and general software engineering advices articles. I spend some time learning about how to be more productive using AI tools and software engineering practices, in the today world, how the software engineer role is changing and how developers can complete the work faster with an AI tool like GitHub Copilot. Really the industry and other people are using AI tools to complete more work and faster, like a developer creating an entire application in a few minutes. I continue using more Antigravity IDE to create code, Gemini CLI for questions, Gemini for browser and NoteBookLM for learning new stuff and mastering the learned things.
 
 ### Day 2393: Continue with Heap Memory Project
 
