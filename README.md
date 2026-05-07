@@ -7,13 +7,17 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2400: Beyond Vibe Coding Book
+
+Today I start reading the book `Beyond Vibe Coding`. I decided to take a break from my Heap Memory manager project to read something for some time,in the past my unique way to learn something new was reading book or technical documentations and I want to read a book again. This books for the moment looks good, I am learning about what is Vibe Coding & AI Assisted Engineering, for these two concepts, the general idea is you give the instructions/specs and the AI tool will create the code for you. Like using Antigravity an through a clear prompt or instruction start creating a good prototype of your idea.
+
 ### Day 2399: Continue with Heap Memory Project
 
 Today I continue with the Heap Memory Manager project, I am building the code logic to support the allocation of bytes on VM Page within my application when the user request it. I continue having issues to understand the C pointers operations, on this project everything is about Pointers, Memory addresses, pointer arithmetic and calculate offsets in pointers to save data. Really C is like a new world for me, a very complicated world, coding on C while having noise really is not a good idea, well maybe are the beginning is not a good idea because you will need to focus too much on the code, on the algorithms to avoid make mistake and to have a good understanding of the code itself.
 
 ### Day 2397-98: Break & Continue with Memory Manager Project
 
-During the weekend I take a break from my personal projects and I spent time reading non-technical books/stuff. Today I continue coding the Heap Memory Manager project, I am writing the code to support the application allocation and deallocation of bytes on memory. The general idea is have to have the `xcalloc` and `xfree` public APIs, so application can use it to allocate memory on my own Heap Memory Manager. I don't know why but really understading C code continues hard for me, most of the times I will need to review multiple times something to be able to understand it.  
+During the weekend I take a break from my personal projects and I spent time reading non-technical books/stuff. Today I continue coding the Heap Memory Manager project, I am writing the code to support the application allocation and deallocation of bytes on memory. The general idea is have to have the `xcalloc` and `xfree` public APIs, so application can use it to allocate memory on my own Heap Memory Manager. I don't know why but really understanding C code continues hard for me, most of the times I will need to review multiple times something to be able to understand it.  
 
 ### Day 2394:  Just Reading
 
