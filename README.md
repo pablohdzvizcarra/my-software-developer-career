@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2401: Just Reading & Mocking Data
+
+Today I continue reading the `Beyond vide coding` book, for the moment the book is covering the principles for this new era of AI Assisted Engineering and AI tools used for coding tasks. Also I was creating a component that is able to generate Mock data with random information simulating some performance metrics, I needed to create this component because the real data generator is not working for the moment and rather than waiting the owner team to fix it I decided to create fake data to avoid block progress on my project.
+
 ### Day 2400: Beyond Vibe Coding Book
 
 Today I start reading the book `Beyond Vibe Coding`. I decided to take a break from my Heap Memory manager project to read something for some time,in the past my unique way to learn something new was reading book or technical documentations and I want to read a book again. This books for the moment looks good, I am learning about what is Vibe Coding & AI Assisted Engineering, for these two concepts, the general idea is you give the instructions/specs and the AI tool will create the code for you. Like using Antigravity an through a clear prompt or instruction start creating a good prototype of your idea.
