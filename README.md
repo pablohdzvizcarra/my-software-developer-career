@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2402: Serialization in Java
+
+Today I studied more about how work Serialization in Java. I learned that serialization in Java is a mechanism by which an object is converted into a byte stream, and then this byte stream can be stored in a file or transmitted across a network. The deserialization is the reverse process, where the byte stream is converted back into an object. The possible problem that maybe I will face is using an old version of an object for deserialization in the client side and in the server side send the same Object but with an extra property. So on this scenario the client side will not be able to deserialize the object and the application will crash. I want to continue studying about Serialization/Deserialization in Java over the weekend and create prototypes with AI to understand better this concept and how a client can be broken due to this process.
+
 ### Day 2401: Just Reading & Mocking Data
 
 Today I continue reading the `Beyond vide coding` book, for the moment the book is covering the principles for this new era of AI Assisted Engineering and AI tools used for coding tasks. Also I was creating a component that is able to generate Mock data with random information simulating some performance metrics, I needed to create this component because the real data generator is not working for the moment and rather than waiting the owner team to fix it I decided to create fake data to avoid block progress on my project.
