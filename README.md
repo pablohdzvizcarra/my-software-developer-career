@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2404: Vide Coding Best Practices
+
+Today I learned good vibe coding best practices while reading the book `Beyond Vibe Coding`. When using AI as your pair programmer, you will need to follow some practices to create poor well structured code or code that works but have multiple bugs, some practices like double checking the generated code, do not merge code that you do not understand and maintain in separate Git commits the AI generated code so you can revert easily are good practices to follow. I want to continue reading this book while using Antigravity IDE and Gemini to practice these concepts.
+
 ### Day 2403: Client-Server Communication
 
 Today I continue learning more about Java Serialization mechanism. I created a basic Java client-server application in which the server listen for incoming client connections through a TCP Socket, the server can manage multiple client connections at the same time and send serialized objects to the client. The server is sending periodically User objects to the clients every 5 seconds, in the client side, Clients uses Java `ObjectInputStream` to deserialize the objects sent by the server. I learned that if you change the serialVersionUID of an object , the deserialization will fail, so having a Client with an old version of the object to be Deserialized, will throw an exception on the client side. Also I learned that the Serialization process on Java to send an object through a network is just serialization the Java object into a `byte stream` and adding some metadata to the byte stream like the serialVersionUID and the class path information, so the JVM in the other side can Deserialize that byte stream into a java object again. It is interesting that Java uses all these layers of abstractions but at the end is just we move bytes from one place to another.
