@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2405: Repository Maintenance & Continue Reading
+
+Today I did some maintenance on this repository, I created with Antigravity some sub-agents to help me to maintain this repository organized and well structured. In the past well I don't like much AI but during the last week reading the `Beyond Vibe Coding` book my perspective about the usage of AI tools changed completely, now I see that AI tools are just tools to help us to be more productive and efficient as software developers, and we need to embrace them to grow in our careers, for me AI at this point looks as a must skill that any software developer needs to build and grow. For the moment in the book I am reading a very interesting chapter, AI now can do 70% of the work for a software engineer, but the remaining 30% of the work is the interesting thing, is when we use our creativity, problem solving and architectural skills to maintain working the stuff and to avoid to create a mess of messy code.
+
 ### Day 2404: Vide Coding Best Practices
 
 Today I learned good vibe coding best practices while reading the book `Beyond Vibe Coding`. When using AI as your pair programmer, you will need to follow some practices to create poor well structured code or code that works but have multiple bugs, some practices like double checking the generated code, do not merge code that you do not understand and maintain in separate Git commits the AI generated code so you can revert easily are good practices to follow. I want to continue reading this book while using Antigravity IDE and Gemini to practice these concepts.
