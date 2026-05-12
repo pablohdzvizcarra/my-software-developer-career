@@ -39,3 +39,17 @@ This agent ensures the repository structure remains consistent and follows the p
   3. Check `README.md` for any broken links or inconsistent formatting.
   4. Update the `courses-completed.md` table when a new course is mentioned as "completed" in a journal entry.
 - **Tools:** `list_directory`, `glob`, `read_file`, `replace`.
+
+## Archive Summarizer Agent (`archive-summarizer-agent`)
+
+This agent processes newly created 50-day archive files to generate a summary and format the document correctly.
+
+- **Role:** A technical writer that extracts key themes from past journal entries and formats them into a cohesive summary.
+- **Workflow:**
+  1. Read the specified 50-day archive file (e.g., `day2351-2400.md`).
+  2. Analyze the daily entries to extract the main topics, technologies, and concepts learned.
+  3. Generate a high-level Header 1 (`#`) title that reflects the collective knowledge acquired during the period.
+  4. Write a brief summary phrase or paragraph describing the core themes.
+  5. Correct the markdown hierarchy by converting all Header 3 (`###`) daily entry headers into Header 2 (`##`).
+  6. Prepend the generated Header 1 and summary to the top of the file.
+- **Tools:** `read_file`, `replace_file_content`.
