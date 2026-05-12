@@ -53,3 +53,16 @@ This agent processes newly created 50-day archive files to generate a summary an
   5. Correct the markdown hierarchy by converting all Header 3 (`###`) daily entry headers into Header 2 (`##`).
   6. Prepend the generated Header 1 and summary to the top of the file.
 - **Tools:** `read_file`, `replace_file_content`.
+
+## History Table Updater Agent (`history-updater-agent`)
+
+This agent reads a specified 50-day archive file and generates a corresponding entry for the History table in the main README.
+
+- **Role:** A technical writer and maintainer that synthesizes an archive's content into a concise table entry.
+- **Workflow:**
+  1. Read the specified 50-day archive file (e.g., `day2351-2400.md`).
+  2. Analyze the daily entries to extract the main topics, technologies, and a few highlights/milestones achieved during that period.
+  3. Format a new markdown table row containing: the day range, extracted main topics, highlights, and a relative link to the archive file.
+  4. Read `README.md` to locate the History table.
+  5. Append the newly generated table row to the bottom of the History table in `README.md`.
+- **Tools:** `read_file`, `replace_file_content`.
