@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2406: Continue with Java NIO
+
+Today I continue learning more about the Java NIO API. I am working into a learning project using the Java NIO API, a classic Client/Server application that communicates through a Binary Protocol. For the moment my TCP server applications can accept N number of clients using the `Selector` API, and the Client application is able to connect to the server and send an agreement message. The Java `Selector` API under the hood work like th C `select` syscall, that is able to monitor multiple file descriptors at the same time and return only the file descriptors that are ready to do an I/O Operation (Reading/Writing). I want to continue working on this project for some days.
+
 ### Day 2405: Repository Maintenance & Continue Reading
 
 Today I did some maintenance on this repository, I created with Antigravity some sub-agents to help me to maintain this repository organized and well structured. In the past well I don't like much AI but during the last week reading the `Beyond Vibe Coding` book my perspective about the usage of AI tools changed completely, now I see that AI tools are just tools to help us to be more productive and efficient as software developers, and we need to embrace them to grow in our careers, for me AI at this point looks as a must skill that any software developer needs to build and grow. For the moment in the book I am reading a very interesting chapter, AI now can do 70% of the work for a software engineer, but the remaining 30% of the work is the interesting thing, is when we use our creativity, problem solving and architectural skills to maintain working the stuff and to avoid to create a mess of messy code.
