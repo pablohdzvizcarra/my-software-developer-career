@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2407: Understanding Generated Code: Review, Refine, Own
+
+Today I completed to read the Chapter 5. Understanding Generated Code: Review, Refine, Own of the book "Beyond Vibe Coding". This chapter covers how you can work with AI generated code. One of the most importance lessons here is: `Always review the AI generated code to understand what the code is doing`, I agree with this lesson because most of the times if you just accept the code without understanding it, you will have problems when the code is not working as expected and you will need to debug why. The book covers how you can apply refactoring techniques with the help of AI like using a more efficient algorithm or simple things like variable names o removing verbose AI code. Another good lesson for this chapter was: `AI generate the code but you are responsible if the code works good in a production environment` yeah this is one of the most important lessons.
+
 ### Day 2406: Continue with Java NIO
 
 Today I continue learning more about the Java NIO API. I am working into a learning project using the Java NIO API, a classic Client/Server application that communicates through a Binary Protocol. For the moment my TCP server applications can accept N number of clients using the `Selector` API, and the Client application is able to connect to the server and send an agreement message. The Java `Selector` API under the hood work like th C `select` syscall, that is able to monitor multiple file descriptors at the same time and return only the file descriptors that are ready to do an I/O Operation (Reading/Writing). I want to continue working on this project for some days.
