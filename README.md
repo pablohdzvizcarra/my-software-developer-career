@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2408: Designing Binary Protocol for NIO Application
+
+Today I have been designing the binary protocol for my NIO Client-Server application. The binary protocol consist of a 16-byte header that contains the Client/Server information, protocol information and payload length information. After the header there is a payload which length and type is defined in the header. For the moment I am supporting `0x0B` type of messages like handshake,  Upload Request, Download Request and List File request. The general idea for the application is my server upload and download client files. I am working into implement the handshake messages for the moment.
+
 ### Day 2407: Understanding Generated Code: Review, Refine, Own
 
 Today I completed to read the Chapter 5. Understanding Generated Code: Review, Refine, Own of the book "Beyond Vibe Coding". This chapter covers how you can work with AI generated code. One of the most importance lessons here is: `Always review the AI generated code to understand what the code is doing`, I agree with this lesson because most of the times if you just accept the code without understanding it, you will have problems when the code is not working as expected and you will need to debug why. The book covers how you can apply refactoring techniques with the help of AI like using a more efficient algorithm or simple things like variable names o removing verbose AI code. Another good lesson for this chapter was: `AI generate the code but you are responsible if the code works good in a production environment` yeah this is one of the most important lessons.
