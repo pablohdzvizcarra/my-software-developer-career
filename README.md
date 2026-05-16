@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2409: Learning Storage Virtualization Concetps
+
+Today I learned some Storage virtualization concepts like Physical Capacity, Logical Capacity and Provisioned Capacity. Physical capacity is the actual capacity of the hardware disks, for example can be your 256 GB SSD in your laptop. Logical capacity is the capacity that you see from the virtualization layer, sometimes this capacity can greater than the physical capacity due to the usage of compression techniques like for a 100MB video, compress it to a 50MB file. Finally, Provisioned Capacity is the capacity that you allocate for a virtual machine or a container, it can be greater than the physical capacity since most of the time the virtual machine or container is not using the whole capacity, so you can overprovision resources.
+
 ### Day 2408: Designing Binary Protocol for NIO Application
 
 Today I have been designing the binary protocol for my NIO Client-Server application. The binary protocol consist of a 16-byte header that contains the Client/Server information, protocol information and payload length information. After the header there is a payload which length and type is defined in the header. For the moment I am supporting `0x0B` type of messages like handshake,  Upload Request, Download Request and List File request. The general idea for the application is my server upload and download client files. I am working into implement the handshake messages for the moment.
