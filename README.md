@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2415: Understanding Complex Issues
+
+Today I have been debugging a very complex issue with the help of AI. It is very useful use AI to validate your theories, for example you made a theory about why the issue is happening but you are not sure if the theory is correct, so you can validate with AI your theory, AI will analyze it against the current codebase and will let you know if it agrees with your theory or not. This is very useful for a developer because in the old days the unique way to validate if a theory is correct was by manual testing but in the today's AI days, you can use AI tools to help you with these tasks. Also I suggest that when you are facing a code issue, use AI to generate multiple theories about what could be the root cause of the issue, the AI can generate multiple theories that you will analyze and attempt to make sense of each theory.
+
 ### Day 2414: Autonomous Background Agents are Here
 
 Today, while reading the book, I finally grasped what an Autonomous Background Agent—or a simple AI agent like this chat—actually is. Unlike traditional AI autocompletion tools like GitHub Copilot or Tabnine, which require you to start typing code before they can suggest the next few lines, an AI agent can execute multiple steps or tasks in the background without constant human intervention. Older tools also had limited context, often only accessing the currently active file.
