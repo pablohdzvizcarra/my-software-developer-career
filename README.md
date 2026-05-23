@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2416: Beyond Vibe Coding & MCP
+
+Today I complete to read the `Beyond Vide Coding book` & build my first MCP server. The book was amazing, I liked the last chapter when the author do their predictions about AI tools and how the Software Engineering roles are changing very fast due to the emergence of AI tools. I will put in practice what I learned reading this book. I build a basic MCP server with Go that is able to review a `sqlite` database tables to looks for users data. I don't know much how MCP servers or recent AI tools works, but for the moment I want to continue exploring the new features/advances on AI tools in Software Engineering.
+
 ### Day 2415: Understanding Complex Issues
 
 Today I have been debugging a very complex issue with the help of AI. It is very useful use AI to validate your theories, for example you made a theory about why the issue is happening but you are not sure if the theory is correct, so you can validate with AI your theory, AI will analyze it against the current codebase and will let you know if it agrees with your theory or not. This is very useful for a developer because in the old days the unique way to validate if a theory is correct was by manual testing but in the today's AI days, you can use AI tools to help you with these tasks. Also I suggest that when you are facing a code issue, use AI to generate multiple theories about what could be the root cause of the issue, the AI can generate multiple theories that you will analyze and attempt to make sense of each theory.
