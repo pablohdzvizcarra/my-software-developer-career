@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2421: Learning Storage Virtualization Concepts
+
+Today, I learnt about the concept of `extent` storage virtualisation. An extent is a virtual representation of a block of space that is used to allocate bytes on a real disk. For example, if you wanted to virtualise 100 GB of space in your file system, you could create N extents to represent that physical space on the disk. I compare this extent concept to how a heap memory manager works. With a heap memory manager, you request virtual pages from the operating system and then manage them to allocate bytes; this is similar to an extent. To easily manage an extent, we allocate metadata for each extent containing relevant management information. In a heap memory manager, you also allocate metadata to each page for management purposes. All of this is very interesting to me, but also hard to understand — sometimes I really felt lost with all this new knowledge!
+
 ### Day 2417-18-19-20: Sick and Recuperating
 
 During the weekend I was very sick, with a bad headache without any desire to do some coding task, really I don't remember when I sleep so much time in my life, like 12-14 hours per day. I took advantage of this situation to rest and recover my body and brain. Today I want to continue with one of the following tasks, start to read the `Designing Data Intensive Applications` book or continue with an AI project, I have my doubts about doing an AI project because it is a new field for me, and I don't know if it is a good idea, on the other hand `Designing Data Intensive Applications` is a book that I have wanted to read for a long time and is a classic in software engineering.
