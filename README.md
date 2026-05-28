@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2417-18-19-20: Sick and Recuperating
+
+During the weekend I was very sick, with a bad headache without any desire to do some coding task, really I don't remember when I sleep so much time in my life, like 12-14 hours per day. I took advantage of this situation to rest and recover my body and brain. Today I want to continue with one of the following tasks, start to read the `Designing Data Intensive Applications` book or continue with an AI project, I have my doubts about doing an AI project because it is a new field for me, and I don't know if it is a good idea, on the other hand `Designing Data Intensive Applications` is a book that I have wanted to read for a long time and is a classic in software engineering.
+
 ### Day 2416: Beyond Vibe Coding & MCP
 
 Today I complete to read the `Beyond Vide Coding book` & build my first MCP server. The book was amazing, I liked the last chapter when the author do their predictions about AI tools and how the Software Engineering roles are changing very fast due to the emergence of AI tools. I will put in practice what I learned reading this book. I build a basic MCP server with Go that is able to review a `sqlite` database tables to looks for users data. I don't know much how MCP servers or recent AI tools works, but for the moment I want to continue exploring the new features/advances on AI tools in Software Engineering.
