@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2422: Problems with Distributed Systems
+
+Today I have been studying common problems with distributed systems. The other time while working I remember that we are facing currently and issue that is a common issues when working with a Distributed System. When you need to comunicate with another service throught network, how do you know if the server response arrived correctly to the client side? Yeah this is an issue that we never think, we just assume that the network is reliable, but maybe the server response arrives correctly to the client and the client is slow to process it and because server does not receive an ack, the server sends the request again. At the end the client receives duplicate the server response and you process it twice in the Client side because client does not know how ensure that a request needs to be execute exactly once. I want to continue studying more about these problems.
+
 ### Day 2421: Learning Storage Virtualization Concepts
 
 Today, I learnt about the concept of `extent` storage virtualisation. An extent is a virtual representation of a block of space that is used to allocate bytes on a real disk. For example, if you wanted to virtualise 100 GB of space in your file system, you could create N extents to represent that physical space on the disk. I compare this extent concept to how a heap memory manager works. With a heap memory manager, you request virtual pages from the operating system and then manage them to allocate bytes; this is similar to an extent. To easily manage an extent, we allocate metadata for each extent containing relevant management information. In a heap memory manager, you also allocate metadata to each page for management purposes. All of this is very interesting to me, but also hard to understand — sometimes I really felt lost with all this new knowledge!
