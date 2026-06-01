@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2424-25: Just Reading and Thinking into How to Solve Hard Issues
+
+During the weekend I have being reading `The Staff Engineers Path` book. On my work I will have a great opportunity to mentor a student developer within the company, so I look for book recommendations about how to be a good software engineer mentor, I found this book on Google and multiple people recommend it. For the moment the book is very good, I am reading the *What would you say You do Here Chapter 1* What explains in a brief way what is a Staff Software Engineer and their responsibilities within the company. While reading the book I realized that some of the responsibilities of a Staff Engineer are some of the responsibilities that I am doing currently at work, like solving complex issues that sometimes requires involve multiples teams and working in new features with ambiguous requirements.
+
 ### Day 2423: Exponential Backoff
 
 Today I learned about the `Exponential Backoff` concept. Exponential Backoff is a technique used by clients to avoid continue sending requests to a server with the same frequency because the server is failing multiple requests for an unknown reason. With this technique the client uses a backoff mechanism to avoid continue sending the same quantity of requests, and add some delay before send a request this mechanism is triggered by an error rate, the technique is like creating a backoff mechanism and if the server continues failing, you will need to incremented the delay in an exponential way. I think this technique can be useful when the server is overwhelmed receiving multiple requests from multiple clients and unable to process all of these requests in a good way.
