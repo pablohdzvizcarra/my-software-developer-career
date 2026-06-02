@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2426: Thread.interrupt() Usage
+
+Today I was practicing how work the `Thread.interrupt` Java method to interrupt the execution of a thread that is actually running. The interrupt method is used to signal the intention to interrupt a thread, but it does not force the thread to stop immediately, imagine that the thread is blocking in an IO operation like waiting to receive bytes from a Socket connection, so If you call the `interrupt()` method for that thread, the `InterruptedException` will be thrown and the thread will continue its execution instead of been blocked. It is interesting how `Java` manage the interruption of a Thread and is very tricky at the start, you will need to practice with it to understand how manage this interrupt signal in your concurrent code.
+
 ### Day 2424-25: Just Reading and Thinking into How to Solve Hard Issues
 
 During the weekend I have being reading `The Staff Engineers Path` book. On my work I will have a great opportunity to mentor a student developer within the company, so I look for book recommendations about how to be a good software engineer mentor, I found this book on Google and multiple people recommend it. For the moment the book is very good, I am reading the *What would you say You do Here Chapter 1* What explains in a brief way what is a Staff Software Engineer and their responsibilities within the company. While reading the book I realized that some of the responsibilities of a Staff Engineer are some of the responsibilities that I am doing currently at work, like solving complex issues that sometimes requires involve multiples teams and working in new features with ambiguous requirements.
