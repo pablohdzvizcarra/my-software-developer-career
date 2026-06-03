@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2427: Head-of-line Blocking
+
+Today I learned the `Head-of-line Blocking` error. This error happened when you are processing a request in your application like a request that comes through a TCP socket, next you manage a queue to add incoming requests to be processed, but your server requires around 2 minutes to process this request and at the same time your application is receiving multiple requests executed by other clients, the main problem here if the other clients are waiting the server response, but because the server is stuck processing  the slow request is unable to process the others. This creates a slow response time for Clients.
+
 ### Day 2426: Thread.interrupt() Usage
 
 Today I was practicing how work the `Thread.interrupt` Java method to interrupt the execution of a thread that is actually running. The interrupt method is used to signal the intention to interrupt a thread, but it does not force the thread to stop immediately, imagine that the thread is blocking in an IO operation like waiting to receive bytes from a Socket connection, so If you call the `interrupt()` method for that thread, the `InterruptedException` will be thrown and the thread will continue its execution instead of been blocked. It is interesting how `Java` manage the interruption of a Thread and is very tricky at the start, you will need to practice with it to understand how manage this interrupt signal in your concurrent code.
