@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2428: Reliability & Fault Tolerance
+
+Today I learned the following concepts, `Fault`: A fault is when your system have an error but continues operating for users in a normal way like when you have your application replicated in 4 nodes and one of them crashes. `Failure`: is when your application is not working as expected and the users could not use them, like if all nodes crashes and some feature or your entire application is not working. `Fault Tolerance`: is when you application can continue working although have some faults, to achieve Fault Tolerance you will need to design your application to manage faults in a proper way. `Cascade Failure`: is when you application manages a fault good, but due to one fault, the other fallback components also fail in some point, like you have 4 nodes, one of them fault, so you redirect the traffic to the healthy nodes, but because we have a traffic increase into each node, at the end they also crash
+
 ### Day 2427: Head-of-line Blocking
 
 Today I learned the `Head-of-line Blocking` error. This error happened when you are processing a request in your application like a request that comes through a TCP socket, next you manage a queue to add incoming requests to be processed, but your server requires around 2 minutes to process this request and at the same time your application is receiving multiple requests executed by other clients, the main problem here if the other clients are waiting the server response, but because the server is stuck processing  the slow request is unable to process the others. This creates a slow response time for Clients.
