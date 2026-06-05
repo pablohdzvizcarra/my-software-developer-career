@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2429: Scalability
+
+Today I was learning more about Scalability in a software system. Scalability is a term used to describe if a software system is able to scale when traffic increases. Most of the times Scalability is categorized in two types: `Horizontal Scalability`: is when we add more nodes to the system to handle the increase of load, like if you have 2 nodes, you will need to add another 2 to support the new load. `Vertical Scalability`: is when we add more resources/hardware to the existing system to support the new load, these resources can be CPU, RAM or Storage. The type of Scalability technique that you can implement in your system depends on the system architecture. For example in a `Shared-memory Architecture`, you can implement `Vertical Scalability` because in a shared-memory architecture normally you have a single node that works with multithreading, so to process more user requests you will need more Threads/CPUs, remember that when multiple thread belongs to the same process, all threads share the same memory space.
+
 ### Day 2428: Reliability & Fault Tolerance
 
 Today I learned the following concepts, `Fault`: A fault is when your system have an error but continues operating for users in a normal way like when you have your application replicated in 4 nodes and one of them crashes. `Failure`: is when your application is not working as expected and the users could not use them, like if all nodes crashes and some feature or your entire application is not working. `Fault Tolerance`: is when you application can continue working although have some faults, to achieve Fault Tolerance you will need to design your application to manage faults in a proper way. `Cascade Failure`: is when you application manages a fault good, but due to one fault, the other fallback components also fail in some point, like you have 4 nodes, one of them fault, so you redirect the traffic to the healthy nodes, but because we have a traffic increase into each node, at the end they also crash
