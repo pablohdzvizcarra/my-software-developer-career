@@ -7,6 +7,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2430: Data Models
+
+Today I learned what is a Data model, I see this concept in the past but never makes sense for me. Data model is how we represent data in an abstract way, for example you are working with a low-level API to retrieve performance information about your computer, this API returns pl2430ain text and you will need to create a Data model/ Data structure to easily manipulate this information in your application context. So as you can see the Data model can be a simple Object in Java that you can use to represent the performance information. Most of the times a Data model needs to be persisted in some place like a database to be used later, and you will need to offer a public API for clients to retrieve this data model information. It is interesting how after 6+ years of experience this term makes sense for me, I don't know but programming is a curios thing.
+
 ### Day 2429: Scalability
 
 Today I was learning more about Scalability in a software system. Scalability is a term used to describe if a software system is able to scale when traffic increases. Most of the times Scalability is categorized in two types: `Horizontal Scalability`: is when we add more nodes to the system to handle the increase of load, like if you have 2 nodes, you will need to add another 2 to support the new load. `Vertical Scalability`: is when we add more resources/hardware to the existing system to support the new load, these resources can be CPU, RAM or Storage. The type of Scalability technique that you can implement in your system depends on the system architecture. For example in a `Shared-memory Architecture`, you can implement `Vertical Scalability` because in a shared-memory architecture normally you have a single node that works with multithreading, so to process more user requests you will need more Threads/CPUs, remember that when multiple thread belongs to the same process, all threads share the same memory space.
