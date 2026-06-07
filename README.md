@@ -1,11 +1,14 @@
 # My Journey to Becoming a Software Engineer
 
-Within this repository, I will document my evolution as a software engineer. Maintaining a record of our progress is
-invaluable.
+Within this repository, I will document my evolution as a software engineer. Maintaining a record of our progress is invaluable.
 When I first embarked on my programming journey, I envisioned a way to reflect on my past decisions.
-This repository stands as a testament to that vision, a chronicle of my growth in the world of software engineering.
+This repository stands as a testament to that vision, a chronicle of my growth in the world of software engineering and computer science.
 
 ## Programming Changes My Life
+
+### Day 2431: My Next Move?
+
+Today while reading the `Staff Engineer's Path` book, I was thinking about my next move in my career. For the moment I work as a Software Developer within the company but in some point I want to have more senior roles. One of the best things in my job is there are a lot of opportunities to grow in career, we face very hard problems every day and some of them cost Reliability issues for our customer, so If you want to have a better role, you will have many opportunities to solve these hard problems and show your skills to the company. For the moment reading this book is opening my eyes about what work does a Staff Engineer/STSM do, and I am very excited about the possibility to grow in my career and be able to solve hard problems that have a big impact on our customers.
 
 ### Day 2430: Data Models
 
