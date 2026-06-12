@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2436: C Resource Leak Applications
+
+Today I continue learning more about Resource leaks in software application. I created today some C applications to simulate memory leaks and running them into Docker containers. The general idea of the application was allocate 1MB of memory in the Heap inside a infinite loop without cleanup the memory after usage it. The application runs normally but in some point it will crash depending of how much memory you assign to the Container to use with Docker. When a container exists because an OutOfMemory error you can review it by looking the value of the following property: `State.OOMKilled` that will be `true` that means the container was stopped due to a OutOfMemory error.
+
 ### Day 2435: Resource Leaks
 
 Today I studied what is a Resource Leak in an application and how this affects the entire operating system on this case a Linux system. A resource leak is just a type of application bug in which the application is allocating or using Operating system resources and is not returning/freeing them to the operating system. I focused on my study on File Descriptors leaks, this leak is when your process open a lot of file descriptor without closing them, this causes that your process reach the limit (1024 on my ubuntu server) and the process could not continue working properly, on this case because is a file descriptor leak, the process can continue working but could not create new file descriptors to do IO operations. A file descriptor is just like a reference that points to a file, a socket, a pipe, etc. A process file descriptor have a map with a FD in the System-wide Open File Table. I want to continue studying more about these topics.
