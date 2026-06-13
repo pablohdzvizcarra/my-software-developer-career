@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2437: Client-Server Errors
+
+Today I learned about process communication between a Client and Server that are connected through a Linux Domain Socket. I learned how to debug how many clients are connected to my server through the `lsof` command to know how many clients are connected to my server. 
+
 ### Day 2436: C Resource Leak Applications
 
 Today I continue learning more about Resource leaks in software application. I created today some C applications to simulate memory leaks and running them into Docker containers. The general idea of the application was allocate 1MB of memory in the Heap inside a infinite loop without cleanup the memory after usage it. The application runs normally but in some point it will crash depending of how much memory you assign to the Container to use with Docker. When a container exists because an OutOfMemory error you can review it by looking the value of the following property: `State.OOMKilled` that will be `true` that means the container was stopped due to a OutOfMemory error.
