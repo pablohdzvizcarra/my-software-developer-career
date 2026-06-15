@@ -6,7 +6,7 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
-### Day 2438-38: CQRS and Event Sourcing
+### Day 2438-39: CQRS and Event Sourcing
 
 Today I created a Go application to learn about the CQRS and event sourcing architecture patterns. The application fetches currency exchange information from a public API, save the fetched data into an append only log file, next add the created data into a in Memory Queue. The in-memory queue uses a publish-subscribe pattern, components called Projections or Read Models listen for new events and update their internal state. These components are used by final clients for clients to consume the data like showing it in a chart, or querying it to get the latest currency exchange rate. I want to continue learning more about these architectural patterns. 
 
