@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2441: Read Response Time
+
+Today I studied about how to compute the derived `Read Response Time` metric for a SDD disk. This derived metric is used to know how much a read request requires to be completed, for example 1 request requires 50ms to be completed. To calculate this derived metric the following math formula is used: `Read Response Time = delta(Read Ticks) / delta(Total Read Operations)`, this metric is useful to know when a system or hardware component is experience delays or if it is have a bottleneck. I create a C++ application to read the `cat /sys/block/sda/stat` file content that display raw counters for the selected disk device, you can compute this derived metric from the raw counters. I want to continue doing more experiments of this time over the week. 
+
 ### Day 2440: Virtual Memory Managers Block Allocation
 
 Today while doing the Heap Memory manager project, I will need to study the theory behind how a Heap Memory manager to satisfy user requests needs to allocate Virtual Pages from the Operating System, and how with algorithms we will need to create a meta data block to hold the required user request. It is interesting on C how we need to do a lot of code to build simple algorithms and how we need to manage the memory usage by the application. Sometimes I continue with issues understanding how to manipulate Pointers and multiple structs on C, most of the times I lost while reading C code in some point.
