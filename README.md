@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2442: Storage Concepts
+
+Today I studied the Extent, Extent Descriptors, Physical Capacity, Logical Capacity and Virtual Capacity storage concepts. These Storage concepts at the beginning looks very confuse but after studied them for some time and understand what represents, you fill discover that just are different characteristics that Storage systems have. `Physical Capacity` is the raw physical capacity available for example in a SDD disk with 10GB of space, have a 10GB of physical capacity. `Logical Capacity` is the capacity that the final user see, if the host manage compression techniques like for example Zipping the content into a ZIP file, the Logical Capacity can be 15GB and at the end just use 8GB of Physical capacity. `Virtual Capacity` works like a placeholder, you can assign 100GB of virtual capacity to a host, but in reality you just have 10GB of physical capacity, the physical capacity is just consumed when the data is actually written into the physical storage system. An `Extent Descriptor` just contains metadata information for a Extent, this metadata can be Physical and Logical capacity for that Extent. I started a Go application to understand better these concepts.   
+
 ### Day 2441: Read Response Time
 
 Today I studied about how to compute the derived `Read Response Time` metric for a SDD disk. This derived metric is used to know how much a read request requires to be completed, for example 1 request requires 50ms to be completed. To calculate this derived metric the following math formula is used: `Read Response Time = delta(Read Ticks) / delta(Total Read Operations)`, this metric is useful to know when a system or hardware component is experience delays or if it is have a bottleneck. I create a C++ application to read the `cat /sys/block/sda/stat` file content that display raw counters for the selected disk device, you can compute this derived metric from the raw counters. I want to continue doing more experiments of this time over the week. 
