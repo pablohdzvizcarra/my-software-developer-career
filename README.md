@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2443: Database Deep Dive
+
+Today I studied how the Derby database uses Pages to allocate storage for table rows in a physical disk. I learned that databases like Derby are like memory managers, when they need to allocate bytes to store data they first allocate a Page in the physical disk, and next use that page to storage the bytes. One of the main problems of Derby is the clean up tasks, for example when a page is filled with index information, and the rows for that index were deleted, most of the times Derby does not clean up that used pages for index automatically, you will need to do it manually in a maintenance window. This is a big problem of derby database, I want to continue studying more the architecture of embedded databases like Derby and SQLite that does not have a server running.
+
 ### Day 2442: Storage Concepts
 
 Today I studied the Extent, Extent Descriptors, Physical Capacity, Logical Capacity and Virtual Capacity storage concepts. These Storage concepts at the beginning looks very confuse but after studied them for some time and understand what represents, you fill discover that just are different characteristics that Storage systems have. `Physical Capacity` is the raw physical capacity available for example in a SDD disk with 10GB of space, have a 10GB of physical capacity. `Logical Capacity` is the capacity that the final user see, if the host manage compression techniques like for example Zipping the content into a ZIP file, the Logical Capacity can be 15GB and at the end just use 8GB of Physical capacity. `Virtual Capacity` works like a placeholder, you can assign 100GB of virtual capacity to a host, but in reality you just have 10GB of physical capacity, the physical capacity is just consumed when the data is actually written into the physical storage system. An `Extent Descriptor` just contains metadata information for a Extent, this metadata can be Physical and Logical capacity for that Extent. I started a Go application to understand better these concepts.   
