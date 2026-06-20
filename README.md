@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2444: Mutual Exclusion
+
+Today I was debugging some complicated multithreading code, debug multithreading code most of the times is very hard because you don't know which thread is executing the code. I will need to improve my debugging skills in Jva in multithreading environment and also how to create well structured and functional multithreading applications. I have the plan to continue studying more these topics from my side.
+
 ### Day 2443: Database Deep Dive
 
 Today I studied how the Derby database uses Pages to allocate storage for table rows in a physical disk. I learned that databases like Derby are like memory managers, when they need to allocate bytes to store data they first allocate a Page in the physical disk, and next use that page to storage the bytes. One of the main problems of Derby is the clean up tasks, for example when a page is filled with index information, and the rows for that index were deleted, most of the times Derby does not clean up that used pages for index automatically, you will need to do it manually in a maintenance window. This is a big problem of derby database, I want to continue studying more the architecture of embedded databases like Derby and SQLite that does not have a server running.
