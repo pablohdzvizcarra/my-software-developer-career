@@ -6,9 +6,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2445-46-47: Sick Days but Organizing Goals
+
+I was very sick over the weekend. I had a bad headache and slept all weekend. Today I felt good, so I used my computer again. I spent some time organizing my software engineering goals, revisiting my pending learning tasks, and thinking about my next moves in the coming months. I plan to pursue the Software Developer Certification Level 2 – Experience this year, so I will need to schedule the rest of 2026 towards this goal. I am taking a one-week holiday from work to rest, clear my mind and think about my personal goals. Tomorrow, I plan to continue with my Heap Memory Manager course and project.
+
 ### Day 2444: Mutual Exclusion
 
-Today I was debugging some complicated multithreading code, debug multithreading code most of the times is very hard because you don't know which thread is executing the code. I will need to improve my debugging skills in Jva in multithreading environment and also how to create well structured and functional multithreading applications. I have the plan to continue studying more these topics from my side.
+Today I was debugging some complicated multithreading code, debug multithreading code most of the times is very hard because you don't know which thread is executing the code. I will need to improve my debugging skills in Java in multithreading environment and also how to create well structured and functional multithreading applications. I have the plan to continue studying more these topics from my side.
 
 ### Day 2443: Database Deep Dive
 
