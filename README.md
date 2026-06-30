@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2448-2455: Back from Vacations and Observability
+
+Today I back from my vacation time to work, I missed to code and computer science in general. I was studying about Observability techniques to monitor and understand what is happening in multithreading code. I want to learn how to monitor and have a better picture about how works complex multithreading applications. I create a monitor thread that monitor the current state of an Object, this object manage an internal queue, in which clients send requests and this object process them and next send a response to the client, the request/responses are added to the internal queue, so the general idea is the monitor thread check the queue status and also monitor the current Object state. 
+
 ### Day 2445-46-47: Sick Days but Organizing Goals
 
 I was very sick over the weekend. I had a bad headache and slept all weekend. Today I felt good, so I used my computer again. I spent some time organizing my software engineering goals, revisiting my pending learning tasks, and thinking about my next moves in the coming months. I plan to pursue the Software Developer Certification Level 2 – Experience this year, so I will need to schedule the rest of 2026 towards this goal. I am taking a one-week holiday from work to rest, clear my mind and think about my personal goals. Tomorrow, I plan to continue with my Heap Memory Manager course and project.
