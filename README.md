@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2456: Continue with Heap Memory Manager Project
+
+Today I continue working on my heap memory manager project. Today I created the code that split a metadata block to satisfy a user memory allocation request. The general idea behind this function is having a metadata block of size N, split that into two chunks, one chunk will be the metadata block that contains the user requested bytes for allocation, and the other metadata block contains the remainder bytes and will be assigned to the new metadata block that was created to satisfy user request memory allocations. One interesting thing is we use these metadata blocks to storage the current user memory request, also these metadata blocks are a circular linked list, first time I see a real usage of a linked list data structure in code. I want to continue learning more about heap memory managers to understand better this project/course.
+
 ### Day 2448-2455: Back from Vacations and Observability
 
 Today I back from my vacation time to work, I missed to code and computer science in general. I was studying about Observability techniques to monitor and understand what is happening in multithreading code. I want to learn how to monitor and have a better picture about how works complex multithreading applications. I create a monitor thread that monitor the current state of an Object, this object manage an internal queue, in which clients send requests and this object process them and next send a response to the client, the request/responses are added to the internal queue, so the general idea is the monitor thread check the queue status and also monitor the current Object state. 
