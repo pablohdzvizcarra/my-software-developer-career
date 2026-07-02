@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2457: Segmentation Fault Error
+
+Today I was debugging a Segmentation Fault error on the heap memory manager project. The problem was a pointer was corrupted due to wrong pointer arithmetic. Really debug these type of errors is very complicated, I needed to add multiple printf statements to understand where the code was going wrong. I do not have much experience with C to know if there is a way to have a debugger within Antigravity IDE for C programming language to execute the code step by step like running it with Eclipse or Jetbrains IDEs. I know that there are linux debugger tools for C applications, so maybe I want to learn over the weekend how to debug C applications within an IDE or with a Linux command line tool.
+
 ### Day 2456: Continue with Heap Memory Manager Project
 
 Today I continue working on my heap memory manager project. Today I created the code that split a metadata block to satisfy a user memory allocation request. The general idea behind this function is having a metadata block of size N, split that into two chunks, one chunk will be the metadata block that contains the user requested bytes for allocation, and the other metadata block contains the remainder bytes and will be assigned to the new metadata block that was created to satisfy user request memory allocations. One interesting thing is we use these metadata blocks to storage the current user memory request, also these metadata blocks are a circular linked list, first time I see a real usage of a linked list data structure in code. I want to continue learning more about heap memory managers to understand better this project/course.
