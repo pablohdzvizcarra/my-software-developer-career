@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2458: Deallocate Memory Algorithm
+
+Today I was studying the algorithm that I will need to implement to support the `free` C API to free memory assigned from the heap memory manager. The basic idea of the algorithm is composed on three steps: 1. Locate the meta block to be free by the provided pointer, 2. Mark the meta block as free and start with the merging process with the neighbors meta blocks, 3. If the VM page that the metadata block is located does not contains more metadata blocks, return the VM page to the Kernel. This algorithm looks simple, but implementing them on C and managing the pointer arithmetic will be a challenge.
+
 ### Day 2457: Segmentation Fault Error
 
 Today I was debugging a Segmentation Fault error on the heap memory manager project. The problem was a pointer was corrupted due to wrong pointer arithmetic. Really debug these type of errors is very complicated, I needed to add multiple printf statements to understand where the code was going wrong. I do not have much experience with C to know if there is a way to have a debugger within Antigravity IDE for C programming language to execute the code step by step like running it with Eclipse or Jetbrains IDEs. I know that there are linux debugger tools for C applications, so maybe I want to learn over the weekend how to debug C applications within an IDE or with a Linux command line tool.
