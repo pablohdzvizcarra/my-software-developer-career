@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2459: Continue implementing free API
+
+Today I continue implementing the `xfree` API for my heap memory manager project. I am working into the code part to merge adjacent free blocks of data within the current block that will be freed. I continue learning more about pointer arithmetic in C programming language, I will continue having issues to understand how do pointer arithmetic correct and does not have Segmentation fault errors, I had today 3 segmentation Fault errors related with doing arithmetic in a NULL pointer.
+
 ### Day 2458: Deallocate Memory Algorithm
 
 Today I was studying the algorithm that I will need to implement to support the `free` C API to free memory assigned from the heap memory manager. The basic idea of the algorithm is composed on three steps: 1. Locate the meta block to be free by the provided pointer, 2. Mark the meta block as free and start with the merging process with the neighbors meta blocks, 3. If the VM page that the metadata block is located does not contains more metadata blocks, return the VM page to the Kernel. This algorithm looks simple, but implementing them on C and managing the pointer arithmetic will be a challenge.
