@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2460: Completed Heap Memory Manager Project
+
+Today I completed the Heap Memory Manager project course, however in a following course section I have course assignments that are related to expand the Heap Memory manager project like: Implementing the `xrealloc` API that works like `realloc` in C, changing the Data Structure to store the metadata blocks from a double linked list to a Max heap, support memory allocations greater than the current VM page size (4096 in my Ubuntu server), and more. I liked that the instructor give us some challenges to expand the Heap Memory manager project to understand better how this stuff works, I have the plans to implement them, with the today AI tools really is very easy to understand how do these memory managers works, and if yoo are stuck in any part of the code, you can easily requires AIs help to continue with the code implementation, in my case I used Antigravity IDE and CLI to help me with the code implementation.
+
 ### Day 2459: Continue implementing free API
 
 Today I continue implementing the `xfree` API for my heap memory manager project. I am working into the code part to merge adjacent free blocks of data within the current block that will be freed. I continue learning more about pointer arithmetic in C programming language, I will continue having issues to understand how do pointer arithmetic correct and does not have Segmentation fault errors, I had today 3 segmentation Fault errors related with doing arithmetic in a NULL pointer.
