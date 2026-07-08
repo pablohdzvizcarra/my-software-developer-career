@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2463: Heap Memory Manager Big Allocations Theory
+
+Today I studied the theory behind how a Heap Memory Manager support big size allocations `(> 4KB)`. Building my heap memory manager I will need to support big allocations, a ig allocation is consider that is greater than the current OS VM page, for example in my Ubuntu server the OS VM page size is 4096 bytes, so a big allocation is when user wants to allocate more than 4096 bytes of memory. I am studying the concept of Variable-Sized VM Pages, this concept works with the idea of requesting more than one VM Page to the Kernel when you need to support big allocations. I will continue exploring this topic tomorrow.
+
 ### Day 2461-62: realloc API
 
 Over the weekend I implemented the `xrealloc` API for my heap memory manager project. I designed this API following the current `realloc` API in C, I covered the three scenarios for this API, in-place expansion: this scenario is when you have available memory in the adjacent metadata block and you can use it to satisfy the user request, second scenario: Allocate a new block of data to satisfy the user request in any place of the VM page and free the old one. Third scenario: shrinking the metadata block when user request a smaller memory block that the current one, for example my current block have 100 bytes of allocated memory and user realloc to 20, so you will need to shrink the block and create a new one with the remaining size if it is possible. Really writing a Heap memory manager is fantastic and also it is very interesting how this stuff works, someone build these stuff and you use it daily without knowing how do these memory managers works. I will continue working on the pending assignments.
