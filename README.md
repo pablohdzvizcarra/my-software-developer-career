@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2464: Continue with Heap Memory Manager
+
+Today I continue working on my heap memory manager project. Today I implemented the feature to support anonymous struct registration. I have registered and anonymous struct with N size, so users can allocate memory for this anonymous struct in a dynamic way, for example they want to allocate 500 bytes to an anonymous struct, users are free to register any size for the anonymous struct. Implementing this feature was good and I learned the theory behind this, also I was learning more about bitwise operations on C, like how to round a number ot the nearest multiple of 8 or 16.
+
 ### Day 2463: Heap Memory Manager Big Allocations Theory
 
 Today I studied the theory behind how a Heap Memory Manager support big size allocations `(> 4KB)`. Building my heap memory manager I will need to support big allocations, a ig allocation is consider that is greater than the current OS VM page, for example in my Ubuntu server the OS VM page size is 4096 bytes, so a big allocation is when user wants to allocate more than 4096 bytes of memory. I am studying the concept of Variable-Sized VM Pages, this concept works with the idea of requesting more than one VM Page to the Kernel when you need to support big allocations. I will continue exploring this topic tomorrow.
