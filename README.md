@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2465: Soft Internal and Hard Internal Fragmentation
+
+Today I was implementing the feature to show Fragmentation memory statistics in my Heap Memory Manager project. Implementing this feature was challenge, sometimes I felt lost doing the code so I will request help for AI to continue with the code implementation and debug some bugs. The general idea was that for a registered page family, print how many Soft and Hard Internal Fragmentation we have. Soft internal fragmentation is memory that is wasted inside a block of data, for example you have a block with 100 bytes of size and you realloc it to 80, the remaining 20 bytes are not enough to satisfy a user request due to the metadata block overhead, so you end up with 20 bytes of fragmentation. Hard internal fragmentation is when you allocate a block of data in a VM page and the remaining memory of the VM page is not enough to satisfy a user request, so you end up with fragmentation in that VM page. I want to continue exploring more these concepts because continues not very understood for me right now.
+
 ### Day 2464: Continue with Heap Memory Manager
 
 Today I continue working on my heap memory manager project. Today I implemented the feature to support anonymous struct registration. I have registered and anonymous struct with N size, so users can allocate memory for this anonymous struct in a dynamic way, for example they want to allocate 500 bytes to an anonymous struct, users are free to register any size for the anonymous struct. Implementing this feature was good and I learned the theory behind this, also I was learning more about bitwise operations on C, like how to round a number ot the nearest multiple of 8 or 16.
