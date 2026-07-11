@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2466: Break Pointer
+
+Today I was learning about the `Break Pointer` and how it is related with the Heap Memory. The `Break Pointer` is like a boundary to know which memory regions belongs to the heap memory of the process. When a process is initialized, the Break Pointer is configured to a certain location in memory, and when the process needs more memory, it moves the Break Pointer to a higher address, imagine like increasing and decreasing the heap memory on demand based on client needs. If a process attempts to read or write memory beyond the Break Pointer limit, the OS will trigger a segmentation fault error to the process. For me was very interesting how the OS protects the memory space with a basic mechanism.
+
 ### Day 2465: Soft Internal and Hard Internal Fragmentation
 
 Today I was implementing the feature to show Fragmentation memory statistics in my Heap Memory Manager project. Implementing this feature was challenge, sometimes I felt lost doing the code so I will request help for AI to continue with the code implementation and debug some bugs. The general idea was that for a registered page family, print how many Soft and Hard Internal Fragmentation we have. Soft internal fragmentation is memory that is wasted inside a block of data, for example you have a block with 100 bytes of size and you realloc it to 80, the remaining 20 bytes are not enough to satisfy a user request due to the metadata block overhead, so you end up with 20 bytes of fragmentation. Hard internal fragmentation is when you allocate a block of data in a VM page and the remaining memory of the VM page is not enough to satisfy a user request, so you end up with fragmentation in that VM page. I want to continue exploring more these concepts because continues not very understood for me right now.
