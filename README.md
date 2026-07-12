@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2467: Studying malloc API and Heap Memory
+
+Today I studied how `malloc` API works, I studied how this API works internally and how the memory is organized within the Heap Segment to be able to allocated and deallocate memory on demand in an easy way. The memory within the Heap Memory Segment is organized in Chunks, these chunks are composed of metadata blocks and data blocks. The metadata block is used to know how much size the metadata block holds, if this chunk is free or allocated, and other information. The metadata block contains the user data. I discover why In had in the past multiple segmentation faults, when I tried to access a memory location beyond the heap memory region. Learning all this stuff is very good for me, I felt super powers when learning and writing C code for this type of low level memory management, that without any doubt is a challenge for me.
+
 ### Day 2466: Break Pointer
 
 Today I was learning about the `Break Pointer` and how it is related with the Heap Memory. The `Break Pointer` is like a boundary to know which memory regions belongs to the heap memory of the process. When a process is initialized, the Break Pointer is configured to a certain location in memory, and when the process needs more memory, it moves the Break Pointer to a higher address, imagine like increasing and decreasing the heap memory on demand based on client needs. If a process attempts to read or write memory beyond the Break Pointer limit, the OS will trigger a segmentation fault error to the process. For me was very interesting how the OS protects the memory space with a basic mechanism.
