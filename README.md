@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2468-69: ReentrantLock & CountDownLatch
+
+Today I was studying about `ReentrantLock` and `CountDownLatch`, two very interesting synchronization utilities in Java. ReentrantLock is a lock that can be acquired by the same thread multiple times, like using the `synchronized`  keyword to ensure that just 1 thread can modify or execute a block of code at the same time. I don't have much experience with this API, but I am learning because I want to understand better how works. The `CountDownLatch` utility works more like a barrier/latch mechanism used to know when a task was completed, for example you can use it to know when all threads from a pool have finished the execution. I created a basic Java application to understand better these APIs, I want to continue learning more about both APIs tomorrow.
+
 ### Day 2467: Studying malloc API and Heap Memory
 
 Today I studied how `malloc` API works, I studied how this API works internally and how the memory is organized within the Heap Segment to be able to allocated and deallocate memory on demand in an easy way. The memory within the Heap Memory Segment is organized in Chunks, these chunks are composed of metadata blocks and data blocks. The metadata block is used to know how much size the metadata block holds, if this chunk is free or allocated, and other information. The metadata block contains the user data. I discover why In had in the past multiple segmentation faults, when I tried to access a memory location beyond the heap memory region. Learning all this stuff is very good for me, I felt super powers when learning and writing C code for this type of low level memory management, that without any doubt is a challenge for me.
