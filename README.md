@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2470: Rounding Decimals
+
+Today I was debugging a code that rounds a decimal value into the nearest integer. The problem with the code is that it was rounding low values like 0.01 GiB to 1 GiB, and this logic caused confusion because doing the math manually resulted in a different value that was returned by our API. The code uses the `Math.ceil` method from the SDK to do this rounding feature. At the end, I will need to change the algorithm because doing this is bad, and we are returning a wrong value to our clients.
+
 ### Day 2468-69: ReentrantLock & CountDownLatch
 
 Today I was studying about `ReentrantLock` and `CountDownLatch`, two very interesting synchronization utilities in Java. ReentrantLock is a lock that can be acquired by the same thread multiple times, like using the `synchronized`  keyword to ensure that just 1 thread can modify or execute a block of code at the same time. I don't have much experience with this API, but I am learning because I want to understand better how works. The `CountDownLatch` utility works more like a barrier/latch mechanism used to know when a task was completed, for example you can use it to know when all threads from a pool have finished the execution. I created a basic Java application to understand better these APIs, I want to continue learning more about both APIs tomorrow.
