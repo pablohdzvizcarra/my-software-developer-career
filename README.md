@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2471: Iterative Macros
+
+Today I eas learning how `Iterative Macros` works on C. I think this feature is very powerful to generate code in an iterative way. Iterative macros is a way to iterate over a data structure in a specific order, for example could you have a `struct student *students` this is a pointer that can store 10 students, so you can easily iterate over the students array and print the name of each student using a classic for loop, but If you want to create a better way to iterate, you can create an iterate macro for students, so you can iterate over the students array and print the name of each student using the iterative macro.
+
 ### Day 2470: Rounding Decimals
 
 Today I was debugging a code that rounds a decimal value into the nearest integer. The problem with the code is that it was rounding low values like 0.01 GiB to 1 GiB, and this logic caused confusion because doing the math manually resulted in a different value that was returned by our API. The code uses the `Math.ceil` method from the SDK to do this rounding feature. At the end, I will need to change the algorithm because doing this is bad, and we are returning a wrong value to our clients.
