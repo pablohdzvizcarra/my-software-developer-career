@@ -6,9 +6,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2472: The Glue Way on C
+
+Today I was learning about the Glue way on C. The Glue way is an architectural pattern that is commonly used in systems programming in which the data have a pointer (this pointer is called the glue) to the container rather than having a node and inside that node have the data. This approach is very common on C to optimize memory usage, think of it like my data structure contains the container pointer, you can use this container pointer to know how the data is organized. It was very interesting for me how this pattern works, I will need to study more to understand how it works.
+
 ### Day 2471: Iterative Macros
 
-Today I eas learning how `Iterative Macros` works on C. I think this feature is very powerful to generate code in an iterative way. Iterative macros is a way to iterate over a data structure in a specific order, for example could you have a `struct student *students` this is a pointer that can store 10 students, so you can easily iterate over the students array and print the name of each student using a classic for loop, but If you want to create a better way to iterate, you can create an iterate macro for students, so you can iterate over the students array and print the name of each student using the iterative macro.
+Today I was learning how `Iterative Macros` works on C. I think this feature is very powerful to generate code in an iterative way. Iterative macros is a way to iterate over a data structure in a specific order, for example could you have a `struct student *students` this is a pointer that can store 10 students, so you can easily iterate over the students array and print the name of each student using a classic for loop, but If you want to create a better way to iterate, you can create an iterate macro for students, so you can iterate over the students array and print the name of each student using the iterative macro.
 
 ### Day 2470: Rounding Decimals
 
