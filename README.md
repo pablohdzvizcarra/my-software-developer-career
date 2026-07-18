@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2473: Completed Heap Memory Manager Course
+
+Today I completed the Heap Memory Manager Udemy course. The last course chapter was about what is the Glue architecture patterns work on C and system programming, I created a Glue version of a double linked list data structure. This course was interesting I learned how works a heap memory manager, how the bytes are organized into memory for easy management, what are metadata blocks and a block of data, I have the opportunity to do pointer arithmetic, pointer manipulation, how to create multiple C macros, etc. Really I feel that I have some super powers after do this project, I don't know which will be my next project, but for the moment I want to take a break from coding and read a book.
+
 ### Day 2472: The Glue Way on C
 
 Today I was learning about the Glue way on C. The Glue way is an architectural pattern that is commonly used in systems programming in which the data have a pointer (this pointer is called the glue) to the container rather than having a node and inside that node have the data. This approach is very common on C to optimize memory usage, think of it like my data structure contains the container pointer, you can use this container pointer to know how the data is organized. It was very interesting for me how this pattern works, I will need to study more to understand how it works.
