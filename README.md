@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2474: VSC Extension
+
+Today I learned how to create a Hello World Visual Studio Code extension using TypeScript. It was really easy, you just need to create a project using some NPM libraries, and next execute it in your editor. I want to learn how to create more complex extension because I have some ideas to create useful extensions for development workflow or do a a specific task.
+
 ### Day 2473: Completed Heap Memory Manager Course
 
 Today I completed the Heap Memory Manager Udemy course. The last course chapter was about what is the Glue architecture patterns work on C and system programming, I created a Glue version of a double linked list data structure. This course was interesting I learned how works a heap memory manager, how the bytes are organized into memory for easy management, what are metadata blocks and a block of data, I have the opportunity to do pointer arithmetic, pointer manipulation, how to create multiple C macros, etc. Really I feel that I have some super powers after do this project, I don't know which will be my next project, but for the moment I want to take a break from coding and read a book.
