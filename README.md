@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2475: Visual Studio Code Architecture
+
+Today I continue studying how Visual Studio Code architecture works and how extensions communicate with it. VSC executes the extensions in a separate NodeJS process that is called `Extension Host`, the process manage the extensions and communicate with the main process of VSC. Extensions running on Extension Host process, could not modify the UI directly, they uses some APIs for inter-process communication. I was to continue learning more about how works and how to create my own VSC extension for fun, I have an idea on mind for an extension, but I am not sure if it will be useful, for now I will continue learning about this.  
+
 ### Day 2474: VSC Extension
 
 Today I learned how to create a Hello World Visual Studio Code extension using TypeScript. It was really easy, you just need to create a project using some NPM libraries, and next execute it in your editor. I want to learn how to create more complex extension because I have some ideas to create useful extensions for development workflow or do a a specific task.
