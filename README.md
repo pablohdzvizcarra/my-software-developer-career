@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2476: When I Builds Itself
+
+Today I read and analyze the [When AI Builds Itself](https://www.anthropic.com/institute/recursive-self-improvement) Anthropic publication. This study details the benefits that Anthropic companies are having using AI in their entire workflows, like software development. It is very interesting reading it because they have a great benefit of writing code improving by x8 but also the study says more code is not equal to quality code and code that works, this is the most important in my opinion, the code needs to do the job that is planned to do. I recommend reading this publication to anyone that has curiosity about how other companies are using AI, and if the company in which you work is moving to the correct direction. It was amazing to know that Anthropic is using AI to improve itself, like having an AI tool that coordinates multiple agents like a research agent, build agent, code agent, etc. Also they suggest that maybe we need to stop the rapid AI progress because there are multiple risks with this AI rapid progress. I don’t know, for the moment I just want to continue improving my AI skills, AI is a tool that is here and never goes away.
+
 ### Day 2475: Visual Studio Code Architecture
 
 Today I continue studying how Visual Studio Code architecture works and how extensions communicate with it. VSC executes the extensions in a separate NodeJS process that is called `Extension Host`, the process manage the extensions and communicate with the main process of VSC. Extensions running on Extension Host process, could not modify the UI directly, they uses some APIs for inter-process communication. I was to continue learning more about how works and how to create my own VSC extension for fun, I have an idea on mind for an extension, but I am not sure if it will be useful, for now I will continue learning about this.  
