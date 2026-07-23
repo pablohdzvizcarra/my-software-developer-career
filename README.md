@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2478: Project One-Pager
+
+Today, I learnt how to create a one-page document to propose a software solution to a problem. I read in the past that one-pager documents are used when you have a project idea to solve a business problem and want to present it to management for evaluation, to see if it is worth investing time in and starting a proof of concept. I have multiple ideas for automating manual processes in my current job and for developing the X project. The good news is that with new AI IDEs like Gemini IDE, we can develop an idea into a software product very quickly.
+
 ### Day 2477: Capacity Savings Percentage
 
 Today, I studied the `Capacity Savings Percentage` system performance metric within a storage system. *The Capacity Savings Percentage property shows how much storage capacity has been saved by data reduction technologies, expressed as a percentage of the available physical storage capacity*. At first, I didn't understand what it meant, but after studying the concept for some time, I realized it's just a metric that shows the percentage of disk space saved thanks to data reduction techniques. For example, if you know you saved 10 GB of space on a 200 GB hard disk drive, the capacity savings percentage would be 5%. All of these storage system concepts are difficult to learn at first because there are so many concepts to understand. I found it very interesting to learn how to compute interesting metrics by doing some math.
