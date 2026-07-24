@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+## Day 2479: Learning AI Stuff
+
+Today I learned and practice multiple AI stuff like how to interact with an AI service in which you can send prompts and the AI service use an LLM to receive the user prompt and create an answer. Also I learned the concept of an Multi-agent Orchestrator, an orchestrator is a component that can decompose a complex task into multiple smaller tasks and delegate them to different agents to work on them in parallel. And `Agent` is a component that can execute a task in a specific way, for example you will need to update a database schema, so you can use the `Database Agent`, and this agent have all the required context and skills to do it. I will need to continue learning more about all these stuff.
+
 ### Day 2478: Project One-Pager
 
 Today, I learnt how to create a one-page document to propose a software solution to a problem. I read in the past that one-pager documents are used when you have a project idea to solve a business problem and want to present it to management for evaluation, to see if it is worth investing time in and starting a proof of concept. I have multiple ideas for automating manual processes in my current job and for developing the X project. The good news is that with new AI IDEs like Gemini IDE, we can develop an idea into a software product very quickly.
