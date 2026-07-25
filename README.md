@@ -4,9 +4,13 @@ Within this repository, I will document my evolution as a software engineer. Mai
 When I first embarked on my programming journey, I envisioned a way to reflect on my past decisions.
 This repository stands as a testament to that vision, a chronicle of my growth in the world of software engineering and computer science.
 
-## Programming Changes My Life
+## Programming Changes My 
 
-## Day 2479: Learning AI Stuff
+### Day 2480: Harness Engineering
+
+Today I studied that Harness Engineering is just a set of practices to give an AI model super powers is like creating a way that the AI model can work more efficiently. I want to learn the concept because in the internet and YouTube is very popular, much people is talking about it. At this moment I don't know if it's just hype or a real revolution in AI, only time will tell us. Maybe during the weekend I will create an application using this methodology just for fun, but I don't know, creating a software application with AI and when it is automate, for me is not fun, but Anthropic predict that this tendency of AI tools will be improved in a way like Software Engineers can create software with an instruction (prompt) and the AI will create the entire software for you, in a near future, we will need to trust AI and just use our common sense to check if the software is correct or not.
+
+### Day 2479: Learning AI Stuff
 
 Today I learned and practice multiple AI stuff like how to interact with an AI service in which you can send prompts and the AI service use an LLM to receive the user prompt and create an answer. Also I learned the concept of an Multi-agent Orchestrator, an orchestrator is a component that can decompose a complex task into multiple smaller tasks and delegate them to different agents to work on them in parallel. And `Agent` is a component that can execute a task in a specific way, for example you will need to update a database schema, so you can use the `Database Agent`, and this agent have all the required context and skills to do it. I will need to continue learning more about all these stuff.
 
