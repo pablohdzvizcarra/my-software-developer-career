@@ -4,7 +4,11 @@ Within this repository, I will document my evolution as a software engineer. Mai
 When I first embarked on my programming journey, I envisioned a way to reflect on my past decisions.
 This repository stands as a testament to that vision, a chronicle of my growth in the world of software engineering and computer science.
 
-## Programming Changes My 
+## Programming Changes My
+
+### Day 2481: Habit Tracker Application with AI
+
+Today I begin to build a Habit Tracker Application using AI tools and configuring my won Harness Engineering setup for it. This was my first time applying harness engineering practices to a repository to write an application entirely by AI and I just validate the code and the output that the AI produces. My application follow a TDD methodology so I have a good suite of test that runs every time when the agent completes a job, and this test ensure my application continues working, if one test fails, the agent stop his works and fix the test and next execute them again, this is the normal loop that a developer follow daily. It is amazing how we can build an entire application very efficient when we spend some time preparing the environment and configuring the Harness Engineering practices. The problem is, this is bored, really bored, the AI build the application very good, and most of the times you are just writing tasks for the AI to do it, validating if the AI created a good code or follow a correct architecture, etc.
 
 ### Day 2480: Harness Engineering
 
