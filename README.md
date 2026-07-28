@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My
 
+### Day 2483: End-to-end Testing
+
+Today I was working into create some End-to-end testing to open a client connection to a server, next sends a request to the server and validate the server response. I created this end-to-end test with Eclipse. Eclipse IDE is a very good IDE for Java applications, you can easily create, configure and run a Java application without compile it. I want to continue practicing more testing specially end-to-end and Unit testing, I have plans to create multiple unit tests to cover existing code and understand how the code works with detail. I believe that one of the better ways to understand code is to write unit tests for it because If you want to test a function or class, you will need to understand how this function/class interacts with other components in your application, and this give you a good perspective of how the application works as a whole. This is a long process but I believe it will be very useful for my growth as a Software Engineer.
+
 ### Day 2482: Organizing Goals and Reading
 
 Today I organize my pending goals to work toward my next certification. I created multiple goals to prepare my certification package, the missing piece is setup a target date to complete them. Also I read some technical articles about Software Engineering and AI, like important concepts to know about modern AI, reflections for other developers related with their profession, etc.  
