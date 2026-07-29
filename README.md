@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My
 
+### Day 2484: AI Skills
+
+Today I was creating and improving an AI Skill used to analyze and entire Java Package/module and write a MODULE.md file. The general idea is have for each Java package this file, this file contains the general details of the module like list of .java files, module architecture, the purpose, usages, dependencies, etc. My plan is AI can use this MODULE.md files, when they need to review a specific Java file to understand how works, having the module information, the AI can have a better context about the codebase and give better results.
+
 ### Day 2483: End-to-end Testing
 
 Today I was working into create some End-to-end testing to open a client connection to a server, next sends a request to the server and validate the server response. I created this end-to-end test with Eclipse. Eclipse IDE is a very good IDE for Java applications, you can easily create, configure and run a Java application without compile it. I want to continue practicing more testing specially end-to-end and Unit testing, I have plans to create multiple unit tests to cover existing code and understand how the code works with detail. I believe that one of the better ways to understand code is to write unit tests for it because If you want to test a function or class, you will need to understand how this function/class interacts with other components in your application, and this give you a good perspective of how the application works as a whole. This is a long process but I believe it will be very useful for my growth as a Software Engineer.
