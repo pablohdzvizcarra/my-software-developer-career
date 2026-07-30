@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My
 
+### Day 2485: Object Mapping and DTOs
+
+Today I spent time understanding how a DTO object is created, the problem with the DTO creation is we use direct mapping from another DTO object, for example we use a direct mapping getters, one getter fill another getter with the same name for both objects, the complicated part was sometimes one field needs to be filled with a computation fro multiple fields of the DTO, and also some mathematical formula will be applied like calculating the ratio or average, etc. Debugging how a DTO object that is created from another DTO and also applying some math formulas really sometimes can be very complicated to understand.  
+
 ### Day 2484: AI Skills
 
 Today I was creating and improving an AI Skill used to analyze and entire Java Package/module and write a MODULE.md file. The general idea is have for each Java package this file, this file contains the general details of the module like list of .java files, module architecture, the purpose, usages, dependencies, etc. My plan is AI can use this MODULE.md files, when they need to review a specific Java file to understand how works, having the module information, the AI can have a better context about the codebase and give better results.
