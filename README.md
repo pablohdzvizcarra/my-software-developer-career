@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My
 
+### Day 2486: Agent Orchestrator
+
+Today I learned about what is an Agent Orchestrator. I understand that an Agent orchestrator is something like a manager that analyze a complex task and decompose it into smaller tasks to delegate them to different agents to work on them in parallel. Maybe you have a complicated task, so you can split this task into sub-tasks next use an specialized agent to do one type of task like having a research agent that the purpose of it is to research the codebase without modify any code. I will need to continue learning more about AI stuff, one of my current challenges is to be more productive with AI and teach me how to create and configure MCP servers, Vector databases, RAG, etc.  
+
 ### Day 2485: Object Mapping and DTOs
 
 Today I spent time understanding how a DTO object is created, the problem with the DTO creation is we use direct mapping from another DTO object, for example we use a direct mapping getters, one getter fill another getter with the same name for both objects, the complicated part was sometimes one field needs to be filled with a computation fro multiple fields of the DTO, and also some mathematical formula will be applied like calculating the ratio or average, etc. Debugging how a DTO object that is created from another DTO and also applying some math formulas really sometimes can be very complicated to understand.  
