@@ -4,7 +4,11 @@ Within this repository, I will document my evolution as a software engineer. Mai
 When I first embarked on my programming journey, I envisioned a way to reflect on my past decisions.
 This repository stands as a testament to that vision, a chronicle of my growth in the world of software engineering and computer science.
 
-## Programming Changes My
+## Programming Changes My Life
+
+### Day 2487: Copy & Paste Error
+
+Today I was fixing an error that looks like happened by a Copy & Paste issue. We have a nested for loop that iterates over a listElem2, the for loop was correct, the problem was inside the loop the code access to the `[element]i` of the main loop listElem1, so you can imagine the problem a Java Index exception when listElem2 is greater than listElem1. Debugging this issue was tricky, because the first time that I read the code I could not see the problem immediately, but after use AI to review the code and look for errors, the AI detect the error. AI tools are greater assistants to debug code, most of the times when I am stuck in a code problem for some time and without understand it, I use AI to crate theories about the error and validate them.
 
 ### Day 2486: Agent Orchestrator
 
