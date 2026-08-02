@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2488: MCP Servers, Vector Databases, and RAG
+
+Today I studied how to build two Model Context Protocol (MCP) servers to extend AI IDE capabilities. First, I explored using Retrieval-Augmented Generation (RAG) with an MCP server to search for specific context (like hardware specifications) stored within a Vector database. Second, I created an MCP server to connect to a remote server and execute debug log commands such as `zgrep` and `tail` directly within a log directory. MCP servers truly give superpowers to an AI IDE like Antigravity, and I am excited to continue exploring these topics. Additionally, I studied how to insert a large book in `.txt` format into a Vector database for fast and easy context retrieval.
+
 ### Day 2487: Copy & Paste Error
 
 Today I was fixing an error that looks like happened by a Copy & Paste issue. We have a nested for loop that iterates over a listElem2, the for loop was correct, the problem was inside the loop the code access to the `[element]i` of the main loop listElem1, so you can imagine the problem a Java Index exception when listElem2 is greater than listElem1. Debugging this issue was tricky, because the first time that I read the code I could not see the problem immediately, but after use AI to review the code and look for errors, the AI detect the error. AI tools are greater assistants to debug code, most of the times when I am stuck in a code problem for some time and without understand it, I use AI to crate theories about the error and validate them.
