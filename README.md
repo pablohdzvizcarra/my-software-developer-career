@@ -6,11 +6,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2489: Cassandra GitHub Repository
+
+Today I continue exploring the Apache Cassandra repository, I reviewed how Apache Cassandra starts, where is the `main` method. I discovered that Cassandra uses the Apache Commons Daemon (jsvc) to initialize the daemon Cassandra process. JSVC is a tool that allows a Java application run as a background process or daemons in Unix-like operating systems. I created a TCP Java application that listen for incoming client connections, next configure the JSVC library, compile the entire application in a fat JAR, to finally execute it by terminal. After 15 hours, my Java application is still running on my Ubuntu server, I know that we can achieve a similar behavior with `nohup` command, but JSVC is a very good option to run long-lived Java applications in production servers.
+
 ### Day 2488: MCP Servers, Vector Databases, and RAG
-
-Today I studied how to build two Model Context Protocol (MCP) servers to extend AI IDE capabilities. First, I explored using Retrieval-Augmented Generation (RAG) with an MCP server to search for specific context (like hardware specifications) stored within a Vector database. Second, I created an MCP server to connect to a remote server and execute debug log commands such as `zgrep` and `tail` directly within a log directory. MCP servers truly give superpowers to an AI IDE like Antigravity, and I am excited to continue exploring these topics. Additionally, I studied how to insert a large book in `.txt` format into a Vector database for fast and easy context retrieval.
-
-### Day 2487: Copy & Paste Error
 
 Today I was fixing an error that looks like happened by a Copy & Paste issue. We have a nested for loop that iterates over a listElem2, the for loop was correct, the problem was inside the loop the code access to the `[element]i` of the main loop listElem1, so you can imagine the problem a Java Index exception when listElem2 is greater than listElem1. Debugging this issue was tricky, because the first time that I read the code I could not see the problem immediately, but after use AI to review the code and look for errors, the AI detect the error. AI tools are greater assistants to debug code, most of the times when I am stuck in a code problem for some time and without understand it, I use AI to crate theories about the error and validate them.
 
