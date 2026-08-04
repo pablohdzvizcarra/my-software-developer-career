@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2490: Git Submodules
+
+Today, I learned that we can have multiple Git repositories nested within one main Git repository. Git supports submodules to allow this feature. A Git submodule is like a symlink on Unix in that it is just a reference to a resource that lives in another place. This allows you to have local access to your main repository as if the files were available there. I spent some time configuring a repository with this workflow because this Git feature was new to me.
+
 ### Day 2489: Cassandra GitHub Repository
 
 Today I continue exploring the Apache Cassandra repository, I reviewed how Apache Cassandra starts, where is the `main` method. I discovered that Cassandra uses the Apache Commons Daemon (jsvc) to initialize the daemon Cassandra process. JSVC is a tool that allows a Java application run as a background process or daemons in Unix-like operating systems. I created a TCP Java application that listen for incoming client connections, next configure the JSVC library, compile the entire application in a fat JAR, to finally execute it by terminal. After 15 hours, my Java application is still running on my Ubuntu server, I know that we can achieve a similar behavior with `nohup` command, but JSVC is a very good option to run long-lived Java applications in production servers.
