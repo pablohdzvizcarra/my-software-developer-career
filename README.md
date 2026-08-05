@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2491: Configuring Eclipse Projects
+
+Today I spent some time configuring an Eclipse project from a current local git repository on my machine. The main problem was configure the Java build path for the project to be able to execute the code, really because my projects depends on another projects, require multiple libraries and requires multiple JVM arguments to be able to run, this task was a little tricky. At the end I can configure the project from scratch and be able to compile and execute with Eclipse.  
+
 ### Day 2490: Git Submodules
 
 Today, I learned that we can have multiple Git repositories nested within one main Git repository. Git supports submodules to allow this feature. A Git submodule is like a symlink on Unix in that it is just a reference to a resource that lives in another place. This allows you to have local access to your main repository as if the files were available there. I spent some time configuring a repository with this workflow because this Git feature was new to me.
