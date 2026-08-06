@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2492: Debugging MCP Servers
+
+Today I spend some time debugging an error in an MCP server. The error was about why the python code was importing a library that was not available in the current environment. I generated the MCP code with an AI, also the AI give the required python dependencies to be installed but at the moment to execute the python script, it throws errors because some libraries were not available. I will need to continue learning more about MCP development and how to debug MCP servers.
+
 ### Day 2491: Configuring Eclipse Projects
 
 Today I spent some time configuring an Eclipse project from a current local git repository on my machine. The main problem was configure the Java build path for the project to be able to execute the code, really because my projects depends on another projects, require multiple libraries and requires multiple JVM arguments to be able to run, this task was a little tricky. At the end I can configure the project from scratch and be able to compile and execute with Eclipse.  
