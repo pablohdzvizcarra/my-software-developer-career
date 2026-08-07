@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2493: The ReAct Pattern
+
+Today I studied how works the `ReAct Reason-Acting` pattern. The general idea for this pattern is execute the user prompt or task in an LLM, but using available tools to reason about what needs to be the next step and execute tools to do the steps, for example the user ask: Do you know why my following Example.java test is failing? With the ReAct pattern the AI will receive the user input, and decides that needs to execute the `exec_terminal` tool to execute the unit test by terminal, next receive the tool output and reason the output, and may be need to execute another tool to get the output of another test, and so on. until the AI have enough information to answer the user prompt. Really when I learned how works this pattern makes sense how works the Agent mode in IDEs like Antigravity and IBM Bob.
+
 ### Day 2492: Debugging MCP Servers
 
 Today I spend some time debugging an error in an MCP server. The error was about why the python code was importing a library that was not available in the current environment. I generated the MCP code with an AI, also the AI give the required python dependencies to be installed but at the moment to execute the python script, it throws errors because some libraries were not available. I will need to continue learning more about MCP development and how to debug MCP servers.
