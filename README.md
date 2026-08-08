@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2494: LangChain Library
+
+Today I learned the features that offers the `LangChain` library and why it is very important on this new AI world. With the LangChain you have access to different tools with different purposes, the center of the entire library is the `Document` objects. You can use Loaders to load external content like web page content into a Document object, next you can use a Transformer to transform the Document object, for example split it into smaller chunks. Next you can use a Vector Store to store the documents, and finally you can use a Retriever to retrieve the documents to be used by an LLM model. Really, LangChain is a very powerful library, now after study a little a portion of the features that offers and how it works, I know why is very important for the AI world.
+
 ### Day 2493: The ReAct Pattern
 
 Today I studied how works the `ReAct Reason-Acting` pattern. The general idea for this pattern is execute the user prompt or task in an LLM, but using available tools to reason about what needs to be the next step and execute tools to do the steps, for example the user ask: Do you know why my following Example.java test is failing? With the ReAct pattern the AI will receive the user input, and decides that needs to execute the `exec_terminal` tool to execute the unit test by terminal, next receive the tool output and reason the output, and may be need to execute another tool to get the output of another test, and so on. until the AI have enough information to answer the user prompt. Really when I learned how works this pattern makes sense how works the Agent mode in IDEs like Antigravity and IBM Bob.
