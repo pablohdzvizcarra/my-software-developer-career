@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2495: Continue with AI Agents & Applications Book
+
+Today I completed the `Chapter 1: Introduction to AI agents and applications` of my current reading book. I learned multiple and interesting things about AI agents, I learned that the Agent mode in IDEs is just a an LLM with a set of tools available to be used to perform tasks, and the Agent mode implements a pattern like ReAct loop.
+
 ### Day 2494: LangChain Library
 
 Today I learned the features that offers the `LangChain` library and why it is very important on this new AI world. With the LangChain you have access to different tools with different purposes, the center of the entire library is the `Document` objects. You can use Loaders to load external content like web page content into a Document object, next you can use a Transformer to transform the Document object, for example split it into smaller chunks. Next you can use a Vector Store to store the documents, and finally you can use a Retriever to retrieve the documents to be used by an LLM model. Really, LangChain is a very powerful library, now after study a little a portion of the features that offers and how it works, I know why is very important for the AI world.
