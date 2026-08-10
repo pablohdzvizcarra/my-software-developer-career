@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2496: Prompt Template
+
+Today I was learning the `Prompt Template` AI pattern. Imagine that you need to do the same task multiple times like asking an AI model to summary some text in the same way. You can create a prompt template in which the prompt details and the expected answer format are described. This technique is very useful is like an AI skill, you define it once and you can reuse it multiple times. I continue reading my AI book, the book is amazing I am learning multiple AI concepts and skills required for my current work project and also all these new skills that I am learning are very useful as a Software Engineer.
+
 ### Day 2495: Continue with AI Agents & Applications Book
 
 Today I completed the `Chapter 1: Introduction to AI agents and applications` of my current reading book. I learned multiple and interesting things about AI agents, I learned that the Agent mode in IDEs is just a an LLM with a set of tools available to be used to perform tasks, and the Agent mode implements a pattern like ReAct loop.
