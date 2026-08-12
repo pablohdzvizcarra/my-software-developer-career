@@ -6,9 +6,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2498: AI Skills
+
+Today I created 2 AI skills to do some repetitive tasks on my work. I believe that because that 2 task ae very repetitive and follow a pattern, an AI skill is a good way to automate them. I will continue studying more about AI stuff, there are a lot of concepts to learn and every day something new is created, do you need to be intelligent about what AI features to study and learn, because maybe you study or spend something in an AI feature that will be deprecated some time later. MCP and AI Skill for the moment are standards, I know that other features exists like sub-agents, modes, etc. I don't know for the moment there is a lot of wisdom about AI.
+
 ### Day 2497: Prompt Types
 
-Today, I studied the various types of prompt. The most common types of prompt are: text classification; summarisation; sentiment analysis; composing text; question answering; and reasoning. I created one prompt template for each type and ran multiple tests to review how the LLM responded. I guess that a prompt template could be similar to an AI skill. A prompt template is used to perform the same task multiple times. I want to continue reading my AI book to learn more.
+Today, I studied the various types of prompt. The most common types of prompt are: text classification; summarization; sentiment analysis; composing text; question answering; and reasoning. I created one prompt template for each type and ran multiple tests to review how the LLM responded. I guess that a prompt template could be similar to an AI skill. A prompt template is used to perform the same task multiple times. I want to continue reading my AI book to learn more.
 
 ### Day 2496: Prompt Template
 
