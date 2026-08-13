@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2499: In-Context Learning, Few-shot prompt and Chain of Thought
+
+Today I learned the `In-context learning`, `Few-shot prompt` and `Chain of Thought` prompting techniques. In-context learning is a prompt technique in which in the same prompt you give additional context to the LLM, for example you want to ask an specific question about a document and you give in the same prompt and chunk of the document so know the LLM have knowledge/context about the document and can answer the question correctly. `Few-shot prompt` is a prompt technique in which in the same prompt you give some examples of how you want the LLM to respond, for example you give some examples of how you want the LLM to format the response. `Chain of Thought` is a prompt technique in which you ask the LLM to think step by step on how to solve the problem, and it will give you the step by step thinking process and the final answer. Really, I think these techniques are very useful for the LLM to provide better responses. I want to continue doing more hands-on practice with these techniques, currently I am using Google models thought LangChain and using a Google AI studio API key.
+
 ### Day 2498: AI Skills
 
 Today I created 2 AI skills to do some repetitive tasks on my work. I believe that because that 2 task ae very repetitive and follow a pattern, an AI skill is a good way to automate them. I will continue studying more about AI stuff, there are a lot of concepts to learn and every day something new is created, do you need to be intelligent about what AI features to study and learn, because maybe you study or spend something in an AI feature that will be deprecated some time later. MCP and AI Skill for the moment are standards, I know that other features exists like sub-agents, modes, etc. I don't know for the moment there is a lot of wisdom about AI.
