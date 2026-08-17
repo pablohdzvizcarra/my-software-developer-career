@@ -26,16 +26,3 @@ This agent ensures the repository structure remains consistent and follows the p
   3. Check `README.md` for any broken links or inconsistent formatting.
   4. Update the `courses-completed.md` table when a new course is mentioned as "completed" in a journal entry.
 - **Tools:** `list_directory`, `glob`, `read_file`, `replace`.
-
-## History Table Updater Agent (`history-updater-agent`)
-
-This agent reads a specified 50-day archive file and generates a corresponding entry for the History table in the main README.
-
-- **Role:** A technical writer and maintainer that synthesizes an archive's content into a concise table entry.
-- **Workflow:**
-  1. Read the specified 50-day archive file (e.g., `day2351-2400.md`).
-  2. Analyze the daily entries to extract the main topics, technologies, and a few highlights/milestones achieved during that period.
-  3. Format a new markdown table row containing: the day range, extracted main topics, highlights, and a relative link to the archive file.
-  4. Read `README.md` to locate the History table.
-  5. Append the newly generated table row to the bottom of the History table in `README.md`.
-- **Tools:** `read_file`, `replace_file_content`.
