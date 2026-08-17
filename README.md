@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2503: Building a Q&A Chatbot with RAG
+
+Today I was learning some AI concepts related about how to build a Q&A Chatbot using RAG while reading my current book. I learned about Semantic search, RAG, Embedding, Vector databases, architectures for data ingestion fro raw data like PDF files into a vector database using embeddings. The general idea for this book chapter, is to build a Q&A Chatbot that can answer questions about a specific topic, using RAG to retrieve information and include the retrieved context into the prompt. Learning about all this AI stuff was amazing, there are much AI knowledge to learn and practice, for the moment I want to complete the book and focus on building the project in which I am working.
+
 ### Day 2502: Completed Research Summarization Agent
 
 Today I completed to build the research summarization agent started some days ago. When I see the final result, I said woah this is amazing. You just need to provide a user query like: `Do you know who is the best football player on Mexico?` and the agent will do the rest. On the book we build the agent in 2 ways, one using normal python code with the LangChain library, and the other one using the LangChain Expression Language. For each main step like improve the use query to get an assistant specialized query, we use a Chain, next we use another chains for the other main steps, at the end we have multiple chains that use multiple AI tools to perform the research and get the final result. I discovered a trade-off when working with `LCEL`, the problem is the typing, I used an approach that the LLM returns a dict as output and use the same dict to the input of the next chain, and the main problem is if you don't choose a valid key, you will have a beautiful runtime error just for not remember or a typo error.  
