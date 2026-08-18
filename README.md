@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2504: Publish-Subscribe Architecture and Shared TCP Sockets
+
+Today I was learning how a publish-subscribe architecture works. In this implementation, we have a server that works as the publisher. This server generates hardware events when it detects status changes, such as transitioning a property from true to false. The logic is basic: if the current state is different from the old one, it generates an event. Clients connect to the server and subscribe to receive the events that they need. It is interesting because to send the events over the network, the server and client use the same TCP socket connection that they use for request-response messages.
+
 ### Day 2503: Building a Q&A Chatbot with RAG
 
 Today I was learning some AI concepts related about how to build a Q&A Chatbot using RAG while reading my current book. I learned about Semantic search, RAG, Embedding, Vector databases, architectures for data ingestion fro raw data like PDF files into a vector database using embeddings. The general idea for this book chapter, is to build a Q&A Chatbot that can answer questions about a specific topic, using RAG to retrieve information and include the retrieved context into the prompt. Learning about all this AI stuff was amazing, there are much AI knowledge to learn and practice, for the moment I want to complete the book and focus on building the project in which I am working.
