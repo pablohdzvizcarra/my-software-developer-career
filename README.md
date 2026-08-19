@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2505: Adding Memory to my Q&A Chatbot
+
+Today I was learning how Chatbot applications add a memory layer to remember the user conversation history. I used the LangChain API `ChatMessageHistory` to configure a basic message history of the messages send by the user. The general idea for this feature was save on the ChatMessageHistory the user prompt and save the AI response to the user prompt, next when the user ask another questions we include the full conversation history into the prompt to provide context to the AI model. It is interesting the ChatMessageHistory API, because it provides a simple way to manage the conversation history, and it is easy to use, I recommend you to use it if you need to add memory to your chatbot application. In the following book section we will use LangSmith to add monitoring to our chains.
+
 ### Day 2504: Publish-Subscribe Architecture and Shared TCP Sockets
 
 Today I was learning how a publish-subscribe architecture works. In this implementation, we have a server that works as the publisher. This server generates hardware events when it detects status changes, such as transitioning a property from true to false. The logic is basic: if the current state is different from the old one, it generates an event. Clients connect to the server and subscribe to receive the events that they need. It is interesting because to send the events over the network, the server and client use the same TCP socket connection that they use for request-response messages.
