@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2506: Technical Vision
+
+Today while reading the `Staff engineers path` book I learned about the importance of have a Technical vision within the team, A team can have N number of technical visions, these visions will be used as the team north stars. A technical vision can be something like we know that X component is causing multiple so we need to start to fix it, our vision is the bugs produced by the component will reduce significantly in the next 6 months. 
+
 ### Day 2505: Adding Memory to my Q&A Chatbot
 
 Today I was learning how Chatbot applications add a memory layer to remember the user conversation history. I used the LangChain API `ChatMessageHistory` to configure a basic message history of the messages send by the user. The general idea for this feature was save on the ChatMessageHistory the user prompt and save the AI response to the user prompt, next when the user ask another questions we include the full conversation history into the prompt to provide context to the AI model. It is interesting the ChatMessageHistory API, because it provides a simple way to manage the conversation history, and it is easy to use, I recommend you to use it if you need to add memory to your chatbot application. In the following book section we will use LangSmith to add monitoring to our chains.
