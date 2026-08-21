@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2507: Ingestion Techniques
+
+Today, I studied why the ingestion phase is so important when building a RAG architecture. When ingesting data into a vector database, it is essential to understand the type of content you are working with so that you can choose the most appropriate ingestion technique. Semi-structured and multimodal content require different approaches and processing methods. I learned that one effective technique is to create multiple embeddings for a single chunk of text to represent the content in different ways. For example, one embedding can capture the broader context and overall meaning, while another can focus on more detailed information within the content. This approach can help improve retrieval quality and the accuracy of generated responses. I will continue reading the book and learning more about these techniques.
+
 ### Day 2506: Technical Vision
 
 Today while reading the `Staff engineers path` book I learned about the importance of have a Technical vision within the team, A team can have N number of technical visions, these visions will be used as the team north stars. A technical vision can be something like we know that X component is causing multiple so we need to start to fix it, our vision is the bugs produced by the component will reduce significantly in the next 6 months. 
