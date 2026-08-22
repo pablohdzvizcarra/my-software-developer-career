@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2508: Querying ChromaDB
+
+Today, I worked with two ChromaDB databases that were ingested using coarse and detailed ingestion techniques. For the coarse ingestion approach, we split entire HTML documents into chunks of approximately 3,000 words. For the detailed ingestion approach, we used an HTML loader that is aware of the document's structure and processes the content accordingly. One issue I observed is that the HTML loader requires additional sanitization steps. Currently, it stores irrelevant data, such as HTML headers and metadata, in ChromaDB. As a result, when performing similarity searches, we sometimes receive unexpected or inaccurate results because the query matches this extraneous content instead of the meaningful document content. I would like to continue learning more about ingestion and querying techniques to better understand how to improve data quality and retrieval accuracy.
+
 ### Day 2507: Ingestion Techniques
 
 Today, I studied why the ingestion phase is so important when building a RAG architecture. When ingesting data into a vector database, it is essential to understand the type of content you are working with so that you can choose the most appropriate ingestion technique. Semi-structured and multimodal content require different approaches and processing methods. I learned that one effective technique is to create multiple embeddings for a single chunk of text to represent the content in different ways. For example, one embedding can capture the broader context and overall meaning, while another can focus on more detailed information within the content. This approach can help improve retrieval quality and the accuracy of generated responses. I will continue reading the book and learning more about these techniques.
