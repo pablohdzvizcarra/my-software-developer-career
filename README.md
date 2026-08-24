@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2510: Debugging LLMs Running Locally
+
+Today, I debugged an issue in an LLM chain where I generate four hypothetical questions from a 3,000-character chunk. The main problem was that the code occasionally seemed to get stuck processing a chunk, causing high CPU usage and making my MacBook fans spin up under the heavy workload. I realized that generating questions in a tight `for` loop without breaks overwhelmed the machine, so introducing a sleep mechanism helped throttle the requests. Additionally, I learned how to set an output token limit for each LLM call. This limit is essential because, without it, hallucinations can trigger repetitive output loops and consume excessive CPU cycles. I plan to continue experimenting with local LLMs using `LangChain` and `Ollama`.
+
 ### Day 2509: Testing Queries
 
 Today I continue learning ingestion techniques within ChromaDB and LangChain. I write a code that from an HTML document, split it into 3000 `Coarse` chunks, and from the sme big chunk split it into 300 `Detailed` chunks. When following this pattern to ingest detailed chunks to the database and each chunk maintains a reference to the Parent document, you will get better results when performing a similarity search. Coarse chunks are very useful for Broader questions and detailed chunks are useful for more specific questions. I ingested multiple Wikipedia documents about Premier League clubs like Arsenal, Manchester United, Liverpool, etc. and next use a RAG architecture to ask user questions.
