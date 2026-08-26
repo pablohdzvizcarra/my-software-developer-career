@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2512: MCP Servers
+
+Today I have been creating an MCP server to connec to a remote server and execute X command. The general idea is using the IDE, I can connect to the remote server and execute commands to debug application logs like `grep`, `zgrep`, `tail`, etc. I learned how to open an SSH connection with paramiko and how to create a python a `ConnectionPool` that maintains active the connection and avoid close them. I want to continue working on this MCP to add more features/tools. 
+
 ### Day 2511: LLM 2-step RAG Chain
 
 Today I created a 2 main steps LLM Chain for a Q&A application. On the first Chain, given a user question, I use the `llama3.2:3b` model to rephrase the user question. I want to use a lightweight model for this task because rephrasing a user question is not a complicated task. On the second Chain I use the new refactored user question for the Q&A flow, using a RAG architecture to retrieve information from a Vector database, and next doing the LLM call. I liked this exercise, was very useful to understand that most of the times when we do a question or require a task to an AI agent, how the AI agent improve the prompt automatically under the hood.
