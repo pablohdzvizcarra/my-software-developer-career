@@ -6,6 +6,9 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2513: Written a Rewrite-Retrieve-Read Chain
+Today, I built a LangChain pipeline implementing the Rewrite-Retrieve-Read pattern. My implementation works as follows: given a user question, an LLM first rewrites it to optimize vector database retrieval. Next, those improved questions are used to query the vector database and retrieve relevant documents. Finally, a prompt is constructed using the original user question, the rewritten question, and the retrieved context. This prompt is then sent to an LLM to synthesize the final response. To build the chain, I used the VectorStoreRetriever, ChatOllama, and ChatPromptTemplate APIs. The ChatOllama API allows me to interact with the LLM for question-answering tasks. I plan to keep practicing these APIs and design patterns by writing more applications and building hands-on coding exercises. 
+
 ### Day 2512: MCP Servers
 
 Today I have been creating an MCP server to connec to a remote server and execute X command. The general idea is using the IDE, I can connect to the remote server and execute commands to debug application logs like `grep`, `zgrep`, `tail`, etc. I learned how to open an SSH connection with paramiko and how to create a python a `ConnectionPool` that maintains active the connection and avoid close them. I want to continue working on this MCP to add more features/tools. 
