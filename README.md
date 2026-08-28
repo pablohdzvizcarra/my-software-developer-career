@@ -6,7 +6,12 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2514: Multiple Queries Chain
+
+Today I created a LangChain chain in which from a given user question, we rephrase the user’s questions in more ways, like for example creating 5 more questions for an original question. Next, for each question, we perform a Vector database query to retrieve documents that match with a similarity search, to finally send the original user question and the retrieved information from the Vector database to the LLM to generate the user’s LLM response. This chain was very interesting because doing more queries to the database improves the LLM response.  
+
 ### Day 2513: Written a Rewrite-Retrieve-Read Chain
+
 Today, I built a LangChain pipeline implementing the Rewrite-Retrieve-Read pattern. My implementation works as follows: given a user question, an LLM first rewrites it to optimize vector database retrieval. Next, those improved questions are used to query the vector database and retrieve relevant documents. Finally, a prompt is constructed using the original user question, the rewritten question, and the retrieved context. This prompt is then sent to an LLM to synthesize the final response. To build the chain, I used the VectorStoreRetriever, ChatOllama, and ChatPromptTemplate APIs. The ChatOllama API allows me to interact with the LLM for question-answering tasks. I plan to keep practicing these APIs and design patterns by writing more applications and building hands-on coding exercises. 
 
 ### Day 2512: MCP Servers
