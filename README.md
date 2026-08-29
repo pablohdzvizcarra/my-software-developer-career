@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2515: Hypothetical Document Embeddings
+
+Today I build a LangChain chain that implements the HyDE pattern. The Hypothetical Document embedding is a retrieval technique in which you generate a hypothetical answer from a user query, and next we use the HyDE generated content to query the vector store and retrieve good information to finally synthesize the user response. The HyDE is divided in the following steps: Query Input, Draft Generation, Embedding, Retrieval and Generation. Query input is the user query that needs to be improved, the `Draft Generation` is when the LLM generate a response from the user input, `Embedding` when we create an embedding for the generated draft, `Retrieval` we perform a database similarity search to retrieve relevant content, to finally Generate a user response sending all the information to an LLM.   
+
 ### Day 2514: Multiple Queries Chain
 
 Today I created a LangChain chain in which from a given user question, we rephrase the user’s questions in more ways, like for example creating 5 more questions for an original question. Next, for each question, we perform a Vector database query to retrieve documents that match with a similarity search, to finally send the original user question and the retrieved information from the Vector database to the LLM to generate the user’s LLM response. This chain was very interesting because doing more queries to the database improves the LLM response.  
@@ -16,7 +20,7 @@ Today, I built a LangChain pipeline implementing the Rewrite-Retrieve-Read patte
 
 ### Day 2512: MCP Servers
 
-Today I have been creating an MCP server to connec to a remote server and execute X command. The general idea is using the IDE, I can connect to the remote server and execute commands to debug application logs like `grep`, `zgrep`, `tail`, etc. I learned how to open an SSH connection with paramiko and how to create a python a `ConnectionPool` that maintains active the connection and avoid close them. I want to continue working on this MCP to add more features/tools. 
+Today I have been creating an MCP server to connect to a remote server and execute X command. The general idea is using the IDE, I can connect to the remote server and execute commands to debug application logs like `grep`, `zgrep`, `tail`, etc. I learned how to open an SSH connection with paramiko and how to create a python a `ConnectionPool` that maintains active the connection and avoid close them. I want to continue working on this MCP to add more features/tools. 
 
 ### Day 2511: LLM 2-step RAG Chain
 
@@ -28,7 +32,7 @@ Today, I debugged an issue in an LLM chain where I generate four hypothetical qu
 
 ### Day 2509: Testing Queries
 
-Today I continue learning ingestion techniques within ChromaDB and LangChain. I write a code that from an HTML document, split it into 3000 `Coarse` chunks, and from the sme big chunk split it into 300 `Detailed` chunks. When following this pattern to ingest detailed chunks to the database and each chunk maintains a reference to the Parent document, you will get better results when performing a similarity search. Coarse chunks are very useful for Broader questions and detailed chunks are useful for more specific questions. I ingested multiple Wikipedia documents about Premier League clubs like Arsenal, Manchester United, Liverpool, etc. and next use a RAG architecture to ask user questions.
+Today I continue learning ingestion techniques within ChromaDB and LangChain. I write a code that from an HTML document, split it into 3000 `Coarse` chunks, and from the same big chunk split it into 300 `Detailed` chunks. When following this pattern to ingest detailed chunks to the database and each chunk maintains a reference to the Parent document, you will get better results when performing a similarity search. Coarse chunks are very useful for Broader questions and detailed chunks are useful for more specific questions. I ingested multiple Wikipedia documents about Premier League clubs like Arsenal, Manchester United, Liverpool, etc. and next use a RAG architecture to ask user questions.
 
 ### Day 2508: Querying ChromaDB
 
@@ -52,7 +56,7 @@ Today I was learning how a publish-subscribe architecture works. In this impleme
 
 ### Day 2503: Building a Q&A Chatbot with RAG
 
-Today I was learning some AI concepts related about how to build a Q&A Chatbot using RAG while reading my current book. I learned about Semantic search, RAG, Embedding, Vector databases, architectures for data ingestion fro raw data like PDF files into a vector database using embeddings. The general idea for this book chapter, is to build a Q&A Chatbot that can answer questions about a specific topic, using RAG to retrieve information and include the retrieved context into the prompt. Learning about all this AI stuff was amazing, there are much AI knowledge to learn and practice, for the moment I want to complete the book and focus on building the project in which I am working.
+Today I was learning some AI concepts related about how to build a Q&A Chatbot using RAG while reading my current book. I learned about Semantic search, RAG, Embedding, Vector databases, architectures for data ingestion for raw data like PDF files into a vector database using embeddings. The general idea for this book chapter, is to build a Q&A Chatbot that can answer questions about a specific topic, using RAG to retrieve information and include the retrieved context into the prompt. Learning about all this AI stuff was amazing, there are much AI knowledge to learn and practice, for the moment I want to complete the book and focus on building the project in which I am working.
 
 ### Day 2502: Completed Research Summarization Agent
 
@@ -60,7 +64,7 @@ Today I completed to build the research summarization agent started some days ag
 
 ### Day 2501: Research Summarization Agent
 
-Today I was building a research summarization agent with `LangChain` and some python libraries like `requests` and `BeautifulSoup`. The goal of this agent is use multiple AI tools and patterns to from a user query like `Give me information about the most popular programming language` do a research on web, collect relevant information, summary that information and reduce the results into one final result. I am using AI to improve the use query to be more specific on what information the AI model should collect and next use an specialized AI assistant to perform the web search. I am learning a lot about AI stuff while reading this book. 
+Today I was building a research summarization agent with `LangChain` and some python libraries like `requests` and `BeautifulSoup`. The goal of this agent is use multiple AI tools and patterns to from a user query like `Give me information about the most popular programming language` do a research on web, collect relevant information, summary that information and reduce the results into one final result. I am using AI to improve the use query to be more specific on what information the AI model should collect and next use a specialized AI assistant to perform the web search. I am learning a lot about AI stuff while reading this book. 
 
 ## History
 
