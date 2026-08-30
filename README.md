@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2516: Retrieving ChromaDB data with Metadata Filtering
+
+Today I was learning about Metadata Filtering on ChromaDB to retrieve only specific data from a database. I inserted multiple documents into the database with metadata like `destination` and `region`, next with the help of `QuerySQLDataBaseTool` and another LangChain APIs, I build 2 LangChain chains. One chain that from a user question, compose a SQL query with `Operation`, `Comparison` and `Comparator` APIs to filter data, next this query is used to filter the data in the vector database. The other chain, use LLM features that for a user question, generate an SQL query directly and next execute that query against the database to retrieve the filtered data. I liked this exercise because it helped me understand the difference between filtering data using SQL and using LLM features.
+
 ### Day 2515: Hypothetical Document Embeddings
 
 Today I build a LangChain chain that implements the HyDE pattern. The Hypothetical Document embedding is a retrieval technique in which you generate a hypothetical answer from a user query, and next we use the HyDE generated content to query the vector store and retrieve good information to finally synthesize the user response. The HyDE is divided in the following steps: Query Input, Draft Generation, Embedding, Retrieval and Generation. Query input is the user query that needs to be improved, the `Draft Generation` is when the LLM generate a response from the user input, `Embedding` when we create an embedding for the generated draft, `Retrieval` we perform a database similarity search to retrieve relevant content, to finally Generate a user response sending all the information to an LLM.   
