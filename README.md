@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2517: Optional Retriever and LangChain
+
+Today I build a LangChan chain in which from a user question, use the LLM to analyze the user question and create a structured output. The structured output just contains one `Field` called `retriever_type`, this retriever type is just a ENUM string with 2 options, chromadb_query and sqlite_query. Based on the LLM response, we use either a ChromaDB retriever (chromadb_query) or a SQL database retriever (sqlite_query). This is a very useful pattern to build flexible and efficient RAG applications. When you have your application data in two different databases with different types like a ChromaDB document database and a SQLite database, the main problem is how do you know which database query? For me learning about how to build this time of LLM applications, is a game changer, in the past you will need to use keywords matching to know how to do the next step in a conditional logic, now with LLMs you can easily get better results. 
+
 ### Day 2516: Retrieving ChromaDB data with Metadata Filtering
 
 Today I was learning about Metadata Filtering on ChromaDB to retrieve only specific data from a database. I inserted multiple documents into the database with metadata like `destination` and `region`, next with the help of `QuerySQLDataBaseTool` and another LangChain APIs, I build 2 LangChain chains. One chain that from a user question, compose a SQL query with `Operation`, `Comparison` and `Comparator` APIs to filter data, next this query is used to filter the data in the vector database. The other chain, use LLM features that for a user question, generate an SQL query directly and next execute that query against the database to retrieve the filtered data. I liked this exercise because it helped me understand the difference between filtering data using SQL and using LLM features.
