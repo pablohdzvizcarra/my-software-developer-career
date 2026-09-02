@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2519: Reciprocal Rank Fusion (RRF) Algorithm
+
+Today I created a LangChain chain in which we use the RRF algorithm to select the better documents retrieved from a ChromaDB and send them to the LLM to answer a user question. This chain was something complicated to implement because follow the next steps: From a user question, generate 5 derived questions designed to be used for do a similarity search on a ChromaDB. Next given that 5 questions, execute a parallel retrieve operation against the ChromaDB to retrieve documents, next we classify the documents adding a score to each one using the RRF algorithm, to finally do another LLM call and send the original user question and the top 3 documents as context to the LLM. I could not understand very good the algorithm, I know which problem solves, but I could not understand very good the implementation, my guess is because now that I know this algorithm exists, I can use it in the future if it is required.
+
 ### Day 2518: Studying about File Sockets and File Pointers
 
 Today I have been learning an interesting Client/Server pattern. On C code we create a Server UNIX domain socket that listen for incoming client connections, and when the server is initialized and ready to accept client connections, we save the file path of the Unix domain socket into a physical file on disk. When a client wants to connect to the server, it will need to review the content of the file pointer to know where the real Server socket is located and be able to create the client connection. This pattern is interesting, when you want to do `IPC` and want to add resiliency to support for example application crashes, it is a very good idea to do some dynamic work, like on this example when a Client connects dynamically to a server. Also I learned the `Fundamental Theorem of Software Engineering` what is: `Any problem in computer science can be solved with another level of indirection` this phrase is used like a joke that you can solve any problem thinking a different way, doing a different thing.  
