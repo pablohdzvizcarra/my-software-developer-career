@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2520: Consistency Issues
+
+Today I was debugging a consistency issue between two nodes. We are facing `Out-of-order Delivery` or `Concurrent Writes & Conflicts` errors in a `Bidirectional` architecture between two nodes. Debug these type of issues is very complicated because you will need to understand what is happening in both nodes, and understand the steps or conditions that needs to be happen in which order to be able to replicate the error and find the root cause. Really this issues are very complicated, but I believe that if you work hard and smarter like using AI tools to debug these errors maybe you can solve them faster that doing anything you like in the days before AI.
+
 ### Day 2519: Reciprocal Rank Fusion (RRF) Algorithm
 
 Today I created a LangChain chain in which we use the RRF algorithm to select the better documents retrieved from a ChromaDB and send them to the LLM to answer a user question. This chain was something complicated to implement because follow the next steps: From a user question, generate 5 derived questions designed to be used for do a similarity search on a ChromaDB. Next given that 5 questions, execute a parallel retrieve operation against the ChromaDB to retrieve documents, next we classify the documents adding a score to each one using the RRF algorithm, to finally do another LLM call and send the original user question and the top 3 documents as context to the LLM. I could not understand very good the algorithm, I know which problem solves, but I could not understand very good the implementation, my guess is because now that I know this algorithm exists, I can use it in the future if it is required.
