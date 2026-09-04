@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2521: Agentic Workflows
+
+Today I was remembering what is an Agentic Workflow while reading my current book. An Agentic workflow is an AI pattern in which you define some deterministic steps to accomplish a task, for example you want to automate a data analysis process, you can define a workflow with 3 deterministic steps, first step is to retrieve the required data to be analyzed, the second step can be clean up the data and prepare it to be send to the LLM in a prompt, maybe you will need to also retrieve more data fro another source to create a better report, final step is to send AI prompt to the LLM with the data and the instructions to generate a good and accurate report. The beauty of this workflow is that it is deterministic, meaning that it will always follow the same steps to accomplish the task. This basically is an Agentic Workflow because follow X steps to accomplish a task.
+
 ### Day 2520: Consistency Issues
 
 Today I was debugging a consistency issue between two nodes. We are facing `Out-of-order Delivery` or `Concurrent Writes & Conflicts` errors in a `Bidirectional` architecture between two nodes. Debug these type of issues is very complicated because you will need to understand what is happening in both nodes, and understand the steps or conditions that needs to be happen in which order to be able to replicate the error and find the root cause. Really this issues are very complicated, but I believe that if you work hard and smarter like using AI tools to debug these errors maybe you can solve them faster that doing anything you like in the days before AI.
