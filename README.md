@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2522: AI Tools & MCPs
+
+Today, I learned that AI agents can also use tools to expand their capabilities, such as retrieving data from an external source, such as a database or storage service. A tool is essentially a function that can be invoked by an AI agent using an LLM. These tools need to be registered with the AI agent, which will then decide when to use them. A tool is similar to an MCP, but the difference is that an MCP is a standard, whereas a tool can follow any format you want.
+
 ### Day 2521: Agentic Workflows
 
 Today I was remembering what is an Agentic Workflow while reading my current book. An Agentic workflow is an AI pattern in which you define some deterministic steps to accomplish a task, for example you want to automate a data analysis process, you can define a workflow with 3 deterministic steps, first step is to retrieve the required data to be analyzed, the second step can be clean up the data and prepare it to be send to the LLM in a prompt, maybe you will need to also retrieve more data fro another source to create a better report, final step is to send AI prompt to the LLM with the data and the instructions to generate a good and accurate report. The beauty of this workflow is that it is deterministic, meaning that it will always follow the same steps to accomplish the task. This basically is an Agentic Workflow because follow X steps to accomplish a task.
