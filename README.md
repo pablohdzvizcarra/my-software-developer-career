@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2523-24: Booking Agent
+
+Over the weekend I have been creating an AI agent that is able to use tools to get context from an external source. The general idea was to build and AI agent that is able from a user question about a town, use a tool to extract information from a vector database, another tool to search for the current weather in that town, and finally with all this information, use the LLM to generate a response to the user question. I first coordinate all these steps with a directed graph architecture with LangGraph and next use the LangGraph API to simplify this workflow. One of the problems when you simplify workflows like this, is you lost visibility of what is happening inside the workflow, which tool is called, the tool response and which steps were executed, I don't know if LangGraph have something like a debugging or verbose mode to have traces when you execute a workflow like, I used LangSmith to have monitoring to know which steps my AI agent is doing.
+
 ### Day 2522: AI Tools & MCPs
 
 Today, I learned that AI agents can also use tools to expand their capabilities, such as retrieving data from an external source, such as a database or storage service. A tool is essentially a function that can be invoked by an AI agent using an LLM. These tools need to be registered with the AI agent, which will then decide when to use them. A tool is similar to an MCP, but the difference is that an MCP is a standard, whereas a tool can follow any format you want.
