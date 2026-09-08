@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2525: Multi-agent System
+
+Today I build a multi-agent system that is able that from a user question, redirect the question to the specialized agent that is able to answer the user question. I used the `StateGraph` and `Command` LangGraph APIs to build this multi-agent system. I created a `StateGraph` that have as nodes 3 different agents, router_agent, travel_info_agent and accommodation_booking_agent. The router_agent just have the responsability that from a user question, returns as structured output the correct agent to execute this request. Next the request is executed in travel_info_agent or accommodation_booking_agent, each of these agents can use 2 tools to answer the user question. Building this application, I am understanding better which action happens when you question something in your IDE in the Agent chat, like GitHub Copilot Chat on VSC. Really there are a lot of stuff behind that do a lot of work to reason about the user question.
+
 ### Day 2523-24: Booking Agent
 
 Over the weekend I have been creating an AI agent that is able to use tools to get context from an external source. The general idea was to build and AI agent that is able from a user question about a town, use a tool to extract information from a vector database, another tool to search for the current weather in that town, and finally with all this information, use the LLM to generate a response to the user question. I first coordinate all these steps with a directed graph architecture with LangGraph and next use the LangGraph API to simplify this workflow. One of the problems when you simplify workflows like this, is you lost visibility of what is happening inside the workflow, which tool is called, the tool response and which steps were executed, I don't know if LangGraph have something like a debugging or verbose mode to have traces when you execute a workflow like, I used LangSmith to have monitoring to know which steps my AI agent is doing.
