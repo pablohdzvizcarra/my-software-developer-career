@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2526: Analyzing JAR Application with AI
+
+Today I was understanding how a Java JAR application works. I used an IDE with agent mode to understand how I can interact with a Java JAR library. This Java JAR library is used by another Java Swing application. I do this because I want to implement a feature from the Java Swing application but with a CLI application, so I will need to create a new CLI Java app and use the Java JAR library. This exercise was good. With the AI help, I can understand how to interact with the Java JAR library fast. At the end, I can build my CLI Java application and the results were the required.
+
 ### Day 2525: Multi-agent System
 
 Today I build a multi-agent system that is able that from a user question, redirect the question to the specialized agent that is able to answer the user question. I used the `StateGraph` and `Command` LangGraph APIs to build this multi-agent system. I created a `StateGraph` that have as nodes 3 different agents, router_agent, travel_info_agent and accommodation_booking_agent. The router_agent just have the responsability that from a user question, returns as structured output the correct agent to execute this request. Next the request is executed in travel_info_agent or accommodation_booking_agent, each of these agents can use 2 tools to answer the user question. Building this application, I am understanding better which action happens when you question something in your IDE in the Agent chat, like GitHub Copilot Chat on VSC. Really there are a lot of stuff behind that do a lot of work to reason about the user question.
