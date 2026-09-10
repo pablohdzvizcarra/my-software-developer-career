@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2527: MCP Development
+
+Today I was learning more about MCPs. I am creating an MCP to improve how I do a task on my work, rather than review an external tool to get information, I am building an MCP that can get that information and next do the task. I learned that for testig purposes, if the MCP was written with Python, you can test it with the Python REPL like a normal python aplication importing the function and next executing them. Another way to tes it is use the `modelcontextprotocol/inspector` NPM package, this package is amazing because open a Web UI in your browser, from that Web UI you can execute the MCP tools directly and get the results. I have the curiosity about how to build and MCP with Typescript, maybe over the weekend I will build a TypeScript MCP just for fun.
+
 ### Day 2526: Analyzing JAR Application with AI
 
 Today I was understanding how a Java JAR application works. I used an IDE with agent mode to understand how I can interact with a Java JAR library. This Java JAR library is used by another Java Swing application. I do this because I want to implement a feature from the Java Swing application but with a CLI application, so I will need to create a new CLI Java app and use the Java JAR library. This exercise was good. With the AI help, I can understand how to interact with the Java JAR library fast. At the end, I can build my CLI Java application and the results were the required.
