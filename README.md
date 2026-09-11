@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2528: Hardware Register Bitmask
+
+Today I have been studying about what are `Hardware Register Bitmask`. A bitmask for me is just that how we turn on/off bits from a byte, for example we can have a 4-byte bitmask and each bit represent something. When the hardware wants to communicate something like a condition happened, they register this condition turning on a bit within the bitmask, and next with code you can read the change condition and do any action that you need. I was learning this stuff because I am studying to understand how the hardware interacts with the firmware. I like to study this stuff is really amazing.
+
 ### Day 2527: MCP Development
 
 Today I was learning more about MCPs. I am creating an MCP to improve how I do a task on my work, rather than review an external tool to get information, I am building an MCP that can get that information and next do the task. I learned that for testig purposes, if the MCP was written with Python, you can test it with the Python REPL like a normal python aplication importing the function and next executing them. Another way to tes it is use the `modelcontextprotocol/inspector` NPM package, this package is amazing because open a Web UI in your browser, from that Web UI you can execute the MCP tools directly and get the results. I have the curiosity about how to build and MCP with Typescript, maybe over the weekend I will build a TypeScript MCP just for fun.
