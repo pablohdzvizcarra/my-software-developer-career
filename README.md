@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2529: Supervisor Pattern
+
+Today I learned the Supervisor AI pattern. The Supervisor pattern is basically an `Agent of Agents`, is an agent that is able to execute another agent to do a task, and also can execute multiple agents to complete the task. You can use the `create_supervisor` LangGraph API to create the supervisor, when you create the supervisor, you will need to provide a lits of agents created with the `create_react_agent` LangGraph API. It its interesting how LamgGraph have these high level APIs to build amazing AI stuff.
+
 ### Day 2528: Hardware Register Bitmask
 
 Today I have been studying about what are `Hardware Register Bitmask`. A bitmask for me is just that how we turn on/off bits from a byte, for example we can have a 4-byte bitmask and each bit represent something. When the hardware wants to communicate something like a condition happened, they register this condition turning on a bit within the bitmask, and next with code you can read the change condition and do any action that you need. I was learning this stuff because I am studying to understand how the hardware interacts with the firmware. I like to study this stuff is really amazing.
