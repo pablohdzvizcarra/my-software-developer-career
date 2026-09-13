@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2530: MCP Servers
+
+Today I studied more about MCP server while reading the `Building and Consuming MCP Servers` book chapter. I learned more about how the MCP protocol works, how to create an MCP server to be deployed in a remote server, how to connect to a remote MCP server using the `MultiServerMCPClient` LangChain API to be able to discover which tools the MCP server exposes to clients and use them with an AI agent like `create_react_agent` LangGraph. I do not know if a remote MCP server works like a local MCP, but for me a remote server is just an HTTP server that is listening on X port, waiting for incoming client connections and processing the MCP protocol messages. Thinking more about MCP, it is just that a basic TCP/HTTP client-server connection. An Agent normally called MCP host, can connect as a Client to multiple MCP servers.
+
 ### Day 2529: Supervisor Pattern
 
 Today I learned the Supervisor AI pattern. The Supervisor pattern is basically an `Agent of Agents`, is an agent that is able to execute another agent to do a task, and also can execute multiple agents to complete the task. You can use the `create_supervisor` LangGraph API to create the supervisor, when you create the supervisor, you will need to provide a lits of agents created with the `create_react_agent` LangGraph API. It its interesting how LamgGraph have these high level APIs to build amazing AI stuff.
