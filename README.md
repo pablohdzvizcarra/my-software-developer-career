@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2531: AI Agents Memory
+
+Today I was learning about how the AI Agents keep memory of the conversations. I learned that AI agents build with LangGraph can implement memory with a technique called `Checkpointer`. The `Checkpointer` is a LangGraph API that allows to save the state of a graph and later continue the execution from the last saved state. This is useful because if the execution crash for any reason, you can continue the execution from the last saved state, and the AI Agent doesn't need to start from scratch. Also I was thinking about how a LLM and AI Agent works, think of the LLM as the CPU and the AI Agent as an Operating System. 
+
 ### Day 2530: MCP Servers
 
 Today I studied more about MCP server while reading the `Building and Consuming MCP Servers` book chapter. I learned more about how the MCP protocol works, how to create an MCP server to be deployed in a remote server, how to connect to a remote MCP server using the `MultiServerMCPClient` LangChain API to be able to discover which tools the MCP server exposes to clients and use them with an AI agent like `create_react_agent` LangGraph. I do not know if a remote MCP server works like a local MCP, but for me a remote server is just an HTTP server that is listening on X port, waiting for incoming client connections and processing the MCP protocol messages. Thinking more about MCP, it is just that a basic TCP/HTTP client-server connection. An Agent normally called MCP host, can connect as a Client to multiple MCP servers.
