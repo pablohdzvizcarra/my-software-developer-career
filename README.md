@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2532: Graph State History
+
+Today I continue learning the Agent techniques to maintain memory of the user conversation. I used the `CompiledStateGraph.get_state_history` and `CompiledStateGraph.get_state` LangGraph APIs to resume an Agent operation from a given point in time within the internal Agent state. The `get_state_history` API is used to retrieve a list of Graph states. Imagine that when the Graph does an operation, before doing the operation, it saves its current state in a list for audit reasons. From the history state, you can extract snapshots, each containing Graph information like checkpoint_id and thread_id. Having these two values, you can create a configuration object to use the `get_state` API to retrieve the exact state for that checkpoint. The `invoke` API can be modified to execute a user request with this exact Graph state. It is interesting how the LangGraph architecture was built, thinking on reusability and easy client manipulation.
+
 ### Day 2531: AI Agents Memory
 
 Today I was learning about how the AI Agents keep memory of the conversations. I learned that AI agents build with LangGraph can implement memory with a technique called `Checkpointer`. The `Checkpointer` is a LangGraph API that allows to save the state of a graph and later continue the execution from the last saved state. This is useful because if the execution crash for any reason, you can continue the execution from the last saved state, and the AI Agent doesn't need to start from scratch. Also I was thinking about how a LLM and AI Agent works, think of the LLM as the CPU and the AI Agent as an Operating System. 
