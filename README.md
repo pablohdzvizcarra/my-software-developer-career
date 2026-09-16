@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2533: Agent Guardrails
+
+Today I learned common AI guardrail techniques that we need to implement to our Agent applications to avoid our application do another things for which was created or expose sensitive information. I learned that AI Guardrails fall into three main categories: `Rule-based`, `Retrieval-based`, and `Model-based`. `Rule-based` is like adding if statements to your code to review if the user request or model response contains some pattern within it, this pattern can be keywords. `Retrieval-based` is like using the same LLM to validate if the user request is valid or not. Like creating an LLM prompt to check if the user request can be answer by the Agent, imagine an AI agent for review RH information, there is no need that this agent attempt to answer questions related with code. `Model-based` I do not remember much about this technique, I will need to study again to understand how works.
+
 ### Day 2532: Graph State History
 
 Today I continue learning the Agent techniques to maintain memory of the user conversation. I used the `CompiledStateGraph.get_state_history` and `CompiledStateGraph.get_state` LangGraph APIs to resume an Agent operation from a given point in time within the internal Agent state. The `get_state_history` API is used to retrieve a list of Graph states. Imagine that when the Graph does an operation, before doing the operation, it saves its current state in a list for audit reasons. From the history state, you can extract snapshots, each containing Graph information like checkpoint_id and thread_id. Having these two values, you can create a configuration object to use the `get_state` API to retrieve the exact state for that checkpoint. The `invoke` API can be modified to execute a user request with this exact Graph state. It is interesting how the LangGraph architecture was built, thinking on reusability and easy client manipulation.
