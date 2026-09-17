@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2534: AI Agents and Applications Book
+
+Today I completed reading the `AI Agents and Applications With LangChain, LangGraph, and MCP` book. This book was amazing. I learned the low-level stuff related to how an AI agent is created, like the Agent mode in your favorite IDE like VSC. I did and completed all the code exercises, and also went beyond them to add more features to the agents created. I believe that after learning the foundations of AI agents, my confidence to work with AI was increased. Now it is time to put into practice everything that I learned. I want to take a break from studying and reading books to start creating amazing stuff.
+
 ### Day 2533: Agent Guardrails
 
 Today I learned common AI guardrail techniques that we need to implement to our Agent applications to avoid our application do another things for which was created or expose sensitive information. I learned that AI Guardrails fall into three main categories: `Rule-based`, `Retrieval-based`, and `Model-based`. `Rule-based` is like adding if statements to your code to review if the user request or model response contains some pattern within it, this pattern can be keywords. `Retrieval-based` is like using the same LLM to validate if the user request is valid or not. Like creating an LLM prompt to check if the user request can be answer by the Agent, imagine an AI agent for review RH information, there is no need that this agent attempt to answer questions related with code. `Model-based` I do not remember much about this technique, I will need to study again to understand how works.
