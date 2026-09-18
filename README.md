@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2535: Resource Starvation
+
+Today I was debugging a client error. The problem is that the client is doing a resource starvation on the server side due to the bunch of requests that it is sending to the server. Imagine that you have a queue within the server and threads read and process requests from that queue, but what happens when the queue is filled by just 1 client and no room is left for other clients? Well, I will need to study about rate-limit patterns to implement on the server side. Debugging issues like this is amazing because you can learn a lot about Software Architecture.
+
 ### Day 2534: AI Agents and Applications Book
 
 Today I completed reading the `AI Agents and Applications With LangChain, LangGraph, and MCP` book. This book was amazing. I learned the low-level stuff related to how an AI agent is created, like the Agent mode in your favorite IDE like VSC. I did and completed all the code exercises, and also went beyond them to add more features to the agents created. I believe that after learning the foundations of AI agents, my confidence to work with AI was increased. Now it is time to put into practice everything that I learned. I want to take a break from studying and reading books to start creating amazing stuff.
