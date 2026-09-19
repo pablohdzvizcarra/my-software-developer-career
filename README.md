@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2536: synchronized Keyword
+
+Today I have been debugging a multithreading code that was hung due to synchronization errors. My guess is because the code needs to call some method that are `synchronized`, another thread is maintaining the Lock and the main thread cannot continue with the execution. Imagine Thread A is processing something and it needs to call a method that is `synchronized`, so it acquires the Lock. Next, Thread B wants to do something and it needs to call that method too, but it cannot because Thread A has the Lock. So Thread B waits. But what happens if Thread A for any reason have an exception and never release the lock? The other threads will wait forever.  This is a classic error in multithreading programming called `Deadlock`. 
+
 ### Day 2535: Resource Starvation
 
 Today I was debugging a client error. The problem is that the client is doing a resource starvation on the server side due to the bunch of requests that it is sending to the server. Imagine that you have a queue within the server and threads read and process requests from that queue, but what happens when the queue is filled by just 1 client and no room is left for other clients? Well, I will need to study about rate-limit patterns to implement on the server side. Debugging issues like this is amazing because you can learn a lot about Software Architecture.
