@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2538: Active-Passive Architecture
+
+Today I was studying the Active-Passive architecture to understand how a technology works. On this technology we have a primary server handling 100% fo the workload and replicating configuration and the database changes to the standby server, to change the standby server to be the primary, we need to change it manually. The primary and standby server are connected over the network using TCP/IP, when both servers are working fine we achieve High Availability. I studied this architecture in the past when reading some books, but this is the first time that I see working on it on an application that I need to understand.
+
 ### Day 2537: JNI Application
 
 Today I have been leaning about low level stuff like how to read hardware metrics like I/O from the networks cards on my MacOS computer with the `getifaddrs` API. When we use this API, we get as a result a list of network interfaces with their addresses and metrics like bytes received and sended. I learned that in networking RX Data means Received/Inbound Data and TX Data means Transmitted/Outbound Data. I have curiosity about why I read variables in code that are called RX and TX, and not receive and transmit. This is just a networking jargon, but it is interesting how it has transcended to the code. I build a JNI application to learn how to architecture applications that need to bridge the gap between Java and C code, because if you use C code you will access to low-level APIs. Also it is interesting that if you forget to return a value to Java from C, you end up with strange behaviors in your application. 
