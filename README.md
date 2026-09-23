@@ -6,6 +6,11 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2539-40: AI Stuff
+
+Today I was learning more about AI stuff. I started to implement a pattern in which within an AI skill I call another AI skills.
+I started to use this pattern because sometimes if some condition happens, you will need to load an AI Skill to understand how to review the happened condition. I am learning that an MCP server is just like the tool to fetch data from an external source, database, server, REST API, etc. The AI skill is used to know which actions to take with the data, contains the logic to execute when you have the data, following this pattern you are removing business logic from the MCP and avoiding creating big MCP servers. I will need to continue learning more about AI stuff, for the moment I am learning what I need to complete my goals. 
+
 ### Day 2538: Active-Passive Architecture
 
 Today I was studying the Active-Passive architecture to understand how a technology works. On this technology we have a primary server handling 100% fo the workload and replicating configuration and the database changes to the standby server, to change the standby server to be the primary, we need to change it manually. The primary and standby server are connected over the network using TCP/IP, when both servers are working fine we achieve High Availability. I studied this architecture in the past when reading some books, but this is the first time that I see working on it on an application that I need to understand.
