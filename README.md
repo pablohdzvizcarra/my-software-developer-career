@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2541: Big-endian, Byte, Bits and Bitmask
+
+Today I was practicing more about how to check if a specific `bit` is on within a `byte`. I don't know why but I want to learn good these concepts, today I was coding something and needed to check if some bits are on within a 8-byte number, and really I have pain doing this task. I studied just a little these concepts in the past, but I want to practice and learn them this time good, so I will need to continue learning more about these concepts for the next days.
+
 ### Day 2539-40: AI Stuff
 
 Today I was learning more about AI stuff. I started to implement a pattern in which within an AI skill I call another AI skills.
