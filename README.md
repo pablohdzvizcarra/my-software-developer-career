@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2542: Continue Experiments with Bits and Bitmask
+
+Today I continue doing coding exercises to practice and learn how to read individual bits from bytes, like a 4-byte and 8-byte number. I learned that with Java Shift `<<` operator you can create a `bitmask` to check if a bit in X position is on. I continue with problems to understand LSB and MSB orders, big-endian and little-endian, so I have the plan to continue learning and practicing more of these concepts. Maybe look for an open source project to learn how the code uses it.
+
 ### Day 2541: Big-endian, Byte, Bits and Bitmask
 
 Today I was practicing more about how to check if a specific `bit` is on within a `byte`. I don't know why but I want to learn good these concepts, today I was coding something and needed to check if some bits are on within a 8-byte number, and really I have pain doing this task. I studied just a little these concepts in the past, but I want to practice and learn them this time good, so I will need to continue learning more about these concepts for the next days.
