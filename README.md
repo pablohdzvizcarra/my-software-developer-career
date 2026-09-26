@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2543: Debugging Complex Issues
+
+Today I was doing multi-tasking the majority of the day, really I don't like it but what happens when everything is critical? Multi-tasking and debugging complex error, are a not recipe for your brain. Also I practiced more the pattern to have over a TCP connection between client/server, another connection like an `Application-Layer` that follow a special protocol like sending heartbeats between the client/server to ensure both are working smoothly. It is very complicated debug this type of connections because most of the times there are no documentation to read and understand how works. 
+
 ### Day 2542: Continue Experiments with Bits and Bitmask
 
 Today I continue doing coding exercises to practice and learn how to read individual bits from bytes, like a 4-byte and 8-byte number. I learned that with Java Shift `<<` operator you can create a `bitmask` to check if a bit in X position is on. I continue with problems to understand LSB and MSB orders, big-endian and little-endian, so I have the plan to continue learning and practicing more of these concepts. Maybe look for an open source project to learn how the code uses it.
