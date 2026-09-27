@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2544: Command Processor
+
+Today I studied the `Command Processor` pattern. The design of this pattern is to have a user request or any type of action that needs to do within the server wrapped into a `Command`, next step is to use a `Command Processor` that normally from a `Queue`, pick up one `Command` and process it. This pattern is very useful because you can have N number of Command Processors processing request, you can easily implement a rate limiting, and many other things. I was debugging some code in which this pattern is useful, I want to take a look in open source projects like Kubernetes and Apache Kafka to see if this pattern also is used on it, to learn more about this pattern.
+
 ### Day 2543: Debugging Complex Issues
 
 Today I was doing multi-tasking the majority of the day, really I don't like it but what happens when everything is critical? Multi-tasking and debugging complex error, are a not recipe for your brain. Also I practiced more the pattern to have over a TCP connection between client/server, another connection like an `Application-Layer` that follow a special protocol like sending heartbeats between the client/server to ensure both are working smoothly. It is very complicated debug this type of connections because most of the times there are no documentation to read and understand how works. 
