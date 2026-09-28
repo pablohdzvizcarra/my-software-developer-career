@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2545: Task Control Block (TCB)
+
+Today I was studying the `Task Control Block` (TCB) concept. This is used in software and represents a Task that will be performed by a thread. It contains the task metadata like Task ID, Priority, timestamp, flags, etc. The task can be in different states like Created, Ready, Running, Paused and Terminated. For me is similar to the Command pattern in which a task is encapsulated within a Command, but a TCB is most used in Operating Systems. I was studying low-level stuff today like Host adapters, Firmware, I/O Protocols like FICON and SCSI-FCP, and Channel Programs. I don't know why but learning low level concepts is comfortable for me in the last months.
+
 ### Day 2544: Command Processor
 
 Today I studied the `Command Processor` pattern. The design of this pattern is to have a user request or any type of action that needs to do within the server wrapped into a `Command`, next step is to use a `Command Processor` that normally from a `Queue`, pick up one `Command` and process it. This pattern is very useful because you can have N number of Command Processors processing request, you can easily implement a rate limiting, and many other things. I was debugging some code in which this pattern is useful, I want to take a look in open source projects like Kubernetes and Apache Kafka to see if this pattern also is used on it, to learn more about this pattern.
