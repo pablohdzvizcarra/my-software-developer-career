@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2546: Debugging a Race Condition
+
+Today I was debugging a race condition error that is happening in a code because it is executed in the wrong order. Imagine you will need to perform task B, after task A, and also you introduce a new Task C that can be executed independently of A and B, but this task depends on task B, so some times Task A requires more time to be executed than the Task B, and if Task C starts to be executed before Task B, you will end up with a race condition error. This is a classic Happens-before error, the code is not multi-threading, actually it is single threaded so find the fix will not be very difficult.
+
 ### Day 2545: Task Control Block (TCB)
 
 Today I was studying the `Task Control Block` (TCB) concept. This is used in software and represents a Task that will be performed by a thread. It contains the task metadata like Task ID, Priority, timestamp, flags, etc. The task can be in different states like Created, Ready, Running, Paused and Terminated. For me is similar to the Command pattern in which a task is encapsulated within a Command, but a TCB is most used in Operating Systems. I was studying low-level stuff today like Host adapters, Firmware, I/O Protocols like FICON and SCSI-FCP, and Channel Programs. I don't know why but learning low level concepts is comfortable for me in the last months.
