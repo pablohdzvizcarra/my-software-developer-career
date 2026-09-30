@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2547: Performance Graphics
+
+Today I was learning what means a performance graphic is flat. A flat line indicates the performance of the metric that you are analyzing does not changed on the selected period. For example reviewing the graphic that contains the Disk IO operations for a 1-hour range and shows a flat line, that indicates the IO throughout was the same during the time period. Really, when I need to review this concepts my brain suffers, because are concepts new for me.
+
 ### Day 2546: Debugging a Race Condition
 
 Today I was debugging a race condition error that is happening in a code because it is executed in the wrong order. Imagine you will need to perform task B, after task A, and also you introduce a new Task C that can be executed independently of A and B, but this task depends on task B, so some times Task A requires more time to be executed than the Task B, and if Task C starts to be executed before Task B, you will end up with a race condition error. This is a classic Happens-before error, the code is not multi-threading, actually it is single threaded so find the fix will not be very difficult.
