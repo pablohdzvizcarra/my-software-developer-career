@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2548: FICON
+
+Today, I learned that FICON (Fibre Connectivity) is a high-speed input/output (I/O) protocol that utilizes Fibre Channel as its physical and transport layer. While it is primarily used for enterprise data center storage connectivity, FICON also serves as the foundational layer for other advanced technologies like IBM’s Geographically Dispersed Parallel Sysplex (GDPS), an automated data mirroring and disaster recovery solution. FICON enables synchronous data replication at the microsecond level. This allows enterprises to replicate petabytes of data synchronously across distances of up to 100+ kilometers between system components with virtually no performance degradation.
+
 ### Day 2547: Performance Graphics
 
 Today I was learning what means a performance graphic is flat. A flat line indicates the performance of the metric that you are analyzing does not changed on the selected period. For example reviewing the graphic that contains the Disk IO operations for a 1-hour range and shows a flat line, that indicates the IO throughout was the same during the time period. Really, when I need to review this concepts my brain suffers, because are concepts new for me.
