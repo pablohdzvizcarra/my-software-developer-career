@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2549: Python Scripting
+
+Today I was creating some python scripts to automate some work on my job. In the past I wrote scripts on Groovy but because the servers only have Python, I needed to create the skill with it. I like python is very amazing for scripting because you can do a lot of things with some lines of code and also Python is installed in any type of server, so most of the times you do not need to do an installation or configuration step to execute a Python script.
+
 ### Day 2548: FICON
 
 Today, I learned that FICON (Fibre Connectivity) is a high-speed input/output (I/O) protocol that utilizes Fibre Channel as its physical and transport layer. While it is primarily used for enterprise data center storage connectivity, FICON also serves as the foundational layer for other advanced technologies like IBM’s Geographically Dispersed Parallel Sysplex (GDPS), an automated data mirroring and disaster recovery solution. FICON enables synchronous data replication at the microsecond level. This allows enterprises to replicate petabytes of data synchronously across distances of up to 100+ kilometers between system components with virtually no performance degradation.
