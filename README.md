@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2550: Distributed System
+
+Today I was studying the architecture of a distributed system in which they need to maintain consistency between both nodes, so if a node fails for any reason, the other node can continue working and maintaining the system online. To achieve High Availability it is important to have 2 or more nodes running so if one of them fails, the other can continue working as the leader. I remembered that I studied these concepts while learning the Understanding Distributed systems book, but this is the first time in which I see a complex architecture like this working, some seconds of delay can cause a consistency issue between nodes and broke the entire HA of the system. Really it is very amazing how distributed systems and this type of software projects works. I want to continue learning about this over the weekend, and start to read some code like Kafka or Apache Cassandra to understand how they maintain consistency between nodes. 
+
 ### Day 2549: Python Scripting
 
 Today I was creating some python scripts to automate some work on my job. In the past I wrote scripts on Groovy but because the servers only have Python, I needed to create the skill with it. I like python is very amazing for scripting because you can do a lot of things with some lines of code and also Python is installed in any type of server, so most of the times you do not need to do an installation or configuration step to execute a Python script.
