@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2552: Organizing 2026 Goals
+
+Today I have been organizing my 2026 goals. I want to achieve the Software Developer certification Level 2 Experience during this year so I need to take some time to organizing and scheduling the pending tasks to achieve the certification. I will need to work into my next blog post, so I want to choice 2 topics I want to write about it. Also I read some Java code in which we have a executor pool that manage a client connection attempt, and when the connection is made, we create a separate thread that manages the client connection on the server side.
+
 ### Day 2551: Active-Standby Architecture
 
 Today I was studying the `Active-Standby` architecture. This architecture is used to achieve high availability in a software application. You have 2 or more nodes involved in this architecture. One is working as the primary node doing the normal activities, and the standby node normally is just idle but has the same state as the primary. Both nodes need to have the same state because in case of a failure, the standby node needs to work as the primary. Another studied concept was `Takeover/Failover` and `Split-brain scenario`. Takeover/Failure is when the standby server is promoted to be the primary. Takeover means manually the standby server is selected as the new primary and failover is when automatically the standby server is promoted to be the primary. Split-brain scenario is a common issue that sometimes happens when a network partition happens on the primary server and it loses the connection with the standby, so the failover happens but the problem is the primary is just having some networking issues that are fixed automatically some seconds later. The problem is now you have two nodes working as the primary and you will have a lot of consistency issues or errors because both nodes are doing multiple operations twice.
