@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2553: Secure Coding Challenges
+
+Today I begin my first securing code challenge in the `Secure Code Warrior` platform. This platform is a great place to practice best secure coding practices and learn how to write secure code. I solved today some challenges related to user `OS Command Injection` and `Deserialization of untrusted data`. OS command injection is when we do not verify the command that we want to execute on the OS with a command execution like adding an extra command `;` to remove something within the server. Deserialization of untrusted data is when we deserialize a stream of bytes into a Java object, but we don't validate if the stream that we want to deserialize is allowed. It is interesting to learn about secure best practices and the Secure Code Warrior platform is a great place; you participate in tournaments and get points for each completed exercise.   
+
 ### Day 2552: Organizing 2026 Goals
 
 Today I have been organizing my 2026 goals. I want to achieve the Software Developer certification Level 2 Experience during this year so I need to take some time to organizing and scheduling the pending tasks to achieve the certification. I will need to work into my next blog post, so I want to choice 2 topics I want to write about it. Also I read some Java code in which we have a executor pool that manage a client connection attempt, and when the connection is made, we create a separate thread that manages the client connection on the server side.
