@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2554: Watchdog Threads
+
+Today I was written some Java code to create some Watchdog threads that monitors the current state of an Object. The general idea was the watchdog thread needs to monitor object state like the last time a property was modified or an element to a list was added, and if a change was did on the Object, the watchdog thread needs to do an action like logging something, closing a connection or generate an event. Really sometimes we have an object that maintains a critical state and we need to know what things are happened within the object, so in case of a a failure you can create a theory about how the object state was changed over the time and why terminated in a inconsistent or error state. It is very amazing debug issues like this, because you feel like a detective taking facts, analyzing theories and try to figure out what happened.
+
 ### Day 2553: Secure Coding Challenges
 
 Today I begin my first securing code challenge in the `Secure Code Warrior` platform. This platform is a great place to practice best secure coding practices and learn how to write secure code. I solved today some challenges related to user `OS Command Injection` and `Deserialization of untrusted data`. OS command injection is when we do not verify the command that we want to execute on the OS with a command execution like adding an extra command `;` to remove something within the server. Deserialization of untrusted data is when we deserialize a stream of bytes into a Java object, but we don't validate if the stream that we want to deserialize is allowed. It is interesting to learn about secure best practices and the Secure Code Warrior platform is a great place; you participate in tournaments and get points for each completed exercise.   
