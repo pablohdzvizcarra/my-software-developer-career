@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2555: Exponential back-off
+
+Today I studied the retry algorithm to attempt to reconnect a Client to a server, when the client connection was closed for Client/Server reason. On this code implementation, when the connection is closed for neither client nor server side, I discovered that the connection is retry to be connect again immediately, and this was not good because maybe the server side is continue closing the connection but the client connection is already finish, so the general idea is to use the `back-off` algorithm to increase a wait time before attempt to reconnect again using at the beginning a 1000ms delay and next in consecutive reconnects, double the back-off value. I will continue learning more about this algorithm and how it is implemented in code.
+
 ### Day 2554: Watchdog Threads
 
 Today I was written some Java code to create some Watchdog threads that monitors the current state of an Object. The general idea was the watchdog thread needs to monitor object state like the last time a property was modified or an element to a list was added, and if a change was did on the Object, the watchdog thread needs to do an action like logging something, closing a connection or generate an event. Really sometimes we have an object that maintains a critical state and we need to know what things are happened within the object, so in case of a a failure you can create a theory about how the object state was changed over the time and why terminated in a inconsistent or error state. It is very amazing debug issues like this, because you feel like a detective taking facts, analyzing theories and try to figure out what happened.
