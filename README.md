@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2556: Logical Corruption
+
+Today I studied what logical corruption means in data and storage. Logical corruption means that your data was corrupted at a logical level like modified, encrypted, etc. The action to corrupt the logical data can be intentionally by an attacker but also by accident by an administrator that by error corrupted the data. In high-availability and disaster recovery scenarios related to data, most of the time it is enough to just have a backup of your data in another location, and if something wrong happens, you can easily restore the data to the latest backup. But logical corruption is different because most of the time you only detect that the data was corrupted until it happened. I am also learning about cyber resilience techniques related to data.  
+
 ### Day 2555: Exponential back-off
 
 Today I studied the retry algorithm to attempt to reconnect a Client to a server, when the client connection was closed for Client/Server reason. On this code implementation, when the connection is closed for neither client nor server side, I discovered that the connection is retry to be connect again immediately, and this was not good because maybe the server side is continue closing the connection but the client connection is already finish, so the general idea is to use the `back-off` algorithm to increase a wait time before attempt to reconnect again using at the beginning a 1000ms delay and next in consecutive reconnects, double the back-off value. I will continue learning more about this algorithm and how it is implemented in code.
