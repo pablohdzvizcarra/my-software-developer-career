@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2557: Logical Stuff
+
+Today I was studying logical representations used on Storage systems to save bytes. I learned that a `Track` is something like a logical container with a defined size for example `64KB` in which the system store the user bytes. Storing the bytes into this containers looks like is more efficient and facilitate the management. I don't know why but I am very interested in how storage system organize the information and how create logical representations to storage efficiently  the information within the physical hardware like RAM or Disk. I want to continue learning these topics over the weekend.
+
 ### Day 2556: Logical Corruption
 
 Today I studied what logical corruption means in data and storage. Logical corruption means that your data was corrupted at a logical level like modified, encrypted, etc. The action to corrupt the logical data can be intentionally by an attacker but also by accident by an administrator that by error corrupted the data. In high-availability and disaster recovery scenarios related to data, most of the time it is enough to just have a backup of your data in another location, and if something wrong happens, you can easily restore the data to the latest backup. But logical corruption is different because most of the time you only detect that the data was corrupted until it happened. I am also learning about cyber resilience techniques related to data.  
