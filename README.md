@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2558: Rank, Extent, Track, Sectors
+
+Today I have been learning Storage Virtualization concepts. I learned the storage architecture for the IBM DS8000 Storage system. The `Rank` is a logical representation of physical hardware. When you format and configure a Rank, you divide the Rank’s available space into `Extent`. An `Extent` is a logical representation of storage that belongs to an `Extent Pool`, but also an Extent is split into `Tracks`. A Track is where the customer data will be stored on Segments or Blocks. So the real user bytes are saved within Blocks. It is interesting how storage systems like the DS8K organize the logical components to allow management and saving of information with efficiency.  
+
 ### Day 2557: Logical Stuff
 
 Today I was studying logical representations used on Storage systems to save bytes. I learned that a `Track` is something like a logical container with a defined size for example `64KB` in which the system store the user bytes. Storing the bytes into this containers looks like is more efficient and facilitate the management. I don't know why but I am very interested in how storage system organize the information and how create logical representations to storage efficiently  the information within the physical hardware like RAM or Disk. I want to continue learning these topics over the weekend.
