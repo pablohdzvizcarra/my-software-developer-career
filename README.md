@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2561: Recovery Bitmap
+
+Today I was continue learning how a `Recovery Bitmap` can be used to know which bytes/tracks changed within 2 elements for example a 2 TXT files in two different points on time. For example you know the state of a text file at time `T1` and you review at `T2` which bytes/tracks were changed within the file, so you need a way to know the changed bytes from T1 -> T2, a technique is create a bitmap of the changed bytes and next you can use that bitmap to restore the file to the same content at TN, on this case T1.  We can use the words chunk, block, track or segment interchangeable to represent a region of space in which information is saved. 
+
 ### Day 2560: Consistency Group and Thaw
 
 Today I was studying Storage Backup concepts like `Consistency Group` and a strange word for me `Thaw`. A Consistency Group is something like the bytes/tracks that were overwritten by the host in a period of time, the old bytes are saved to a `Consistency Group Log`. Imagine that you being to monitor 2 text files, when bytes are changed from the any of these files, the old bytes are saved to the Consistency group log, so you are creating a copy of the modified bytes of any of these files for recovery actions. Now when you want to create a Consistency Group, you will need to freeze host IO to both files for a short period of time, after complete to create the Consistency Group you Thaw the text files and host IO is allow again. Really study these topics are very complicated for me, I have trouble to trying to explain them and these are good news because I am learning something new.   
