@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2562: TCP Write IO Timeout Operation
+
+Today I learned that when you perform a blocking I/O operation in languages like Java, Python, or Go, the OS kernel does not enforce a quick default timeout. If you do not set explicit timeouts at the code level, a blocking socket read will wait indefinitely if the remote peer stops sending data. While the kernel does have deep fallback mechanisms for dead connections (like TCP retransmission limits or keepalives), these take anywhere from minutes to hours to trigger, which can easily hang your application threads and exhaust resources. This was very interesting because it is something we often overlook as software engineers. Relying on default OS behavior for network I/O is risky, which is why configuring explicit timeouts in our application code is crucial.
+
 ### Day 2561: Recovery Bitmap
 
 Today I was continue learning how a `Recovery Bitmap` can be used to know which bytes/tracks changed within 2 elements for example a 2 TXT files in two different points on time. For example you know the state of a text file at time `T1` and you review at `T2` which bytes/tracks were changed within the file, so you need a way to know the changed bytes from T1 -> T2, a technique is create a bitmap of the changed bytes and next you can use that bitmap to restore the file to the same content at TN, on this case T1.  We can use the words chunk, block, track or segment interchangeable to represent a region of space in which information is saved. 
