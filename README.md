@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2563: Socket JDK API
+
+Today I was learning how the `Socket` Java API. I studied the `setKeepAlive` method to enable/disable the SO_KEEPALIVE option for the TCP socket connection. This method configures whether the Socket sends a TCP packet that works as a heartbeat to the other remote peer; if the remote peer does not send packets to the server in a period of time (2 hours by default in most operating systems) the connection is considered dead and the Socket is closed. I want to continue learning TCP and Networking stuff like this for the next few days.
+
 ### Day 2562: TCP Write IO Timeout Operation
 
 Today I learned that when you perform a blocking I/O operation in languages like Java, Python, or Go, the OS kernel does not enforce a quick default timeout. If you do not set explicit timeouts at the code level, a blocking socket read will wait indefinitely if the remote peer stops sending data. While the kernel does have deep fallback mechanisms for dead connections (like TCP retransmission limits or keepalives), these take anywhere from minutes to hours to trigger, which can easily hang your application threads and exhaust resources. This was very interesting because it is something we often overlook as software engineers. Relying on default OS behavior for network I/O is risky, which is why configuring explicit timeouts in our application code is crucial.
