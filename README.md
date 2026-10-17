@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2564: High Availability and Disaster Recovery
+
+Today I was learning the concepts of high-availability and disaster recovery techniques while learning the architecture of IBM Copy Service Manager technology. High-availability is when your application or system supports scenarios when your primary server is down for any reason and you have a secondary server normally in standby state, ready to be the new primary if needed. Imagine a scenario when the server running your application crashes for any reason; if you have a secondary server, you can easily make the secondary the new primary and continue working without issues. Disaster recovery technique is something similar to high-availability but is more for when something catastrophic happens to maybe the data center running your application, like an energy shutdown or earthquake. Learning this architecture design is good, but it is complicated to remember everything; my guess is maybe next time I listen to people talking about these concepts, I can understand a little about the conversation. I don't know; this stuff is very interesting and sometimes hard to understand.
+
 ### Day 2563: Socket JDK API
 
 Today I was learning how the `Socket` Java API. I studied the `setKeepAlive` method to enable/disable the SO_KEEPALIVE option for the TCP socket connection. This method configures whether the Socket sends a TCP packet that works as a heartbeat to the other remote peer; if the remote peer does not send packets to the server in a period of time (2 hours by default in most operating systems) the connection is considered dead and the Socket is closed. I want to continue learning TCP and Networking stuff like this for the next few days.
