@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2565: Backup Information
+
+Today I was learning backup information techniques at the virtualization level. When we have bytes stored in a logical volume, sometimes we want to  back them up in case we need to recover the information. One common technique is to replicate the information to another logical volume in a synchronous way; we can also replicate the information in an asynchronous way. Another technique is to take Snapshots of the current volume state, so we can recover the information at a point in time, like the exact information the volume has at 00:00 midnight. One technique to take snapshots is to save the snapshot information within the same volume and not allow external access, only allowing access through special recovery software. This technique is called logical division. I want to learn more about these techniques and continue doing exercises to understand them better.
+
 ### Day 2564: High Availability and Disaster Recovery
 
 Today I was learning the concepts of high-availability and disaster recovery techniques while learning the architecture of IBM Copy Service Manager technology. High-availability is when your application or system supports scenarios when your primary server is down for any reason and you have a secondary server normally in standby state, ready to be the new primary if needed. Imagine a scenario when the server running your application crashes for any reason; if you have a secondary server, you can easily make the secondary the new primary and continue working without issues. Disaster recovery technique is something similar to high-availability but is more for when something catastrophic happens to maybe the data center running your application, like an energy shutdown or earthquake. Learning this architecture design is good, but it is complicated to remember everything; my guess is maybe next time I listen to people talking about these concepts, I can understand a little about the conversation. I don't know; this stuff is very interesting and sometimes hard to understand.
