@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2566: Handler and Broadcast
+
+Today I was studying the Client-Server architecture. We know that in a classic Client-server architecture, N number of clients can connect to a server to write and read bytes through the TCP socket connection, and sometimes the same Server is a client of another server, I learned that one way to connect as client to a server is by broadcast, in Distributed systems is normal to have N number of nodes for your application, but how can you connect as a Client to N servers? How can you know which servers are online? I want to continue learning more about broadcast techniques because for the moment are not well understanding by me. 
+
 ### Day 2565: Backup Information
 
 Today I was learning backup information techniques at the virtualization level. When we have bytes stored in a logical volume, sometimes we want to  back them up in case we need to recover the information. One common technique is to replicate the information to another logical volume in a synchronous way; we can also replicate the information in an asynchronous way. Another technique is to take Snapshots of the current volume state, so we can recover the information at a point in time, like the exact information the volume has at 00:00 midnight. One technique to take snapshots is to save the snapshot information within the same volume and not allow external access, only allowing access through special recovery software. This technique is called logical division. I want to learn more about these techniques and continue doing exercises to understand them better.
