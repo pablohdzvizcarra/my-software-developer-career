@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2567: Change Recording bitmap
+
+Today I studied that a bitmap is just an array of bits (0s and 1s) where each bit represents an element for the bitmap context. I studied the Change Recording Bitmap data structure that can be used to know which blocks changed since a specific point in time. Imagine that you have 1,000,000 blocks, and you want to back up just the blocks that changed since the last 10 minutes; the brute-force way to do that is to review the 1,000,000 blocks with the previous version and check the ones that are not equal. That is a very expensive task; with a bitmap, you only need to analyze the bits within the bitmap and select the bits that are 0, next map the bit to a block normally by position, and that is all. You will require just `1,000,000 / 8` `int`s within the bitmap to track all the available blocks. This concept is very interesting; I have an interesting idea: write a Java application that includes the usage of Sockets, Handler, Broadcast, and Bitmap to better understand the concepts learned over the last few days.
+
 ### Day 2566: Handler and Broadcast
 
 Today I was studying the Client-Server architecture. We know that in a classic Client-server architecture, N number of clients can connect to a server to write and read bytes through the TCP socket connection, and sometimes the same Server is a client of another server, I learned that one way to connect as client to a server is by broadcast, in Distributed systems is normal to have N number of nodes for your application, but how can you connect as a Client to N servers? How can you know which servers are online? I want to continue learning more about broadcast techniques because for the moment are not well understanding by me. 
