@@ -8,7 +8,7 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ### Day 2570: System Properties
 
-Today I was remembering what is the Provisioned Capacity of a Storage system. The provisioned capacity os the total logical storage space assigned to a server or component, like you create a Container and you assign 10GB of logical space to it. This is a system property that is used to define how much capacity will have the server or storage system. There are multiple term in Storage technologies like Provisioned Capacity, Raw Capacity, Usable Capacity, Overhead Capacity, etc. Learning and understand all of them requires time, and practice, my guess is maybe after learn the concepts again and again in some point will click on my head. 
+Today I was remembering what the Provisioned Capacity of a Storage system is. The provisioned capacity os the total logical storage space assigned to a server or component, like when you create a Container and assign 10GB of logical space to it. This is a system property used to define how much capacity the server or storage system will have. There are multiple terms in Storage technologies, such as Provisioned Capacity, Raw Capacity, Usable Capacity, Overhead Capacity, etc. Learning and understanding all of them requires time and practice; my guess is that maybe after learning the concepts again and again, it will click in my head at some point.
 
 ### Day 2569: Wall and Monotonic Clocks
 
