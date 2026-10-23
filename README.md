@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2570: System Properties
+
+Today I was remembering what is the Provisioned Capacity of a Storage system. The provisioned capacity os the total logical storage space assigned to a server or component, like you create a Container and you assign 10GB of logical space to it. This is a system property that is used to define how much capacity will have the server or storage system. There are multiple term in Storage technologies like Provisioned Capacity, Raw Capacity, Usable Capacity, Overhead Capacity, etc. Learning and understand all of them requires time, and practice, my guess is maybe after learn the concepts again and again in some point will click on my head. 
+
 ### Day 2569: Wall and Monotonic Clocks
 
 Today I studied what Wall Clock and Monotonic Clock are. Wall clock is the time that you can see, like in a clock in your house, the time in your cellphone, TV, etc. In Java, you can know the current wall clock by using the `System.currentTimeMillis()` Java API, this API returns the current wall clock value at the moment it was executed. I see multiple times in different codebases that to measure how much time a method requires to be executed, we use `currentTimeMillis` to know that, but one of the trade-offs is that the Wall clock can be modified manually. So imagine that you have a process that runs every 1 hour and you use the wall clock to check if an hour has passed; if someone modifies the clock manually, like subtracting 10 minutes, your code will be executed 10 minutes later. I learned that a better approach is to use a Monotonic clock; this clock is like a sequence that is initialized when your PC turns on and moves forward. The advantage is that this clock is not affected by manual modifications to the PC time. So you can use it to measure the performance of a method or general benchmark code performance.
