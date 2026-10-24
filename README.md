@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2571: Storage Hierarchy
+
+Today I was learning about Storage Virtualization hierarchy layers. I don't know if the concept is correct, but I learned how multiple Logical storage elements are grouped together and the relationship between them. In storage software, my guess is that most of the time we manage the hardware that stores the bytes on logical components like Segments or Tracks, and we can also have other components to store these logical components. I know it sounds complicated at first glance, but when you understand why this technology, abstraction layer, or extra space is required, you will understand the reason for the concept. It is amazing, the design and architecture of Storage systems and storage architecture. I will continue learning more about this stuff.
+
 ### Day 2570: System Properties
 
 Today I was remembering what the Provisioned Capacity of a Storage system is. The provisioned capacity os the total logical storage space assigned to a server or component, like when you create a Container and assign 10GB of logical space to it. This is a system property used to define how much capacity the server or storage system will have. There are multiple terms in Storage technologies, such as Provisioned Capacity, Raw Capacity, Usable Capacity, Overhead Capacity, etc. Learning and understanding all of them requires time and practice; my guess is that maybe after learning the concepts again and again, it will click in my head at some point.
