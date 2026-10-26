@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2572-73: Continue Learning Storage Virtualization + Vacation Time
+
+I continue learning more Virtualization Storage techniques and technologies over the weekend. I learned about the Thin-provisioned method that is used to create a logical representation of a volume with X quantity of space, for example a volume with 1TB of storage, the advantage of thin-provisioned is that the physical storage space is just allocated dynamically when the data is written to the volume. Another concept is `Overhead` that is the space that is used to manage the volume, like the metadata, the block mappings, etc. Also I will take some vacation time, maybe I will relax for code activities, but I do not know.  
+
 ### Day 2571: Storage Hierarchy
 
 Today I was learning about Storage Virtualization hierarchy layers. I don't know if the concept is correct, but I learned how multiple Logical storage elements are grouped together and the relationship between them. In storage software, my guess is that most of the time we manage the hardware that stores the bytes on logical components like Segments or Tracks, and we can also have other components to store these logical components. I know it sounds complicated at first glance, but when you understand why this technology, abstraction layer, or extra space is required, you will understand the reason for the concept. It is amazing, the design and architecture of Storage systems and storage architecture. I will continue learning more about this stuff.
