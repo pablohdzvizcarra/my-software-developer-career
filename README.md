@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2574-82: End of Vacation Time
+
+My vacation time was completed, so I will start to resume my normal cooking activities. I want to continue working on my pending items for the Developer certification and continue reading the IBM Redbook. I notice something: doing my normal work activities + learning more about the product in which I work outside my working hours is not feeling like I am learning something for fun or pleasure. I don't know how to say it, but it is like all the time I am working. So I will need to reflect on these feelings and maybe take a breath from learning work stuff and begin to read a new book that I want, like something related to operating systems.
+
 ### Day 2572-73: Continue Learning Storage Virtualization + Vacation Time
 
 I continue learning more Virtualization Storage techniques and technologies over the weekend. I learned about the Thin-provisioned method that is used to create a logical representation of a volume with X quantity of space, for example a volume with 1TB of storage, the advantage of thin-provisioned is that the physical storage space is just allocated dynamically when the data is written to the volume. Another concept is `Overhead` that is the space that is used to manage the volume, like the metadata, the block mappings, etc. Also I will take some vacation time, maybe I will relax for code activities, but I do not know.  
