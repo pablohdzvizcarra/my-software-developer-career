@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2583: Storage Abstractions & Logical Blocks
+
+Today I learned that Storage Systems uses Storage abstractions like `Block` to abstract raw physical hardware like Disk storage and RAM memory. The `Block` is a logical unit that have a defined size, for example a `block=512 bytes`, This Block abstraction allow the storage system to read and write data consistently without needing to know the physical geometry or hardware. One trade-off about these storage abstraction is the `metadata overhead` because you will need to have some metadata to manage the Block information, if you choose tiny size blocks like 512 bytes and you have a millions of Blocks you end up with wasting hardware resources to storage the block metadata, with a block with large size like 4KB, you reduce the quantity of blocks to maintain.
+
 ### Day 2574-82: End of Vacation Time
 
 My vacation time was completed, so I will start to resume my normal cooking activities. I want to continue working on my pending items for the Developer certification and continue reading the IBM Redbook. I notice something: doing my normal work activities + learning more about the product in which I work outside my working hours is not feeling like I am learning something for fun or pleasure. I don't know how to say it, but it is like all the time I am working. So I will need to reflect on these feelings and maybe take a breath from learning work stuff and begin to read a new book that I want, like something related to operating systems.
