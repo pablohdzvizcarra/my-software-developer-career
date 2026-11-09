@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2586-87: Hang Issues
+
+Today I have been learning about hang issues in computer science. I learned that a `Resource Leak` can cause hangs when a resource your logic is waiting for is lost or never freed. Reference Counting involves tracking references with a counter that triggers an action at a specific value; if the algorithm managing the counter contains a bug, the counter may never reach the target value, preventing the action from occurring. Finally, `Last Wakeup` (often referred to as a missed or lost wakeup) is a pattern where a thread waits for a condition to be completed by another component. If that component fails to notify or wake up the waiting thread, the thread remains blocked and hangs indefinitely.
+
 ### Day 2585: Design Documents
 
 Today I was researching best practices to write good software design documents and doing modifications to a design document. Most of the times developers do not write any documentation for a Software feature, and one of the main problems about do not write documentation is you could not share your understanding about the current problem that you are facing or how do you plan to solve a problem. I don't enjoy writing these documents, but I know that are necessary and well its part of our job as a software engineers.
