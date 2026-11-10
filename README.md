@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2588: Debugging Exceptions with AI
+
+Today while reading the Java Pro 10-2026 magazine, I read about an interesting pattern in which we use AI agents to debug exceptions when they happen, analyze the exception, and send a notification to the development team about the exception. AI can generate insights about why the exception happened in the first place and also offer code fixes. I have never thought of this pattern yet, but it is very interesting. I imagine that your application will suffer a memory leak, and you don't know where it is happening, so an AI agent can know that if an exception happened because of a memory leak, restarting the application will be enough to recover your application. Really, this is very powerful. The trade-off is what happens if the AI agent makes a mistake? Well, this is one of the main problems with AI in general: it can make assumptions and make mistakes.
+
 ### Day 2586-87: Hang Issues
 
 Today I have been learning about hang issues in computer science. I learned that a `Resource Leak` can cause hangs when a resource your logic is waiting for is lost or never freed. Reference Counting involves tracking references with a counter that triggers an action at a specific value; if the algorithm managing the counter contains a bug, the counter may never reach the target value, preventing the action from occurring. Finally, `Last Wakeup` (often referred to as a missed or lost wakeup) is a pattern where a thread waits for a condition to be completed by another component. If that component fails to notify or wake up the waiting thread, the thread remains blocked and hangs indefinitely.
