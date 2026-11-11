@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2589: Write Monitoring Bitmap
+
+Today I have been studying how a `Write Monitoring Bitmap` works that can be used to know IO write activity. Imagine that you have a Block storage application, and you want to know how many blocks changed for today; you will need to implement a bitmap to track the changed blocks. Most of the time, within a bitmap, a block is mapped to a bit. A bitmap is a data structure used to track the state of something in a lightweight way; normally, a bitmap is saved in application memory to avoid the cost of disk I remember that I created a bitmap doing data structures and algorithms code exercises. 
+
 ### Day 2588: Debugging Exceptions with AI
 
 Today while reading the Java Pro 10-2026 magazine, I read about an interesting pattern in which we use AI agents to debug exceptions when they happen, analyze the exception, and send a notification to the development team about the exception. AI can generate insights about why the exception happened in the first place and also offer code fixes. I have never thought of this pattern yet, but it is very interesting. I imagine that your application will suffer a memory leak, and you don't know where it is happening, so an AI agent can know that if an exception happened because of a memory leak, restarting the application will be enough to recover your application. Really, this is very powerful. The trade-off is what happens if the AI agent makes a mistake? Well, this is one of the main problems with AI in general: it can make assumptions and make mistakes.
