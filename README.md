@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2590: streamable-http 
+
+Today I learned how to configure an MCP server to use the `streamable-http` transport layer. This transport layer is like how an HTTP connection works between a client and server. I will continue learning more about the MCP protocol. I didn’t know that an MCP server can be called with Curl like an HTTP Server application; also, you can use Python libraries like `requests` to call the MCP server with Python. Calling an MCP server with HTTP requests is very useful because you can generate any type of application, and this app will call your MCP server. I want to continue learning more about MCP servers.  
+
 ### Day 2589: Write Monitoring Bitmap
 
 Today I have been studying how a `Write Monitoring Bitmap` works that can be used to know IO write activity. Imagine that you have a Block storage application, and you want to know how many blocks changed for today; you will need to implement a bitmap to track the changed blocks. Most of the time, within a bitmap, a block is mapped to a bit. A bitmap is a data structure used to track the state of something in a lightweight way; normally, a bitmap is saved in application memory to avoid the cost of disk I remember that I created a bitmap doing data structures and algorithms code exercises. 
