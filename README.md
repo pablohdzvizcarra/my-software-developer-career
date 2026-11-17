@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### day2591-2595 Setting Goals and Reading
+
+I take some free time from coding over the weekend. How do you know? Some days ago, Microsoft had an outage, and multiple applications like Outlook were down. Well, I have a relaxed Friday at work, and today, Monday, we had a holiday in Mexico, so I didn’t work. I began to read the “Own Your Tech Career” book again because I was starting to feel lost on the mornings and weekends, waking up early but just watching the PC without a clear goal in my mind that would help me move forward toward my goals. I started reading Chapter 1 of the book and doing the writing exercises the book has. It was amazing because I wrote down my goals again in a CSV file, organized my goals, rethought what success looks like for me, and thought deeply about my next steps to achieve my goals. Well, after reading Chapter 1 and doing the writing exercises, I felt better and immediately began to do my stuff, advancing toward my success by doing the job that needs to be done. I believe that the problem is not burnout in my case; the problem was that I didn’t have my goals clear in my mind, so I started to feel lost. I recommend that anyone who starts to feel lost read that book; it is amazing.
+
 ### Day 2590: streamable-http 
 
 Today I learned how to configure an MCP server to use the `streamable-http` transport layer. This transport layer is like how an HTTP connection works between a client and server. I will continue learning more about the MCP protocol. I didn’t know that an MCP server can be called with Curl like an HTTP Server application; also, you can use Python libraries like `requests` to call the MCP server with Python. Calling an MCP server with HTTP requests is very useful because you can generate any type of application, and this app will call your MCP server. I want to continue learning more about MCP servers.  
