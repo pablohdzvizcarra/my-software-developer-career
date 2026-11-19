@@ -6,11 +6,15 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
-### day2596: API Deprecation
+### Day 2597: Hierarchical Allocation Units
+
+Today I studied what hierarchical allocation units are on storage systems. On a storage system, you can have volumes; these volumes are virtual volumes whose capacity can be represented with any allocation unit you need. For example, you can have an allocation unit called a Track; each track has a size in bytes, like `track=1024 bytes`, so if the volume has a size of 25 tracks, you can easily calculate the volume size in bytes with some math. Also, the track unit can be allocated within another unit like a Blob, so a Blob contains 182 tracks. It is amazing why we need multiple units to present the information and the size of a volume; maybe you want to backup the volume information by Blob unit rather than tracks. 
+
+### Day 2596: API Deprecation
 
 Today I have been studying issues that can be raised when you update a Public API that clients, the real problem here is you could not control that clients use the new API and also you could not remove the old API for backward compatibility. This problem have several names like API deprecation, Breaking change, Backward compatibility risk, Contract evolution, etc. The challenge here is the new API only needs to be used when a certain condition is meet, so I will need to a metadata API to know if that condition is meet so client can easily use the old or new API in a if statement. Really these type of problems are a headache in software engineering. Also I remembered that a Java object that is Serialized, send over the network, and read by a Client on the other side, is called a DTO - Data Transfer Object, these DTOs are very useful to send information over the network.
 
-### day2591-2595 Setting Goals and Reading
+### Day 2591-2595 Setting Goals and Reading
 
 I take some free time from coding over the weekend. How do you know? Some days ago, Microsoft had an outage, and multiple applications like Outlook were down. Well, I have a relaxed Friday at work, and today, Monday, we had a holiday in Mexico, so I didn’t work. I began to read the “Own Your Tech Career” book again because I was starting to feel lost on the mornings and weekends, waking up early but just watching the PC without a clear goal in my mind that would help me move forward toward my goals. I started reading Chapter 1 of the book and doing the writing exercises the book has. It was amazing because I wrote down my goals again in a CSV file, organized my goals, rethought what success looks like for me, and thought deeply about my next steps to achieve my goals. Well, after reading Chapter 1 and doing the writing exercises, I felt better and immediately began to do my stuff, advancing toward my success by doing the job that needs to be done. I believe that the problem is not burnout in my case; the problem was that I didn’t have my goals clear in my mind, so I started to feel lost. I recommend that anyone who starts to feel lost read that book; it is amazing.
 
