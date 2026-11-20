@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2598: Finally I started the University
+
+Today is a big day for me because I finally started university. I will be pursuing a degree in Software Development Engineering. Right now, I am taking introductory courses and completing the requirements before starting the core academic subjects. I am really happy; this is a big step forward that brings me closer to reaching my goals and fulfilling my dream of working as a Software Engineer at a major tech company in the United States.
+
 ### Day 2597: Hierarchical Allocation Units
 
 Today I studied what hierarchical allocation units are on storage systems. On a storage system, you can have volumes; these volumes are virtual volumes whose capacity can be represented with any allocation unit you need. For example, you can have an allocation unit called a Track; each track has a size in bytes, like `track=1024 bytes`, so if the volume has a size of 25 tracks, you can easily calculate the volume size in bytes with some math. Also, the track unit can be allocated within another unit like a Blob, so a Blob contains 182 tracks. It is amazing why we need multiple units to present the information and the size of a volume; maybe you want to backup the volume information by Blob unit rather than tracks. 
