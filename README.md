@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2600: Doing University Entrance Exam
+
+I was doing my university entrance exams; I needed to do 3 entrance exams and register all my required documents to complete the admissions. I am very exited because on Monday I will start the university, yeah. I have been learning software engineering long time ago, to be more precise around ~7 years of learning from different sources like books (my main source of knowledge), technical blogs, online communities, a discord server, twitter now X, Udemy, multiple online platforms and YouTube. I remember that I started using HTML and CSS to create basic webpages and be very happy when I can see it on my browser, really amazing funny moments. I don't know how much free time I will have to continue reading technical books now that I started the university, but I will continue doing my best to continue learning and growing as a software engineer everyday.
+
 ### Day 2599: Polling and Caching
 
 Today I was studying more about polling and in-memory caching. A poller is a software pattern in which you retrieve a resource state at a specific interval; based on the data you retrieve, you could perform actions such as generating an event or persisting the state to a database. An in-memory cache is a data structure used to hold data in RAM for fast retrieval during future operations. There are also other types of caches, like a server cache that stores database results: when a client requests data that has not changed, the server can serve it directly from the cache instead of querying the database. Beyond software caches, there are also hardware CPU caches (L1, L2, and L3) used to store frequently accessed data and instructions close to the processor cores.
