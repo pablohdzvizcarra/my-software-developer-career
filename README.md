@@ -6,6 +6,10 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2601: Retention Period
+
+Today I was learning what is and how to configure the retention period of a backup copy-in-time of a volume. A copy-in-time is a copy of the current state of a volume in a exact moment. The retention period is a configuration property for the software that manages the backups that configures for how much time or number of copies you want to keep that backup like hours, days, of 100 backups. Normally there is an another software property to remove backups automatically when the storage system does not have enough space to continue creating backups, this property can be configured like last backup or first backup, it depends on how the software works. 
+
 ### Day 2600: Doing University Entrance Exam
 
 I was doing my university entrance exams; I needed to do 3 entrance exams and register all my required documents to complete the admissions. I am very exited because on Monday I will start the university, yeah. I have been learning software engineering long time ago, to be more precise around ~7 years of learning from different sources like books (my main source of knowledge), technical blogs, online communities, a discord server, twitter now X, Udemy, multiple online platforms and YouTube. I remember that I started using HTML and CSS to create basic webpages and be very happy when I can see it on my browser, really amazing funny moments. I don't know how much free time I will have to continue reading technical books now that I started the university, but I will continue doing my best to continue learning and growing as a software engineer everyday.
