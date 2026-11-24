@@ -6,9 +6,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2602: English I
+
+Yes, my first University subject is English I. I forget these type of things from formal education that the career follow a plan and maybe you don't like to learn some subjects but are required. On the other end I was listening today a talk with 2 Amazon engineers about how daily histories and recommendations to enter to a big tech company like Amazon and be valuable for the company in a short period of time and how can you learn and practice Object Oriented Programming in the correct way with Java. Yesterday I tried to did a PoC with C to simulate a feature of Storage systems, but I bored writing the C code, I don't know why but C is amazing but I prefer to write Object Oriented code like with Java and design my code in a better way.  
+
 ### Day 2601: Retention Period
 
-Today I was learning what is and how to configure the retention period of a backup copy-in-time of a volume. A copy-in-time is a copy of the current state of a volume in a exact moment. The retention period is a configuration property for the software that manages the backups that configures for how much time or number of copies you want to keep that backup like hours, days, of 100 backups. Normally there is an another software property to remove backups automatically when the storage system does not have enough space to continue creating backups, this property can be configured like last backup or first backup, it depends on how the software works. 
+Today I was learning what is and how to configure the retention period of a backup copy-in-time of a volume. A copy-in-time is a copy of the current state of a volume in a exact moment. The retention period is a configuration property for the software that manages the backups that configures for how much time or number of copies you want to keep that backup like hours, days, of 100 backups. Normally there is an another software property to remove backups automatically when the storage system does not have enough space to continue creating backups, this property can be configured like last backup or first backup, it depends on how the software works.
 
 ### Day 2600: Doing University Entrance Exam
 
