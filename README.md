@@ -6,6 +6,9 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2603: Storage Concepts
+Today I practiced storage backup concepts, including Source Volume, Recovery Volume, Backup Frequency, and Restore Action. A `Source Volume` is the designated volume we want to back up; it may contain production database data from which we create multiple point-in-time copies as backup tasks. A `Recovery Volume` is the target volume where we recover the snapshot data. The `Restore Action` is the final step of writing the snapshot data back to the Recovery Volume so it can be used as the new production data. Finally, `Backup Frequency` is the scheduled interval for taking snapshots of the volume—for example, a 1-hour interval means backups run every hour.            
+
 ### Day 2602: English I
 
 Yes, my first University subject is English I. I forget these type of things from formal education that the career follow a plan and maybe you don't like to learn some subjects but are required. On the other end I was listening today a talk with 2 Amazon engineers about how daily histories and recommendations to enter to a big tech company like Amazon and be valuable for the company in a short period of time and how can you learn and practice Object Oriented Programming in the correct way with Java. Yesterday I tried to did a PoC with C to simulate a feature of Storage systems, but I bored writing the C code, I don't know why but C is amazing but I prefer to write Object Oriented code like with Java and design my code in a better way.  
