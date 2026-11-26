@@ -6,7 +6,13 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+
+### Day 2604: Reading Bit Values
+
+Today I have been working on Java code where I need to check if specific bits are ON within a byte. Working with bits can be complicated sometimes—I have to remember concepts like MSB (Most Significant Byte) and LSB (Least Significant Byte), as well as using 0xFF to treat a byte as an unsigned 8-bit value. I will need more practice with bytes and bits to improve these concepts/skills, as it isn't a skill I use every day, but I want to improve it.
+
 ### Day 2603: Storage Concepts
+
 Today I practiced storage backup concepts, including Source Volume, Recovery Volume, Backup Frequency, and Restore Action. A `Source Volume` is the designated volume we want to back up; it may contain production database data from which we create multiple point-in-time copies as backup tasks. A `Recovery Volume` is the target volume where we recover the snapshot data. The `Restore Action` is the final step of writing the snapshot data back to the Recovery Volume so it can be used as the new production data. Finally, `Backup Frequency` is the scheduled interval for taking snapshots of the volume—for example, a 1-hour interval means backups run every hour.            
 
 ### Day 2602: English I
