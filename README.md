@@ -6,6 +6,9 @@ This repository stands as a testament to that vision, a chronicle of my growth i
 
 ## Programming Changes My Life
 
+### Day 2605: jaxb-core Library
+
+Today I learned how to use the jaxb-core library within a Java application. The jaxb-core library is an Eclipse implementation used to serialize (marshal) and deserialize (unmarshal) data between Java objects (DTOs) and XML files. jaxb-core is an implementation library that follows the jakarta.xml.bind Java API specification. Typically, developers do not need to depend on jaxb-core directly; instead, they declare dependencies like jaxb-runtime, which brings in the core library as a transitive dependency so build tools like Maven can manage their lifecycles automatically. I built a basic Java application to practice serializing and deserializing Java objects to XML content and vice versa. I used the JAXBContext, Marshaller (marshal()), and Unmarshaller (unmarshal()) APIs from the Jakarta library to perform these operations. Finally, I executed the application directly from the terminal using the java command. It was interesting to discover that 6 separate libraries were required to run this exercise due to the modular design and enterprise activation dependencies of the Jakarta standard.
 
 ### Day 2604: Reading Bit Values
 
