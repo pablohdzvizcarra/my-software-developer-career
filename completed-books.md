@@ -23,7 +23,7 @@
 | Day 1465 - 1468 | Clean Agile | Agile values and engineering practices, TDD discipline, professional delivery, and agile methodologies | [day1451-1500.md](day1001-1500/day1451-1500.md) |
 | Day 1625 - 1627 | The Linux Command Line | Linux terminal productivity, Bash shell scripting, command-line utilities, text processing, and system management | [day1601-1705.md](day1501-2000/day1601-1705.md) |
 | Day 1753 - 1754 | A Common-Sense Guide to Data Structures and Algorithms | Core data structures, algorithm analysis with Big O notation, sorting/searching, recursion, dynamic programming, trees, and graphs | [day1751-1800.md](day1501-2000/day1751-1800.md) |
-| Day 1832 - 1837 | Everything is F*cked | Psychological resilience, emotional regulation, values, and philosophical perspectives on hope | [day1801-1850.md](day1501-2000/day1801-1850.md) |
+| Day 1832 - 1837 | `Everything is F*cked` | Psychological resilience, emotional regulation, values, and philosophical perspectives on hope | [day1801-1850.md](day1501-2000/day1801-1850.md) |
 | Day 1901 - 1904 | Software Engineering at Google | Software engineering culture, code reviews, testing levels, deprecation, build systems, documentation, and tools (Critique, Tricorder) | [day1900-1950.md](day1501-2000/day1900-1950.md) |
 | Day 1998 | Tidy First? | Code tidying techniques, code refactoring principles, and balancing code quality with delivery speed | [day1951-2000.md](day1501-2000/day1951-2000.md) |
 | Day 2159 | Understanding Distributed Systems | Fundamentals of distributed systems, system monitoring, and architecture trade-offs | [day2151-2200.md](day2001-2500/day2151-2200.md) |
